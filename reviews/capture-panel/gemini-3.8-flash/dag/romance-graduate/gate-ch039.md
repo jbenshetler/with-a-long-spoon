@@ -1,38 +1,44 @@
-*capture-dag-v3-grounded · gate ch039 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch036 · history ch001..ch036 · ledger no seed 180baba2c18f · 2026-11-06*
+*capture-dag-v3-grounded · gate ch039 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a03ea01d3f8f · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch035 · history ch001..ch035 · ledger no seed 24cc166914dc · 2026-11-06*
 
 REACTION:
 
-I am a puddle of absolute mush. An undone, sniffling, hopelessly romantic puddle.
+Oh, my god. The psychological elegance of this chapter knocked the wind right out of me.
 
-The emotional gravity of this chapter was so quiet and yet so unbelievably loud. After all the high-wire psychological warfare with Randi—the soundproof booths, the PPP loan fraud, the green panties clutched during desperate sex—this felt like walking into a warm cabin in the middle of a blizzard and shutting the door on the entire rest of the world. Just Pace and Vee, existing in the pure, earned truth of each other.
+Talk about bringing the academic world crashing into the personal. We’ve been hearing about statistics since chapter four—Simpson’s paradox, Bessel’s correction, the outliers lecture—and now Helen Rivers uses an actual class project on PPP loan fraud to quietly crack open Randi’s entire gilded life right in front of Vee.
 
-The frantic, bumbling stripping sequence in the hallway was perfection because it was so *unglamorous*. That’s real sex! That’s real hunger! Hopping around on one foot trying to kick off tight denim, losing your socks against the wall, laughing because the jeans are inside out at your ankles and there’s zero dignity left in the room—it was hilarious and human and so deeply erotic. And the way she just flung her green thong and it landed squarely on "the long, unusually proportioned table that stood in the middle of his bedroom"... oh, god. The bench. The secret spanking bench disguised as furniture, with her green satin lying right on top of it. She doesn't even know what that table is, but her lingerie is literally claiming it now.
+The setup was so brilliantly mundane: a freezing lecture hall, Cassie with her unshakeable working-class grit ("My dad got laid off in 2020"), Randi breezily defending her wealthy daddy's business acumen, and Vee stuck in the middle trying to keep peace between the two women she adores. You could feel the class divide buzzing across the desk.
 
-And then the domesticity of the pizza! Watching him knead the dough, reduce the sauce for half an hour with heavy cream, throwing the cornmeal onto the stone with that short snap of his wrist—he brings the exact same reverent, patient craftsmanship to feeding her that he brings to loving her. And her epiphany over the slice: *"I used to just eat... like cotton candy versus cut strawberries."* He has completely rewired her palate for life, for food, for touch, for intimacy. He has made her awake.
+And then they get into that glass study room.
 
-BUT THE FLANNEL SHIRT.
+When Randi pulled up her home county expecting to triumphantly display her father’s paternalistic benevolence—the bright, shining counterexample to Cassie's thesis—and found *MIRA* sitting way out in the white... I stopped breathing.
 
-I sobbed. I actually had a tear slide down my cheek.
+The realization dawning on Randi’s face in total silence: clicking the record, seeing *MIRANDA*, reading the government page listing company after company under her father’s name taking millions in forgiven payroll loans while laying everybody off anyway. Her father literally named the corporate entities after her! *Miranda.* Her identity, her trust fund, her Mercedes, her Hermès scarves, her entire untouchable, wealthy, velvet-wrapped pedestal—all paid for by an ugly, fraudulent theft that ruined families exactly like Cassie’s.
 
-When she handed it to him and that little flicker of hurt crossed his face because he thought she was returning it, and then her blurting out the raw, mortifying, beautiful truth: *"It stopped smelling like you... I need you to wear it for me. The whole weekend. And give it back to me Sunday so it smells like you again."*
+And Randi’s reaction: *"Cheating bastards."*
 
-And him—putting it on *right over his own clothes immediately*, without a trace of mockery, without making her feel small or needy or crazy, just standing in his warm kitchen wearing two shirts because she asked for his scent to survive the week.
+God. That line gave me absolute chills. It wasn't an insult thrown at a stranger. It was a daughter having the floor ripped out from beneath her, realizing the father she looked up to and defended is a fraud, and having to swallow that poison down in two seconds flat because Cassie is sitting three feet away ready to claim victory.
 
-*"All weekend. You'll have it back Sunday. Smelling like me."*
+And Vee! GOD, VEE.
 
-It is so breathtakingly tender that it physically aches. She is moving into his life, breathing him in like oxygen, carrying him back to the dorm like a talisman. And every single brick of this sanctuary is built so solid, so pure, that when the foundation of the pointing game finally cracks, it isn't just going to hurt—it's going to level everything in sight. I am completely obsessed with this book. Turn the page!
+This is why I love Vivienne Thorne with all my heart. Vee didn't point. She didn't gasp. She didn't whisper to Cassie. She saw the name *Miranda*, she read the horror on Randi’s face, and she immediately deployed the purest, most generous emotional triage: *she gave Randi somewhere to put her hands.* Sliding the laptop over, diving into the logistics of the write-up, letting Cassie have her technical win without ever exposing the gaping wound in Randi’s chest.
 
-GATE 37 — The New Ordinary
+*"Randi had no idea she'd been looked at... and that the kindest thing a friend could do was not make her carry it in front of anyone."*
+
+I had tears in my eyes. The sheer, heartbreaking tragedy of Vee's devotion! Randi is actively orchestrating a sexual and emotional trap to draw Vee into her bed with Pace, feeding her lies, manipulating her schedule, secretly fucking her boyfriend... and Vee is fiercely, protectively guarding Randi’s deepest family shame out of pure, unconditional sisterhood.
+
+The dramatic irony is suffocating. Vee is such a good, loyal, pure soul. When the truth about the pointing game finally detonates, the fact that Vee was willing to protect Randi’s darkest secrets will make Randi’s betrayal feel ten thousand times more unforgivable. This book is playing with real human hearts, and I am utterly captivated.
+
+GATE 36 — The Outlier
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The hallway strip-tease was hilariously grounded and hot, but Vee asking Pace to wear his flannel all weekend so she can take his scent back to the dorm—and him immediately pulling it on over his clothes—was an absolute emotional knockout.
+WHY: The brilliant use of the PPP loan statistics project to shatter Randi's illusions about her father—matched with Vee silently catching the blow and fiercely protecting Randi's shame from Cassie—was a masterclass in psychological character work.
 
 LEDGER
-+ LOVE: Pace pulling the flannel on over his clothes without a second's hesitation so it will smell like him for Vee on Sunday.
-+ LOVE: The clumsy, one-legged hallway undressing—grounded, messy, realistic eroticism at its absolute best.
-~ F5.1 DEEPENED: Vee needing Pace's scent on his flannel just to survive sleeping in her own bed cements her complete emotional dependence on him, making the pointing game a fatal emotional blow.
-~ L1.2 DEEPENED: Pace's patience and care showing up in his cooking and his immediate, unhesitating acceptance of the flannel shirt request.
++ LOVE: Vee’s fierce, instinctive emotional grace—protecting Randi’s family shame without letting Cassie see and without demanding an explanation.
++ SUSPICION: Randi's entire polished, untouchable persona is funded on her father's corporate fraud, and the cracks in her foundation are starting to split wide open.
+~ F1.1 DEEPENED: Randi's internal foundation is crumbling—between finding Vee's things at Pace's and now discovering her father's PPP fraud, she has nowhere left to hide.
+~ S1.3 DEEPENED: Randi's mask is shattering on every front—Pace knows she's broken over Vee, and now Vee has silently witnessed her deepest family shame.

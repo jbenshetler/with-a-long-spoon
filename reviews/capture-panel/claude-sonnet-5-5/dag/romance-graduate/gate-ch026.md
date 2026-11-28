@@ -1,37 +1,34 @@
-*capture-dag-v3-grounded · gate ch026 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f3eb99daebe · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch022 · history ch001..ch022 · ledger no seed bb3d150a3fb8 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch026 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 60c78e0dd0a1 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 0 trimmed) + raw ch021..ch024 · history ch001..ch024 · ledger no seed 56f289ef899b · 2026-11-22*
 
 REACTION
 
-Oh, this is a pivot, and I didn't see it coming. After a run of chapters where Vee is dazzled and I'm the one holding the dread, she finally swings at something. And she swings at the wrong thing, for the right reasons.
+Oh. Oh, Randi. That's the chapter, and I'm sitting here with my hand over my mouth.
 
-The dance lesson is the best thing in it. "You have a job here. Give me something to push back against." The pad under the field lights, the lead arriving through his hand before her feet know it, "There it is." That's the book's whole thesis, and it's charged without anyone taking a stitch off. Then I loved the floor scene, where she can't find the join between Pace and the Pace she's built out of wanting him. That's her sharpest self-awareness yet.
+The first half is a love scene dressed as an airport pickup, and I mean that. She runs. She's in oxblood ultrasuede with a pin holding her hair, and the car comes to the curb because she texted it. Then Pace does the thing he always does, reading it wrong. "Rockstar service." He thinks she's showing off. The tell I noticed is "tits out" and "They weren't out." He's correcting her, and she's performing jealousy as lust because that's the only language she's allowed. "Show me." "It's hers." And her face does something, and he sets it down. Again. F1.1 gets its sixth knife.
 
-The blonde is a gift. Vee takes the bait and I watch it land. I also half-suspect the book is playing with me. Is she a plant? Randi's friend? A real ex? The "wasn't him they were jealous of, honey" line from the bartender answers the doubt: Pace is a rule, not a collection. That makes Vee's venom worse, because I know she's wrong, and she half knows too. And "Yes. Sometimes. When it's required." is an honest man giving an answer too true to survive being thrown at.
+The sex is hot, and it's the sex of a woman proving she's still wanted. "Take me hard and quick." She keeps feeding him Vee, the silk, the hip, "almost nothing between my hand and her skin," and the moment he goes hard in her mouth at the image, you can feel her know exactly what she's doing to herself. Pet Shop Boys in the background was a nice cold touch.
 
-"Slut" and "floozies" are her mother's words in her own mouth now. That's the real injury. She doesn't punish him for the blonde, she punishes herself for being "just next."
+Then the second half, which is the best Randi section in the book. The phone. Her own birthday doesn't open it. Then she tries Vee's. And it opens. Oh, that's the whole book in one beat: his passcode is Vee's birthday and she did not have to guess twice. She sits on the arm of a recliner in his cashmere and reads the one picture I've been worrying about since ch24, the uncropped frame. She sees it all: the shoes she buckled, the face Vee gets before she tells a secret. "Somewhere on that stage she had been thinking about him." Then the real heat: she types "makes me wish I was a dress," first in his register and then, deleting, in hers. It's the first time Randi talks to Vee in Randi's own voice with no mask, and she does it as Pace. And Vee answers in all caps with joy, "who are you and what did you do with him??" and Randi laughs silently, eyes stinging, "Oh, honey," Kentucky all the way up. I'm wrecked. That is the love story, and it's a theft.
 
-Cassie three feet away, and Vee not waking her, hurts. The washed shirt that smells of "no one" is a lovely small ache.
+Then she scrubs it. Deletes the whole exchange in both threads, resets everything exactly as found, checks it from the top. That chills me in a good way, because it's competence and desperation at once. And now there's a secret. Vee believes she's flirting with Pace, a gentle new side of him. Pace will never know. Randi sent herself the picture. It's sitting in her bag, "keeping" something.
 
-Then the ending: she's going to Randi. Of course she is. The dread is huge, because Randi is the one person who can't clean this up honestly. Also, Pace walking out and leaving the beer untouched mirrors Randi's uneaten bowl. I notice that.
+Complaints: a touch much sex-for-sex's-sake in the first half, and the narration still leans on "she knew exactly" explaining. The bench is STILL behind a door, and I'm counting. But I don't care right now.
 
-Heat is low, but the dance has a pulse. Still no Randi head, and I'm starving for it.
-
-GATE 23 — Lesson
+GATE 25 — Nachtmusik
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 10
-HEAT: 1
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Dana on Third has ropers. She's your size, close enough — dance girls trade, everybody's danced in everybody's boots." (the dressing-up logistics, brief)
-WHY: The dance lesson works as both charge and theme, and Vee finally breaks something herself, which makes the fight real. Her going to Randi in the morning is exactly the dread I read for.
+ALMOST-STOPPED: none
+WHY: Randi at last acts in her own voice, getting into his phone and flirting with Vee as him, then wiping every trace. It's the book's central deceit turned inside out, and it's hot and heartbreaking. I'm desperate to see what Vee does with the "Pace" who suddenly talks like Randi.
 
 LEDGER
-+ LOVE: The pad under the field lights, "You have a job here," and the moment the lead becomes readable and she stops guessing.
-+ LOVE: The shirt that came back from the wash smelling of fabric softener and no one.
-+ FEAR: Vee runs to Randi to fix this, and Randi can't give honest comfort without handing Vee the exact doubt that blows the plan open.
-+ SUSPICION: The blonde with the "all us girls love him" line may be a plant, or just a jealous regular. The bartender's account says the second.
-+ GRUDGE: Vee's mother's words (slut, floozies) now come out of Vee's own mouth, and I want the book to make her pay for that less than she'll pay herself.
-+ WAITING: Pace's side of the fight, and what he does with it after walking out.
-~ F22.4 DEEPENED: Vee's "I'm just next" doubt shows how the staged meeting will hit her when she learns it.
-~ F9.1 DEEPENED: She doesn't wake Cassie and goes to Randi in the morning instead.
-~ W20.4 DEEPENED: Still no Randi head, six chapters now, and she's about to be needed.
++ LOVE: Randi in the dark in his cashmere, typing "makes me wish I was a dress," then deleting every trace, "Oh, honey" with Kentucky all the way up in it.
++ FEAR: Vee now thinks Pace sent her that tits-and-dress line, and the crossed wires will either deepen her love or blow up when the two compare notes.
++ SUSPICION: The phone code was Vee's birthday and not Randi's, so Pace is further gone on Vee than Randi knew, and she saw it.
++ WAITING: How Vee reacts to the "Pace" text she never got a clean answer on, and whether Pace sees any gap in his thread.
+~ S21.4 DEEPENED: Randi's long quiet over the dress and her theft of the photo show she knows what the dress is for and is already moving.
+~ W22.2 SHIFTED: Brooke is still the leash keeping Randi away, and "Damn Brooke" says it plainly, but I still don't know what Brooke asked.
+~ F24.3 CONFIRMED: Randi opened the uncropped photo and saw everything in the frame that Pace didn't.
+~ W21.5 ANSWERED: I finally got Randi's head again, and what she did was break into his phone and write to Vee as him.

@@ -1,53 +1,45 @@
-*capture-dag-v3-grounded · gate ch060 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e5741d0c0863 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch057 · history ch001..ch057 · ledger no seed 0bd82d11c0df · 2026-11-06*
+*capture-dag-v3-grounded · gate ch060 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 71359d731fc6 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch056 · history ch001..ch056 · ledger no seed 3dbd522edeb7 · 2026-11-06*
 
 REACTION
 
-My jaw is on the floor. I am staring at my Kindle with my heart knocking against my ribs, completely, utterly paralyzed by the psychological genius of what Helen Rivers just pulled off.
+My chest aches. It genuinely, physically aches.
 
-"And you liked it."
-"No."
-*Too fast.*
+This chapter took all the delicious, laughing lightness of Vee’s hangover—the smeared mascara, the tall glass of water on a folded paper towel, the warm cinnamon raisin bread baked from scratch while she slept off three ciders—and turned it into one of the most quietly devastating character studies I have ever read.
 
-OH. MY. GOD.
+"Sheri's my friend. My one friend. There isn't anyone else."
 
-That micro-second across the white tablecloth! The sheer, suffocating tension of that one beat! Vee, completely innocent and giddy, sitting there happily reporting that Sheri didn't rank her or price her out—that Sheri *enjoyed* looking at her body, her bare legs, her induction shoes. And Randi’s thumb—which has been stroking Vee’s hand with that smooth, possessive, hypnotic rhythm—just *stops*. Dead.
+God. The simplicity of that sentence hit like a physical blow. You watch this man navigate a roadhouse full of college kids, charming Danny about bench presses, unlocking Theo’s passion for Dixieland jazz, winning over razor-sharp Cassie with five words about the Bricklayers—and you think he’s a social virtuoso. You think he moves through the world with effortless charisma. And then he leans against his own kitchen counter and plainly, without a single shred of self-pity or melodrama, explains the mathematics of his own total isolation.
 
-And Vee completely, tragically misreads it! She thinks Randi is going on defense over *Pace*! "Randi. She's not a threat... She was never a threat." Baby girl, Randi isn't threatened by Sheri wanting Pace! Randi was struck dumb with pure, territorial jealousy because ANOTHER WOMAN LOOKED AT VEE’S BODY AND VEE ENJOYED BEING LOOKED AT BY A WOMAN!
+"Men make friends by competing... thirteen, fourteen, fifteen, that's when it happens... You make a friend from the middle of the pack—you lose to him, and lose again, and come out the other side friends. I was never once in the pack."
 
-Randi has spent four months meticulously, patiently, velvet-glove cultivating Vee's sapphic awakening—the lingering goodbye kisses, the hands on her bare thighs, the foot running up her calf under the tablecloth, the verbal edging in the practice room—and suddenly some five-foot butch in a country taproom walks in and gets Vee to blush and giggle over being checked out?! And then Randi asking, flat and stripped of all music: *"And you liked it."* And Vee lying—*panicking*—instinctively saying "No" too fast because somewhere deep in her body, Vee *knows* she liked it, and she knows admitting that to Randi opens a door she isn't ready to name!
+And then: "The window opens once. Men don't start at twenty-two... That door's on a timer."
 
-AND THEN THE WAXING.
+Every single piece of Peter Pace clicks into place with terrifying, heartbreaking clarity. The prodigy curse. Being fifteen in a building of grown men where you’re off the scale, too young to be an equal, too dangerous to be a peer, and surrounded by older men who "either weren't safe or weren't welcoming." The patent at eighteen giving him money that only alienated him further. Never going home for the summers because things "went bad with his daddy," staying on an empty campus over Thanksgiving while everyone else went back to their families.
 
-*Sweet mother of god.*
+And then Daphne. God, Vee’s interiority here was breathtakingly good—holding those two unreconciled truths in her chest at once: that Daphne was the best two years Pace ever had because she was the *only* person in his entire universe, and simultaneously holding down the ugly, predatory word for what a twenty-one-year-old tutor doing that to a fifteen-year-old child actually was. When Daphne walked away "sensibly," he had no one. No dorm floor, no freshman dining hall, no Cassie, no Meg, no Randi. Just a house he built with his own hands, a woodshop, and barbells.
 
-Pace asked her to get waxed. "All of it. Bare."
+And what did Vee do? She didn't offer cheap pity. She didn't say "I'm sorry," because pity would have insulted him. She just walked around the counter and put her entire body against his chest, committing her whole weight, holding him the way Sheri held him. And he rested his chin on her head and stared out the window, not performing, just letting her be there.
 
-My brain just short-circuited. Pace—who built the furniture, who manages the heat, who touches her like she's holy—plainly asking her to take every scrap of hair off her body. And who does Vee go to for salon advice? RANDI.
+He has *one* friend. And now he has Vee.
 
-"Don't let anybody but Sondra touch you... say my name in the first sentence."
+...Which brings the ticking time bomb straight back into my throat.
 
-DO YOU REALIZE WHAT PACE AND RANDI ARE DOING?!
+Because Vee is sitting there eating toast, happily thinking, *Randi was right, I don't have to be jealous, I can't wait to tell Randi all about Sheri on Tuesday!* She has NO IDEA that Pace's world does not just contain Sheri. It contains Randi. Randi isn't just Vee's best friend; Randi is the woman who threw Pace's deadbolt on Thursday night, who took his wet mouth and rode him on his own bed, who knows the exact contours of his trauma.
 
-Pace and Randi were in bed together *five days ago*. Randi was straddling him, whispering about wanting Vee's breast in her hand and Vee's nipple in her mouth, and Pace lost his mind and came so hard he shook. And now Pace asks Vee to get a full Brazilian wax for Friday, and Randi is the one booking her with *her* personal aesthetician?!
+Vee thinks she’s bringing light into a solitary man's dark house. She has no idea the house is already haunted by the very woman she’s running to for advice. The dramatic irony is suffocating. Tuesday’s Anthro class is coming, and I am holding my breath.
 
-Randi knows *exactly* what a woman looks like when Sondra is done with her. Randi is probably bare herself! And Vee is going to show up to Pace's house on Friday night completely bare, feeling "like the most expensive thing in the room," totally unaware that she is being prepared, polished, and smoothed down like an offering for *both* of them.
-
-And that goodbye kiss on the sidewalk! Vee didn't just accept it—Vee turned her face up with her eyes ALREADY CLOSED, waiting for Randi's hand on her jaw. And Randi didn't just do the double press; she opened her mouth against Vee's and *stayed there*. And Vee's mouth going straight to the hollow of Randi's neck in the hug like it lives there now!
-
-Friday is coming. The wax is Friday. I am sweating, I am shaking, and I need chapter 59 right this second.
-
-GATE 58 — Between
+GATE 57 — Hangover
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The agonizing psychological brilliance of Randi freezing when Vee admitted she enjoyed a woman checking her out, paired with Pace ordering the full wax and Randi sending Vee to her personal aesthetician, is masterclass tension.
+WHY: The quiet, devastating reveal of Pace's total isolation—explaining how being fifteen in college permanently closed the window on making friends—was an absolute masterclass in character depth, and Vee crossing the kitchen to hold him without pity destroyed me.
 
 LEDGER
-+ LOVE: Randi's thumb freezing mid-stroke on Vee's hand when Vee confessed that Sheri enjoyed looking at her—pure, territorial sapphic jealousy masked as protection.
-+ SUSPICION: Pace asking Vee to get completely waxed bare is coordinated with Randi, preparing Vee's body for their mutual bed.
-+ FEAR: Vee getting waxed bare by Randi's personal aesthetician is going to strip away the final physical barrier between her, Pace, and Randi.
-~ [F17.2] DEEPENED: Vee closing her eyes and turning her face up to wait for Randi's hand and mouth on the sidewalk proves their physical romance is now completely instinctual.
-~ [S55.3] DEEPENED: Pace ordering the full wax and Randi eagerly directing Vee to Sondra confirms they are actively grooming Vee for their shared bed.
++ LOVE: Pace's mathematical deconstruction of male friendship—explaining how being a prodigy at fifteen permanently locked him out of the pack.
++ LOVE: Vee refusing to insult Pace with pity, choosing instead to cross the kitchen and commit her whole physical weight to holding him.
+~ [L1.2] DEEPENED: Pace's patience and care showing up in the hangover rescue—water on a paper towel, a warm washcloth, and fresh cinnamon raisin bread waiting on the counter.
+~ [F5.1] DEEPENED: Vee understanding the full, tragic scope of Pace's isolation binds her soul to him even more completely, making the pointing-game secret a total emotional massacre waiting to happen.
+~ [S22.3] CONFIRMED: Pace explicitly confirmed that being a fifteen-year-old boy in a building of grown men meant being surrounded by people who "weren't safe," locking in the trauma behind his isolation and Daphne.

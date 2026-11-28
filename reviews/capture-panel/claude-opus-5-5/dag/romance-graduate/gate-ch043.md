@@ -1,47 +1,36 @@
-*capture-dag-v3-grounded · gate ch043 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch040 · ledger no seed 2f12450d0245 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch043 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d6bbb290a65b · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch039 · history ch001..ch039 · ledger no seed ff9bc85d4104 · 2026-11-06*
 
 **REACTION**
 
-She didn't take the kiss. That's what I'd text at 1 a.m. For forty chapters the kiss at the door has been automatic. It was the first thing she ever did at this house, and it was the one gesture that never needed a decision. Tonight she keeps her hands in her pockets and makes him walk all the way up to the fact that it isn't coming. "She watched him not understand." I felt that in my chest. The man who reads every breath gets read for once, and he has nothing.
+She took the shirt off.
 
-Then I realized what the date at the top meant. Friday, December 11. Last chapter was Friday, December 11 too: Vee in the dorm, naked in the cold, the shirt in a heap, Pace "across town." So the book showed me the wreckage first and is only now walking me back to the crash. That's why she was in her own bed on his night. She walked out. The two-page chapter wasn't a coda with nowhere else to go. It was the bruise before the punch, and I'm taking it off probation. It's a technique, and a good one. I spent a whole gate asking "why is she in the dorm on a Friday?" and the book was holding the answer on purpose.
+I've followed that flannel for thirty chapters. He handed it to her in the rain. She slept in it all week. She traded her panties for it. Then it smelled of "fabric softener and no one," then she washed it and handed it back to be filled, and he stood in his kitchen wearing two shirts. Tonight it fails her. "The heat in the shirt was her own, given back. He wasn't in it." That's the realest sentence about this relationship in the whole book. Everything she feels coming off him might be her own warmth reflected back. It's the four strokes in the pool from chapter 32 again, except now she can't swim away from it. Then she takes it off and the cold is "so much worse, and she did not put it back on." The shirt doesn't go back on the pillow. She leaves it in a heap, "where a dropped thing lands." That stung. For two books Vee has kept a few inches between herself and every bad feeling, and here she lies naked in the cold on purpose and stays in it. It's the cardigan arc run backwards: she's bare because covering herself stopped working, not because she's proud.
 
-What got me first is the chair by the door, where her bag goes on the nights she stays. "The bag was in the car; she had carried nothing in." Randi did that in chapter 11. She came with no bag, the empty chair, so she'd planned to leave before she ever knocked. Now Vee is the one standing level with that chair with nothing in her hands. He's got two women who've learned to arrive already leaving, and he doesn't see that either. Also, two glasses already poured. He pours Vee's. Randi had to start pouring her own.
+And the phone. Her thumb over the empty field, and "the ones she thought of were all small, and would be answered small and warm, and would leave her exactly here." Yes. I've had that exact night. That's grown-up writing about a feeling most romance novels would settle with a text.
 
-"Words are cheap. Believe what I do." There it is, the jacket line, out of his mouth at last. And her answer is the best line she's had in two books: "Words are cheap, and you still won't spend them on me." Oh, Vee. She took his own economics and turned them on him (she's an econ major, I'm not missing that). Then his face shuts, his arms fold, and he's "holding a line at cost." What line? I know what line, even if she doesn't. He can't name her because there's a woman on Mondays whose name he'd have to say in the same breath. "Do any of your friends have a relationship you'd rather have?" is a perfect Pace answer. It's true, it's exact, and it steps around the question entirely. Like "I'd never share your photograph." Like "That part was all you." I've stopped believing his true sentences are innocent.
+It's a Friday, though. December 11. Fridays have been his since October, and she's in the dorm with Cassie asleep below her and Pace "across town." Why? Did she stay away on purpose? Is this the five nights again, or the start of her leaving? The book doesn't say, and that's the most interesting thing about the chapter. If she's started protecting herself from him, the ground just moved. And Cassie is three feet away, again, and Vee doesn't wake her, again. (Also, "across town"? He lives out past where 614 goes to gravel. It's a small thing, but I noticed.)
 
-And he did go cold. In the last chapter she accused him of going cold after the Rusty Nail, admitted to herself it wasn't true, and then forgave him for it. Tonight he actually does it, right in front of her: arms up, the still of a man holding something. Then he sees her crying, the cold goes out of him all at once, and the hand comes up, the hand that settles everything. "Not the hand in place of the word." She walks past it. I cheered and I felt sick. That's the thing I came to this series for, just pointed at heartbreak instead of heat this time.
+The gripe is the same one, now on loop. "Only every breath of him now and the silence at the center where the word should be." That's practically the jacket copy. It's the sixth chapter in a row that names the missing word, and in this one the naming is the whole chapter. "Not the big one and not the small one" is chapter 39's last paragraph almost word for word. I GOT IT three chapters ago. What saves this chapter is that the shirt finally does something the narration doesn't.
 
-Gripes, and there are some. Her big speech is a list I've already read: the heat turned up before she comes, the wine, the cooking, the care, "my body comes with me attached." Some of that is earned, because she has to say it out loud to him once. But "like my body comes with me attached" is the line she gave Randi in chapter 34, nearly word for word, and the book's been running that wire for six chapters. The opening at the car (the wanting, the shoulders, the coin under the tongue) is a bit of throat-clearing before the door. And "the wanting was the whole trouble" is the book explaining again. But for once the scene stopped explaining when it mattered. He says nothing, she leaves, and the chapter doesn't sit there narrating the ache. It just shuts the door. Thank you.
+I've never read a chapter this short, and I don't know what to make of it yet. Part of me liked it. It feels like one held breath, a single night with no padding, and there was no cooking stretch to skim. Part of me thinks it's a coda that got its own number because the book had nothing else to put next to it. I'm calling it a technique for now, on probation. Zero heat, again. Randi's head is gone for twenty-four chapters now. She isn't even a thought, on a night when Vee is coming apart for want of a name she doesn't know Randi is the reason for.
 
-Randi, though. Twenty-five chapters without her head, and she's the whole reason this fight has no answer. And tomorrow is Saturday. Brunch. Vee walked past a sleeping Cassie last night, and I know exactly whose table she's going to bring her red eyes to. Worse, Monday is Randi's night, and Pace will have this too. Both of them are about to get Vee's worst night, from both ends.
-
-No heat. I didn't miss it.
-
-GATE 41 — Believe Me
+GATE 40 — Bare
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 6
+NEXT: 7
 HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: "Like my body comes with me attached. Like it's just fine as it is." I've heard her give this speech to Randi already, and for a second the confrontation turned into a recap.
-WHY: She finally made him answer the jacket's question to his face, threw his "words are cheap" back at him, and walked past the hand that settles everything. It's a real turn with no blonde and no device. And it reframes the short chapter as the aftermath shown first, which I love. Next is Saturday, and Randi's table is waiting.
+ROMANCE: 2
+ALMOST-STOPPED: "only every breath of him now and the silence at the center where the word should be." The book recited its own jacket at me for the sixth chapter running.
+WHY: "The heat in the shirt was her own, given back" is a real turn, and leaving the shirt in a heap breaks a thread I've loved since the rain. But the no-name ache is now the whole chapter instead of a beat in one. What pulls me on is the question the chapter won't answer: why is she in the dorm on a Friday?
 
 LEDGER
-+ LOVE: "Words are cheap, and you still won't spend them on me." The econ girl turning his own line into a bill
-+ LOVE: The kiss at the door that doesn't come, and Vee watching the man who reads everyone fail to read her
-+ LOVE: The bag left in the car beside the empty chair. Vee arrives already leaving, the way Randi did in chapter 11
-+ SUSPICION: The "line" he's holding with his arms folded is Randi. He can't name Vee without naming the Mondays
-+ FEAR: Vee brings this night to Randi's brunch table on Saturday, and Pace brings it to Randi's bed on Monday. Randi gets it from both ends
-+ WAITING: What Pace does now. Does he come after her, text, wait, or go to Randi?
-+ GRUDGE: Her big speech recycles "my body comes with me attached" and the whole list of his care I've read six times
-~ S40.1 CONFIRMED: She was in the dorm on a Friday because she walked out of his house that night
-~ W40.3 ANSWERED: It's a technique. The two-page chapter was the aftermath shown before the cause
-~ F40.2 CONFIRMED: She pulled back before she ever learned the real reason. She refused the kiss and the hand, and walked out
-~ F32.4 DEEPENED: "Believe what I do." The silence finally says out loud that it's a policy
-~ S38.4 DEEPENED: "Do any of your friends have a relationship you'd rather have?" Another true sentence stepping around the question
-~ F39.3 SHIFTED: He actually went cold in front of her this time. The coldness she invented and forgave turned out to be real
-~ S23.3 DEEPENED: She's finally demanding the name. She's still aiming at him and not at what he's hiding
-~ W18.5 DEEPENED: Twenty-five chapters without Randi's head, on the night her secret breaks them
-~ F4.2 DEEPENED: Cassie is the name Vee says first ("How do I say what this is to Cassie?"), and she still didn't wake her
-~ G40.4 FORGIVEN: "Across town" is a small slip next to a structure this deliberate
++ SUSPICION: It's a Friday and she's in her own bed, not his. Something happened, or she has started keeping herself away from him
++ FEAR: The shirt in a heap is where it starts. She'll pull back from him before she ever learns the real reason he can't say the word
++ WAITING: Whether the two-page chapter is a technique or a shortcut. I'm counting this one as a held breath, on probation
++ GRUDGE: "Across town," for a man who lives out past the gravel
+~ L23.6 SHIFTED: The shirt stopped working. Its warmth was her own, and she left it on the floor where a dropped thing lands
+~ F32.4 DEEPENED: The silence is all she has now. Every text she could send would get a small, warm answer that leaves her exactly where she is
+~ S23.3 DEEPENED: "The heat in the shirt was her own, given back." It's her closest guess yet that she built him, still aimed at the wrong person
+~ G39.5 DEEPENED: The no-name ache gets explained for the sixth chapter running, and this time it's the whole chapter
+~ F4.2 DEEPENED: Cassie asleep three feet below, and Vee comes apart without waking her, again
+~ W18.5 DEEPENED: Twenty-four chapters without Randi's head, and she isn't even a thought on the night Vee breaks over a word Randi is the reason for

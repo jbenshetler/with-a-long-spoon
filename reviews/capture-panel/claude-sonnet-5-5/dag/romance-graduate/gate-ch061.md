@@ -1,31 +1,34 @@
-*capture-dag-v3-grounded · gate ch061 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e14961640f4a · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch058 · history ch001..ch058 · ledger no seed 2e8049647592 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch061 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e5741d0c0863 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch057 · history ch001..ch057 · ledger no seed b134d5518784 · 2026-11-06*
 
 REACTION
 
-This one is a gut-punch, and I mean it as praise. The wax appointment is the "Randi's arranging" dread from last chapter made flesh. The salon is a quiet little machine. The wine she's offered, the girl on the couch "come to be touched," and Vee knowing which one she is are all sharp. Then "Barely stings." That's the lie, or at least the omission. Randi sent her with a glass of sauvignon blanc and a promise of feeling expensive, and never mentioned the part where you roll over. Vee says yes to the whole thing without asking what the whole thing is, same as she said yes to Pace in the kitchen. She's a woman who fills in the reason with "yes, tell me when." I'm seeing that pattern whole now.
+The dread is paying off, and this chapter is mostly one small thing: a thumb stopping.
 
-The best beat is the hand on her thigh. "Don't move." It's the exact grammar of the spanking room with everything true scooped out. The wrong hand holding her the right way and wanting nothing. That is psychologically exact, and it's hot in a bleak, interesting way. It's also the first time the book has made her desire cost her something in a room with no audience she wants. Then the ending: alone on the table, touching the bare smoothness, thinking of his hand. I'll take it.
+Vee tells Randi about Sheri, and she tells it well. The ghost blonde doesn't exist, and she's giddy about it. Randi gets to be right, and she sits there "having it." Vee spends everything she has, and Randi improves each piece and hands it back. It's the usual warm brunch machinery.
 
-What I'm watching is Randi. She sent Vee to Sondra, Pace asked for the bare, and Randi has been placing herself in the middle of Vee's body for months. Now the body is arranged for a man's hand with Randi's name on the appointment. I'm unsettled and a little turned on, and I don't think that's an accident.
+Then "She was enjoying herself." Randi's thumb stops on Vee's hand. "Huh." "And you liked it." Flat, with no music in it. That's the whole chapter. Vee blurts "No. Not my thing," too fast. She reads Randi's stillness as guard duty, which is exactly the wrong reading. I read it as Randi hearing that another woman looked at Vee like that and enjoyed her, and feeling something. It could be jealousy, or it could be want, or it could be a flicker of "she answered too fast." Vee flinches from the word *liked*, and so does the book. Her fast "No" is the first crack in her story. I liked it a lot.
 
-Complaints are minor. The mother's "kind of girl who" voice is the old chime again, and Vee narrates a lot of her own subtext. The opening is a touch long. But it's the first chapter in a while where the plot's temperature and Vee's body moved together.
+The wax is the shock. Pace asks for her bare, Vee brings it to Randi as good news, and Randi sends her to Sondra with a glass of something first. It's the pipeline again, running in the open. I don't know whether Pace's ask was his or whether Randi has been feeding it through him, but the way Randi is arranging Friday morning down to "say my name in the first sentence" unsettles me. It's tender and managing at once, and Vee takes it as friendship.
 
-I want Friday night. I want his reaction, and I want to know whether Randi hears about it first.
+The kiss gets more. "Opening the kiss," more of it, and it stays. Vee's mouth goes to her neck in passing and nobody mentions it. She's not looking over her shoulder, and she no longer brackets any of it as a goodbye. She also still hasn't told the taste story's other half, and I'm watching that.
 
-GATE 59 — Barely Stings
+Complaints: Vee spends the chapter reciting Sheri again, and I've heard it. It's a short, lower-heat chapter. But the thumb earned it.
+
+GATE 58 — Between
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
-HEAT: 2
-ROMANCE: 1
-ALMOST-STOPPED: "A word came up from the back of her mind in her mother's register, the flat kitchen voice" (the mother's-voice chime again)
-WHY: The wrong hand saying "Don't move" while she aches for the right one is exactly the shame-and-want wire the book does best. Randi's "barely stings" leaving out the roll-over is a small betrayal I'm keeping, and I want the weekend.
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "Then the other part came up in her, and she went slower with it, because it wasn't hers to spend." (Sheri's story retold a third time)
+WHY: Randi's thumb stopping at "she was enjoying herself," then "And you liked it," and Vee's too-fast "No," is the best crack in a while. The wax appointment and the deepening kiss show the pipeline running out in the open.
 
 LEDGER
-+ GRUDGE: Randi's "barely stings" left out the part where you roll over, and she's choosing what Vee knows.
-+ SUSPICION: Randi is steering Vee's body from a distance, through Pace's ask and her own salon, and wants to be the first to hear about it.
-+ LOVE: The flat hand on her thigh, "Don't move," and her aching for the right hand.
-+ WAITING: Friday night, when Pace finds her bare, and whether Randi hears the story first.
-~ S58.2 DEEPENED: The wax happened exactly as Randi arranged it, and Vee went in trusting her.
-~ W58.3 ANSWERED: Friday's wax with Sondra happened, and nobody has seen the result yet.
-~ F7.4 DEEPENED: Vee said yes to the whole service without asking what it was, her shame and her wanting running on one wire again.
++ SUSPICION: Randi's stalled thumb and flat "And you liked it" is jealousy or want. Vee read it as guard duty.
++ SUSPICION: The wax is Randi's arranging, directly or through Pace, and Vee carries it to her as good news.
++ WAITING: Friday's wax with Sondra, and who sees the result first.
++ WAITING: Valentine's dance, with Sheri, Pace and Vee.
+~ S56.3 SHIFTED: Sheri gave Vee warmth and her own story; Vee used the giddy version with Randi and nothing dangerous came out.
+~ S57.3 SHIFTED: Vee still reads Sheri as safe, and Randi's reaction to the "gay" detail was stillness, not relief.
+~ W57.4 ANSWERED: Tuesday happened; Randi went still at Sheri's look at Vee.
+~ F31.4 DEEPENED: Vee's answer to being desired by a woman was a too-fast "No."

@@ -1,29 +1,30 @@
-*capture-dag-v3-grounded · gate ch073 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 7c967499fe4b · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch069 · history ch001..ch069 · ledger no seed d0b77d29c1bd · 2026-11-06*
+*capture-dag-v3-grounded · gate ch073 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b8db97e4a4fb · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch068 · history ch001..ch068 · ledger no seed 253c3aad8b7b · 2026-11-06*
 
 REACTION
 
-Okay, this is the explicit, inventive set piece I came for, and it's long, and I went with it. The misdirection works: "wear a skirt," "where we're going," and then the table-that-isn't-a-table. Her eyes sliding past the gap, the pegs, the arms ("she had no name for") is a good trick, because I knew about the bench from chapter 1 and she didn't. Her own hands being the restraint ("her grip was the restraint") is the best idea in the chapter. "That's a lot of work for no," with the "no" getting deeper each time she pushes back onto his hand, is the both-and I read for. The drip and the *pat* is an image I won't forget, for better and worse. The surface-breaking orgasm gets a bit grand, and the "dropped plate" paragraph is the book telling me what it means. But I wasn't bored.
+Pace's head, finally, and it opens with him happily making the bed up in the green sheets. Then Randi is on that bed in nothing, with her hair loose and her toenails blue. I haven't had Randi through him in a long time, and I missed it. The clamps and the chain are the hottest, most specific scene in a while. He's reading her the whole way through: she didn't come to be serviced, she came to be punished for walking in and taking Vee's place. That's the book's best trick, a kink scene that is also a confession. "Is she better. Tell me she's better than me." And then he says, "She's perfect. For your first woman." I put the book down for a second. I can't tell whether he's naming the thing Randi wants or steering her, and I think it's both.
 
-It's also the first chapter where the book holds the bench as Vee's own, and Pace with his clothes on all night, taking nothing, is the care-through-doing again. The forehead kiss and "you still with me?" got me.
+Then it turns, and I'm furious in a way I enjoy. Vee isn't coming. Randi got her drunk on mimosas, drove her home, put her to bed, and ran the whole afternoon through Vee's name. The texts "from Vee" were Randi's. She either took Vee's phone or wrote them herself. She tells him she got Vee out of her fancy clothes. Vee has just spent a week lying to Pace about Randi, and now Randi has spent Vee's voice to get Pace. Pace turns it over once, says "managed," and sets it down because she's warm. I hate that. His rule was that Vee consents at every step, and he just shrugged off Vee's drunk, undressed body and her stolen phone for his own pleasure. The shame is that I still liked the sex.
 
-What I'm watching is the thing she doesn't see. Randi is nowhere in her head all chapter. No "it wasn't you." Nobody arrives behind her eyes. After the last chapter, where Randi drank her to sleep and ran her voice, her clean week of wanting only Pace feels like the calm in the middle of the pipeline. Also the date jump to May: whatever happened with Tuesday, the January lie, the weeks since the kiss, is skipped, and I'm impatient. Her complaint "I could touch myself, but have to tell him" is a leash she's tightened herself. And the drawer, the key, his clothes on, the heat turned up. He's building a life around her while Randi has been under his roof. I'm uneasy and turned on.
+The morning phone call is the cruelest, best beat. Vee thanks Randi while Randi has her mouth on him, "I don't know what I'd do without her," and Randi is cleaning herself off him for Vee's use. The sheets going into Speed Wash with the night in them is a perfect last image. He's now actively covering for Randi.
 
-Grumbles: the middle repeats the spank-and-edge pattern four or five times, and I skimmed the second half of the tilt. The "mother's voice" chime again.
+Grumbles: the music cues (Depeche Mode, the record changing) are scene-dressing I didn't need. The "pleasure and dread in the same nerve" line is the book explaining itself again. But it's the plot moving, and finally with consequences.
 
-GATE 70 — Vee on the Bench
+GATE 69 — In Her Place
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "Pink and slick," he said, almost under his breath. "All from that." (the edge-and-spank cycle repeating past its point)
-WHY: The hands-as-restraint idea, the "no" getting deeper, and the bench finally hers are hot and exact, and he takes nothing for himself until she gives it back. It runs long on one pattern, and Randi's total absence, with the gap of weeks, has me waiting for the other shoe.
+ROMANCE: 1
+ALMOST-STOPPED: "He knew he'd been managed. He turned it over once and set it down, because she was warm on him and the fear had nowhere left to live." (the cost of Pace brushing off Vee's stolen phone and drunk body; it nearly cooled me, then became the hook)
+WHY: Randi as punishment-seeker, spanked and sobbing in Vee's green sheets, then revealed to have drugged-by-mimosa Vee and run the whole afternoon under her name, is the dread I've read for. Pace washing the night out of the sheets for Vee is the most complicit he's been, and I need to see what he does on Tuesday.
 
 LEDGER
-+ LOVE: Her own grip being the only restraint, and "that's a lot of work for no," the "no" getting deeper as she pushes back onto his hand.
-+ LOVE: Pace fully dressed all night, taking nothing, the forehead kiss and "You still with me?"
-+ FEAR: Randi is off the page and out of Vee's head for a whole chapter, and the weeks since the kiss, the photo and the drunk afternoon are skipped; the bill is coming due.
-+ SUSPICION: The plum silk and the "table" were planted for a reason, and Pace's perfect week of care now sits beside what he did with Randi in the same sheets.
-+ GRUDGE: The edge-and-spank loop ran four or five times in one scene, and the mother's-voice chime is back.
-~ F69.1 DEEPENED: Vee still thanks Randi and knows nothing; her warm clean surrender here makes the stolen afternoon feel worse.
-~ W68.5 ANSWERED: Tuesday has passed off-page; I still don't know what Vee's face did.
++ FEAR: Randi took Vee's name and voice (texts, phone) and put her to bed drunk, undressed, to get an afternoon with Pace. This is a real violation, and Vee thanks her for it.
++ GRUDGE: Pace shrugged off being "managed" and Vee's drunk, undressed state because Randi was warm on him, after all his talk of consent at every step.
++ SUSPICION: Randi told him Vee "told me everything... the interrogation," so Randi knows Vee's confession to Pace. Pace's "first woman" line is steering them toward each other, and he may know about January's lie.
++ LOVE: The clamps and chain scene, where he reads that she came to be punished for taking Vee's place and gives it exactly.
++ LOVE: Randi cleaning herself off him on the phone while Vee thanks her, and the sheets in Speed Wash.
+~ W66.3 DEEPENED: Randi's own head still isn't on the page, only her body and a staged afternoon. The weeks since the kiss are still unaccounted for.
+~ S68.3 DEEPENED: Pace is plainly in on the triangle and running it, so his blank face at the photo wasn't innocent.
+~ F62.1 DEEPENED: Vee's lie to Pace now sits beside his and Randi's much bigger secret from her.

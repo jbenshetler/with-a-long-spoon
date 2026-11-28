@@ -1,50 +1,48 @@
-*capture-dag-v3-grounded · gate ch070 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 399176e30353 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch067 · history ch001..ch067 · ledger no seed 464f8b110e68 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch070 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9ef4c202a790 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch066 · history ch001..ch066 · ledger no seed ea7829dca464 · 2026-11-06*
 
 **REACTION**
 
-"Now let me kiss your other fingers. So they don't feel left out."
+He gave her a key. He made the box with his hands, put it on a pillow of oyster silk, and said "You're more than a guest in my house. I've never given a key to anyone." I melted, I admit it. Then I noticed I was doing the thing I always do with this man, which is reading the sentence twice. *House.* Vee caught it too. She waited half a beat for *home*, didn't get it, and let it go "the way she was learning to let it go." She's good at that now, and it scares me. "I've never given a key to anyone" is one more exact true sentence from him. Randi never had a key, so it's probably true. And the silk: "she had the odd passing sense she had felt that silk against her skin somewhere before." Excuse me? The book doesn't drop a line like that by accident. My first thought was Randi. Something of hers, something Vee wore, sitting under the key. The hau, again.
 
-He knew. I'm sure of it. That isn't a man who happened to want both hands. That's the man who smells gardenia and chlorine on a girl from across a truck cab, lying under her while she keeps one fist clenched against her thigh in the dark. He let her get one hand's worth of relief, "it had passed... like a car on a country road," and then asked, mildly, for the other one. He didn't trap her with a question. He trapped her with courtesy. The fist got me. She can lie with her mouth now, but her hand still can't stop telling on her. It's the same body that has been giving her away since the satin.
+The mirror. He asks what she sees. She gives herself one line and spends the rest on him, down to the birthmark, and "something crossed his face." I don't know what that shadow was, and I want to.
 
-Then she says "But it wasn't you." Four words, and she's on top of him in his bed, the week he left coffee in a thermos for her. Then she hears the hole in the sentence and what a man would put in it, so she reaches for the phone and turns it around. Like chapter 62, she kills a false picture by handing him the true one, because the true one hurts him less. Except it doesn't hurt him at all. He pulses. She calls him "so *simple* about it" and nearly laughs at how ordinary men are. Honey, he isn't simple. He's been building that exact picture since he pointed at you on the quad, and you just handed it to him lit up on a screen. He didn't take the phone, and his face "did not do anything at all." I wrote "oh no" in the margin of my brain.
+The blazon is gorgeous in places and too long overall. I loved "wine held up to a lamp" for the hair, the unadmired little toe, and the morning walk to the bathroom "not performing one second of it." That last one tilted the floor under her, and under me. Then came the anatomy lecture. "This is your pussy." "A peach with a bite out of it." It's explicit and it isn't coy, and her shame runs through every inch, so it's what I came for. But it's also a man narrating a woman's body to her like a docent, and by the inner lips I wanted him to stop talking and do something. Then he did the thing that saved it, the speech: "A beautiful body is just a fact… It's whose this one is." The gusto, the tenderness, the nerve. And "the flannel over her eyes had gone damp." That's the closest he has ever come to the word. It still isn't the word, and I believed every bit of it anyway.
 
-Then the game again: the lift, the stall, an inch for each truth. Yes, I rolled my eyes. It's chapter 62's engine, maybe one round shorter. But the book knows it too. "*I have done this before.*" She feels the template in the middle of it, and so do I, and she shoves it down. That's the closest the book has come to apologizing for repeating itself, and I took it. The payoff is something new. "I wanted to be the one doing it." In January she wanted Randi's mouth on her, which put Randi in the active role and kept Vee's want passive. Now it's her mouth on Randi, wanting to hear the noise Randi would make. Vee is the one acting now, and Pace drives up into her right through the end of that sentence. He made her say out loud what she wants to *do* to Randi, then rewarded it with her climax. That's both things at full volume, and it's the scariest sex he's given her.
+"Go ahead." Oh, that was hot. The empty space where his hands should be, her searching left and right blind "for a savior," and then her hand going on its own and fluttering "not knowing where to land." Finding out that you can't spank yourself any more than you can tickle yourself. One hand rough at her breast, "what she was when no one watched." Hearing his breath and building him a body in the dark. Then "What are you thinking about?" "You, you, you." It reads as true tonight. The book says the answer was the only thing in the room, and I'll give her that.
 
-The quiet after is where the chapter really turns. "My sex brain" comes back as the January wall, and it won't stand, because "it wasn't you" is still in the room. Then, with nothing pulling at her, she remembers the January "no" and decides not to correct it. "This was different from the last time, because the last time she had not had to decide." That line is the chapter. Her first lie slipped out by reflex. This one she chose, lying on his chest. I believed every bit of it, and I hated watching her do it.
+Then, in the afterglow: "Would you tell me, when you touch yourself thinking of me?" "Yes," said "the way you say yes to something small," with her hand already on him. Honey. You touched yourself in a locked ladies' room off Prices Fork three weeks ago and it was Randi's mouth. You held your hand flat on your stomach for a whole night so Randi's name couldn't arrive. And now you've promised to report. That's chapter 6's "tell" made permanent. It's a standing contract, wrapped in "it makes me feel close to you." Either she lies to him every time it's Randi, or she tells him, and either way he finds out exactly who she thinks about. I don't think he asked by accident. I think he wants to know.
 
-The opening week is lovely in a quiet way. The drawer that doesn't fill, coffee at six held in a thermos for seven, and the stab at 7:10 on a Tuesday with no class. "By Thursday she had stopped setting the phone face-down." It's soft, but it's short, and the clock moment earns it.
+He also sucked her fingers clean. He took the taste himself, again, and still not into her mouth. The reach is still open.
 
-What cost it: "Randi Sloane." Wait, Sloane? Sloane was the sorority sister asking about the white pickup in chapter 2. Either that's Randi's real surname and the book is planting it, or it's a slip. Either way it threw me out of the bed for a second, right in the middle of the hottest paragraph. "Something crossed his face" is now three chapters running, and it's starting to feel like a tic rather than a clue. The inch game repeats too. And "Tuesday... she did not know yet what her face was going to do" is the ending of chapter 62 almost word for word.
+What it cost: it's a cabin-getaway chapter, the softest landing yet. There's tikka masala with the full spice list recited ("garam masala, which was its own little crowd"), cider pairing, pastries, a lake with no rain. He's a carpenter, cook and poet in one weekend, and even the cabin "looked like something he might have made." That's the merit-badge man at full strength. Eight more days skipped. Randi isn't so much as a thought, there's nothing about her "sorority thing" or the bad girl or "starting now," and the neck injury is just gone. I'm in a bubble, and I can feel the book keeping the bubble sealed on purpose.
 
-That cursor blinking under "wish you were here," with no reply sent, is a perfect last image.
+1 a.m. text: *he gave her a KEY in a box he MADE. then blindfolded her, described her whole body, said "go ahead" and made her touch herself while he watched. she screamed "you you you." then he asks "will you tell me every time you touch yourself thinking of me" and she says yes without thinking. SHE THINKS OF RANDI. oh no.*
 
-1 a.m. text: *randi sent a TOPLESS POOL PIC "wish you were here." vee got herself off next to sleeping pace, he woke up, kissed her clean hand, then asked for the OTHER one. she said "it wasn't you" and showed him the PHOTO. he got harder. then the inch game, and "I wanted to be the one doing it." and then she decided, on purpose, not to fix the january lie. I need a minute.*
-
-GATE 68 — Postcard
+GATE 67 — Grace
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 8
+NEXT: 7
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "He lifted her." That's where I realized I was in chapter 62's inch-for-truth game again, before the book admitted it.
-WHY: The promise from the cabin came due one chapter later, and the "other fingers" trap is the most frightening tender thing Pace has done. "I wanted to be the one doing it" moves her want for Randi from receiving to acting. Choosing to keep the January lie is the bond turning under both of them. The repeated game and the "Sloane" stumble cost a little, but I'm turning the page.
+ALMOST-STOPPED: "garam masala, which was its own little crowd, cinnamon and cardamom and clove, cumin, coriander, black pepper; and turmeric over that" — the recipe recited again, on a porch, in a chapter already this soft.
+WHY: "Go ahead" and "you, you, you" are explicit, shame-wired and hers, and the "whose this one is" speech plus a key in a handmade box turned the bond. But it's a sealed-off getaway with a long blazon and no Randi, and the hook I want is the one he buried in the afterglow, the promise to tell.
 
 LEDGER
-~ F67.1 CONFIRMED: The first time it was Randi, she couldn't lie and couldn't confess. She got caught, then showed him the photo
-~ F62.2 DEEPENED: She remembered the January "no" with him waiting under her and chose not to fix it. The lie is decided now, not reflex
-~ S62.3 DEEPENED: He pulsed at Randi's photo, and his face did nothing. "I don't mind" was never the whole truth
-~ S62.4 DEEPENED: He pulled "I wanted to be the one doing it" out of her and rewarded it with her climax
-~ L6.1 DEEPENED: "Tell me" ran on Vee again, this time about Randi's body, with the photo as the opening statement
-~ F55.1 DEEPENED: Vee showed him Randi herself. The threesome picture is now on a screen in his bed
-~ S67.3 DEEPENED: "Something crossed his face" again, at "it wasn't you." He isn't jealous. He's something else
-~ F42.3 DEEPENED: Vee keeps Randi's word from Pace on purpose now, while Randi's "wish you were here" goes unanswered
-~ G62.7 DEEPENED: The inch-for-truth game is run again nearly beat for beat, though Vee herself notices "I have done this before"
-~ S56.3 DEEPENED: Her want for Randi stopped being something done to her. She wants to be the one doing it
-+ LOVE: The clenched fist hiding the wet hand, and "so they don't feel left out." He knew, and asked politely
-+ LOVE: "The last time she had not had to decide." The lie turning from reflex into a choice
-+ LOVE: Coffee made at six and kept in a thermos for seven, and the drop in her stomach at 7:10 on a class-less Tuesday
-+ SUSPICION: Pace knew which hand it was before he asked. He's been steering this confession since the cabin promise
-+ FEAR: The not-saying "took up a small permanent amount of room." It will grow until it's the whole house
-+ GRUDGE: "Randi Sloane." Sloane was a sorority sister in chapter 2. It's either a slip or a plant, and it broke the spell mid-scene
-+ WAITING: Whether Vee answers "wish you were here," and with what
-+ WAITING: Tuesday after break, and whether Pace carries the photo and "I wanted to be the one doing it" to Randi first
++ FEAR: "Would you tell me, when you touch yourself thinking of me?" She said yes without listening. Now every time it's Randi, she has to lie to him or confess, and he'll know which
++ SUSPICION: The oyster silk under the key, which she "had felt against her skin somewhere before." It's something of Randi's
++ SUSPICION: "I've never given a key to anyone" and "my house," not "home." Another exact true sentence. And something crossed his face at the mirror that I can't read
++ LOVE: "Go ahead," his hands not coming, her blind hand fluttering for somewhere to land, and "you, you, you"
++ LOVE: "It's whose this one is," and the flannel over her eyes going damp
++ LOVE: The key in a box he made, already warm from his hands
++ GRUDGE: The cabin getaway is the softest landing yet, with the tikka recipe recited, a cabin that "looked like something he might have made," and a blazon that runs past its peak into a docent's lecture
++ GRUDGE: Eight more days skipped. No Randi, no sorority thing, no "starting now," and the neck injury just vanished
+~ L6.1 DEEPENED: "Tell me" is now a standing contract about her own hand, signed in the afterglow
+~ W44.6 DEEPENED: "Whose this one is" is the nearest he's come to the word, and it still isn't the word
+~ F46.1 DEEPENED: "She was good, now, at letting it go." She waited for "home," it didn't come, and she let it go
+~ W54.1 DEEPENED: He sucked her fingers clean himself. The taste went to him, still not to her mouth
+~ G13.7 DEEPENED: Cook, carpenter and poet in one weekend
+~ G37.4 DEEPENED: Fourth soft-landing weekend, the warmest and most sealed off yet
+~ L10.1 DEEPENED: "Girls like that" came back mid-adoration, and neither the shame nor the being treasured won
+~ L23.6 DEEPENED: His flannel, cut into a blindfold, is the last thing between her and the light
+~ F66.6 SHIFTED: The want he wouldn't let her spend got spent here, on him, and she says it was him
+~ G66.4 DEEPENED: Another week gone off the page

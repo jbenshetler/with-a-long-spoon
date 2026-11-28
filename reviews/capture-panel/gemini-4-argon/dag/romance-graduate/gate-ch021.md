@@ -1,65 +1,52 @@
-*capture-dag-v3-grounded · gate ch021 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 213ef9d504f8 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 0 trimmed) · history ch001..ch020 · ledger no seed 0241e9b93384 · 2026-11-22*
+*capture-dag-v3-grounded · gate ch021 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 674b0685672d · dated · memory grounded: facts ck-ch010@consensus (audited, 4 non-fact sentence(s) dropped, 1 trimmed) + raw ch011..ch019 · history ch001..ch019 · ledger no seed b4d1f839e596 · 2026-11-22*
 
 REACTION
 
-Oh my god, this chapter just made me feel five completely contradictory things at once and my stomach is in knots.
+STOP. Stop right now!
 
-First of all: *Thursday night.* Look at the opening line and the date: *Friday, October 16. Eight was when she'd left Pace's.*
-VEE STAYED ALL OF THURSDAY NIGHT AT PACE'S!
-Remember why that matters?! Two chapters ago in *Portion*, Randi stared at Pace across the untouched chicken stew and said *"You've got her Friday to Sunday. You've got her all weekend, every weekend."* And Thursday night is Randi's sorority chapter night—the night Randi came over in Chapter 1, the night she skipped chapter for him in Chapter 9! And here sits Randi in the Friday morning stats lecture, turning her bright lamp-warmth onto Vee ("*Tell me everything. Leave nothing out. What time did you finally leave the love nest?*"), and learning in real time that Vee didn't just go over on Friday—Vee spent *Thursday night* in Pace's bed and left at 8 a.m. on Friday morning!
-Look at Randi's face during the forty seconds Vee is looking at the blackboard: *"Randi had not gone down into them either. She was turned in the aisle seat as Cassie was, toward Vee and not the board, the pen capped, and for once there was nothing at all on her face."*
-Nothing at all on her face! When Randi's face goes completely blank, it's the exact same dead-still moment from Chapter 16 when Pace shoved her teeth off his shoulder! Because Pace didn't tell Randi that Vee was coming over Thursday afternoon to try on the finished dress, OR that Vee stayed the whole night!
+*"There's a lot of you covered in a lot of me."*
+*He twitched in her hands.*
+*She looked up at him, delighted. "You just—" She said it again, slower. "Covered in a lot of me." He did it again, and she laughed until her leg started sliding off his hip and he had to catch it, which helped nothing.*
 
-And speaking of the stats lecture: *Simpson's paradox*.
-I swear, the way this author uses the math lectures gives me full-body chills. *"Each year on its own, the first man is the better hitter. Put the two years together and the second man is. Same numbers. Nobody touched one of them."*
-Think about what that is doing in this chapter!
-1. On one level, it's the two relationships: look at each person or each scene in isolation (Randi laughing in the discount shoe aisle, Randi telling Vee *"Love you, girl"* on the sidewalk; Pace sewing a dress until dawn, Pace asking *"May I"*), and every piece looks like love and generosity. Put the two pieces together into the whole dataset—that Randi and Pace are together and engineered this—and the entire meaning reverses without a single number changing!
-2. On another level, look at Vee sitting between Cassie and Randi! Look at how Cassie watches Vee during those forty seconds: Cassie doesn't care about a dress, she has worn the same fleece for two winters, she only cares *what the night did to her friend*, and when Vee says *"Oh, yes,"* something eases in Cassie's face. Meanwhile Randi calls her *"You lucky slut"* (which goes straight to Vee's sore thighs and tender nipples from Thursday night!) and grabs her wrist to claim Saturday!
+I am grinning so hard my cheeks actually hurt! Have you ever read a sex scene in a romance novel that was simultaneously a 3/3 scorching peak AND genuinely, helplessly hilarious?! Look at the mechanics of that whole sequence: she strides out into the den in this bias-cut burgundy silk masterpiece with no underwear on, hooks her bare leg up around his hip, opens his belt, and impales herself on him standing up on one tiptoe—and then the two of them realize they are about to ruin a handmade silk gown! So they have to do this absurd, desperate four-handed relay where she's holding his slick cock in both hands with her elbows fending off the skirt (*"Ow. Don't point down."* *"Sorry."*) while he tries to unzip and lift the dress off her, and in the middle of it she discovers that saying *"Covered in a lot of me"* makes his cock twitch in her hands, so she says it a second time on purpose just to feel him jump!
 
-And then THE DORM ROOM SCENE.
-Hold on, I need to scream about two massive reversals that happened when Vee put the burgundy silk gown on for Randi in her dorm room:
-First: look at how Randi touches the dress at Vee's hip and says, *"Charmeuse... And a good weight."* And then: *"He didn't make this for you. He made it to you."*
-Remember in Chapter 1 when Randi toured Pace's house and looked at his handmade white-oak cabinet *"like a thing whose price she could not read"*?! Randi couldn't read woodworking or mid-list fantasy paperbacks or chicken stew, because those aren't her currency. *Silk is her currency!* The second Randi sees and touches that bias-cut silk charmeuse on Vee's body, she can read the exact price and weight and craftsmanship of what Pace did!
-AND THEN Vee says, without even meaning to: *"He was up all night finishing it. He fell asleep after. I watched him sleep."*
-And Randi's hand stays at Vee's bare shoulder seam, *"and for a breath Randi was somewhere else, behind her own face, and this time the breath ran long."*
-Look at how Vee misreads Randi's long breath—it is the exact mirror image of Pace misreading Randi in bed! Pace always thinks Randi's freezes are *desire for Vee*; Vee thinks Randi's freeze is *wishing she had a boyfriend like Pace instead of "her beautiful boys in a hurry and her dinners ahead of time, and nobody who had ever sat up a night over anything of hers"*!
-Oh, Vee! The reason Randi went somewhere else behind her face is that *Pace IS Randi's boyfriend*, and he never sat up all night making anything for her, and he never fell dead asleep on his back with Randi watching him!
+And then when she wipes her slick hands in two long stripes down his bare flanks because his arms are full of silk, asks *"Are they clean enough?"*, and he says *"Let me see... Closer,"* studies her fingers like a hem, and sucks two of them into his mouth while holding her eyes?! My knees went out right along with hers!
 
-And then Saturday. The shoe shopping.
-Wait—let's talk about what happened in the two shoe stores, because my heart was swinging wildly between loving them together and wanting to throttle Randi for the credit card scene!
-In the first store (the big bright bypass store, TJMaxx/DSW territory where Vee knows the racks), when they started trading sight-gags—Vee bringing out the giant yeti snow-tire shoe, and Randi coming down the aisle a full head taller in six-inch pink rhinestone stripper platforms asking deadpan *"Do these go with burgundy?"*, and Vee flapping the broken clearance flat like a talking mouth until Randi *folded over the bench in the real laugh that costs her something to give*—I was smiling so hard! Because just like on the drive in Chapter 15, when Randi is with Vee, Vee actually makes her laugh like a real twenty-one-year-old girl!
-AND WAIT: *"Same feet, baby. Same size, same everything... Do you know what this means? We can share. God help us both, it's practically a marriage."*
-Did anyone else catch that?! Vee is tall and lush, Randi is petite, and they both wear a size seven shoe! (Also remember Pace's secret foot thing from Chapter 1 and Chapter 20!)
+Wait—let's talk about the OYSTER YARDAGE!
+In Chapter 16 at 4:30 in the morning before he left for Chicago, we saw the folded oyster silk at the end of the cutting table—*"the part she did not know about, waiting on him."* I was guessing a slip or an undergarment, and instead:
+*"Under the burgundy there was a second softness, a doubled, quiet weight through the bodice and over the hips, oyster-pale where it showed at all. He'd lined it, there and nowhere else: a soft wall set into the only parts of her the dress had decided not to give away."*
+He lined the bodice and the hips in oyster silk so she could wear the dress completely bare underneath without a bra or panties showing through the silk, while leaving the rest of the bias-cut burgundy unlined so it flows like water! And look at what happens when she steps in front of the newly hung full-length mirror (screw heads still bright because he hung a mirror in the sun porch just for her!) and takes a step:
+The slit parts all the way up to the jut of her hip, she sees the pale edge of her underwear cutting the line, and instead of taking smaller steps to hide herself, she hooks her thumbs into her waistband, takes her underwear off, and strides out to him bare under the silk!
+Look at the chapter title: *Peekaboo*. Every step she takes toward him in the den, the slit swings open from calf to hip—giving her whole bare leg and hip and taking it back and giving it again!
 
-And then Randi takes her to the luxury boutique.
-Look at the scene on the fitting bench when Randi tells the saleswoman *"I've got her"* and drops to one knee in front of Vee in her expensive clothes:
-*Randi lifted Vee's foot onto her knee and slipped the flat off — and then, instead of reaching for the box, held the foot a moment in both hands, turning it a little to the light, looking at it. At the toes. At the polish there: a frosted plum, deliberate, chosen to catch the light as the silk did. "Mm," Randi said. That was all. A thumb moved once across the nail of the big toe, light — and Vee felt it go all the way up the length of her, felt the floor of her tip, a small swing of the room though she was sitting down, and her hand shot out and found Randi's shoulder to stop it.*
+And then that beat on the bed!
+Remember in Chapter 18 when Randi told Vee at Sunday brunch: *"You paint the toes for a man who's going to have your feet bare in his hands. You did those Friday. For him"*?! On Friday night in Chapter 17, her frosted-plum toenails were hidden inside her ballet flats and the room was dim, so we never saw him notice them. Here, in the bright Thursday afternoon light, when he puts her down on the bed, she puts both bare feet flat on his chest to hold him off at the length of her legs—*"The plum on her toes against all that skin"*—and lets him look all the way down the open length of her, and he takes one ankle and moves it slowly out to the side to look at her completely open!
+Wait—also remember Chapter 1 on the bench: *"He liked her feet. He had not yet told her that."* With Randi, he noticed her small pale feet when he took her heels off on the bench, and never said a word. With Vee, she plants her frosted-plum toes right on his chest, makes him stop and look, and when he eases back into her an inch at a time and holds still just to make her feel what the restraint is costing him, she says *"You're enjoying this"* and he says *"Very much."*
 
-EXCUSE ME?!
-1. Remember Chapter 14 when Pace was on his knees in front of Vee on the riser?! Now *Randi* is on her knee in front of Vee, holding Vee's bare foot in both hands, looking at the frosted-plum toenails she teased Vee about at Sunday brunch (*"You paint the toes for a man who's going to have your feet bare in his hands"*), saying *"Mm,"* and stroking her thumb across Vee's big toe until the room literally tips sideways for Vee and she has to grab Randi's shoulder! That single thumb-stroke on the toe had more erotic charge than entire sex scenes in other books!
-2. AND THEN THE REGISTER.
-My stomach dropped into my shoes at the cash register.
-Randi steered Vee out of the discount store where Vee had found a sensible tan heel she could afford on her debit card. Randi brought her into a store with no price tags where the numbers are written small on the leather sole. Randi picked out the four-inch black strappy heels, buckled them onto Vee's feet on her knees, and used Pace's devotion (*"A dress your lover made you?"*) so that Vee's own pride and love for Pace forced her to pull out her *emergency gas-and-rent credit card* and put down money she does not have and cannot pay back next month!
-And while Vee is silently white-knuckling the most expensive non-tuition purchase of her life on an empty credit card, RandiDoesn't offer to buy them for her, doesn't split them as an induction gift, doesn't even look down—she just plops a pair of casual everyday loafers on the counter that cost *several times more* than Vee's heels, chats about a ruined coat while signing without glancing at the total, and walks out wearing them!
+AND CONTRAST THIS WITH CHAPTER 19!
+I cannot get over the whiplash between Chapter 19 (*Portion*, Sunday night with Randi) and Chapter 20 (*Peekaboo*, Thursday afternoon with Vee):
+— In Chapter 19, Randi said *"You've got her Friday to Sunday. You've got her all weekend, every weekend."* And now it's *Thursday afternoon*! He isn't even keeping Vee in the Friday-to-Sunday box anymore—she's in his house and in his bed on a Thursday afternoon! (And wait: Thursday night is sorority chapter night—is Randi going to try to come over after chapter tonight like she did in Chapter 1, or is Vee gone before evening?!)
+— In Chapter 19, Randi rode him in silence with her eyes shut, her hair over her face, and immediately rolled away into the cashmere blanket with her back turned while he lay awake behind her, afraid to touch her hair.
+— Here in Chapter 20, Pace and Vee crash into the hallway wall laughing with him inside her, finish with his eyes wide open on hers, and afterward *Pace* falls dead asleep flat on his back because he was up half the night finishing her dress, and in his sleep he makes a sound and pulls Vee into his arm without even waking up!
 
-Wait: why didn't Randi offer to pay for Vee's shoes?! At first I was furious at her—like, *you dragged your broke friend into a luxury boutique, talked her out of the shoes she could afford, and let her go into credit-card debt right next to you while you dropped a grand on casual loafers!*
-Except think about it: if Randi had offered to buy Vee's shoes at the register, it would have humiliated Vee right there in front of the saleswoman and ruined the whole fantasy that Vee belongs in that room! OR is Randi so effortlessly rich (like at the Prices Fork restaurant in Chapter 15) that it genuinely never crosses her mind what a credit card swipe costs Vee—or worse, did buying her own multi-hundred-dollar loafers right next to Vee without looking at the receipt function as a subtle, unconscious flex after watching Vee wear a dress Pace stayed up all night sewing *to* her?!
+Oh, and did you catch the shoe detail when she was standing on the pedestal in front of the mirror?!
+*"The hem pooled at her feet; the dress wanted a height she wasn't giving it, and more of one than she owned. She thought of the pumps at the back of her closet, the sensible pair that went with everything, the leather gone soft and the heels worn low, nowhere near tall enough for this and wrong even if they had been... because the shoes this called for weren't anything she owned, and that woman could wait."*
+Wait a second! Why did Pace cut the hem of a custom-fitted gown long enough to require high heels she doesn't own?! Because he noticed her rising up onto her tiptoes during the fitting in Chapter 14 (*"rising, not on purpose, up onto her toes, half an inch, an inch... He cut his eyes sideways at her heel"*), OR is someone—Pace? Randi?!—going to put her in a pair of killer heels before Tuesday's induction?!
 
-And yet that ending on the sidewalk—Vee clutching the shoebox against her chest with both arms like it might run away, Randi teasing *"It's not going to spoil,"* and both of them bending in half laughing on the sunny sidewalk while Randi says *"Love you, girl"*—broke my heart all over again. Because they really *do* love each other's company, and Tuesday's induction is right around the corner.
+And look at the very last lines of this chapter:
+*"In the daydream she didn't fold her arms or find the wall; she stood in the middle of the light and let them look. It just felt like what she was for. She settled back against him, and he made a sound in his sleep and his arm came down around her without his ever surfacing, and she lay there happy, the dress going dark in its window at the far end of the house, getting away with something."*
+She is so happy, so whole, so completely transformed in her own skin—and she has no idea what "getting away with something" actually means in this house.
 
-GATE 21 — Sorority
+GATE 20 — Peekaboo
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 2
+HEAT: 3
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The Simpson's paradox lecture framing Vee between Cassie and Randi, Randi dropping to one knee in the boutique and making the room tip for Vee with a single thumb-stroke across her plum-painted toe, and the gut-churning tension of Vee putting luxury heels on her emergency credit card while Randi casually buys loafers costing multiples more kept me completely glued to the page.
+WHY: This chapter had me grinning, swooning, and fanning myself all at once—from the reveal of the oyster-lined burgundy gown and Vee ditching her underwear for the slit, to the hilarious and scorching four-handed dress rescue ("*Covered in a lot of me*"), to him sucking her slick fingers clean and pulling her into his arm in his sleep.
 
 LEDGER
-~ [G9.3] SHIFTED: In the stats lecture, Vee finally sees Cassie's quiet devotion clearly—realizing Cassie spent forty seconds watching Vee's face rather than caring about a dress—even as Vee stays happily caught in the middle between Cassie and Randi.
-~ [W20.2] ANSWERED: Randi takes Vee shoe shopping on Saturday, laughs her out of the sensible tan heels at the bypass store, and steers her into a luxury boutique for four-inch black strappy heels that Vee has to put on her emergency credit card.
-+ LOVE: The Simpson's paradox lecture ("Each year on its own, the first man is the better hitter. Put the two years together and the second man is") quietly naming the exact optical illusion of this entire three-person novel.
-+ LOVE: Vee misreading Randi's sudden freeze over "He was up all night finishing it. He fell asleep after. I watched him sleep" as Randi wishing she had a devoted man like Pace—the exact mirror image of Pace misreading Randi's freezes in bed.
-+ LOVE: Randi dropping to one knee in the boutique, holding Vee's bare foot in both hands to admire the frosted-plum toenails, and brushing her thumb once across Vee's big toe until the floor tips under Vee.
-+ FEAR: Vee putting the luxury boutique heels on her emergency gas-and-rent credit card with nothing in her account to pay it off next month—another way Randi's world is quietly costing Vee more than she can afford while Randi drops multiples of that on casual loafers without looking at the total.
++ LOVE: The hilarious, scorching four-handed dress rescue—Vee holding Pace's slick cock in both hands to protect the silk, discovering that saying "Covered in a lot of me" makes him twitch in her hands, and Pace sucking her fingers clean before they hang the dress back up.
++ WAITING: Where the high heels that finish the line of the burgundy gown are going to come from—since Pace cut the hem for a height Vee doesn't own.
+~ W16.3 ANSWERED: The secret "oyster yardage" was an oyster-pale silk lining built into just the bodice and hips of the burgundy gown—"a soft wall set into the only parts of her the dress had decided not to give away" so she can wear it completely bare underneath.

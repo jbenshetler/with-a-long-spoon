@@ -1,31 +1,30 @@
-*capture-dag-v3-grounded · gate ch036 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4ec3d9ade6b1 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch033 · history ch001..ch033 · ledger no seed e938d6f60752 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch036 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8c16d5e3ff83 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch032 · history ch001..ch032 · ledger no seed 42f2e8c973b4 · 2026-11-06*
 
 REACTION
 
-Okay. This is the chapter where the book shows me its own hand, and I felt it. Vee walks in and tells Randi everything: the amount of it, the sheets in both fists, "sex brain," and then the line the blurb has been waiting for. "You're just finally hungry out loud." Randi says it like absolution, and I know whose mouth that sentence has been in all along. The jacket line landing in the text gave me a small cold thrill.
+This chapter is hot, but I felt it slide in a direction I don't like. The opening is the best of it: Vee wrung out on the sheet, his head on her breast, the kisses that "aren't about sex" until the nipple rises under his mouth and he catches her out. That's charged, specific, and tender. "A girl who had a body, not a body that happened to have a girl attached to it" is a good line, and the book earns it.
 
-The best beat is Randi coming apart a little. Vee says "like he wants *me*, with the body attached," and Randi's eyes go bright and unfixed, and she shakes her head, and her breath catches. "It doesn't," low and uneven. That's the leak. Vee reads it as pride that her story moved a sophisticated woman, and I'm sitting here knowing it's the opposite. Randi may be hearing Pace's own words about Vee come back to her, or she's hearing what she wants and can't have. Either way it's the first time a story hit Randi harder than she could hide, and the beat is quiet and perfect.
+Then the photo. Oh no. "Only if you promise you'll never share me with anyone." "Never. I'd never share your photograph." I read that sentence three times. It's a very precise promise, and he is a man who says exactly what he means. He promised not to share the photograph. And I know where every one of her confidences goes. Randi is on the other end of this man. The poppy-red mouth, the composed version of herself she built for him, and then "Delivered." I felt that in my stomach. Vee has handed him her naked body in a file, on the strength of a promise that has a hole in it, and she calls that the brave part. I'm genuinely afraid for her. He might not send it. He also might show Randi, and "share" is a word he can argue.
 
-Then the photo. Vee shows Randi the cropped one, then the whole thing, "I gave him *all* of it," and Randi looks long, past a verdict. My stomach dropped. Two chapters ago he promised never to share the photograph, and here it is in Randi's hand, shown by Vee herself. Fear F33.1 resolved in the cruelest way: Pace didn't have to break the promise. She did it for him. That's sly and I admire it, and I'm furious for her. "Miss November," the toes, the bare foot under the table. The foot under the table is the hottest thing in the chapter, a small deliberate touch with the sky-blue nails.
+The cooking section is lovely but long. I'll note it, I skimmed a little. And the Thanksgiving beat is the actual knife: "I don't go back," the level voice, and then Sheri, alone, at his table. Vee's flicker of jealousy goes out too fast. She's reading everything kindly again, as I predicted.
 
-Vee leaning up the last half-inch at the goodbye kiss, and Randi holding her eyes "a beat past" is the turn. Vee noticed, decided it was what she wanted, and didn't bother about it again. That's the romance beat, and it's the first time the kiss is Vee's choice. The Anthro night class, "just us," Randi's voice roughening: she's building more hours with her. This is escalating.
+The drawer is the sweetest thing in the chapter, and the saddest, because it answers her fear with an act and no word, again. He made her a place and said nothing. She takes it as love. It may be love. It is also exactly the disease the blurb named.
 
-Complaints: it's a brunch-confession retread, third one, and the sex catalogue is a lot of telling. The book explains things (the "color switched on" paragraph, "she didn't think of the morning as a piece of Pace given up") a bit hard. Heat is real, though, because it's Vee's mouth saying it. Still no Randi head. Sixteen chapters. I've stopped asking and started suspecting that withholding is the design.
+Still no Randi head. Fifteen chapters. Randi isn't even in this one, but she's all over it.
 
-GATE 34 — All the Time
+GATE 33 — Above Him
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
-HEAT: 2
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "The weeks in between ran gray; it was only Friday to Sunday that the color came up, saturated, almost too much" (the book narrating its own meaning, in a third brunch retread)
-WHY: Randi's breath catching at "the body attached" and Vee handing her the nude herself are the pipeline cracking in public, and Vee taking the extra half-inch of the kiss is the real turn. It's a familiar brunch format, but the stakes have moved enough to keep me.
+ALMOST-STOPPED: "He cooked with his head tipped a little toward the pan, listening, and she sat back with her wine and watched him wait on it." (the long cooking walkthrough)
+WHY: The breast scene is hot and tender, and "I'd never share your photograph" is a loaded promise that has me dreading where the file goes. The drawer is a lovely, wordless answer, and wordless is the trouble.
 
 LEDGER
-~ F33.1 RESOLVED: Pace didn't have to share the photo. Vee showed Randi the full nude herself, so the promise is moot and the harm is done.
-~ F6.3 DEEPENED: Randi's breath caught and her eyes went unfixed at "the body attached," the plainest physical leak yet.
-~ W18.4 DEEPENED: Sixteen chapters now without Randi's own head.
-~ F31.4 DEEPENED: Vee is again performing for Randi's gaze, offering the photo to win her approval.
-+ LOVE: Randi's bare toes brushing Vee's leg under the table, sky-blue nails, and the smile that doesn't explain it.
-+ SUSPICION: Randi has begun building extra hours with Vee, the Anthro night class, "just us," because the Saturday brunch no longer holds her.
-+ LOVE: Vee leaning up the last half-inch of the kiss and deciding, without fuss, that it is what she wants.
++ FEAR: Vee sent Pace a nude, and his promise was only "never share your photograph." Randi will see it, or he'll find a way to call showing her something other than sharing.
++ LOVE: The top drawer emptied and made hers, with his whole kit squeezed into the lower one.
++ SUSPICION: "I don't go back" and Sheri alone at his table. His family wound is the scar's twin and will surface soon.
+~ F32.3 DEEPENED: The drawer is another act with no word, and she reads it kindly again.
+~ W18.4 DEEPENED: Fifteen chapters now without Randi's own head.
+~ W32.6 DEEPENED: He still hasn't said the word, and the drawer is the biggest wordless answer yet.

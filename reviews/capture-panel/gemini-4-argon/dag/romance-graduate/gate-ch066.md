@@ -1,34 +1,49 @@
-*capture-dag-v3-grounded · gate ch066 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c10b93dddd9c · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch063 · history ch001..ch063 · ledger no seed 015f9b1b40ad · 2026-11-06*
+*capture-dag-v3-grounded · gate ch066 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d7854b848dce · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch062 · history ch001..ch062 · ledger no seed 4421fe46820a · 2026-11-06*
 
 REACTION
 
-Oh, Cassie. I swear to god, every time Cassie opens her mouth in this book, she does in ten words what would take anyone else three pages, and it cuts straight to the bone.
+WAIT A SECOND. Hold everything—that ending!!
+*"Cassie was on the lower bunk with a book against her knees, and she'd not been there long — her coat still on, the cold still coming off her... 'What was that with you and Randi?' she said."*
 
-Look at how short this chapter is—just a single page, picking up the exact second after Chapter 63's cliffhanger—and yet every single beat in it is so loaded! First, watching Vee try to stack weak excuses over the stain ("It's a sorority thing. She's like that with everyone, it doesn't—") and actually *running out of words* because she hears how hollow they sound in the room she and Cassie keep between them.
+CASSIE JUST SAW THEM AT THE DORM DOOR!!
+While Vee was standing outside the dorm entrance in the freezing dark, turning her mouth away from Randi's goodbye kiss, having Randi sigh *"I've got to go discipline a bad girl"* into her hair, and then getting kissed wet and open-mouthed on the hollow of her neck until she jumped and gasped—Cassie was walking back to the dorm right ahead of them (her coat is still on! the cold is still coming off her!) or looking out the window and SAW IT HAPPEN!
+And look at the tone of Cassie's voice: *"Not the flat way she said most true things — there was a worry under it, and a thread of disbelief she didn't trouble to hide."*
+Why is there *worry* and *disbelief* in Cassie's voice?! Since Chapter 4, Cassie has been the cool, wry, unflappable observer raising an eyebrow a half-inch at Vee's outfits and letting Vee keep her little fibs. Tonight Cassie isn't doing the flat deadpan—she is genuinely worried and in disbelief! And why? Because Cassie knows Vee has a boyfriend she loves (Cassie literally just gave Pace the *"You can stay"* stamp of approval at the roadhouse six days ago!), AND Cassie has suspected Randi's game since the Chapter 5 coffee shop! And now Vee is standing in the doorway in her coat, unable to come up with a single "sorority stuff" excuse!
 
-And then Cassie doesn't ask "Did she kiss you?" or "Are you cheating on Pace?" or "Are you into girls?" She asks the exact same kind of plain, stripped-down question she asked in Chapter 32 (*Do you love him*):
-**"Is this what you want?"**
+Let's back up and talk about how agonizingly good the rest of this chapter was, because watching Vee try to outrun her own awakening from Sunday to Tuesday felt so lived-in and psychologically real:
+1. First, Sunday at Pace's house! Even though she's sore and raw inside from trying to fuck Randi out of her head at 1 a.m., she initiates sex with Pace *three more times* on Sunday—in the gray dawn, after lunch, and taking the book out of his hands in the late afternoon ("She drove home in the early dark full of him and not, somehow, filled").
+2. Second, Monday night in the top bunk! Keeping her hand flat on her stomach like "a lid held down on a pot" because she knows that the second her fingers slide down to her bare, smooth skin, Randi's name and face will arrive ("because as long as she didn't give it the thing that would make it true, it could stay only wanting"). Look at that sentence: *"not because anyone had forbidden it; if anything the message ran the other way, and Pace had made a point of telling her so, in the dark, in the way that stuck."* Even with Pace explicitly giving her permission ("It's all right. I don't mind"), she is terrified of what lives behind that door—not just heat ("The heat she could wait out; heat passed"), but *"something larger than heat and more durable... a thing that reached, in that one word, everything she had."* She isn't just afraid of wanting to sleep with a woman; she's afraid that what she feels for Randi is big enough to upend her entire life and her relationship with Pace!
+3. Third, Dr. Marsh's lecture on **potlatch and the three obligations of reciprocity** (*to give, to take, and to pay back—where a gift is a debt you lay on someone whether they wanted it or not*)! Look at the chapter title: *Coming Due*! All fall and winter, Randi has been giving and giving—the lunches, the dinners, the shoes, the scarf, the mixer, the kisses—and tonight the debt is coming due!
+4. Fourth, the wintergreen Lifesaver pass! Vee forgot to take the roll out of her pocket because she's so rattled, and when she hands the softened mint over, Randi's fingertip grazes the inside of Vee's wrist—the exact pulse point where Pace kissed both of them!—and Vee nearly drops the roll, telling herself *"Static."*
 
-And look at what happens when Vee actually goes inside herself to look for the answer:
-*"There was a shape there, close and large, and she came up against the edge of it and stepped back off before she could make out its size. Her neck said yes. Her body had been saying yes all night, on the walk, on the stairs — but that was the body, that was nothing, a thing skin did on its own. The question itself had no floor under it she was willing to stand on."*
-And because she can't stand on that floor, she does the exact same defensive move she just pulled on Pace in bed on Saturday night in Chapter 62! Remember how in Chapter 62, when Pace asked *"Do you want to sleep with a woman, Vee?"* and the ground gave way under her, she grabbed the nearest thing that would take her weight and swung the whole matter off herself and onto him (*"You're the one who wants this... you want Randi"*)?! Here, she does the exact same thing to Cassie—pulling out their old, retired sorority argument like a plank on the floor and swinging it at Cassie: *"You don't like her. That's what this is. You've never liked her..."*
+And then the walk back to the dorm when Vee tries to beg off dinner with a fake cold!
+Wait—DID PACE TELL RANDI WHAT HAPPENED ON SATURDAY NIGHT/SUNDAY MORNING?!
+Think about how Randi acts after class tonight:
+- First, as she bends for her bag, she casually drops the exact word Vee confessed to Pace on his cock at 1 a.m.: **"Having you at the dance was so great. I've wanted to do that for the longest time."** (*Having!* "She said guys you have to manage all night, and me she just gets to *have*.")
+- Second, when Vee begs off dinner, Randi doesn't push for the loft—she smoothly insists on walking Vee straight to her dorm door!
+- Third, when Vee deliberately turns her mouth away from the goodbye kiss ("I don't want you to get what I'm coming down with"), Randi stays right inside the hug and drops TWO massive triggers straight into Vee's ear and neck:
+  1. **"I'll miss you Thursday, though. After class. Standards committee — I've got to go discipline a bad girl."** (Calling right back to Chapter 27's practice room spanking story!)
+  2. And the second Vee turns her face away at *that*, Randi plants a soft, wet bloom of a kiss right into the hollow of Vee's neck where neck meets shoulder! **"See? How do you like it?"**
+Look at what that wet neck kiss does to Vee: after spending forty-eight hours holding the lid down on the pot, getting late to class on purpose, canceling Tuesday dinner to stay safe, and turning her mouth away from the goodbye kiss—one wet kiss on her neck and Vee's brain completely short-circuits and blurts out:
+**"Brunch. Let's — let's have brunch this weekend... Saturday."**
+She canceled Tuesday night dinner and Randi wasn't available Thursday night because of Standards committee, and the second Randi kissed her neck and threatened to walk away until next week, Vee panicked at going a whole week without her and begged for Saturday brunch!
 
-And the difference between how Cassie handles Vee's panic versus how Randi and Pace handle Vee is EVERYTHING. Cassie doesn't take the bait, doesn't argue, doesn't push Vee through a door she isn't ready to walk through, and doesn't use Vee's vulnerability as leverage. She just steps right over the plank without looking down, clocks the plain domestic truth that Vee came back early on a Tuesday night without eating dinner, and holds out her box of Cocoa Pebbles ("Some of Mine"!).
-*"because here was a want she could find — a want the size of a bowl."*
+And now she is standing in her dorm room doorway with her neck still burning from Randi's wet mouth, and Cassie is looking straight at her asking:
+**"What was that with you and Randi?"**
+Will Vee actually tell Cassie the truth—or will Cassie finally say out loud what she saw at the coffee shop in Chapter 5 and outside the dorm tonight?! I HAVE to see this conversation with Cassie right now!
 
-That line—*"a want the size of a bowl"* versus the huge, terrifying shape with no floor under it waiting for her—made my chest ache. And now Tuesday night is done, Thursday night Randi has "Standards committee — I've got to go discipline a bad girl" (or does she?!), and Saturday is the brunch Vee blurted out on the sidewalk! Bring on Thursday and Saturday!
-
-GATE 64 — Some of Mine
+GATE 63 — Coming Due
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 0
-ROMANCE: 1
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: A one-page gem where Cassie cuts past Vee's stammered "sorority thing" excuses with a plain "Is this what you want?", refuses to take the bait when Vee deflects, and offers her a box of Cocoa Pebbles ("a want the size of a bowl") when the real question is too big for Vee to stand on.
+WHY: Watching Vee try to hold the lid down on her desire for Randi—initiating sex with Pace three times on Sunday and still driving home "full of him and not, somehow, filled," freezing over a wintergreen Lifesaver, trying to dodge Tuesday dinner and the goodbye kiss only to get ambushed by Randi's wet kiss on her neck and blurt out a Saturday brunch invitation—was razor-sharp, and that cliffhanger of Cassie catching them ("What was that with you and Randi?") has me desperate for the next chapter.
 
 LEDGER
-+ LOVE: Cassie cutting straight past "It's a sorority thing" to ask "Is this what you want?", stepping over Vee's defensive bait without looking down, and offering her Cocoa Pebbles because she knows Vee skipped dinner ("a want the size of a bowl").
-+ LOVE: The psychological parallel of Vee deflecting Cassie's "Is this what you want?" with "You don't like her" the exact same way she deflected Pace's "Do you want to sleep with a woman?" with "You want Randi."
-~ W63.4 ANSWERED: Cassie clearly saw the lingering hug and neck kiss outside the dorm door, and when Vee's "sorority thing" excuse died in her mouth and she lashed out, Cassie quietly stepped over the fight and fed her cereal instead.
-+ WAITING: Thursday class (when Randi claims she has Standards committee to "discipline a bad girl") and Saturday's brunch showdown between Vee and Randi.
++ LOVE: Vee holding her hand flat on her own stomach in the dark like "a lid held down on a pot" because she knows that if she touches her newly bare skin, Randi's name will make the wanting true.
++ LOVE: Vee successfully dodging Tuesday dinner and turning her mouth away from the goodbye kiss, only for Randi to plant a wet kiss in the hollow of her neck ("See? How do you like it?") that instantly short-circuits Vee's brain into blurting out an invitation to Saturday brunch.
++ LOVE: Cassie sitting on the lower bunk with her coat still on and the cold still coming off her, looking up at Vee's face and asking with real worry and disbelief, "What was that with you and Randi?"
+~ W62.6 SHIFTED: Vee survived Tuesday night Anthropology by begging off dinner with a fake cold and turning her mouth away from the kiss—only to get ambushed by Randi's wet kiss on her neck, blurt out a Saturday brunch invitation, and walk straight into Cassie asking "What was that with you and Randi?"
++ WAITING: Vee's answer to Cassie's "What was that with you and Randi?"—and what Cassie just saw outside the dorm door.

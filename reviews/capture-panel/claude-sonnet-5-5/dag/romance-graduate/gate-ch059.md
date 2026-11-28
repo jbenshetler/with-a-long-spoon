@@ -1,29 +1,28 @@
-*capture-dag-v3-grounded · gate ch059 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 71359d731fc6 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch056 · history ch001..ch056 · ledger no seed e5c765aef4af · 2026-11-06*
+*capture-dag-v3-grounded · gate ch059 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 40b8a8549ea9 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch055 · history ch001..ch055 · ledger no seed 5503d68d7abd · 2026-11-06*
 
 REACTION
 
-This is a quiet one, and I'm giving it room because it's the first time the book hands Pace's loneliness to me whole. The hangover opening is warm and a little funny. The glass of water on a paper towel, the cinnamon raisin bread, the undershirt pulled over her head, and the kiss on her forehead "after he thought she was already gone." That last one got me. He did all the care and she only now finds out.
+The chapter does something I didn't expect: it takes the blonde I've been dreading since Christmas and kills her in one look. Sheri walks in five feet tall, two-toned hair, crooked makeup, and Vee laughs out loud in the middle of the taproom. It's a real release for me too. I'd braced for the rival and got a friend. And Sheri looking Vee over like she's enjoying her, with that slow "oh," is a charge I didn't see coming. Vee has been fluent in women's pricing looks since high school, and this one doesn't price her at all.
 
-Then "My one friend. There isn't anyone else." That's the chapter. His explanation of why is exact: too young for the pack, too finished for the freshmen, and "either weren't safe or weren't welcoming." It's the family wound again from a new side, and Sheri's "hasn't been home since he was sixteen" snaps into place. Vee's hug, with her whole weight committed like Sheri's, is the right move, and he doesn't perform being comforted. I liked that.
+Pace blushing is the best new detail. A man I've watched do everything with composure goes red to the ears at "motorboat." Sheri's story about the dance hall, and him showing up on her porch with donuts and fixing the lock, is the love-in-the-doing thing again, with a witness this time. "He hasn't been home since he was sixteen" is a small, hard fact. I love that Vee sits there and the thing moves through her chest, slow and enormous.
 
-The dread is where my attention goes. Vee is sitting in the kitchen with Sheri liking her, saying "I don't have to be jealous," planning to hand Randi the win on Tuesday. She is feeling tender toward the man whose other lover she's been telling everything to. Meanwhile "women misunderstand it" is a line I read twice. He's a man who can't keep a friend without it going sideways, and I'm the one who knows about the Saturdays. Also Vee thinking Daphne was "the one friend" is just about right, and she still won't say the ugly word. Fine, she's twenty-one.
+But I'm the one holding the dread. I know Sheri saw Randi in December and knows the triangle. Her "the redhead" line and "bet those legs feel like Christmas" make me watch her like a hawk. Will she say something? She sizes things up too well. She said she'd tell Vee "the rest another time" about why he's like that, and I'm marking that.
 
-Complaints: the last third is Vee narrating his loneliness at length, including her freshman-dorm nostalgia, and I felt the book explaining its own subtext again. I wanted him to say it and her to stay quiet. No heat at all. Sixth chapter without a real turn in the plot, though this one deepens him. The taste thread didn't move, and Randi's absence is felt.
+It's also a quiet chapter. No heat, aside from Sheri's look and the truck ride. Four in a row without a real turn, if I'm counting, though ch55 was hot. Meanwhile the taste thread got left alone, and Randi isn't here. The dressing-up and the room inventory ran long. But Vee's fear collapsing is a payoff I wanted, and Valentine's dance is queued.
 
-GATE 57 — Hangover
+GATE 56 — Another Round
 DECISION: CONTINUE
 CAPTURE: 7
 NEXT: 8
-HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: "She saw the campus empty around him one Thanksgiving, just for a second, and then set the image down" (the long Vee-narrated imagining of his lonely eighteen)
-WHY: "My one friend. There isn't anyone else." plus the forehead kiss he thought she'd slept through is real tenderness and fills in his wound. But Vee spells out his loneliness at length, there's no heat, and I want Tuesday with Randi.
+HEAT: 1
+ROMANCE: 2
+ALMOST-STOPPED: "She dressed for the woman her jealousy had built, and she knew it while she was doing it, and she did it anyway." (the long dress-up and room-inventory run)
+WHY: The blonde dying on the spot and Sheri's slow appreciative look are a lovely reversal, and Pace blushing is a gift. It's a soft chapter though, and I'm watching Sheri because she knows what Vee doesn't.
 
 LEDGER
-+ LOVE: Pace's glass of water on a paper towel and the forehead kiss "after he thought she was already gone."
-+ LOVE: "Sheri's my friend. My one friend. There isn't anyone else." and Vee holding him with her whole weight, like Sheri did.
-+ SUSPICION: "Women misunderstand it" hints at friendships with women that went wrong, and the reader knows the Randi triangle is exactly that.
-+ WAITING: Tuesday, when Vee hands Randi the real Sheri and whether Randi reacts to the "gay" detail.
-~ S33.3 DEEPENED: "Weren't safe or weren't welcoming" and the missing holidays make the family wound concrete.
-~ S56.3 SHIFTED: Sheri told Vee her own story and Pace's father; no hint yet that she'll expose the triangle.
-~ G39.2 FADED: this chapter finally gave the silence a real, sad cause on the page.
++ LOVE: Pace blushing to the ears at "motorboat," and Sheri's dance-hall hug and her porch-with-donuts story.
++ LOVE: Vee laughing out loud as the invented blonde fails to exist.
++ SUSPICION: Sheri knows about Randi and the triangle, and "the rest another time" means she'll tell Vee something soon.
++ WAITING: Valentine's Saturday at the hall, with Sheri, Pace and Vee, and whatever Sheri says next.
+~ S33.3 DEEPENED: "He hasn't been home since he was sixteen" gives the family wound another hard fact.
+~ F9.1 DEEPENED: Vee's newest friend is Pace's, and Cassie's room doesn't appear at all.

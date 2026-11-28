@@ -1,38 +1,47 @@
-*capture-dag-v3-grounded · gate ch066 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c10b93dddd9c · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch063 · history ch001..ch063 · ledger no seed cff7ae9b64fd · 2026-11-06*
+*capture-dag-v3-grounded · gate ch066 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d7854b848dce · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch062 · history ch001..ch062 · ledger no seed 0d6a0fa73021 · 2026-11-06*
 
 **REACTION**
 
-We're back in the same doorway with both coats still on. I liked that the book didn't skip ahead. It held me in the exact second chapter 63 ended on, and the question "sat in the warm room like a third person nobody had offered a chair." That's a good line, and I believed it.
+She turned her mouth away.
 
-"Is this what you want?" is a better question than the first one, and Cassie knows it. She doesn't ask what happened or what Randi is to her. It's the "do you love him" voice from the dorm in November, with worry under it. For one terrible second Vee actually goes and *looks*. She runs into the edge of something "close and large" and steps back before she can see how big it is. That was the most honest moment she's had since the dance floor. "Her neck said yes," and then right away, "that was the body, that was nothing." Honey, you've been saying "that was nothing" for sixty chapters.
+Sixty-two chapters of goodbye kisses, at the curb, under the composites, in the fire lane, and the one time Vee says no, it isn't because she wants it less. She wants it so badly she can't let herself take it. "Not an accident got up to look like one. She turned it, and took the miss on purpose." That's the first door Vee has ever shut on Randi, and she shut it because she finally knows what's behind it. Then Randi doesn't step out of the hug. She goes for the neck, the exact spot, and says "See? How do you like it?" She took Vee's one unsteered touch and handed it back to her as a weapon, delighted. I said "oh, you *witch*" out loud, and I meant it with love. She doesn't miss one thing.
 
-Then she picks the fight. "You don't like her." It's the old sorority argument, laid down "like a plank to walk out on." It's the same move she made on Pace two nights ago, when the floor went out under her and she swung it onto him with "you want Randi." When she's cornered she accuses the other person of wanting the thing. Pace caught that one and turned it back on her. Cassie just steps over the plank without looking down, and I loved her for it so much it ached. There's no fight and no victory, and the eyebrow says nothing.
+"Having you at the dance was so great. I've wanted to do that for the longest time." *Having.* It's the same word from chapter 61's coffee and from his bed Saturday night, and now it's said with no Pace underneath her to charge it to. "No one to charge it to" is the best thing in the chapter. On Sunday she used him as the account. She went at him four times in one day, "full of him and not, somehow, filled." On Tuesday the bill comes due and there's nobody to send it to but herself. That's what the title means, and the Marsh lecture on gifts as debts sits right on top of it. Here's the twist: the lecture slid off her. For the first time the book's theme announcement didn't land on the character, and that's the point. She's too far inside it to hear it read out. I'll take that as a small apology for three chapters of Marsh.
 
-Then "You didn't have dinner." And the Cocoa Pebbles. I laughed out loud and then got a little teary. This whole book is built on who feeds whom: Pace's fra diavolo, Randi's one bite, the stew under a plate in the fridge. Now the plainest person in it hands over a box of kids' cereal from beside the bunk, and it's the first time anybody has fed Vee without wanting something back. "A want the size of a bowl." It's the first whole thing she's said all night, because it's the one want she's allowed to have. The title, "Some of Mine," turns out to be the most generous thing anyone says in the volume.
+Monday night with her hand flat on her stomach, "a lid held down on a pot," was hot in the way this book does well. The refusal is the charge. "As long as she didn't give it the thing that would make it true, it could stay only wanting." That's real interiority. She knows exactly what she's doing and why, and she does it anyway. The Lifesaver she forgot to bring out, and the fingertip on her wrist with her pulse "leaping up under it to be found," undid me. It's his spot, the one she pointed at first, and now Randi's finger is on it.
 
-What I don't know yet is what Cassie saw. The book still won't tell me, and that's right, because Vee doesn't know either. "Read the whole night off her skin like a postmark" is perfect paranoia.
+Now for what scares me. Monday was Randi's night, and the book skipped it completely. Then on Tuesday Randi is "in every particular exactly herself," completely unchanged, and says "for the longest time" as if she knows the kiss didn't stay a joke for Vee either. Did she spend Monday on his couch hearing every inch Vee paid out on Saturday? I think she did. And Thursday: "Standards committee. I've got to go discipline a bad girl." It's said with a martyr's groan, right after Brooke's widening smile. Who's the bad girl? Is it some Lauren Pike, or is it Randi lying about where she'll be Thursday night? Every possible reading of that line is bad.
 
-What cost it: the last paragraph explains the bowl to me ("that was the size of what she could answer tonight… small enough to hold in two hands") right after the bowl had already said it. And it's short and quiet, with no Randi, coming straight after a quiet chapter. That's fine, because it's Cassie, and Cassie gets to be quiet. But I'm counting.
+Cassie, coat still on and the cold still coming off her, asks "What was that with you and Randi?" with worry in it and disbelief. She *saw* the door. She saw the turned face and the neck. Vee's oldest friend asks her the plainest question in the book and gets nothing back, because for once Vee has no version to crop. That's a great last line. All those cropped versions, and now there's a question with no version at all.
 
-1 a.m. text: *cassie asked "is this what you want?" and vee tried to start the sorority fight and cassie just… stepped over it and offered her COCOA PEBBLES. I'm crying over cereal.*
+What cost it: Sunday came as montage again, four times in one paragraph. I get that the summary is the point, that she isn't present for any of it, but I felt the skip. "Something larger than heat and more durable... a thing that reached, in that one word, everything she had" is the book explaining a door I'd already watched crack open. The dressing paragraph runs long too. But the chapter moves, and it ends on a hook.
 
-GATE 64 — Some of Mine
+1 a.m. text: *she TURNED HER FACE AWAY from randi's kiss because she wants it too much. randi kissed her NECK instead. "how do you like it?" and then cassie, with her coat still on: "what was that with you and randi?" and vee has nothing. also who is the "bad girl" thursday??*
+
+GATE 63 — Coming Due
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "and that was the size of what she could answer tonight, standing there in her coat: not the other question, the one still open on the desk with no floor under it — only this one, small enough to hold in two hands." The bowl already said it, and the book said it again.
-WHY: It's a short, quiet chapter, but Cassie stepping over the plank and handing her cereal is the cleanest act of love in the book, with no game under it. Vee looking for the answer and stepping back from its edge is real. I want Thursday's "bad girl" and Saturday's brunch, but this didn't leave me hungry, just tender.
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "Saturday's joke had cracked open a door, and behind the door stood something larger than heat and more durable, that half of her strained toward." The book explained the door right after I'd watched her refuse to walk through it.
+WHY: The refused kiss is the bond turning the other way, and Randi turning the neck kiss into a weapon is perfectly her. "No one to charge it to" is the chapter's real knife. Sunday's montage and the over-explanation cost it, but Cassie's question and Thursday's "bad girl" have me turning the page.
 
 LEDGER
-+ LOVE: "Do you want some of my Cocoa Pebbles?" Cassie feeding her, a want the size of a bowl, nothing asked back
-+ LOVE: Cassie stepping over the years-old sorority plank without once looking down
-+ SUSPICION: When Vee is cornered she accuses the other person of being the one who wants it, first Pace ("you want Randi"), now Cassie ("you don't like her")
-+ WAITING: "Is this what you want?" Vee went and looked, hit the edge of something large, and stepped back. Whether she ever looks again
-~ W63.7 SHIFTED: Cassie traded "what was that" for "is this what you want," and Vee still has no answer, only cereal
-~ S63.5 DEEPENED: Still no word on what Cassie saw, and Vee is reading it off her own neck like a postmark
-~ L4.1 DEEPENED: "You didn't have dinner," not a question, and the box held out
-~ W3.7 DEEPENED: The feeding thread reaches Cassie. The one person who feeds Vee and wants nothing for it
-~ F4.2 SHIFTED: Vee picked the old fight to lose her, and Cassie wouldn't be lost
-~ G1.7 DEEPENED: The closing paragraph explains the bowl after the bowl had already said it
++ LOVE: She turned her mouth away on purpose, because she wanted the kiss too much to take it
++ LOVE: "No one to charge it to." On Sunday Pace was the account, and on Tuesday there's nobody to send the bill to but herself
++ SUSPICION: Randi spent Monday at Pace's and heard every inch Vee paid on Saturday. "I've wanted to do that for the longest time" is someone who already knows the kiss didn't stay a joke for Vee
++ FEAR: "Discipline a bad girl" on Thursday. It's either Brooke's file opening on somebody, or Randi's cover story for Pace's house, and either way it's aimed somewhere near Vee
++ SUSPICION: Cassie saw the doorway: the turned face and the neck kiss. Her coat was still on because she'd just come in behind them
++ WAITING: Saturday brunch, which Vee blurted out of the ringing in her neck, and what face she brings to it
++ WAITING: Whether Vee ever finds an answer to Cassie's "What was that with you and Randi?"
+~ W62.8 ANSWERED: She didn't find a face for Tuesday. She found a fake cold, a turned cheek and a brunch date
+~ F62.1 DEEPENED: Monday passed off the page, and Randi showed up Tuesday unchanged and knowing
+~ L24.5 SHIFTED: The kiss that stopped being an event is an event again. She refused it
+~ S51.5 DEEPENED: Randi took the neck kiss and turned it back on Vee: "How do you like it?"
+~ L53.1 DEEPENED: She forgot the Lifesavers, and Randi's fingertip found the inside of her wrist, his spot, on the way to taking one
+~ G27.5 SHIFTED: The Marsh lecture slid right off Vee this time. The theme is too close for her to hear it
+~ G33.7 DEEPENED: Sunday's four times came as one paragraph of summary
+~ L4.1 DEEPENED: Cassie, with her coat still on, worried and disbelieving, asking the plainest question in the book
+~ F4.2 SHIFTED: Cassie has stopped watching from the bunk. She's asking out loud now
+~ F42.3 DEEPENED: Vee knows what she feels and has decided to say it to no one, Cassie included

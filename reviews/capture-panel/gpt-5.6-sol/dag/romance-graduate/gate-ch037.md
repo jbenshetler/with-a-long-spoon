@@ -1,77 +1,65 @@
-*capture-dag-v3-grounded · gate ch037 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b29cb00cede3 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch034 · history ch001..ch034 · ledger no seed 6d90dbfd1615 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch037 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4ec3d9ade6b1 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch033 · history ch001..ch033 · ledger no seed acc78394468c · 2026-11-06*
 
-REACTION — Oh, Randi found the panties.
+REACTION — Oh no. She showed Randi the photograph.
 
-That final inch of open drawer changed the whole morning. The house did not shift it open. She went looking after Pace told her Vee waits all week for brunch, after she admitted Vee pursued the kiss, after Pace gently removed the excuse that she was kissing Vee for him, after she came around him while insisting desire was work. She woke, went into the bathroom, saw Vee’s drawer—her top drawer, the easy one, the place Pace made by compressing himself—and then searched the bedroom until she found the green satin hidden under his shirts.
+Not merely a picture of the dress or another induction shot. The photograph Vee created as an act of private trust, after asking Pace to promise he would never share her with anyone. The image she believed belonged inside the sealed intimacy of his house is now in the hands of his concealed lover, and Vee gave it to her because Randi made withholding feel like cowardice.
 
-And what she did with it scared me.
+That sequence made me furious precisely because every individual step remained deniable. Randi asks about the phone only because Vee mentions it. She comments on the age of the safe pictures but immediately says Vee does not have to show her anything. She praises the cropped photograph, then casually wonders why a woman with Vee’s legs gave Pace only half. Nothing is demanded. Vee can experience every escalation as her own choice.
 
-She did not confront Pace. She did not ask what Vee had given him or when. She carried the panties into the kitchen like a wound, kissed him silent, put his hand between her legs, and took the whole thing into sex. Again. That is Randi’s method when something becomes emotionally unbearable: turn it into something erotic before anyone can ask what it means. Except this time she physically pressed Vee’s private gift between herself and Pace while refusing every form of care he ordinarily gives her. No mouth, no hands, no turning her over, no pacing he chose. She held Vee against his chest and used him hard enough to get past whatever she had found in that drawer.
+But Randi knows Vee. She knows that “you only gave him half?” will land as a challenge to the brave, sexually awakened self Vee is proud of becoming. Vee does not reveal the full image because she independently wants Randi to possess it; she reveals it because she cannot bear Randi mistaking the crop for the limit of what she dared with Pace. The choice is hers, but Randi built the emotional trap around it and then stepped back far enough to look innocent.
 
-It was scorching, but it was not joyful. The four-times sex on the couch was hot because Randi’s truth kept escaping through her body faster than she could revise it. The morning sex was desperate. She would not look at Pace. She left his shirt on because opening her hand would have required releasing the panties. Then she came with a sound he had never heard and cried into his neck. I did not experience those tears as meaningless bodily overflow for one second.
+And of course the photograph’s privacy was already tragically narrow. Pace promised never to share it, and I believe he never will. Vee has now shared it herself with the one person whose actual relationship to both her and Pace would have changed that choice completely. She thinks she is showing her most trusted female friend something she could never show anyone else. She does not know she is delivering an intimate image of herself directly into the existing couple who selected her. “There was no one else she could have shown” hurt horribly. There is no one she would have shown if she knew who Randi was.
 
-Pace’s interpretation hurt because it was tender, plausible, and wrong. He thinks the grief is that Vee gave him something intimate to keep and Randi never has. But Randi’s wound is larger than keepsakes. Vee has a drawer in his bathroom. Vee’s belongings are integrated into the house. Vee left behind a piece of herself voluntarily, and Pace preserved it exactly as she gave it to him. Meanwhile Randi has been in this house longer, locks its door, knows its rooms, leaves her bag on the chair—and still seems to understand herself as someone who must arrive composed and leave no claim that cannot be packed away.
+The “toes” line sent ice through me. Randi has watched Pace’s attention go to Vee’s painted feet in stories, dressed those feet in shoes for him, and knows the private language of his gaze. Now she sees the photograph he composed and recognizes the choices inside it. Vee hears experienced-girlfriend teasing. I hear Pace’s lover reading Pace’s eye in the image.
 
-And she has just spent the night hearing how completely Vee belongs in both halves of Randi’s hidden life. Pace tells her Vee gives up the house for those Saturdays. Vee pursues Randi’s mouth. Pace has made Vee a place. The panties turn that entire emotional structure into an object Randi can hold, and she cannot bear it except by putting it between them and making herself the one who controls what happens next.
+And yet the first half of this chapter was so emotionally beautiful that I understood why Vee opened. She is trying to describe not an erotic episode but an entire changed life: sex that increases hunger instead of exhausting it, food that turns the sound back on, silence that does not need managing, sleep that finally comes whole, and attention that makes her feel like a person with a body rather than a body with a person inconveniently attached. This is not infatuation pasted over good sex. Pace has altered her experience of inhabiting herself.
 
-The untouched coffee devastated me. The first chapter’s apple slices were Pace knowing exactly how Randi could receive food. Here he prepares her coffee before she wakes, and she leaves it standing. She has come through nothing. She has put the face back on.
+“You’re just finally hungry out loud” was exactly the thing Vee needed to hear, and Randi gave it to her perfectly. Vee fears that wanting more and more means she has become defective; Randi locates the defect in the starvation instead. I wanted to keep that sentence for Vee. I hate that it comes from someone who is secretly feeding on every disclosure. Randi’s absolution is real, loving, and also an instrument that makes Vee safer to open further.
 
-But before that morning, God, the couch.
+The food made the whole conversation almost obscenely physical. Vee orders the expensive Benedict, breaks the yolk, makes a sound, drags bread through the middle, and says the best part is when it goes everywhere. She is finally hungry out loud in every register at once—money, food, sex, attention—and Randi watches all of it. I loved Vee’s appetite. I resented how completely Randi understood what she was seeing.
 
-Randi finally told Pace the truth that mattered: Vee came after her. Not merely that kisses happen, not merely that Randi initiates and Vee tolerates some charming custom. Vee took the last half inch because she wanted more. Randi had carried that fact for two days, and the telling was almost unbearably erotic because it was also the first time Pace had enough information to ask the right question.
+Then Vee says Pace wants *her*, with the body attached, and Randi nearly breaks.
 
-“Does she want it?”
+That is the deepest wound in Randi, isn’t it? Pace saw the girl attached to Randi’s body on the bench, and she fled him for it. Vee now describes receiving that same total attention as the best thing that has ever happened to her, and Randi cannot keep the polished face entirely in place. Her eyes go bright and unfixed. Her breath catches. For one second Vee’s happiness reaches the hidden woman Randi has refused to let Pace see again.
 
-I loved him for that. He does not accept radiance as proof. He does not accept that Vee returns every Saturday as sufficient consent to whatever Randi is building there. He separates happiness from understanding and insists that Vee’s wanting matters independently of Randi’s certainty. “It isn’t you I’m checking on” landed like a blade. Pace trusts Randi’s appetite and competence. He does not automatically trust that Vee knows what she is consenting to.
+Vee interprets the reaction as pride that her story can move someone as sophisticated as Randi. Oh, sweetheart. Randi is not moved by a good story. She is hearing another woman describe living safely inside the attention she herself experiences as exposure. I felt genuine grief for her there. Then she pulls herself together and asks about the soundtrack, moving from the unbearable emotional truth back into collectible details.
 
-Randi’s answer frightened me because it was the exact defense of someone who knows the facts are incomplete: Vee chooses every Saturday. Yes, she does. Vee chooses Randi with increasing clarity. She chooses the brunches, the class, the touch, the second kiss. But she is choosing inside a false account of who Randi is, who Pace is to her, and what happens to everything Vee says afterward. Repetition does not repair missing information.
+And that soundtrack is not new information to Randi. “Of course he does” nearly made me shout. She knows those playlists. She knows the piano in the kitchen, the Fleetwood Mac later, the house already playing when someone arrives. Vee thinks she is painting Pace’s private world for a woman who has never entered it. Randi is listening to Vee describe rooms she knows by heart and never once says, *I’ve heard that music too.*
 
-Then Pace gives Randi the one reassurance she actually needs: Vee talks about her with the same extraordinary hunger she brings to him. I felt Randi receive that. Saturdays are hers. Two hours when Vee’s attention does not go anywhere else. That is not preparation for a threesome; that is a relationship Randi treasures as its own place.
+The chapter title is cruel. Vee thinks “all the time” means the amount she wants Pace, the weekends becoming saturated, her body thinking about Friday in the library. But Randi is there all the time too. She is in Pace’s house before Vee enters it, in the soundtrack, in the erotic history, in the shape of the attention. And Pace is present in every brunch through the details Randi extracts. Vee experiences two radiant relationships taking turns wanting pieces of her; the concealed couple receives her continuously.
 
-And still she nearly leaves out the goodbye.
+The bare foot under the table was deliberate. Randi removes the shoe, brushes Vee’s leg once, then again, makes sure Vee looks, and smiles while continuing an ordinary conversation. There is no invented man, no Pace story, no goodbye custom to hide behind. That is Randi touching Vee because she wants to touch Vee. Vee recognizes the act as deliberate and accepts it without needing to file it anywhere.
 
-Watching Pace patiently pull the truth through pleasure was intensely hot and ethically complicated in a way I loved. He is not extracting information Randi has asked to keep private; she came intending to tell him and repeatedly stops where the meaning becomes dangerous. He keeps asking the question beneath her choreography: not what happens, not how Vee looks, but whether Randi likes it.
+And then Vee builds them a future.
 
-Her evasions became almost painful. It is work. It is for the threesome. Somebody has to get Vee accustomed to her mouth. Then Pace says the kindest and most threatening possible thing: “You don’t have to do it for me.”
+The night class matters enormously because it is the first sustained piece of life Vee has actively arranged for herself and Randi outside the accidental-story version of their friendship. Twice a week, at night, chosen in advance, without Cassie. “It’d be like stats, except we’d have picked it.” Exactly. Vee wants to choose Randi back. Randi’s immediate yes and the roughness in “just us” made my heart hurt, because the desire and love are completely real. She wants those nights. She wants a relationship with Vee that is not only bait, game, or bridge to Pace. She still refuses to give Vee the truth necessary to choose the actual woman she is agreeing to meet there.
 
-There goes the entire shelter.
+And then Vee consciously deepens the kiss.
 
-Her orgasm on “doing the work” was funny for half a second and then sad, because her body answers before the girlfriend costume can repair the story. Pace removes himself as the reason, and Randi comes. Later “God, I want her” escapes completely clean—no invented man, no playful hypothetical, no “us”—and she hears it only after it is already in the room. She immediately adds *for us*, but the original sentence remains true.
+This is the threshold I have been waiting for. No French explanation, no passive receiving, no “her arms were slow coming down.” Vee knows Randi is drawing back, follows her mouth, takes another second because she wants it, notices herself doing it, and decides not to explain it away. That is a genuine turn. She is choosing Randi directly now.
 
-Pace’s “I am” matters too. He wants Vee, wants the three of them, and is plainly aroused by Randi’s account. But he does not require Randi to make her own desire a service to him. He keeps handing her ownership of it, and ownership is exactly what scares her.
+But she still translates the entire morning into “one hug” that will carry her through the week. Even after taking the second kiss herself, she collapses the desire back into friendship before she reaches the car. She can own the physical act and still cannot name its form. Then she points the car toward Pace already wanting sex, carrying Randi’s touch and kiss straight back to the man who knows the women kiss and finds it erotic.
 
-Then she says the thing underneath the whole book: being seen makes her feel real, and some nights it frightens her.
+I am desperate for the next chapter, but the urgency has changed. Vee is no longer simply being drawn toward Randi without recognizing her own participation. She has chosen a class alone with her, shown her an intimate nude, welcomed her foot against her leg, and pursued her mouth when it withdrew. She is building a relationship with Randi now. The tragedy is that she is doing it with real agency inside false facts.
 
-That broke my heart. This is the first time Randi has directly described what happened on the bench without mentioning the bench. Pace saw her so fully that she became real to herself, and the reality was frightening enough that she put the polished woman back between them. Vee receives that same total attention as liberation. Randi receives it as existence and threat at once.
-
-“Then I’ll be careful with you” was beautiful, and not enough. Pace means it completely, but he still does not understand that Randi’s greatest danger is not something he might do too roughly. It is the fact that he keeps seeing the truth she cannot survive naming. When she asks him to say something nice, he thinks and gives her “extraordinary,” and she accepts it—but by morning she is searching for physical proof of where she stands beside Vee.
-
-I am also furious that Randi told Pace almost the entire brunch and concealed the photograph. She tells him about food, sleep, Vee’s happiness, the kiss, even the wet hair in class. She does not tell him she saw the full nude he composed. That image remains a private intimacy between Randi and Vee, protected from Pace even though his gaze made it. Randi is no longer only withholding Vee’s reciprocal kisses to keep Pace central. Now that Pace knows Vee wants her, she is withholding the parts that belong to Randi alone.
-
-And the drawer is no longer only romantic. Vee’s drawer was the wordless answer she trusted. Now Randi has opened it without permission, read the claim it represents, and left it visibly ajar. Vee’s safest evidence of belonging has been entered by the person whose existence Pace removed from its meaning.
-
-I need Tuesday morning immediately. I need to know whether Vee notices the drawer, whether anything is missing or moved, and what Randi looks like when she sits beside her after holding those panties and crying in Pace’s bed.
-
-GATE 35 — Four
+GATE 34 — All the Time
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Pace strips away Randi’s claim that kissing Vee is work done for him until her body and finally her mouth admit “God, I want her.” Then Randi finds Vee’s panties and drawer, turns the wound into sex, cries, and leaves with her face restored; I need to see her sit beside Vee after crossing that boundary.
+WHY: Vee consciously chooses Randi back—showing her the full intimate photograph, arranging two nights a week alone together, accepting her touch, and pursuing the goodbye kiss herself. But every choice is made without knowing Randi already knows Pace’s house, music, body, and gaze, and I need the concealed couple exposed before Vee gives them anything else.
 
 LEDGER
-+ FEAR: Randi’s discovery of Vee’s drawer and hidden panties has made Vee’s growing place in Pace’s house feel like a threat, and she may act on that jealousy without ever admitting what she found.
-+ LOVE: Pace asking whether Vee actually wants the kisses, refusing to treat happiness, repetition, or arousal as substitutes for informed desire.
-+ GRUDGE: Randi searches Pace’s private drawer, takes Vee’s intimate gift into sex, and leaves Vee’s bathroom drawer open after entering a space neither of them gave her.
-+ WAITING: I need Vee’s next morning in the bathroom—whether she notices the drawer was opened, and whether Randi disturbed or took anything.
-~ F1.1 DEEPENED: Randi finally admits that Pace seeing her makes her feel real and frightened, then converts the threat of Vee’s place in his life into sex before restoring the polished face.
-~ F3.1 DEEPENED: Pace sees Randi crying with Vee’s panties between them but accepts “hormones” and supplies a keepsake grievance that misses the much larger wound.
-~ F8.4 DEEPENED: Vee’s private gift and the drawer that signifies her place in Pace’s house have now been discovered and erotically used by Randi, while Vee still does not know the other relationship exists.
-~ F18.1 SHIFTED: Randi finally tells Pace that Vee pursued her kiss, but still insists the intimacy is preparation “for us” until Pace explicitly removes himself as its excuse.
-~ S21.2 SHIFTED: Pace is no longer safely central to Vee’s desire—Randi admits “God, I want her” after learning Vee chose the second kiss, then immediately retreats to the threesome explanation.
-~ F25.2 DEEPENED: Pace checks Vee’s consent more carefully than Randi does, but still cannot imagine that Randi has searched Vee’s place in his house and used her private gift as material between them.
-~ F32.1 DEEPENED: The drawer Vee accepts as a loving answer has now become legible to Randi as a claim on Pace, without ever having been named or protected as Vee’s space.
-~ F33.1 DEEPENED: Vee’s belief that she is not being shared is now even more dangerously false: Randi physically brings Vee’s intimate gift into sex with Pace after privately viewing the photograph Vee believed belonged to his sealed world.
-~ W34.2 DEEPENED: Randi recounts nearly every intimate detail of brunch to Pace but conspicuously withholds the nude photograph, keeping that act of Vee’s exposure as something belonging only to the two women.
++ GRUDGE: Randi uses “you only gave him half?” to make Vee prove her courage by revealing the full nude photograph, while preserving the appearance that she asked for nothing.
++ WAITING: I need to see what Randi does with having seen the photograph Pace composed—and whether she tells him Vee showed it to her.
+~ F1.1 DEEPENED: Vee describes receiving Pace’s total attention as safety, and Randi nearly breaks because it is the same kind of being seen she fled; instead of naming that wound, she gathers more details and returns to her polished face.
+~ F4.1 DEEPENED: Randi’s light challenge makes Vee surrender the full photograph in order not to seem frightened, while Vee experiences the escalation as proof of her own bravery and their exceptional friendship.
+~ F8.4 DEEPENED: Vee now gives Pace’s concealed lover the private nude she created for him, chooses future nights alone with Randi, and pursues Randi’s kiss—all inside an origin and relationship structure she still believes are innocent.
+~ F9.1 DEEPENED: Vee deliberately creates a Tuesday-and-Thursday night world with Randi from which Cassie is absent, pleased that this time the friendship will be something they explicitly chose.
+~ F15.4 SHIFTED: Vee no longer merely receives Randi’s kiss and explains it away; she notices Randi withdrawing, follows her mouth, takes more for herself, and accepts that she wanted it—though she still renames the whole goodbye as a hug.
+~ F31.3 DEEPENED: Randi no longer needs an invented story to bring Vee to a threshold; a challenge, a bare foot against Vee’s leg, and sustained looking are enough to make Vee expose herself further and remain delighted by the intimacy.
+~ F33.1 DEEPENED: The photograph Pace promised not to share reaches Randi anyway because Vee shares it herself, without knowing Randi’s relationship to Pace would have radically changed whether she consented to that viewing.
+~ S21.2 SHIFTED: Randi can no longer keep Pace fully at the center of Vee’s desire: Vee independently arranges nights alone with her and pursues her retreating mouth, directly choosing Randi even while both women continue calling the bond friendship.
+~ W32.2 DEEPENED: Vee can describe the entire emotional shape of life with Pace to Randi, but still does not ask Pace what that life is called; “us” exists easily in her mouth everywhere except in a direct question to him.

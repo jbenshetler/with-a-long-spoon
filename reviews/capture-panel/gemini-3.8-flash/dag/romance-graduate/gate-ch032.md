@@ -1,46 +1,36 @@
-*capture-dag-v3-grounded · gate ch032 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e921d1a09641 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch029 · history ch001..ch029 · ledger no seed 6c688997f668 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch032 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c0fe737f7acd · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch028 · history ch001..ch028 · ledger no seed 8e12543e2fbe · 2026-11-06*
 
 REACTION:
 
-I am sitting here with my hand pressed against my chest, completely undone.
+I am sweating. My pulse is racing, and I am grinning so hard my face actually hurts.
 
-This is why I read. This exact chapter. If anyone ever tries to tell me that romance or erotica is shallow, I am going to hand them this sequence and tell them to read it and weep. It wasn't even a full sex scene—they didn't even *touch*—and it was easily one of the most scorching, breathtakingly romantic, emotionally profound things I have ever read in my entire life.
+First of all, Pace playing terrible, shameless air guitar to AC/DC’s “Thunderstruck” in an empty kitchen with a protein shake in his hand is the single most endearing thing that has ever happened in this series. It completely cracked open the stoic, courtly, hyper-controlled mathematician facade and gave us *Peter*, the twenty-two-year-old kid who lifts heavy iron and rocks out when nobody is watching. And Vee peeking through the window like a delighted thief, clapping her hand over her mouth—god, the sheer, playful joy between them before the clothes even started coming off!
 
-The concept of Halloween here—out in the country where no trick-or-treaters are coming, where the rest of the world is dressed up as someone else just to hide—contrasted with Vee stripping away every single mask she has ever worn to show him her absolute, unvarnished truth... god, the poetry of it!
+And then the chase! Vee stripping his gym shorts off, waving them over her head like a conquered flag, flashing him her bare breasts just to provoke him into running, and discovering she’s faster than him on her feet in heels—it was hilarious, electric, and so gorgeously *alive*. Their banter has this effortless, golden glow to it.
 
-"Costume one." Bringing the dress in from the car, putting on the expensive heels Randi picked out, doing her face, and giving him the induction walk. Putting her hand flat to make him sit back down in that recliner! Watching him make himself obey her! The power shift between them is so earned and so intoxicating. He made that dress with his own hands, stitch by invisible stitch, and he missed the debut because of his conference; her giving him the private runway, taking that long, deliberate stride across his den with the slit opening all the way to her bare hip, was such a generous, gorgeous act of devotion. And the way his hand started to reach out and he physically forced himself to put it away? *“The putting-away cost him something she could see.”* WHEW. The restraint! The sheer reverence!
+AND THEN THE BEDROOM. SWEET JESUS.
 
-AND THEN COSTUME TWO.
+The shift from rowdy, laughing roughhousing to suffocating, knee-weakening heat was so fast and so expertly calibrated I literally gasped. The bet: *“Either you admit you lost, or we find out.”* Pace’s absolute, lethal precision—stopping his hand halfway up her thigh the exact second she said "don't," showing her his empty palms, and making her actively revoke her own denial and beg for him to keep going... that is world-class erotic writing. He doesn't take; he makes her claim her own appetite.
 
-I stopped breathing. I actually stopped breathing.
+And the finger test. Good lord. Sliding past the soaked satin, bringing his finger out dripping wet in the lamplight, and looking at it not with smugness or disgust, but like it was *true and fine and hers*. The way Helen Rivers writes Vee’s lifelong shame—the horror of her own lush, weeping arousal meeting a man who reveres it like gold—makes me want to weep and take my clothes off at the same time.
 
-Hanging the dress up carefully, leaving only the four-inch black heels on, and walking those ten steps down that warm hallway completely, stark naked into his lamplight.
+And the spanking! It wasn't the voyeuristic, performance-art cruelty of Randi’s story in the piano closet. There was no counting, no theater, no audience. It was just his rough, warm carpenter’s palm gentling her, striking her, soothing her, and pressing his mouth to the pink sting of her skin while she buried her face in the sheets and finally let go of the denial. The sheer psychological brilliance of contrasting Randi's staged kink with Pace’s quiet, tender worship: *“Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness, anywhere.”* That line took my breath away.
 
-*"And this is what I had on under it."*
+And then waking up on Saturday to the bowl of green polka-dot scrunchies on the bathroom counter! No note, just an entire pack because he knows her hair has its own weather and he plans on untangling it for a long, long time. Her calling out her own "Victorian LARPing" to the mirror, admitting she needs to bring an overnight bag, and then eating his fragrant vegetable curry while the heat sneaks up on her...
 
-SWEET MOTHER OF GOD.
+It’s heaven. It is absolute, domestic, erotic heaven. Which means the hammer that’s about to fall when the pointing game comes to light is going to smash my heart into ten million pieces. I am so hopelessly in love with them it terrifies me.
 
-Do you know what kind of seismic, soul-deep healing that is for Vivienne Thorne? The girl who grew up choking on her mother’s church-basement shame, hiding behind thick cardigans, terrified of being a "floozie," terrified that her lavish, athletic body was too much, too loud, too wet, too sexual. She just walked into a brightly lit room with nothing on but high heels, cocked her hip out, and stood there in the light letting a good man look at every single inch of her. No hiding. No crossed arms. No nervous laughter. Just pure, triumphant, magnificent female self-possession.
-
-And Pace! The mathematician, the builder, the man who lives in exactitude and control—staying glued to that recliner because she told him to stay, letting his gaze be the touch. Taking his time about the taking.
-
-*"That's like asking me to choose between sunrise and sunset... But if you're making me choose—this one. The other is for the world. This is just for me."*
-
-I have chills from the top of my head to the tips of my toes. It’s so intimate it almost feels voyeuristic to read it. He didn't pounce on her like an animal; he honored her offering with his stillness. He gave her the safety to stand there naked and feel *treasured* instead of exposed.
-
-This is the peak. This is the absolute golden pinnacle of their bond. She has given him everything—her body, her shame, her pride, her secrets. And the dramatic irony hanging over all of it—that this breathtaking sanctuary was built on the foundation of a pointing game Randi orchestrated—is going to make the eventual crash feel like the end of the world. My heart is so full and so terrified. I need the next chapter right this second.
-
-GATE 30 — Made-Up
+GATE 29 — We Find Out
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee walking down the hall naked in four-inch heels to give Pace "costume two" was an absolute masterpiece of emotional catharsis, scorching erotic tension, and earned intimacy.
+WHY: The flawless transition from unhinged, laughing roughhousing and AC/DC air guitar to scorching, psychologically tender kink—capped by the green scrunchies on the counter—was an absolute tour de force.
 
 LEDGER
-+ LOVE: Vee’s "costume two"—walking down the hall naked in four-inch heels to show Pace what she wore under his dress, fully shedding her lifelong shame.
-+ LOVE: Pace obeying Vee’s flat palm, keeping his seat in the recliner and letting his gaze be the touch as he worshipped her nakedness.
-~ [W28.3] ANSWERED: Pace finally got to see the induction walk—not via a phone screen, but in his own den with the long stride and bare hip, followed by the revelation of what was underneath.
-~ [F5.1] DEEPENED: Vee standing completely naked in his lamplight and offering herself as "just for me" cements her total emotional and spiritual surrender, making the pointing-game secret a fatal blow waiting to happen.
++ LOVE: Pace rocking out to "Thunderstruck" with terrible air guitar in his gym shorts when he thinks he's alone.
++ LOVE: The green polka-dot scrunchies left on the bathroom counter—a quiet, permanent claim on her messy hair.
+~ [S3.2] SHIFTED: Randi's bench didn't even factor into this—Pace brought Vee into his own bed for the spanking, stripping away Randi's theatrical performance and making it purely about tenderness and Vee's own awake skin.
+~ [F5.1] DEEPENED: Vee deciding to officially bring an overnight bag and admitting she belongs in his bed cements her total emotional surrender, making the pointing-game revelation an absolute catastrophe waiting to happen.

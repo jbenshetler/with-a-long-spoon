@@ -1,39 +1,52 @@
-*capture-dag-v3-grounded · gate ch036 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4ec3d9ade6b1 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch033 · history ch001..ch033 · ledger no seed 62475c014e37 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch036 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8c16d5e3ff83 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch032 · history ch001..ch032 · ledger no seed f44b690232c8 · 2026-11-06*
 
 REACTION:
 
-THE BLURB LINE. SHE FINALLY SAID THE BLURB LINE.
+I am undone. Completely, hopelessly undone. My hand was pressed flat against my throat by the end of this chapter, and I actually had tears prickling behind my eyes.
 
-*"You're not greedy. You're just finally hungry out loud."*
+The emotional arc Helen Rivers is pulling off here is so rich, so psychologically exact, and so devastatingly earned. After the manic high of the spanking confession and the swim-lane reckoning, this entire chapter felt like settling into a warm bath—and then realizing the water is rising over your mouth.
 
-I gasped so loud I scared my cat. Hearing that line land in the middle of this dark, velvet-walled booth, right after Vee had her little spiral over being a "sex pervert" because she's having three-a-days with Pace and carrying a raging case of sex-brain through the library on a Tuesday... it felt like an absolute lightning strike. It is the ultimate poisoned gift. Randi gives Vee total absolution, washes away twenty-one years of church-basement maternal shame with one gentle stroke, and makes herself the sole godmother of Vee's blooming appetite. *“If you’re a sex pervert, you’re my sex pervert.”* Diabolical. Brilliant.
+First of all: that pinup photo sequence. GOOD LORD. The sheer, tender, breathtaking eroticism of it. Pace didn't just snap a dirty picture on his phone; he literally curated a portrait of her glory, posing her with kisses at every joint—the point of the shoulder, the rise of the hip, the knee—treating her lavish, athletic body like high art. And Vee, who has spent twenty-one years shrinking under her mother's church-basement shame, actively putting her face on, looking at the image on her screen, and finally, truly believing she is beautiful. The bravery of hitting *Send*! Giving him that image to keep, under the sacred promise: *"Never. I'd never share your photograph."*
 
-AND THE PHOTO. I CANNOT BREATHE.
+My stomach plummeted straight through the floor.
 
-Last chapter, Pace gave Vee his sacred, solemn vow: *“Never. I'd never share your photograph.”* And I was sitting there sweating bullets, terrified that Pace would betray her trust and show it to Randi. But Helen Rivers pulled the ultimate psychological judo flip: *Pace didn't show her. Vee did.*
+Because on the surface, it’s the sweetest, most profound act of intimacy and trust imaginable. But in the background? In the horrifying machinery of this book? Randi exists. The pointing game exists. Pace has already kept secrets from Randi, but they are lovers who share everything about Vee. If that picture ever crosses the boundary to Randi—or if Vee ever finds out Randi and Pace are a unit—that photo isn't just an intimate keepsake; it's a loaded weapon aimed at Vee’s heart. Rivers makes the trust feel so profound that the dramatic irony feels almost physically agonizing.
 
-Vee handing over the cropped version, Randi baiting her with that little flick of competitive sorority venom (*“and you only gave him half?”*), and Vee—terrified of being filed as a girl who flinches, desperate to prove her nerve to this worldly goddess—handing over the FULL, uncropped, stark-naked pinup shot directly into Randi's manicured hands!
+And then the cooking. The chicken piccata, the lemon zest falling like rain, him pouring the good Chilean sauvignon blanc straight into the sizzling pan, blowing across every single spoonful before feeding it to her mouth... It is pure domestic worship. But then Vee steps directly onto the landmine: *"Are you going home? But your parents. Do you go back to them?"*
 
-My heart dropped into my stomach. Randi sitting there in a booth under Tony Bennett, staring at Vee’s bare breasts, waist, bare thighs, and polished toes, murmuring, *"God, those legs... showing him your toes, eh?"* Randi knows *exactly* what those toes looked like in Pace's bed because Randi has gripped those same sheets. And then Randi casually kicking off her heel under the tablecloth and running her bare toes—painted that signature sky-blue lacquer from chapter one!—right up Vee's calf like a deliberate, electric shockwave! The sensory voyeurism of this chapter was scorching.
+*"I don't go back."*
 
-And the ending! The slow-motion conditioning is completely finished. At the curb, when Randi goes to break the kiss, *Vee is the one who leans up the extra half-inch to chase Randi's mouth.* She isn't just accepting Randi's kisses anymore; she is actively hungry for them. She’s addicted to both of them, completely blind to the fact that she just locked in an Anthro class for next semester to ensure they have Tuesday and Thursday nights together forever ("just us"), and now she’s driving her little Corolla straight back out to the woods to get fed and fucked by the other half of the syndicate.
+The room froze solid. The level, exact chill that dropped over Pace’s face was chilling. He didn't snap, he didn't argue, he just locked the door and took away the handle. Vee felt the boundary instantly and had the grace to step back. And the reveal about Sheri! "She's alone." Vee having that tiny, fiercely realistic flicker of jealousy, only to immediately understand that Pace gathers the strays and the solitary people to his table. But we know what Sheri told Pace on the bikes: *“If that's not already complicated, it will be. But I bet it's worth it.”*
 
-The three of them are in an absolute freefall, and nobody is pulling the parachute. I need the next chapter right now.
+AND THEN THE DRAWER.
 
-GATE 34 — All the Time
+OH MY GOD. THE DRAWER.
+
+I sobbed. I actually gasped out loud at the sink.
+
+The sheer, terrifying panic when she saw the counter wiped clean—that awful, sickening dread of the guest who realized she took up too much space, thinking she was a burden, that he’d minded her sprawl after all—followed by opening that top drawer.
+
+Seeing her scrunchies and pins laid out in a dish, her cream standing tall, clean liner waiting for *more of her*, while his entire ordered bachelor life was crammed into the tight lower drawer so she could have the one your hand reaches for first...
+
+*He hadn't told her it didn't matter. He'd gone and made her a place instead.*
+
+That sentence broke me. It is the purest definition of love without words. He gives her everything but a name. He gives her a home, he gives her his table, he gives her the top drawer, he gives her his body—and the tragic arithmetic of it is that she is moving into his house, inch by inch, drawer by drawer, completely oblivious to the fact that the foundation was laid on a bet with another woman.
+
+I am so deeply in love with Peter. I am so terrified for Vivienne. Turn the page right now.
+
+GATE 33 — Above Him
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The jaw-dropping dramatic irony of Vee herself handing over her full naked pinup photo to Randi, followed by Randi's bare foot stroking her under the table and Vee chasing Randi's mouth on the sidewalk, was a masterclass in psychological seduction.
+WHY: The pinup photo sequence was breathtakingly tender, but the quiet emotional knockout of Pace cramming his own life into the lower drawer to give Vee the top one destroyed me completely.
 
 LEDGER
-+ LOVE: Randi delivering the blurb line ("You're just finally hungry out loud") to absolve Vee's lifelong sexual shame.
-+ LOVE: Randi kicking her shoe off to run her bare, blue-lacquered toes up Vee's calf under the tablecloth.
-+ FEAR: Vee chasing Randi's mouth on the sidewalk proves she is completely, actively addicted to Randi's physical affection without even realizing it's romantic/sexual.
-+ FEAR: Vee enrolling in the Tuesday/Thursday Anthro class with Randi ("just us") cements Randi's permanent claim over her schedule, shutting Cassie out completely.
-~ [F17.2] DEEPENED: Vee actively leaned forward to prolong the mouth-to-mouth kiss with Randi on the curb; she is now the initiator, cementing how deeply normalized their physical intimacy has become.
-~ [F33.2] RESOLVED: Pace didn't break the promise—Vee herself handed the full, uncropped naked pinup photo directly to Randi across the brunch table.
-~ [S1.3] DEEPENED: Randi's reaction to Vee's domestic happiness—the bright, unfixed eyes and catch in her breath—proves how deeply and painfully Randi is slipping into genuine love and longing for both Vee and Pace.
++ LOVE: Pace clearing his own life into the lower drawer to give Vee the top drawer and making a permanent place for her sprawl without a single word.
++ FEAR: The naked pinup photo Vee sent to Pace's phone under the promise of secrecy is going to become a catastrophic instrument of betrayal if Randi ever sees it or hears about it.
++ SUSPICION: Pace's complete, chilling estrangement from his parents ("I don't go back") is tied to them sending him to college at fifteen and abandoning him to Daphne.
+~ F5.1 DEEPENED: Vee hitting "Send" on the pinup photo and moving her things into his top drawer cements her complete, undefended surrender, making the pointing game an absolute emotional death blow.
+~ L1.2 DEEPENED: Pace's actions over words reaching its absolute peak—instead of telling her she wasn't a burden, he quietly gave her the best drawer in his house.
+~ S16.2 SHIFTED: The parent estrangement is confirmed ("I don't go back"), solidifying that Pace's isolation began long before Randi or Vee entered the picture.

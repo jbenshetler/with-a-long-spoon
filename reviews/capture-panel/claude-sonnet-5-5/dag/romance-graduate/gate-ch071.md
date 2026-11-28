@@ -1,30 +1,34 @@
-*capture-dag-v3-grounded · gate ch071 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a736564100ac · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch066 · history ch001..ch066 · ledger no seed d17646e8ce1f · 2026-11-17*
+*capture-dag-v3-grounded · gate ch071 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 399176e30353 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch067 · history ch001..ch067 · ledger no seed 6cd936c0e3ca · 2026-11-06*
 
 REACTION
 
-Okay, this is a heat chapter that does something odd: it uses the gym as foreplay and the injury as a leash. I liked the first third a lot. Pace taking her tiny weights seriously, the collars on the five-pound plates, and the whole careful architecture of "she was never responsible for what she couldn't hold." That's love-as-doing again, and it's the best version of it. The knuckles on her breasts while he spots her and her laughing is funny and sexy, and "Something funny?" with the eyebrow is great.
+Oh, here's the trap, and the book springs it on me while I'm still smiling at the nice domestic week. The coffee in the thermos "because of her" is lovely and I knew it was setup.
 
-The injury scene is a real jolt. The plate rolling in, the flinch, and Pace's cold quiet "Apologize to the woman you hurt." Yes, I felt that in my stomach. Him standing between her and the other cage and the size of him changing. Hot in a way that has nothing to do with sex.
+The scene itself is the both-and I read this for. The tan-line photo, "wish you were here," her hand going down before she's decided, and "this is my best friend" and doing it anyway, with the "anyway" being most of it. Then the clean empty space where Pace's rule should have been, and she notices how free it is and refuses to look. That's the whole chapter, and it's exact. I'm in her bed with her.
 
-Then the balm scene. It's very explicit and very inventive: the cool paste that lies, the burn arriving from the neck down, her not being able to tell dread from want. "She did not want to be saved" is the best interior beat. And his refusal to let her finish, "Not tonight. We need to wait. We." That "we" gets me. I know what he's carrying. He's the one who asked "do you want to sleep with a woman" and he's denying her release again. Denial as care, and as the thing he does. I read it as him steering without meaning to, or maybe meaning to.
+Then "You're awake," and the fingers. The courtly kissing is a gorgeous squirm. The other fist, then "But it wasn't you." Oof. I said last chapter she'd have to edit Randi out of every report, and she didn't edit, she blurted. The blurt is the honest part of her beating her cover story, and she hears the hole in the sentence. Turning the phone around is a brilliant desperate move, and his pulse inside her is a gift. She reads it as simple male reaction, and I can't. Pace has been steering her toward Randi for weeks, and I think he just saw exactly what he wanted to see. His face "did nothing at all" is the line I'm chewing on.
 
-What I notice most is who's missing. Randi is off the page entirely, one line of cover story, "some sorority thing," and Vee's body doesn't mention her once. After the last three chapters that absence is loud. Is Vee actually behaving? The "sex brain under control" promise is holding, and I don't trust it. Also the first lie to Pace is still sitting there, and he just tended her like a saint. Dread.
+The interrogation is hot, and it's the January ritual again, but with a twist: she realizes "I have done this before," and then shoves it down. The turn is that she gets to "I wanted to be the one doing it." Not Randi's mouth on her. Her mouth on Randi. That's a real step in who she is, and he drives up into her right at the sentence. He's pleased, I'm sure.
 
-Complaints: the balm sequence runs long and says "she could not tell" about four times. The gym description is a long inventory. The ending is soft, a cozy hold with no turn.
+Then the quiet part is the best part. The same hand, the same name, the same man waiting, and she doesn't tell him about January. "The last time she had not had to decide." That's her first real choice to keep a lie, and I felt it settle. Last, the unsent cursor and Tuesday looming. Randi's face, finally.
 
-GATE 67 — Burn
+Grumbles: the sex brain callback fails on purpose, fine. The week-summary opener is a bit soft. And I'm impatient for Randi's head, again.
+
+GATE 68 — Postcard
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 9
+NEXT: 10
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "He had arranged the morning so that she was never once responsible for what she couldn't hold." (the gym inventory and the book telling me what his care means)
-WHY: Pace standing between her and the careless boys, then the burning balm and "Not tonight. We need to wait," is the heat and the care I read for. But Randi's total absence and the lie to Pace still sitting there make me want the other shoe.
+ROMANCE: 2
+ALMOST-STOPPED: "She had brought out a duffel on Saturday and by Monday it was empty, because there was a drawer" (the domestic week-summary before the phone lights up)
+WHY: The tan-line photo, "But it wasn't you," and "I wanted to be the one doing it" are the shame-and-want wire at full tilt, and her choosing not to confess January is a real turn. Pace's blank face and that pulse have me suspicious, and I need Tuesday and Randi's head.
 
 LEDGER
-+ LOVE: Pace taking her tiny weights as seriously as his own, and collaring the five-pound plates.
-+ LOVE: "Apologize to the woman you hurt," Pace's cold quiet standing between her and the boys.
-+ LOVE: The balm burning down from her neck, and "Not tonight. We need to wait."
-+ SUSPICION: Pace denying her the finish again is steering, and it will matter when Randi comes back on the page.
-+ WAITING: Where Randi has gone this chapter, and what the "sorority thing" Saturday really is.
-~ F62.1 DEEPENED: The first lie sits unspoken while Pace tends her, and his tenderness makes it heavier.
++ LOVE: "I wanted to be the one doing it." Vee wanting Randi in her mouth, not Randi doing it to her.
++ LOVE: The courtly "May I kiss your fingers?" and her unclosing the fist.
++ SUSPICION: Pace's blank face and the pulse at Randi's photo mean he got exactly what he'd been steering toward, and he isn't surprised.
++ FEAR: Vee has now consciously decided not to tell Pace about January's lie, so the secret will compound.
++ WAITING: Tuesday, Vee's face meeting Randi's, and whether she answers the "wish you were here" text.
+~ F62.1 DEEPENED: She lied in January and chose, this time, to keep it.
+~ F67.3 DEEPENED: Randi wasn't edited out; she blurted "it wasn't you" and had to report it, so the trap sprang within a week.
+~ W66.3 DEEPENED: Randi is off on an island and still has no head on the page.

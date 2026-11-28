@@ -1,29 +1,34 @@
-*capture-dag-v3-grounded · gate ch024 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 163a64df7901 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 0 trimmed) + raw ch021..ch023 · history ch001..ch023 · ledger no seed 9fbba61ba80a · 2026-11-22*
+*capture-dag-v3-grounded · gate ch024 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b70ca89dda6a · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 0 trimmed) + raw ch021..ch022 · history ch001..ch022 · ledger no seed 56ba588bc362 · 2026-11-22*
 
 REACTION
 
-Okay. The payoff I've been waiting on, and it's exactly the shape I expected: the slit, the long second step, nothing under the silk. The walk is hot, and it's hers. She took the careful step, then chose the long one, and the room woke up. That's the engine again, shame and heat on one wire, but this time it ends in a public yes with nobody's hand on her. I liked that the room folds it up and moves on. Only she keeps it. That's true to how these things go.
+Well, this one is a different animal, and I think it's the one the whole book has been walking toward. It's a long, warm, almost entirely clothed conversation under a quilt, and it unsettled me more than the bench did.
 
-But the chapter is also quietly rotten underneath, and I loved that. The receipt she doesn't unfold, the books she can't pay for in January. The credit card is now a physical object in a drawer under her class schedule. F21.1 got a body. Randi's heels hold her "firm as a hand under her foot," and she keeps thinking of Randi kneeling, with the buckle her fingers did. Pace's dress, Randi's shoes. She's walking across the stage wearing both of them and thinks she did it herself. She mostly did. That's the knife.
+The surface is lovely. The cumin and the unopened saffron are funny and specific. "Pace went first to the hand underneath the thing" is exactly why she's gone for him. The seventh-grade desk in the hall hit me hard. "They took the thing you loved and made it the punishment" is the best line she's had. And his speech about the paint and the coastline and the leaf is where I fell for him again. I know what he is, and I still wanted him to keep talking. That's the trick, and it works on me as much as on her.
 
-Cassie again, holding her phone, saying "Not horrible. Just honest," and Vee reaching for the true thing and not finding it. And then the picture. She sends Pace the uncropped frame, "he would have no idea what else was in the frame." Oh, honey, the whole book is that sentence. Everyone's sending everyone the frame.
+Then Daphne. A tutor, nineteen to his fifteen, two years. Vee does the arithmetic and almost says the word, and then she doesn't, because he's defending it and doesn't hear himself. Oh, honey. I get it now. The wound is the pattern. A grown woman "tended" a boy and he calls it luck, and now he's the one doing the tending, to a girl who doesn't know the plan. He thinks he's the opposite of Daphne's hurt, and he's actually repeating the shape. That reframes the Daphne door line from chapter 1, and I'm filing it hard. The scar, "Not tonight," the Peter name. So many doors with times on them. I'm bracing for the real name to matter.
 
-Randi's absence is an officers' meeting. Brooke again. I keep sniffing at that. Whatever Brooke asked in ch22, it's keeping Randi away from the one thing she'd have loved to see. I want her head so badly.
+The twist of the knife is the last page. Vee thinks about Randi as the stranger she stumbled into, and about Pace crossing a coffee shop because she complained about math. "She had stumbled into her." "She had never been so fortunate." Reader screaming. That's the whole book in one paragraph, and she's sleeping on the proof that she was chosen. I nearly put the book down to breathe.
 
-Gripes: the chapter explains its own heat a little ("whether the two came to the same thing"), the dress-and-slit choreography is a bit repetitive, and the induction itself is oddly short on texture. It's also a payoff that arrives without anything threatening it, which makes me nervous in the good way: the sky is clear and I know better.
+And the news: he's flying to Berkeley, and he'll miss the induction. That's the plot move. Randi was already busy, and now Pace is gone too. Vee will walk in alone in the dress, with only Randi's shoes and whatever Randi's been cooking. Something is going to happen at that induction, and I'm scared, and I want it.
 
-GATE 24 — The Induction
+Gripes: it's the second low-heat chapter in a row, and the heat is a hand on a breast and a scar. The backstory is exposition-shaped, though it's dramatized well. Vee narrates her own insight a bit too neatly ("she understood that he was defending it"). And again no Randi head, and the bench is still behind the door. But I'm closer to hooked than I've been in a while.
+
+GATE 23 — Rock
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 9
-HEAT: 2
-ROMANCE: 1
-ALMOST-STOPPED: none
-WHY: The long step across the stage is Vee choosing to be looked at, and it's hot and earned. The receipt in the drawer and the uncropped photo sent to Pace sit on top of a pile of secrets, and I want something to finally break.
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: "Fifteen was braces and borrowed cars and being driven places by other people's mothers." The teenage-inventory paragraph was a pause I didn't need.
+WHY: Daphne's story, told as luck by a man repeating its shape, is the book's best reveal, and Vee's closing "so fortunate" is dramatic irony at full pitch. Pace flying off before the induction sets up something awful, and I want it now.
 
 LEDGER
-~ F21.1 DEEPENED: The folded receipt is in her desk drawer and she can't see how she'll pay for January's books.
-+ LOVE: The long second step across the stage, the slit falling open on purpose, the room waking up, and nobody's hand on her.
-+ SUSPICION: Brooke's "officers' meeting" is a convenient leash. It keeps Randi away from the one night she'd have wanted to watch, and I think it's about more than scheduling.
-+ FEAR: The uncropped photo to Pace shows him the dress, not what's in the frame. Every secret in this book is a picture someone is sending without the context.
-~ W23.4 ANSWERED: The induction happened, with Pace in Berkeley and Randi at a meeting, and she walked it alone in the dress and Randi's shoes, and nothing broke.
++ FEAR: Pace is repeating Daphne's pattern. An older, wiser party shaping a younger one, and he calls the original luck.
++ LOVE: "They took the thing you loved and made it the punishment," and Pace's paint-and-coastline speech about the world's language.
++ SUSPICION: Pace's real name is Peter, and the scar on his thigh is tied to the Daphne years; "not tonight" means it's coming.
++ WAITING: The induction on Tuesday with Pace gone to Berkeley, and Vee walking in alone in the dress and Randi's shoes.
++ FEAR: Vee closes sure she was lucky to stumble into Randi, and the truth of the setup will break her.
+~ F12.1 DEEPENED: The bedroom door stays shut, and she is sleeping in his bed with no idea what's behind the plan.
+~ S17.3 SHIFTED: The scar is real and tied to something he'll tell later, "not tonight."
+~ S20.4 DEEPENED: Pace being away for the induction leaves Randi room to act.

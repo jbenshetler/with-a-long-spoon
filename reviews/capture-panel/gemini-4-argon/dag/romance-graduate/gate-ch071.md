@@ -1,69 +1,89 @@
-*capture-dag-v3-grounded · gate ch071 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a736564100ac · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch066 · history ch001..ch066 · ledger no seed 6d5b3dab3fc3 · 2026-11-17*
+*capture-dag-v3-grounded · gate ch071 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 399176e30353 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch067 · history ch001..ch067 · ledger no seed 4922ea56fc1b · 2026-11-06*
 
 REACTION
 
-WAIT A SECOND. Did we just jump from Saturday, February 6 (Chapter 66's brunch) to **Thursday, February 18 – Sunday, February 21**?!
-Hold on—my brain is spinning at what that twelve-day time jump means before we even get to the gym and the camphor balm!
-What was on Sunday, February 14, five days ago?! **Valentine's Day!** And what was supposed to happen on Valentine's Saturday in Chapter 56?! The 460 dance hall with Sheri and the Brooks & Dunn cover band! Did Valentine's Day already happen off-page in those twelve days (so they're in this deep, settled domestic groove where she's eating Thursday dinner at his house and casually saying *"Randi's got some sorority thing Saturday"*), OR did something else happen?!
-Wait—and look at why Randi canceled Saturday brunch on February 20: *"Randi's got some sorority thing Saturday."* Is that part of Randi's mandatory freshman attendance probation from the Standards tribunal in Chapter 65 ("the punishment of a girl caught skipping a car wash"), where she now has to show up to every mandatory sorority function on top of Thursday nights?!
+OH MY GOD. My heart is hammering so hard I can feel it in my throat. Every single fuse Chapter 67 lit just went off in the dark of Pace's bedroom, and the way this chapter mirrored and escalated Chapter 62 (*Boyfriend*) had me gripping my Kindle until my knuckles turned white!
 
-And then THIS CHAPTER. Oh my god. How does this author take a powerlifting gym, a pulled neck muscle, and a jar of camphor liniment and turn it into one of the most intense, agonizingly erotic, and overwhelmingly romantic chapters I have ever read in my life?!
+First of all, let's talk about the domestic setup at the beginning:
+It is **Spring Break**! (*Saturday, March 6*—which means on Tuesday when Vee looked at the clock at 7:10 p.m., there was no class that week and "would not be for another one after that" or wait—Tuesday was the week before break or the start of break while Randi is away on a tropical island for two weeks? And Vee has moved in for the whole week with her new brass key and her own green sheets on Pace's bed!). Look at the details: by Monday her duffel is empty in her drawer, she knows where he keeps the good knife, he puts the 6 a.m. coffee in a thermos so it's still hot when she wakes up at seven, and it "should have been the best week of her life. It was very close."
+Why *only* "very close"?! Because at 7:10 p.m. on Tuesday night, standing at the counter with a dish towel, her stomach drops because she isn't sitting beside Randi in Anthropology! Even living inside her dream domestic week with Pace, she is actively missing Randi—and by Thursday she's stopped putting her phone face-down on the counter!
 
-Let's start at the gym on Saturday morning, because every single detail of Pace in his element had me swooning:
-1. First, the contrast between the campus rec center and this converted cinderblock warehouse with no music, just the flat clash of iron and men breathing, where everyone else seals themselves off in headphones and Pace wears nothing over his ears because *"Pace, she was learning, did not seal himself off from a room. He read it."*
-2. Second, the way he treats her tiny beginner weights with the *exact same reverence and precision* he gives a massive lift! Seating her grip on the knurling, walking her feet back under her knees, setting her shoulders into the bench with the flat of his hand, collaring her tiny five-pound plates ("Everything gets a collar"). Look at what Vee realizes: *"That was the thing that got into her first. Not the weight. That he took her weight seriously. That the smallness of what she was doing bought her back none of his care."*
-3. Third, the comedy and heat of him standing over her head to spot her on the bench press while commando in his gym shorts! Only she in that whole room of men knows what's under those thin shorts right above her face, and when his knuckles graze her breasts on the third rep purely because that's where the bar path is, she loses it laughing!
-4. Fourth, her realization when he loads three big plates a side (315 lbs!) and presses more than the two of them weigh together for six controlled reps: *"She could never have saved him if it had gone wrong — never lifted it off him — and so he had kept himself, the whole set, inside what he could put back down on his own. He had arranged the morning so that she was never once responsible for what she couldn't hold. She hadn't even felt the danger, because he had never let there be any."*
+And then 11:41 p.m. in the dark.
+The postcard texts from Randi:
+1. The turquoise pool and the pink drink with the ridiculous flower.
+2. And then the selfie from the lounger: foreshortened from above, sunglasses pushed up into her hair, mouth open on a laugh, blue pool light under her jaw... **topless**, in nothing but a string bikini bottom with startling white tan lines across her bare breasts!
+3. **"wish you were here"**
+I literally gasped when Randi sent a topless photo of herself with *wish you were here* straight to Vee's phone at midnight! Think about that callback: in Chapter 34 and Chapter 65, Vee showed Randi her two naked photos from Pace's bed. Now Randi—from a lounger in the tropics—sends Vee a topless photo of *herself*!
+And look at what catches Vee by the throat when she scrolls back down to look at it a second time:
+*"The tan lines. That was the thing... the white of her where the sun had not been, the hard bright edge of it against the brown, the fact of a boundary. Somebody had drawn a line on Randi with the sun and Vee could see exactly where it was."*
 
-And then the accident in the squat cage!
-Look at the setup: Pace looks once at the two loud college boys in the next cage, sees the bare ends of their uncollared barbell, and lets it go. And two minutes later, one boy smacks the other's ass mid-squat for a joke (*"you want it in the butt"*), the uncollared bar tips, shoots a plate off one side, and catapults a 45-pound iron plate straight into Vee's cage at her feet while she has a barbell on her back!
-Everything Pace does in the next three minutes is pure alpha competence without a single ounce of chest-beating:
-- Instantly catching her around the chest and shoulder to walk her back into the pins so the weight comes off her torn neck.
-- Sitting her down, reading the injury before the adrenaline even lets her feel it, and then turning around and putting himself between her and the other cage.
-- *"He didn't shout. His voice went the other way, down and quiet and very exact, and it carried the space between the cages without being lifted at all. 'You hurt her,' he said. 'Your carelessness hurt her.' ... 'Apologize to the woman you hurt.'"*
-And watching those two loud frat boys go dead still, apologize to Vee, look to Pace for permission to breathe, and quietly put the collars on their bar! I was practically fanning myself already.
+And her hand is already between her legs before her brain even takes a vote!
+Look at the progression here:
+1. First, she lies in the bed she put her own green sheets on, in the house she has a key to, a foot away from the sleeping man who made the key, touching herself to a topless photo of Randi Sloane ("She thought, clearly, with her hand where it was: *this is my best friend.* And then she did it anyway, and the *anyway* was most of it").
+2. Second, right in the middle of touching herself, Pace's voice from the mountain cabin in Chapter 67 rings like a bell in another room: *When you do that, thinking of me, tell me.* [F67.5] AND THEN THE BELL STOPS BECAUSE HE IS NOT IN IT!
+*"Nothing was owed. There was nothing to say and no one to say it to. She noticed that, briefly, at the edge — the clean emptiness where the toll should have been, how free the whole thing was, how* fine *—"*
+WHAT A DEVASTATING INSIGHT. Because Pace specifically asked her to tell him *when you touch yourself thinking of me*, touching herself to *Randi* has a loophole where she owes Pace nothing and gets to keep it completely private and free!
+3. Third, look at the shift in what she's fantasizing about as she climbs toward the edge:
+In Chapter 61 and 62, she wanted Randi's mouth on *her*. In Chapter 65, she came to the image of Randi's glossed mouth rising wet from between *her* thighs.
+Tonight, for the very first time:
+**"She wanted a mouth. That was what she had got to. Not being touched; she was past that. She had Randi's chest in front of her with the blue light moving on it and she wanted her mouth on it, wanted the small dark point of her between her own lips, wanted to be the one leaning down—"**
+She isn't just a passive recipient anymore ("lying there having it happen")—she wants to be the active lover putting her own mouth on Randi's breast and taking Randi's nipple between her lips! (Which is the exact mirror image of Randi's confession to Pace in Chapter 55: *"Her breast in my hand... And her nipple in my mouth"*!)
 
-AND THEN THE BEDROOM SCENE WITH THE CAMPHOR BALM.
-I don't think I took a full breath for six pages.
-Look at how this scene builds:
-All afternoon—from the gym to the gentle drive home to him lifting her shirt over her hurt left arm, unhooking her bra one-handed, and warming the house while she stands in the hot shower—her body is aching with arousal *underneath* the pain in her neck, and Pace is strictly, purely tending her injury, asking nothing of her.
-When he sits her on the edge of the bed and rubs that sharp, herbal camphor-and-green-paste into her knotted neck and shoulders, and then comes around in front of her to work the sternocleidomastoid cord down under her collarbone—bracing his forearm across her back so her spine doesn't even have to fight his pressure!—she is so turned on that when his greased hand moves along the top of her chest, **she tips her bare breast up into his palm**.
+AND THEN PACE ROLLS OVER AND SAYS: **"You're awake."**
+I nearly died during the finger-kissing trap.
+When she climbs on top of him to finish the ache she started on Randi's photo—keeping her wet right hand balled into a fist against her thigh!—and Pace says in the dark:
+**"Give me your hand... May I kiss your fingers?"**
+And she gives him her clean *left* hand, and he courtly kisses each finger one by one, and she lets her breath out thinking she got away with it... and then against her palm he says:
+**"Now let me kiss your other fingers. So they don't feel left out."**
+**"Vee."**
+HE KNEW THE WHOLE TIME!!
+He wasn't asleep when she stopped! He felt or heard her touching herself in the bed beside him, waited for her to climb on top of him, kissed her left hand first so there was zero way out when he asked for her right hand, and then *sucked her wet finger into his mouth* just like he did in the cabin in Chapter 67—assuming (or testing!) that she had been touching herself thinking of *him*!
 
-And look at the consent architecture here:
-1. Pace immediately draws his hand back: *"Keep still."* Because the ointment is going to burn, and he didn't mean to put it on her breast!
-2. Vee reaches up, catches his wrist, pulls his hand back, and presses his greased palm flat over her breast—forcing him to work the balm into her hard nipple while it's still cool and greasy, knowing the delayed fire is coming!
-3. Then Pace tries to give her **mercy**: he brings his other hand around and strokes her second breast with the *dry backs of his knuckles*, keeping the burning paste off it so she has one safe, plain breast!
-4. And Vee *refuses the mercy*! She presses her plain breast into his closed hand and says **"Yes"** before he even asks—and even then, Pace goes still and makes her confirm it in words (*"Do you want me to keep going?"* / *"Yes"*) before turning his loaded palm over and greasing her second nipple too!
+And because Vee thinks he's claiming her wetness as his own under their Chapter 67 pact (*When you do that, thinking of me, tell me*), the truth blurts right out of her mouth before she can stop it:
+**"But it wasn't you."**
+And look at the detail right after she says it:
+*"Something crossed his face. She was looking right at him and the room had come up enough that she could see the shape of him, and something went over it, there and gone, faster than she could put a hand on."*
+WAIT A SECOND. What crossed Pace's face when she said *"But it wasn't you"*?!
+First, until she pulls out the phone, could he have had a split-second flash of hurt or jealousy—or did he already know it was Randi, and what crossed his face was the realization that Vee was touching herself in his bed to Randi *without him in the fantasy at all*?! Remember Chapter 21, when Pace's threesome fantasy dissolved into *only Vee* and Randi felt shut out? Now Vee is in Pace's bed touching herself to *only Randi*, and telling Pace to his face while he's inside her: *"It wasn't you"*!
+And when Vee realizes in horror that *"It wasn't you"* sounds like she was thinking of another *man* (just like "Harrison" in Chapter 62!), she grabs the phone off her chest, wakes the screen, and turns the topless photo of Randi around to show him:
+**"It was this."**
 
-The sensory writing of that delayed burn travelling down from her throat to her collarbone to the upper slope of her breast while his fingers are tugging and rolling her nipples—*"What have I done. She could read her own future clean off her own skin. The neck was what the breast would be. The breast was what the tip would be"*—had my heart racing! That terrifying, intoxicating moment where the heat arrives on her drawn-out nipple and marries the pleasure so she can't tell dread from wanting, pain from arousal, pressing her own palms over the backs of his hands to trap the fire against herself while her pleasure demands *steel* from the man who treats her like glass!
-AND THEN THE DENIAL AT THE PEAK!
-First, when he kisses her softly while her breasts are on fire, and then pulls his mouth away—and before her face can turn up to chase his kiss and wrench her torn neck, he is already behind her, gathering her spine against his chest: *"He had taken the kiss away because she could not have it without hurting for it."*
-And when she starts climbing toward an orgasm anyway and the very first inch of her back arching flashes white-hot agony in her torn neck:
-**"Easy," he said at her ear. "Not tonight. We need to wait."**
-*We.*
-And instead of taking his hands off her, he flattens his palms over her burning breasts to *bank* the heat, holds her ribs still against his chest, presses his thigh against hers so she has nowhere to spend the motion, and brings her down one notch at a time without letting her come—because coming would tear her neck, and he will not let her hurt herself for an orgasm!
+And once again—just like in Chapter 62!—Pace pulses hard inside her at the sight of Randi's topless photo and *wish you were here*, and Vee's brain floods with relief thinking: *Oh thank god, he's just an ordinary simple guy who gets turned on by two girls!*
+Oh, honey. He is looking at a topless photo of the woman he's been sleeping with for months sending *wish you were here* to his girlfriend at midnight!
 
-And if that wasn't already a 10/10 for both heat and romance, the aftercare that follows on Saturday night and Sunday morning reduced me to a puddle:
-- Putting her to bed topless in his thrice-rolled sweatpants because her breasts are still burning from the balm, supporting her skull and shoulder blades so her neck carries zero weight, building a custom cradle of a tight-rolled hand towel under her neck curve, two pillows flanking her head, and a third pillow under her knees, and sleeping on the far side of the mattress with his hand resting on the sheet beside her hip just so she knows he's there.
-- Putting the sweatshirt *off his own warm back* over her head on Sunday morning (hurt arm first this time!) and rolling a bath towel around her neck like a soft cervical collar—and when she says *"I look like a horse,"* deadpanning a soft, grave **"Neigh"** that makes her laugh into her neck!
-- Turning on the TV he never uses, telling her she can rent whatever she wants so she doesn't have to see commercials, making scratch **chicken and dumplings** while she watches two rom-coms, and sitting at the end of the couch with her wool-socked feet in his lap, not turning a single page of his book because he's just watching her laugh, while his thumb strokes the arch of her foot through the wool sock and keeps that banked, unspent wanting from Saturday night humming all the way up her body! (Wait—look at the contrast between Randi stroking Vee's arch in sheer nylon under the brunch table in Chapter 66, and Pace stroking Vee's arch through his thick wool sock on the couch while she's wrapped in his sweatshirt, his towel, and his blanket!)
+And then the second inch-by-inch interrogation!
+Look at how this repeats Chapter 62 (*"`Again?`" she said, and heard her own voice go throaty on it*) while taking Vee somewhere completely new:
+- He makes her say the caption out loud in her own voice in his bed: *"She said, wish you were here."*
+- He makes her confess what she was looking at: *"Her chest. I was looking at her — her breasts. Where the sun hadn't got to her. There's a line."*
+- When she tries to dodge *"What were you doing?"* with a pert *"You saw,"* he holds still until she hears how she just used the photo as a prop to avoid speaking—and look at that ice-cold flash in her head: *"I have done this before."* (With Randi at brunch in Chapter 65!)
+- He makes her say the name out loud even after he's already seen the photo: *"Her. Randi. I was looking at Randi."*
+- And finally, when he seats her all the way down to the root and asks *"What did you want?"*, she realizes the old January answer (*"I wanted her mouth—"*) isn't true anymore:
+**"I wanted to be the one doing it... I wanted her — I wanted her *in my mouth.* Her nipple. I wanted to lean down and take it in my mouth and hear the noise she'd make. I wanted to be the one — I wanted to *do* it to her, I wanted her—"**
 
-I am so completely in love with them here—and at the same time, sitting at February 21 with Vee banked and aching from an unspent weekend and heading back to her dorm on Sunday evening means Monday and Tuesday with Randi are right around the corner!
+And THEN—after they both come hard on the green sheets she bought for his bed—comes the most devastating part of the entire chapter.
+In January (Chapter 62), after confessing the mixer kiss, Vee was able to laugh and blame her "sex brain" (*I was keyed up, my body just missed you*) and fall asleep feeling like she'd "gotten away with it."
+Tonight, when she tries to run that same script (*"That's — my sex brain, honestly... I get like this on Thursdays, apparently"*—note that means tonight is Thursday night turning into Friday morning, or Saturday March 6 is the header and she's flashing back to Thursday night of this week!), **the excuse dies in her mouth**.
+Why?
+*"because she had said it wasn't you out loud in this room, and it was still in here with them, and it did not fit under any of that."*
+And Pace doesn't build a wall of reassurance for her. He just says *"Okay"* and *"I don't,"* giving her "nothing to be afraid of and nothing to hide behind either."
+And lying there in the silence on his chest, she remembers January—when he asked *"Anything else you want to tell him about Randi?"* and she lied *"No"* without having to think about it—and realizes she could confess that January lie right now, and **consciously chooses not to say it** ("she felt the not-saying settle into her somewhere and take up a small permanent amount of room, and she understood that this was different from the last time, because the last time she had not had to decide").
 
-GATE 67 — Burn
+And an hour later, while Pace is asleep, she fishes the phone out of the sheets, stares at Randi's topless photo and *wish you were here*, brings up the blinking cursor to reply... and can't write a word, turning the phone face-down with Tuesday only days away!
+Wait: what is Pace going to do now that he has seen Randi's topless *wish you were here* text to Vee AND heard Vee confess *"I wanted her nipple in my mouth. I wanted to do it to her"*?! And what happens on Tuesday when Randi gets back from the island, tanned with those exact white tan lines under her clothes, and Vee has to sit next to her in Anthropology?! I need Chapter 69 right now!
+
+GATE 68 — Postcard
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This chapter was an absolute masterclass in both erotic intensity and earned romantic tenderness—from Pace taking Vee's tiny weights seriously at the gym and quietly putting two careless frat boys in their place when their uncollared plate causes Vee to tear her neck muscle, to that scorching, agonizing camphor-balm scene where Vee demands the burn on both breasts and Pace banks her climax with his hands so she won't hurt her neck, followed by top-tier Sunday aftercare with a towel neck-brace ("Neigh") and homemade chicken and dumplings.
+WHY: This chapter was a scorching, razor-sharp escalation of Chapter 62—from Randi's late-night topless vacation photo (*wish you were here*) and Vee realizing she owes Pace no confession when Pace isn't in her fantasy, to Pace's devastatingly smooth "Now let me kiss your other fingers" trap, Vee blurting out "But it wasn't you" and confessing she wanted to put her own mouth on Randi's nipple, and the haunting aftermath where her "sex brain" excuse finally fails to cover the truth.
 
 LEDGER
-+ LOVE: Pace treating Vee's tiny beginner weights at the powerlifting gym with the exact same care and seriousness as a heavy lift ("Everything gets a collar"), while keeping his own 315-pound bench press inside what he can rack alone so she's never in danger spotting him.
-+ LOVE: Pace's ice-cold, quiet authority when the two college boys drop an uncollared plate into Vee's cage ("You hurt her. Your carelessness hurt her. Apologize to the woman you hurt") before carrying her two tiny plates back to the pegs and ending the workout before she even realizes how hurt she is.
-+ LOVE: The scorching, agonizing camphor-balm scene—Vee refusing Pace's mercy when he uses the dry backs of his knuckles on her second breast, demanding the delayed fire on both nipples, and Pace banking her climax under his flattened palms ("Not tonight. We need to wait") so she won't wrench her torn neck arching into an orgasm.
-+ LOVE: Pace's peerless Sunday aftercare—building a four-pillow-and-towel cradle for her neck in bed, fashioning a makeshift bath-towel neck collar over his warm sweatshirt and deadpanning a grave "Neigh" when she says she looks like a horse, cooking chicken and dumplings while she rents rom-coms, and stroking her wool-socked arch in his lap without turning a page of his book.
-+ SUSPICION: The twelve-day jump from February 6 to February 18 skipped right over Valentine's Day (and the Valentine's Saturday dance hall date with Sheri from Chapter 56!), and Randi missing Saturday brunch for "some sorority thing" is almost certainly fallout from her Standards probation.
-~ W56.5 FADED: The narrative jumped twelve days from February 6 to February 18, skipping right past Valentine's Saturday without showing the 460 dance hall night with Sheri and the Brooks & Dunn cover band.
-~ W66.5 SHIFTED: Two quiet weeks have passed since the February 6 *Still Life* brunch, with Randi now missing Saturday brunch for "some sorority thing," and Vee is heading back to campus on Sunday evening (Feb 21) with a healing neck and a whole weekend of unspent, banked arousal from Pace's hands.
++ LOVE: Pace's surgical, courtly trap in the dark—kissing every finger of the clean left hand Vee offers him until she thinks she's safe, then murmuring against her palm, "Now let me kiss your other fingers. So they don't feel left out."
++ LOVE: Vee's realization that because Pace asked her to tell him when she touches herself thinking of *him*, touching herself to Randi's topless photo leaves "Nothing was owed... the clean emptiness where the toll should have been, how free the whole thing was."
++ LOVE: The pivotal shift in Vee's desire during the second inch-by-inch interrogation—stopping herself at "I wanted her mouth—" because she's past wanting to be done to, and confessing, "I wanted to be the one doing it... I wanted her *in my mouth.* Her nipple."
++ LOVE: Vee's "my sex brain" excuse dying in her throat afterward because "she had said *it wasn't you* out loud in this room, and it was still in here with them, and it did not fit under any of that."
++ WAITING: Tuesday when Randi returns from her island trip—with those exact tan lines under her clothes and her *wish you were here* text still unanswered—and what Pace does now that both women have confessed wanting each other's breasts in their mouths.
+~ F67.5 CONFIRMED: Just days after agreeing to tell Pace whenever she touches herself thinking of him, Vee touches herself in bed right next to him over a topless photo from Randi—and when he sucks her wet fingers assuming it was for him, she blurts out, "But it wasn't you."

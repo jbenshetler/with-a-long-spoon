@@ -1,34 +1,31 @@
-*capture-dag-v3-grounded · gate ch037 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b29cb00cede3 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch034 · history ch001..ch034 · ledger no seed af0f4382bbbb · 2026-11-06*
+*capture-dag-v3-grounded · gate ch037 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4ec3d9ade6b1 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch033 · history ch001..ch033 · ledger no seed e938d6f60752 · 2026-11-06*
 
 REACTION
 
-Oh, finally. Pace's head again, and this is the chapter where the pipeline turns on itself, and it's the one I've been waiting sixteen chapters for, even though it still isn't Randi's head. It's the closest yet.
+Okay. This is the chapter where the book shows me its own hand, and I felt it. Vee walks in and tells Randi everything: the amount of it, the sheets in both fists, "sex brain," and then the line the blurb has been waiting for. "You're just finally hungry out loud." Randi says it like absolution, and I know whose mouth that sentence has been in all along. The jacket line landing in the text gave me a small cold thrill.
 
-The structure is the thing. Randi opens with the story of Vee in stats, hair wet, "still full of your come," and then moves the story into Pace's hands and then into her own body. The couch scene is hot, and it's hot because every beat is two-faced. She's on her knees with her face turned away, and he can see her in the mirror. She tells him about the kiss while he's inside her, and "the clench came on the word." Then he asks "Do you like it?" and she says "I'm doing it for *you*," and "it's *work*." Oh, honey. And his "You don't have to do it for me" is kind, which is the cruelest thing he could say, because it takes her alibi away and she comes on it. "Oh, but I'm *doing the work*" and then the orgasm. That's the whole book in one line. And "God, I want her," out loud, then "For us. When she's ready." She heard it leave her and he felt her hear it. The tell is nearly in the open.
+The best beat is Randi coming apart a little. Vee says "like he wants *me*, with the body attached," and Randi's eyes go bright and unfixed, and she shakes her head, and her breath catches. "It doesn't," low and uneven. That's the leak. Vee reads it as pride that her story moved a sophisticated woman, and I'm sitting here knowing it's the opposite. Randi may be hearing Pace's own words about Vee come back to her, or she's hearing what she wants and can't have. Either way it's the first time a story hit Randi harder than she could hide, and the beat is quiet and perfect.
 
-What I love: Pace is finally close. He notices "Well. She told me first." He notices the nipple-pinch dodge, the unfinished "and at the end of it there's the whole—". He asks "Is she all right?" and "Is she happy?" He's the one checking the gauge. He is a better man than I gave him credit for, and still not good enough, because he files every sign as heat.
+Then the photo. Vee shows Randi the cropped one, then the whole thing, "I gave him *all* of it," and Randi looks long, past a verdict. My stomach dropped. Two chapters ago he promised never to share the photograph, and here it is in Randi's hand, shown by Vee herself. Fear F33.1 resolved in the cruelest way: Pace didn't have to break the promise. She did it for him. That's sly and I admire it, and I'm furious for her. "Miss November," the toes, the bare foot under the table. The foot under the table is the hottest thing in the chapter, a small deliberate touch with the sky-blue nails.
 
-Then the morning. The panties. Her carrying Vee's green satin to him, crying on his chest, "It's hormones," and him letting it be hormones. I am wrecked. He even reads the grief as jealousy about the keepsake, "Randi had never once offered him anything to keep." That's a lovely wrong reading, and a half-right one. And the folding of the panties into the drawer, and Vee's drawer standing open an inch, and he shuts it with two fingers. The house shifting with the cold. Perfect closing image.
+Vee leaning up the last half-inch at the goodbye kiss, and Randi holding her eyes "a beat past" is the turn. Vee noticed, decided it was what she wanted, and didn't bother about it again. That's the romance beat, and it's the first time the kiss is Vee's choice. The Anthro night class, "just us," Randi's voice roughening: she's building more hours with her. This is escalating.
 
-The smaller things: "Say something nice to me." "You are extraordinary." Her holding his arm. "It frightens me." "Then I'll be careful with you." Ugh. Ugh. He means it and doesn't know what he's promising.
+Complaints: it's a brunch-confession retread, third one, and the sex catalogue is a lot of telling. The book explains things (the "color switched on" paragraph, "she didn't think of the morning as a piece of Pace given up") a bit hard. Heat is real, though, because it's Vee's mouth saying it. Still no Randi head. Sixteen chapters. I've stopped asking and started suspecting that withholding is the design.
 
-Grudges: the opening takes a while, and "the whole pale small length of her" is a little pretty. The "fourth" sex tallying is a lot. But I'm getting what I wanted, which is Randi nearly saying it and Pace nearly hearing it.
-
-GATE 35 — Four
+GATE 34 — All the Time
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 3
+CAPTURE: 8
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "She had not given the answer to him. She had given it to the Saturdays, and he took it anyway." (the narration translating Randi's subtext)
-WHY: Randi telling the kiss while he's inside her, using "it's work" as her alibi until he takes it away, is the both-and I read for. Then the green panties and "It's hormones" break my heart. Pace is closer to the truth than ever and still misreads it.
+ALMOST-STOPPED: "The weeks in between ran gray; it was only Friday to Sunday that the color came up, saturated, almost too much" (the book narrating its own meaning, in a third brunch retread)
+WHY: Randi's breath catching at "the body attached" and Vee handing her the nude herself are the pipeline cracking in public, and Vee taking the extra half-inch of the kiss is the real turn. It's a familiar brunch format, but the stakes have moved enough to keep me.
 
 LEDGER
-~ F6.3 DEEPENED: She said "God, I want her" aloud, then covered it with "for us," and came on "you don't have to do it for me."
-~ W18.4 DEEPENED: Seventeen chapters without Randi's head, but this one came closest through Pace's eyes.
-~ S10.5 DEEPENED: Pace is plainly checking on Vee's happiness and Randi's, and he's past the game.
-+ LOVE: "It's hormones," and Pace letting it be hormones while Randi cries on him holding Vee's green panties.
-+ LOVE: Pace folding the green satin back into the drawer and pushing Vee's drawer shut with two fingers.
-+ FEAR: Pace reads Randi's grief as jealousy over a keepsake, and the kiss as "work for the threesome," so he will keep steering them closer together.
-+ SUSPICION: Randi's alibi "I'm doing it for you" has been stripped by Pace's kindness, so she'll need a new cover or she'll break.
-+ WAITING: Randi finally saying the true thing to Pace, or Vee finding out what all those Saturdays were.
+~ F33.1 RESOLVED: Pace didn't have to share the photo. Vee showed Randi the full nude herself, so the promise is moot and the harm is done.
+~ F6.3 DEEPENED: Randi's breath caught and her eyes went unfixed at "the body attached," the plainest physical leak yet.
+~ W18.4 DEEPENED: Sixteen chapters now without Randi's own head.
+~ F31.4 DEEPENED: Vee is again performing for Randi's gaze, offering the photo to win her approval.
++ LOVE: Randi's bare toes brushing Vee's leg under the table, sky-blue nails, and the smile that doesn't explain it.
++ SUSPICION: Randi has begun building extra hours with Vee, the Anthro night class, "just us," because the Saturday brunch no longer holds her.
++ LOVE: Vee leaning up the last half-inch of the kiss and deciding, without fuss, that it is what she wants.

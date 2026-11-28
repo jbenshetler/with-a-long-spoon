@@ -1,34 +1,46 @@
-*capture-dag-v3-grounded · gate ch049 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha cf3b0e619e49 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch046 · history ch001..ch046 · ledger no seed 625a13a57380 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch049 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 341e22a2d5c4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch045 · history ch001..ch045 · ledger no seed 2a1157885fca · 2026-11-06*
 
-REACTION
+REACTION:
 
-Oh my god. *Oh my god.* I am sweating. My heart is beating so fast I can feel it in my throat. This chapter was an absolute, unhinged, scorching-hot masterclass—and simultaneously the most suffocating psychological time bomb this series has ever set ticking.
+I am sweating. My heart is beating so hard I can hear it in my ears. What an absolute, unhinged, breathtaking, five-alarm triumph of a chapter.
 
-First of all, Vee stepping into her full, unashamed power as a "pleasure princess" was EVERYTHING I have been starving for. The playful arrogance of her padding around his house in literally nothing but a scrunchie, the sheer domestic luxury of him setting the bread machine before dawn so she’d wake up inside the smell of it, her leaning over to brush her bare breast against his cheek at the sink—it was delicious, joyful, unbridled female pleasure. And watching Pace, the absolute titan of rigid control and arithmetic precision, completely unravel—burning the toast because she put her foot on a chair, stumbling over his boots in his hurry to strip—was worth every single second of the angst we suffered over break.
+The buildup was pure, agonizing perfection. Watching her get ready in that dorm room—the sheer psychological brilliance of opening the underwear drawer, reaching for the sensible black bra, then the pretty lace bra, and then realizing with that wild, bubble of laughter that *neither of them was invited tonight*! That was such a gorgeous, realistic detail. And putting on the shoes *first*! The gladiator heels, the zip running up the back of the calf, the frosted plum toes catching the light... Rivers writes female anticipation with such scorching, tactile precision.
 
-And then the bedroom scene. Sweet mother of god. Rivers writes cunnilingus like nobody else on earth. The "tiling," the unhurried journey from her wrists down to the soles of her feet, his tongue curling and scooping and making those raw, uncensored, greedy noises—it’s so filthy and so profoundly reverent at the exact same time. The way Pace drinks her like a starving man while holding her open, refusing to look away or let her hide behind her lifelong shame, is pure romance wrapped in scorching erotica.
+And then the mirror sequence. Good sweet lord. Standing there naked in four-inch heels, weighing her own breasts in her hands, rolling her nipples to build the ache, touching herself down to that slick, swollen heat—and then having the terrifying, ferocious discipline to *stop*. "It was not hers to finish." Pulling the wool coat over bare, feverish skin, feeling the cold satin lining glide against weeping arousal and stiff nipples... I stopped breathing. And then running right into Kayla in the hall babbling about dirty laundry while Vee is literally dripping wet under an olive church coat! The comedy and the suffocating erotic tension balanced on the head of a pin!
 
-BUT THEN. *THE KISS.*
+And then the car ride! Touching herself at speed on the empty highway, the sheer feral recklessness of it, followed by the heart-stopping panic of the police siren—I nearly threw my phone across the room! Leaving the wet mark soaked into the coat lining, arriving at his dark porch with the horn crying low on the stereo...
 
-My stomach plummeted straight through the floor. The second Pace carried her own slickness up to her mouth and she had that instinctive, gut-level, Ohio-bred recoil—"Ugh—gross... That's—no. Wrong"—I practically screamed out loud. Pace’s quiet, immediate respect—wiping his mouth, backing off without an ounce of petulance or punishment, letting her come to him—was incredible. BUT THE HORROR OF WHAT SHE DOESN'T KNOW.
+AND THEN THE DOOR OPENED.
 
-She thinks the cream cashmere blanket is just a sweet, nameless gift he left for her. IT IS RANDI'S BLANKET. The blanket Randi wraps herself in after being spanked on the bench. Vee literally laid it out like a bridal bed and soaked it with her own release! And now—the absolute coup de grâce—she is planning to take the kissing-her-after-eating-her-out thing straight to Randi on Tuesday after Anthro.
+*"Vee, I l—"*
 
-She thinks she’s going to confide a funny, slightly taboo little bedroom detail to her best friend over dinner. She has NO IDEA that Randi knows *exactly* how Pace kisses after head, because Randi has been on both ends of Pace’s mouth! If Vee asks Randi, "Does your guy ever kiss you right after he goes down on you?" or describes the taste... Randi’s brain is going to detonate. The dramatic irony is so thick you could carve it with a steak knife. I am terrified, I am panting, and I need chapter 48 immediately.
+HE WAS GOING TO SAY IT.
+HE WAS LITERALLY OPENING HIS MOUTH TO SAY "I LOVE YOU."
+AND SHE OPENED THE COAT INSTEAD.
 
-GATE 47 — Missed a Spot
+The sheer, staggering, tragic, magnificent irony of that moment! She spent December starving for the word, he spent New Year's Day sobbing over cold chicken realizing he had to say the word—and when she finally shows up, she deploys Randi’s nuclear physical surrender and silences him with her body before the syllable can even leave his throat!
+
+And the sex. SWEET JESUS. The front door banging open on its hinges in the freezing January wind, the cold air biting her wet nipples while he drops straight to his knees on the wooden sill to eat her alive! The contrast between the freezing winter draft and his scorching mouth, holding her by the ass in those ridiculous heels, lifting her entirely off the floor to take her against him standing up, hobbling three steps before collapsing onto the den couch—it was desperate, clumsy, feral, and so profoundly earned. No performance. Just two starving people tearing into each other because the month of silence nearly killed them both.
+
+And the aftermath. "Those stay on." Making pancakes from scratch at midnight with lumps in the batter, and then Peter going down on one knee beside her chair, his voice cracking: *"I'm sorry. I never meant to hurt you. I missed you so much."*
+
+My eyes were hot. It’s so tender, so complete, so domestic. And yet... the tragedy of it is lingering right under the syrup. She thinks she won him back by giving up her demand for the word. She traded the name of what they are for pancakes, his warm hands, and a weekend in his sweats. She thinks she fixed it.
+
+And tomorrow is the start of the spring semester. Tuesday is the Anthro class with Randi. Randi is waiting with Brooke’s threat hanging over her head, knowing she kissed Vee on the mouth. The peace they just found on that couch is made of glass, but god, while it lasted, it was absolute magic.
+
+GATE 46 — Nothing Underneath
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The transition from glorious, playful erotic worship to that suffocating psychological time bomb at the end—Vee soaking Randi's blanket and planning to confide Pace's post-oral kiss to Randi—is absolute literary genius.
+WHY: The agonizing tension of Vee prepping and driving out bare under her coat, followed by the scorching doorway reunion with the wind howling through the open door and Pace on his knees, was an absolute masterclass in erotic and emotional payoff.
 
 LEDGER
-+ LOVE: Vee claiming her status as a "pleasure princess"—reveling in being kept, fed, and brought off first without a shred of maternal guilt.
-+ SUSPICION: Vee telling Randi about Pace kissing her with her own slickness on his mouth is going to blow the entire secret wide open, because Randi knows Pace's bedroom habits down to the millimeter.
-+ WAITING: Tuesday's Anthro class and dinner—Vee debriefing the coat and the "gross" kiss to Randi while Randi stares at the woman she is desperately in love with.
-~ [F1.1] DEEPENED: Vee being entirely at home in Pace's bed, wrapping herself in Randi's cashmere blanket without knowing it, makes Randi's position infinitely more agonizing and dangerous.
-~ [F5.1] DEEPENED: Vee completely surrendering to being a "pleasure princess" and reveling in his devotion makes the pointing-game secret an absolute lethal threat to her soul.
-~ [F17.2] DEEPENED: Vee's emerging curiosity about tasting her own salt on Pace's lips is going to bridge straight into her physical dynamic with Randi.
++ LOVE: Pace going to his knees on the cold doorstep to take Vee with his mouth while the front door banged in the wind.
++ LOVE: Pace cutting off her apology at the stove by dropping to one knee with his voice cracking: "I'm sorry. I never meant to hurt you."
++ LOVE: Cassie's deadpan, single-eyebrow assessment of Vee walking in on Sunday night in oversized men's sweats and Randi's gladiator heels.
+~ [W45.3] RESOLVED: Vee arrived at Pace's house in Randi's strappy heels and opened her coat on the doorstep, delivering the ultimate erotic reunion.
+~ [L1.2] DEEPENED: Pace's physical reverence reaching a fever pitch—worshipping her wet skin on the doorstep, demanding the heels stay on, and making midnight pancakes from scratch.
+~ [F5.1] DEEPENED: Vee being so overwhelmed by relief and Pace's care that she completely abandoned her need for a commitment cements how totally she belongs to him, making the pointing game an absolute atomic bomb waiting to drop.

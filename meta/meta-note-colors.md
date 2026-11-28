@@ -1,8 +1,6 @@
-# Untitled — the Oct 13 Pace/Randi chapter (planning note)
+# Colors (companion note)
 
-*Companion note for a planned, undrafted Volume 1 chapter. Title Colors, slug `colors`. Not yet in `meta-plan-chronology.md`: adding its entry, and renumbering the chapters after it, is a separate step the author has not yet ordered.*
-
-**Status of what follows.** Sections marked **Author ruling** were decided by the author in workshop (2026-11-21). Sections marked **Proposed** are the assistant's beat outline. The author has ruled on that outline's open questions but has not approved the outline as a whole. The drafting session should treat the proposed beats as a strong starting shape, not as canon. Line anchors were checked against the prose on 2026-11-23.
+*Companion note for {{Colors}}'s chapter, `colors.md`: Volume 1, ch20, Tue Oct 13. Draft complete. Four panels: the office (Pace POV), the bedroom (Pace POV), the sun porch (Randi POV, Pace asleep), the wake and walk-out (Pace POV).*
 
 ## Why the chapter exists
 
@@ -19,111 +17,84 @@ The author's rule on sex scenes holds here: sex is rendered only when it shows s
 
 This makes ten sex scenes in the volume, and eight of them are Pace and Randi. Keep the sex compact; the wax and the talk are the long part.
 
-## Placement — Tue Oct 13 (proposed; date fixed by the calendar)
+## Placement — Tue Oct 13
 
-- It falls between {{Portion}} (Sun Oct 11, ch19) and {{Peekaboo}} (Thu Oct 15, now ch20). That makes it the new ch20, and every chapter after it moves up one; {{Nachtmusik}} becomes ch26. Checkpoints, capture gates and the jacket extent key on chapter numbers, so they will need re-keying.
+- Between {{Portion}} (Sun Oct 11, ch19) and {{Peekaboo}} (Thu Oct 15, ch21). {{Nachtmusik}} is ch26.
 - **Why Tuesday:**
   - Wednesday night is Pace's all-nighter finishing the dress ("He was up all night finishing it," `sorority.md:105`; `meta-condensed-peekaboo.md:15`).
   - Stats meets MWF (`meta-note-see-you-later.md:45`), so Vee is not in the math building on a Tuesday.
-  - No scene and no continuity flag sits on Oct 12–14.
-- **Why after Portion:** this is when Randi is most masochistic. In {{Portion}} something is wrong, she won't eat, and he chooses not to ask (`portion.md:97-103`). Two days later the hurt she won't say becomes pain she asks for. They do not talk about Portion. They play. {{Gone}} (a week after Portion) stays the soft aftermath, and its "unspoken truce" now has a cause.
+- **Why after Portion:** this is when Randi is most masochistic. In {{Portion}} something is wrong, she won't eat, and he chooses not to ask (`portion.md:97-103`). Two days later the hurt she won't say becomes pain she asks for. They do not talk about Portion. They play. In the office panel Pace remembers Sunday, "the blanket rolled round her, her back to him" (`colors.md:21`), and the aftercare answers it without comment: the chill comes, he gets there first, and she lets him hold her. {{Gone}} (a week after Portion) stays the soft aftermath, and its "unspoken truce" has a cause.
 
 ## Author rulings
 
 1. **S&M: bound, and hot wax. No impact play.**
-2. **Pace sews the restraints** that appear in {{In Her Place}}, and they are introduced in this chapter. He makes them **for Randi at the same time he is making the dress for Vee**, at the same table.
-3. **A safeword discussion** happens.
-4. **Randi gets Pace to tell her about Vee** even though she is the one bound and tormented.
-5. **The office pretext is a story.** Randi says she's writing a little story about a sorority girl seducing a redhead, she's stuck, and does he have any ideas to motivate her? The story is **spoken only**: no notes and nothing written that could be found. These pretexts were rejected:
+2. **Pace sews the restraints** that appear in {{In Her Place}}, introduced here: black microsuede cuffs sewn around a core, a nylon strap between them through a buckle he can let out or take in (`colors.md:227`). He made them **for Randi in the same nights he was making the dress for Vee**, at the same porch table. They live with the candelabra in the walnut toy box.
+3. **The safeword for tonight is *Brooke*; red stays the series word.** "Yellow means slow… Not red. Not tonight; your story's too full of it. Pick another." / "Brooke." / "Brooke means stop." (`colors.md:251-261`). Red is still the word on the Bench (`the-bench.md:205`) and in {{In Her Place}} (`in-her-place.md:33-35`). Brooke comes back as Randi's curse in {{Gone}} ("Fuck Brooke," `gone.md:148`) and {{Nachtmusik}} ("Damn Brooke").
+4. **Randi supplies the fantasy and Pace draws it out of her.** Bound, she tells the story; he pulls each answer from her with the wax, and the tension is her nerve against the fantasy. He does not tell her about Vee.
+5. **The office pretext is a story.** Randi says she's writing a story about a sorority girl seducing a redhead and she's stuck: she needs a natural way to get her heroine tied up (`colors.md:71`). The story is **spoken only**: no notes and nothing written that could be found. "Sorority girl" and "the friend" are the story's words, said aloud; *boyfriend* is reserved for {{Among Friends}}. Rejected pretexts:
    - The plaid-skirt / homework / "can't fail the class" costume and script. Retail screen: `meta-blurb.md:214` lists school-coded words, and college framing doesn't rescue them. It also breaks the peer guard: never Pace as "a mentor, a teacher-by-age" (`meta-arch-bible.md:139`).
    - The scratched truck.
-   - "I've stolen something" / a scrunchie. This is reserved for the spring (`meta-condensed-randi-takes-scrunchies.md`).
+   - "I've stolen something" / a scrunchie. Reserved for the spring (`meta-condensed-randi-takes-scrunchies.md`).
    - "There's this absolutely edible redhead" as a bare confession.
-6. **The office is shared.** The officemate is **a man**. He struggles to keep his eyes off Randi and her exaggerated sexy walk, and he tries to mind his own business when she goes to Pace's desk, but he looks over a couple of times at charged points. **Pace doesn't mind breaking social conventions, but he can't step too far out of line in his office with a student**, even though she's not his student.
-7. **The scene ends in sex.**
-8. **The candles are ordinary house candles**, not special equipment.
-9. **Panel 3 is Randi's POV on the glass porch, with Pace asleep.** This extends the {{Nachtmusik}} exception (see Rules to extend).
-10. **The porch panel is sexual only.** "This isn't the catastrophe that happened in the-bench. This is Randi thinking about Vee but only sexually." Don't reuse the bathroom that way. The model is {{Tannin}}, where she fantasizes about undressing Vee *for Pace* on the drive up (`tannin.md:19-21`, ending on its own line "For him.").
+6. **The office is shared.** The officemate is **Stephen, a second-year postdoc** (`colors.md:35`). His glances are Pace's gauge for how far the double meanings carry. Pace can't step far out of line in his office with a student in it, though she isn't his student.
+7. **The scene ends in sex**, then aftercare (below).
+8. **The candles are two tapers in a small two-armed candelabra**, "the kind that goes in the middle of a table for a dinner for two" (`colors.md:293`). He tests the wax on his own wrist before she arrives (`colors.md:135-137`). Her line "Romantic candlelight?" and his "Romance can't be rushed" come back as a refrain at the peel.
+9. **Panel 3 is Randi's POV on the sun porch, with Pace asleep.** This extends the {{Nachtmusik}} exception (see Rules extended).
+10. **The porch panel is sexual only.** "This isn't the catastrophe that happened in the-bench. This is Randi thinking about Vee but only sexually." The model is {{Tannin}}'s drive (`tannin.md:19-21`, "For him.").
+11. **"For a friend."** In the story the sorority girl seduces the redhead for a friend: "You'd do that for a friend?" / "He's hard to say no to." (`colors.md:165-167`), the Pointing Game's line (`standards.md:131`) with the *Her* / *Yes* memory beside it. "Why the redhead?" (`colors.md:199`) goes unanswered here; she redirects to the thank-you. {{Gone}} holds the answer ("I'm around beautiful girls every day. She's extraordinary," `gone.md:49`).
+12. **The redhead's body, in three swerves:** her mouth (the tongue tell), her breasts ("They'd fill a man's hands" / "The friend's."), her ass ("An athlete's ass…" / "Pending confirmation."). **Vee's tongue tell is canon:** when she concentrates the tip of her tongue just peeks out (record in `meta-craft-vivienne.md`).
+13. **The descent intercuts his drops with her answers**, ending on "And her bush is as red as her hair." / "Trimmed?" / "A narrow strip… Not smooth like me." / "That was two answers." "Smooth like me" seeds {{Still Life}}. Vee's grooming before {{Still Life}} is left unset.
+14. **"Since when?"** (`colors.md:337`) is the crack in Pace's consent ethic, said as a note on her story ("In mine, she'd ask for it"). He has nothing to answer with.
+15. **The arrival:** she strips him first, then undresses against him so he has the whole of her before he can see any of it. Black stockings to the thigh with lace tops and garters, the heels, a bracelet. The heels stay on until after he lays her down; he takes them off at the foot of the bed and praises her feet ("You have beautiful feet." / "Now you tell me?").
+16. **The buckle is on the page.** He turns the buckle to lie by her right hand (`colors.md:263`), so she could free herself, and she never closes her fingers on it. The title *Buckled* stays reserved for Vee's first restraint (`meta-note-sorority.md:23`).
+17. **The tied-up line is held for Volume 4:** "My heroine's tied up, and I don't know what to do with her." Randi brings the author cover back after the Vee plot has advanced, on Pace's "Bring me the next one" (`colors.md:431`).
 
-## Panel 1 — the office, Pace POV, Tuesday afternoon (proposed beats)
+## The panels as drafted
 
-- **A new fact:** Pace has a campus office in the math building, shared with a male grad officemate. The only prior hint is "a thing one of his students had said in office hours" (`under-the-rug.md:33`). His home office is a separate room off the hall (`meta-plan-pace-house.md:73-92`).
-- **The building carries the exposure, never a near-miss.** Vee's stats lecture meets in this building (`see-you-later.md:7`), but on MWF.
-- **Randi comes in her own clothes, with the exaggerated walk.** She pitches the story low, not in her bright voice: "The silence with Pace is the measure. The affirmation engine runs everywhere *except* with Pace" (`meta-craft-randi.md:71`). An example exchange from the workshop (sample wording, not final):
-  > "I'm writing a little story. A sorority girl, and this redhead she's seducing. Very tasteful." A beat. "But I'm stuck."
-  > "Where?"
-  > "Right where it gets good."
-  > "Can you think of a way to motivate me?"
-- **The officemate is why she needs the story as cover.** Every line has to pass as innocent to him. In Pace's POV the officemate is the gauge. Pace sees him lose the fight to keep his eyes on his screen at the walk and at the charged lines, without Pace looking himself.
-- **Randi is free to play and Pace isn't.** A woman at his desk in his office reads as a student. He has to answer every double meaning in a voice the officemate can overhear and think nothing of. He doesn't touch her. He sets the terms, perhaps just "Tonight." She leaves with exactly what she came for. That restraint is what he collects on that night.
-- **Pace plays.** His first Console rule: "He plays. Real sense of humor about sex — teasing, banter, delight" (`meta-craft-pace.md`, Console rules).
+**Panel 1, the office (`colors.md:5-129`).** Stephen at the board; Randi's walk and the story pitched low, every line passable to him; "I suggest you bear down on it tonight." / "It needs to be whipped into shape."
 
-## Panel 2 — the house, Pace POV, that night (proposed beats)
+**Panel 2, the bedroom (`colors.md:133-445`).** The towel on the bed; the story talk (rulings 11-12); the strip; the cuffs and safeword; the strap let out an inch while she stands; the carry and the second lift, his thumb in her; the heels off; the wax slowed, the first drop in full sequence (clear going milky, the white coin, the ring of pink), walked in to the nipples; "Bastard"; "Do it"; the belly drop, the pillows, the descent (ruling 13); he pinches out one taper and enters her; "Watch me."
 
-- **No arrival ritual.** Open inside the room.
-- **The cuffs.** Soft black microsuede (`in-her-place.md:37`: "The cuffs were soft black microsuede… left the nylon strap between them long"). The construction is "microsuede sewn around a core, for body" (`meta-note-threesome-reveal.md:110`). Sewn at the sun-porch table in the same nights as Vee's dress ("at the machine every night since, past one," `remembrance.md:15`). He shows her what he made, and his love language is making.
-- **"Word."** This is the first time they've played since the Bench, where her red came out "small… hers" (`the-bench.md:205`, `:209`). Here she gives it again, less small. Six months later in {{In Her Place}} the exchange is a ritual: "'Word,' he said, without turning." / "'Red.' She gave it up at once, steady, almost bored" (`in-her-place.md:33-35`). This chapter is the middle step, and the origin of the ritual. Underneath: he needs to know she'll use it again, and she wants to promise it won't come to that.
-- **The wax.** It's ordinary house candles (ruling 8). He tests it on his own wrist first. That's his care, and it shows the scene isn't about suffering.
-- **What Pace takes from it:** "Pace is not a sadist. Bondage and discipline — architecture, rules, the framework inside which transgression is made possible. Not the suffering itself" (`meta-arch-pace.md:69`). His heat is in her asking for each drop and choosing to hold still: "Charged by her *choosing*, never by cold" (Console rule).
-- **The story game.** Each drop buys a line of the story, so the wax becomes the motivation he promised in the office. She makes him supply the material: what Vee is like, what she does, what she'd do. "Tell me" was the words missing from {{Portion}} ("She did not say *tell me*. Every night in this house she had said it," `portion.md:89`). Here it comes back as an order from a bound woman. The masochist is in charge.
-- **What Pace gives and keeps.** He gives facts he saw. He keeps what Vee said, as in {{Tannin}} and {{Portion}}: "He did not ask what Vee had said. That was Vee's" (`portion.md:35`).
-- **The consent-ethic crack.** When her plot pushes past his ethic, he says so as a note on her story: "In mine, she'd ask for it." It costs him nothing in the moment. The reader sees the contradiction and he doesn't.
-- **Randi's tells:**
-  - Kentucky comes up when she's moved (`meta-craft-randi.md`, accent rule).
-  - The band touch is her submission tell (`meta-craft-randi.md:145`), and her hands are bound, so it is denied.
-  - She has no cup, because her hands are taken.
-- **Pace's register:**
-  - Observer mode: his own arousal "surfaces once, late" (`meta-note-erotic-register.md:120`).
-  - He can narrate her body "conversationally" (`the-bench.md:397`).
-  - No diminutive praise.
-  - He catches every signal and misfiles the meaning, and never misses a tell.
-  - Warm, never a technician.
-- **It ends in sex** (ruling 7), kept compact. Aftercare is his. She doesn't stay down on his chest. Afterward she sleeps, then slips out to the porch.
+**Aftercare (`colors.md:421-445`), in this order:**
+- Buckle and cuffs off at once; the chill takes her about a minute after.
+- **The chill always comes** (`swim-lanes.md:49`, `remembrance.md:173`, `portion.md:95`, `gone.md:82`, `four.md:239`). It starts in the shoulders the strap held back.
+- **The den blanket, not the cashmere.** He staged it at the foot of the bed when he laid the towel; the cashmere would have kept the wax. Keeping the cashmere out also leaves {{Nachtmusik}} its walk in it.
+- He holds her on her side and works her arms shoulder to wrist under the blanket. His words are mostly indirect: she is beautiful, and her nerve ("the flame over her, and her lifting herself up to meet it, *Do it*") he admires "more than he knew how to say."
+- Water, once the shaking stops.
+- "Thank you for your help with my plot hole. You were very thorough." / "Bring me the next one." Her bawdy register shows him she isn't hurt, and puts her back inside the game after being held.
+- Then the peel, in the order the wax went on; "Romantic candlelight." / "Romance can't be rushed."; the towel let down beside the bed.
+- He pinches out the second taper only when he thinks she's asleep. His last perception is her breathing, which he takes for sleep.
 
-## Panel 3 — the glass porch, Randi POV, Pace asleep (proposed beats)
+**Panel 3, the sun porch, Randi POV (`colors.md:449-473`).**
+- She wears the towel as a shawl, shaken out quietly over the rug; one crumb of wax stays in the nap. Stockings, nothing else. The porch runs cold at night.
+- She lights her way with the den lamp through the archway and puts it out on the way back. The house is quiet.
+- **She lifts the sheet.** The dress is incomplete: the bodice sewn and **lined** (oyster at the turned edge), open at the waist; the skirt in its panels, pinned, silver pinheads in a row. She draws a fingertip along the bias. She doesn't say *charmeuse*; {{Sorority}} keeps the word (`sorority.md:91`), and her first sight of the *finished* gown.
+- She takes a burgundy **offcut** from the heap by the shears, "cool, and heavier than it looked" ({{Sorority}}'s "And a good weight").
+- She sits on the low fitting pedestal on the end of the towel, which runs up her back and over one breast; her heels on the porch carpet. Masochism over couch comfort.
+- **The fantasy:** Pace is in it once, "on the couch to watch", then simply absent, with no line marking it. Kissing Vee starts her right hand; stripping Vee, she rubs the silk over her own bare nipple with her left ("That was what Vee would feel"); Vee's breasts in her hands; pinching Vee's nipple, she pinches her own wax-sore one through the silk. The crumb digs into her and she presses down on it. She bites the corner of the towel when she comes. It never reaches "For him" or anything like "She could have been there" (`nachtmusik.md:131`); Nachtmusik stays the top step.
+- **The offcut:** she goes back to the table and looks at the dress, rubs her wet fingers together, and draws a line down the middle of the strip in her come and his; it shines on the silk. She wipes her hand dry on the towel, works the strip up through the open waist between the silk and the lining until it lies flat under the cross of the neckline, and puts the sheet back exactly as it hung.
+- **It is never found.** Pace closes the waist on Wednesday's all-nighter and never knows. Vee wears it at {{Peekaboo}} and {{Sorority}}; at the dorm Randi's fingers follow the seam to the shoulder and her hand stays there at "He was up all night finishing it" (`sorority.md:85`, `:105`). Both pay off on reread with no change.
+- The game is exact replacement (the sheet, the lamp, the towel back beside the bed): nobody will know. Shown in her hands, never said.
 
-- **The room.** It's the largest room in the house, glass on three sides, woods and then mountains, and the moon over the ridge (`meta-plan-pace-house.md:200-224`). It runs **cool after dark** because the heat is kept low at night (same section). The quilt lives on the porch couch back.
-- **The dress is in this room that week.** "lay now on the long table in the sun porch under a sheet, the skirt still in its pinned panels" (`remembrance.md:15`, Oct 6). Peekaboo hangs it in the porch window on Oct 15.
-- **She does not lift the sheet.** {{Sorority}} keeps her first sight of the finished gown (`meta-condensed-sorority.md`). She touches a **burgundy offcut** instead. The oyster-pale lining (`peekaboo.md:33`) is reserved for the key pillow in {{Grace}} (`grace.md:93`), so the scrap is not oyster. "Close to the fire, not in it," shown in her hands with nobody saying it.
-- **Sorority pays off on reread with no change to it:** "She took a fold of the skirt between two fingers… 'Charmeuse,' she said, not to Vee; to herself, or to the dress" (`sorority.md:91`). On reread, she knows that cloth from touching it alone in the dark.
-- **The fantasy staircase.** She goes on with the story in her head, with Vee in the silk and Vee under her hands. It starts the way {{Tannin}}'s does, with Pace in it as the audience out of habit. Then he drops out of the picture and **she doesn't notice**. It never reaches "For him." Saying "without him" or "just us" would spend a later step early. The next step up is already {{Nachtmusik}}: "She could have been there" (`nachtmusik.md:131`). The new chapter sits between those two lines, and Nachtmusik stays the top step.
-- **Keep it sexual only:**
-  - No breakdown like the Bench's, no wound, no mirror, nothing confessed about the plan.
-  - Her masochism stays unexplained: "Keep her interior withheld; the reader assembles the masochism from what she volunteers and how her body answers" (`meta-craft-randi.md:229`).
-  - The one feeling past the sex is the self-control of not lifting the sheet, which she files as a game she's winning, not as tenderness.
-  - Don't pre-spend {{Gone}}'s "She got past me" (`gone.md:21`).
+**Panel 4, the wake and the walk-out, Pace POV (`colors.md:477-489`).**
+- A cold hand on his face wakes him, smelling of soap. He takes it for washing up after sex and lets it go.
+- "The house expects me." He doesn't push back. He offers coffee: "Next time."
+- They dress together by the hall light. She takes her bra and panties off the top of the bench; the heels are on the area rug where he set them. At the front door he pulls his roper boots on from the foyer closet. No kneeling in this chapter.
+- He walks her to her car. At the window she kisses him with her hand on his face, still cold. Nothing is said. Her lights go down through the trees, and he locks the door.
 
-## Rules to extend (ruled) and guards
+## Rules extended (ruled) and guards
 
-- **Randi POV.** The hard line is "never inside Randi in a room with Vee or Pace in it" (`meta-arch-bible.md:263`; chronology continuity flag 15). The Nachtmusik exception treats a sleeping Pace as not present. **Author ruling: the exception extends to this porch panel.** The in-house Randi POV becomes a pair: restraint here (the scrap, the sheet left down), theft there (the phone). Record this in the bible when the chapter lands.
-- **{{Gone}}'s reversals** (`meta-note-gone.md:15`: she stays down, asks to be fed, eats, takes his undershirt, sleeps). Don't spend any of these:
-  - no food and no clean plate;
-  - she doesn't stay down on his chest;
-  - his undershirt stays in the drawer;
-  - sleeping over is allowed, as long as it isn't Gone's warmth.
-- **Vee's restraint staircase.** "Buckled" is reserved as the title for the first threshold where Vee is literally restrained (`meta-note-sorority.md:23`). Don't make *buckle* a charged word here. Randi being bound is already backstory ("in control even when blindfolded and tied," `the-bench.md:109`), so this spends none of Vee's steps.
-- **{{In Her Place}} keeps its rung.** That is the abjection step of the spring Pace/Randi staircase. This chapter stays playful and masochistic, never abject, so the cuffs read there as a callback and its humiliation is still new.
-- **The flannel blindfold is Vee's** (`meta-note-grace.md:75`). Don't use a flannel strip on Randi.
-- **No staged opportunity beats.** Never plant a deniable "she excused herself" in a Randi–Pace scene (`meta-condensed-randi-takes-scrunchies.md:22`). In Pace's POV the camera rides Pace and inherits his blindness.
-- **Endearments** (`meta-craft-randi.md:35-46`): *darling* and *lover* are Randi's words to Pace. She never calls Pace *gorgeous*; that word is for Vee only.
-- **Retail screen** (`meta-blurb.md:214`): no school-coded or age-coded words anywhere in the office panel, including the title. Words like *class* and *student* need care even in a university building. Ruling 6's "with a student" is the author's description of the social constraint; it is not prose to use.
+- **Randi POV.** The hard line is "never inside Randi in a room with Vee or Pace in it" (`meta-arch-bible.md:263`; chronology continuity flag 15). A sleeping Pace does not count as present. **The exception covers this porch panel as well as {{Nachtmusik}}'s close.** The in-house Randi POV is a pair: the offcut here, the phone there. Don't duplicate Nachtmusik's handoff: no "She waited until his breathing changed", no cashmere held closed at her throat, no music left going in the den, no "He was on his back, where she had left him".
+- **{{Gone}}'s reversals** (`meta-note-gone.md:15`: she stays down, asks to be fed, eats, takes his undershirt, sleeps) are not spent here: no food, no staying down on his chest, his undershirt stays in the drawer, no sleeping over. Don't pre-spend "She got past me" (`gone.md:21`).
+- **{{In Her Place}} keeps its rung.** This chapter is playful and masochistic, never abject, so the cuffs read there as a callback.
+- **The flannel blindfold is Vee's** (`meta-note-grace.md:75`). The oyster lining is reserved for the key pillow in {{Grace}} (`grace.md:93`), so the offcut is burgundy.
+- **No staged opportunity beats** in a Randi–Pace scene (`meta-condensed-randi-takes-scrunchies.md:22`). The porch is her own POV, not a deniable exit in his.
+- **Endearments** (`meta-craft-randi.md:35-46`): *darling* and *lover* are Randi's words to Pace; *gorgeous* is for Vee only.
+- **Retail screen** (`meta-blurb.md:214`) governs titles and the TOC. No school-coded or age-coded words in the office panel's prose.
+- **No deadbolt at her arrival** (`colors.md:143`). Leaving her ritual off the page varies her entrance and gives Pace the surprise of finding her at the foot of the bed.
+- **The music** plays in the front rooms; Pace never quotes it, comments on it, or chooses it on the page.
 
-## Open questions for the drafting session
+## Open questions
 
-1. **How does Pace take the officemate's looking?** Amused, proud or indifferent? Have the lore-keeper find how he reacts to other men looking at his women before drafting; don't guess.
-2. **Are these the cuffs that later bind Vee?** `meta-note-threesome-reveal.md:110` gives Vee "soft microsuede wrist cuffs" in a "restful-restraint" register: "Not cinched wrists (that's pain/punishment)." Is it the same pair, made for Randi first, or a second pair? Ask the author.
-3. **Where Randi is the rest of the week.** Canon has only her Thursday Standards board. Tuesday is free.
-
-## Drafting prep (per CLAUDE.md, before any prose)
-
-- Run `tools/checkpoint_context.py --scene <slug> --check`, then without `--check`. This needs the chronology entry first.
-- Fan out lore-keepers for:
-  - Pace's and Randi's Console rules (`meta-craft-pace.md`, `meta-craft-randi.md`);
-  - Pace's kink typology and limits (`meta-arch-pace.md`);
-  - Randi's masochism series (`meta-arch-randi.md:70-74`, `meta-craft-randi.md:222-229`);
-  - the house set (`meta-plan-pace-house.md`: bedroom, toy box at `:134`, sun porch);
-  - the dress's state on Oct 13;
-  - the {{Portion}} close and the {{Gone}} constraints;
-  - the officemate question above.
-- Close-third discipline: whatever needs saying, the POV character senses, thinks or feels it. No narrator glosses.
-- Lint (`--severity error`, then plain), `orphan_refs`, and a continuity pass before the author sees the draft.
+1. **Are these the cuffs that later bind Vee?** `meta-note-threesome-reveal.md:110` gives Vee "soft microsuede wrist cuffs" in a "restful-restraint" register: "Not cinched wrists (that's pain/punishment)." The same pair, made for Randi first, or a second pair? Ask the author.
+2. **Where Randi is the rest of the week.** Canon has only her Thursday Standards board.

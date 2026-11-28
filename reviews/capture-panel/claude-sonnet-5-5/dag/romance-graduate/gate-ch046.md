@@ -1,36 +1,31 @@
-*capture-dag-v3-grounded · gate ch046 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9a7b91c690c6 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch043 · history ch001..ch043 · ledger no seed 71861699de3b · 2026-11-06*
+*capture-dag-v3-grounded · gate ch046 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8a57074b7fe9 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch042 · history ch001..ch042 · ledger no seed 970788d689b4 · 2026-11-06*
 
 REACTION
 
-Pace's head, finally. And it's the chapter where the book stops letting him hide behind "I'm just not a words man." He says it flat out: he knows he loves her. He's choosing the silence. He made the decision because Daphne wrecked him, and he believes the words are the difference. That's the confession I've been waiting on for fifteen chapters, and it comes as pure interior, to nobody. Of course it does. He can tell Sheri "I can't," and the reader gets the reason, and Vee gets nothing. The dramatic irony is cruel and I love it.
+Okay, so this is the same night as Randi's Gstaad chapter, told from Vee's twin bed, and I get why it's built like a mirror. Same New Year's Eve and the same text exchange, now seen from the receiving end. Last chapter I watched Randi write "you ANGEL" with a man asleep behind her and a face on over nothing. This chapter I watch Vee read it and envy a billionaire and a "wild weekend" that was a sandwich eaten fast. That's the best thing in it. The reader knows every word was true and none of it was the thing. Vee builds an entire fantasy out of it, and she builds it in the wrong direction.
 
-The diner is warm and funny. Sheri is the best secondary character in the book. "The philosophy of your food. Lord almighty. Get over yourself" made me laugh out loud. And "from this seat, that feels pretty shitty" is the line he needed. Her grief speech about Paige and the family she doesn't call also tells me who she is without a flashback.
+The room that "did not know her" is lovely and specific. The trophies, the little gold swimmers, the clarinet, lavender plugins. "The cold room kept watch over the girl who was gone" is a good last line.
 
-Then the whiskey. A man who never drinks alone, going through photos, sliding down to a girl with brown hair and glasses. Daphne, and the book finally gives her a face. I want that story. The three-at-a-table fantasy, Vee in his sheet, Randi with her feet on the chair, laughing, nobody hurrying: that's the plan turning into something he actually wants, and he doesn't know Vee is the only one who doesn't know. He misses Randi too. "He would not take it from her." Ugh. He's tender to both, blind to both.
+What I loved is that she sat on the MIRANDA record and still didn't say. She's holding the kindness, and she envies the mountains anyway. That's real. It's not cleaned up.
 
-The morning after is the best part. The frozen chicken and broccoli, the hands shaking, the engine on the highway and his whole body leaning toward it. Then the sob, and eating anyway. That ending hurt, and I did not expect to be moved by him this much.
+The part that hurt, and in a good way, is the blonde. She builds a rival out of spite, then the night with the fra diavolo goes blonde while she's still inside it, and she can't keep her own memory. That's a precise and cruel invention. And she doesn't know the truth is worse: he's been with Randi the entire time. She's jealous of the wrong woman, again. Same as ch23.
 
-Grudges: the narration spells out his reasons a bit hard ("He had hurt her because he was afraid of how much she could hurt him"). I could have gotten that from the engine sound. And the date stamp says December 31, same night as both flashbacks, and I'm happy to be in a pattern now: three chapters, one night, three heads. Heat is zero, but the ache is real. The thing I'm furious about is that he knows, and still hasn't moved. I need him to say it to her.
+But it's a long chapter of lying in bed. I know she's lonely and I know he hasn't named it, and I've now been told that five or six times. The "no name" ache is looping. The plot didn't move: no Pace, no Randi in person, nothing new. The recap of the pictures and the dress was a retread. I only stayed because the mirror structure paid off with the text. And the flashback block of two chapters telling me one night twice makes me want to get back to January and see what she does with it.
 
-GATE 44 — The Usual
+GATE 43 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
+CAPTURE: 7
+NEXT: 7
 HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him." (the narration stating the subtext outright)
-WHY: Pace admitting to himself that he loves her, and the engine passing on the highway, finally give the silence a cause and a cost. It's the same night from a third head and no heat, but Sheri and the frozen chicken earned it.
+ROMANCE: 2
+ALMOST-STOPPED: "She had no answer that would fit in this house. She was no longer sure she had one that fit anywhere." (the home-for-the-holidays inventory and the loop of the same ache)
+WHY: Watching Vee read Randi's every-word-true text and envy the wrong life is the dramatic irony I read for, and the blonde she invents is a cruel, exact touch. But it's another static night in bed with the same unnamed ache, and I want January to move.
 
 LEDGER
-+ LOVE: Sheri's "The philosophy of your food. Lord almighty. Get over yourself," and her bluntness, "from this seat, that feels pretty shitty."
-+ LOVE: The engine passing on the highway, his body leaning toward it, then the sobbing and eating anyway.
-+ SUSPICION: Daphne, the brown-haired girl with glasses, left him in a way that wrecked him, and that wound is the real reason for his silence.
-+ FEAR: He knows he loves her and still chooses silence, so he may keep not saying it until she's gone.
-+ WAITING: Pace saying the word to Vee, and the first day of term when all three are in the same orbit again.
-+ GRUDGE: The narration spells out Pace's reason for silence directly instead of trusting the scene.
-~ S33.3 DEEPENED: "I don't go back" now has a face behind it, Daphne, and he says his family and past are why he keeps words to himself.
-~ S41.4 CONFIRMED: His silence is a deliberate vow, born of Daphne, and not temperament.
-~ S43.4 ANSWERED: His Christmas week was Sheri and a lonely whiskey night, not another woman.
-~ S1.4 DEEPENED: Daphne is now the only woman he told he loved, and her leaving took over his life.
-~ W41.5 SHIFTED: Pace sat home drinking and didn't go after Vee, but he is thinking about her constantly.
-~ S42.4 ANSWERED: The date stamps confirm these are the same New Year's Eve and the flashbacks were that night; present-tense is now clear.
++ LOVE: Vee reading Randi's "fairytale" text and envying a night I know was a sandwich eaten fast, the mirror of ch42.
++ LOVE: The blonde rival she builds from spite, and the fra diavolo memory turning blonde while she's inside it.
++ GRUDGE: Third static, heat-free chapter in a row, with the "no name" ache restated yet again.
++ SUSPICION: Pace's silent Christmas week may hold something real (Sheri, or his family wound), not just the blonde Vee invents.
++ WAITING: The first day of term, Vee and Randi face to face, and whether Vee tells her about the fight with Pace.
+~ W41.5 DEEPENED: Vee went home to Ohio and Pace sent nothing, so the fight just sits unresolved.
+~ F41.1 SHIFTED: She didn't drive to Randi. She texted her kindly and Randi answered with a lie, so the pull is still coming.

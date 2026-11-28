@@ -2,8 +2,6 @@
 
 *[SCENE] · Pace POV, close third: his campus office in the afternoon, then his bedroom that night; then Randi POV on the glass porch, Pace asleep · Vee does not appear — they talk about her.*
 
-<!-- WIP. Beats are drafted in order, one at a time, with the author. -->
-
 <!-- Panel 1 — the office (beats 1–5) -->
 
 Stephen had the marker and the board, and he had had them both for twenty minutes.
@@ -128,7 +126,7 @@ Pace said nothing. He found he was very pleased with Stephen, and with the after
 
 Stephen got up and went back to the board, and stood in front of the street and the stick figure with the marker, and the orange streak was still at his temple. "So, okay. You see, I've been thinking." He tapped the last lamp. "What if you don't count the lamps at all? What if you count the times he turns around?"
 
-<!-- Held for later in the chapter: "My heroine's tied up, and I don't know what to do with her." -->
+<!-- Held for Volume 4, when Randi brings the author cover back: "My heroine's tied up, and I don't know what to do with her." -->
 
 ---
 
@@ -416,12 +414,78 @@ He held there, and did not move.
 
 "You gave me blue balls," he said into her ear. "I'm not going to last. If you want to get there, you'd better get there before I do."
 
-"Cheat," she said, and locked her legs round him.
+"Watch me," she said, and locked her legs round him.
 
 She could not use her hands. She used everything else. Her heels drove into the backs of his thighs and her shoulder blades dug into the sheet to lift her up into him, again and again, harder than he was giving it to her, and when his chest came down on hers the wax on her breasts cracked between them and broke away in pieces. She was making a sound now on every breath. He held himself where he was, and held, and let her work, and did not let go until she went over under him, arching up off the bed with her mouth open and no sound at all. Then he let go, and it took him a long time, and she held him through all of it with her legs.
 
-<!-- Panel 2 continues: aftercare, the peel of what wax is left, "the house expects me" (not yet drafted). -->
+When he came out of her she let her legs go from round him. He reached under her hip for the buckle by her hand and opened it, and the strap fell slack, and he turned her onto her side toward him and drew the pillows out from under her and undid the cuffs, one and then the other, and laid them on the bedside table by the candelabra, where the second taper still burned.
+
+The chill took her before he had finished. It came up through her shoulders first, where the strap had held them, and then all of her was shaking. He had been waiting for it. The blanket from the den chair lay folded at the foot of the bed, where he had left it when he laid the towel; the cashmere would have kept the wax. He shook it out over her and got in under it and gathered her in against him, and took her arm high at the shoulder and went down it slowly to the wrist, and then the other, and back up to her shoulders, where the shaking was worst.
+
+He talked to her while it went through her, low, and did not hurry it. He told her she was beautiful. He told her about her nerve: the flame over her, and her lifting herself up to meet it, *Do it*, and that he admired it more than he knew how to say. Her forehead was against his collarbone. It went on a long while, and then less, and then only now and then, and then not at all.
+
+He got the water from the bedside table and sat her up against him to drink, and she drank half of it without stopping. She looked at him over the bottle. Her voice had not all come back.
+
+"Thank you for your help with my plot hole. You were very thorough."
+
+"Bring me the next one."
+
+She laughed, low, and gave him back the bottle, and lay down again.
+
+He folded the blanket down to her waist. Most of the wax on her breasts had broken away under him and lay in white crumbs on the towel. What was left he took off a piece at a time with his fingernail, beginning at the freckles, in the order it had gone on. Each one lifted whole, a white coin with the grain of her skin printed on its underside, and left a ring of pink where it had been. She lay and let him. At the nipples she drew a breath and held it, and he went slower there than anywhere, and showed her each piece before he set it down.
+
+Then he turned the blanket back from her hips. The two on her mons she watched him take with her chin tucked down, as if they might still go somewhere.
+
+"Romantic candlelight," she said.
+
+"Romance can't be rushed."
+
+He had her lift, and drew the towel out from under her by its corners, the wax and all, and let it down over the side of the bed. Then he brought the blanket up over the both of them and lay back. She lay on her back with her shoulder against his and her eyes closed. When her breathing had gone long and even he reached across her and pinched out the second taper.
+
+The last thing he knew was her breathing beside him in the dark.
 
 ---
 
-<!-- Panel 3 — the glass porch, Randi POV (not yet drafted) -->
+The porch had gone cold. The heat was down for the night, and the glass on three sides held nothing but the dark of the yard and, past it, the black line of the ridge, and the cold came off the panes and found her across the room. She had the towel round her shoulders, its two ends crossed over her breasts and her arm folded over them to keep them there. She had shaken it out over the rug by the bed, quietly, and still a crumb of wax had stayed in the nap, and she could feel it riding between her shoulder blades. The stockings had kept the bed's heat for the length of the hall and no farther.
+
+The long table ran under the windows with the sheet over it, one low shape and a lower one beside it. She stood at the end of it and listened to the house. Nothing. Then she took the near corner of the sheet between finger and thumb and lifted it, and folded it back on itself, and back again, as far as the shapes went.
+
+The bodice lay face up. It was sewn, the seams pressed so flat she had to look for them, the neckline crossing over itself and dipping, and where its edge turned under, a thread of something pale showed, oyster against the burgundy. He had lined it. At the waist it simply stopped, open, and below it the skirt lay in its panels, pinned to one another down their long sides and pinned in places up into the waist, the silver pinheads standing in a row. Where the lamp she had put on in the den reached through the archway, the burgundy ran down into plum. She set one fingertip on the silk at the shoulder and drew it along the bias, and the cloth gave under her finger and slid and came back.
+
+At the far end of the table, by the shears, he had swept the offcuts into a heap. She took one, a strip the length of her hand, cool, and heavier than it looked.
+
+The pedestal stood out in the middle of the floor, low, hardly a step. She let the towel down off her left shoulder and sat on the end of it, and it ran up her back and over her right shoulder and lay across that breast, and the rest of her was bare to the room. Her heels were on the carpet, the cheap gray wall-to-wall with its brown flecks that by day was the ugliest thing in the house. The cold came onto her where the towel was not, and she let it.
+
+Vee, then. Vee in it, finished, her hair down over the burgundy, and Pace on the couch to watch. Vee's mouth. It was soft when it came, and surprised, and then not surprised, and the tip of her tongue just showing, as it did when she was concentrating. Randi's right hand was between her own legs before the kiss had finished, and she was wet already, slick with him, and she went slowly.
+
+Somewhere at Vee's side there would be a way in. She found it. The silk came off Vee's shoulders, and down off her breasts, and Randi brought the strip up in her left hand and drew it across her own nipple, and it went over her like water and she had to stop. That. That was what Vee would feel. She drew it across again, slower, and the sore of the wax woke under it.
+
+Vee's breasts in her hands, the full weight of them, too much for her hands, and Vee kissing her back now, and the blush that went all the way down coming up under Randi's fingers. She took Vee's nipple and pinched it, and Vee made a sound into her mouth, and in the cold room Randi took her own nipple through the silk and pinched it hard, where the wax had been, and it went through her like the flame. Her right hand would not go slowly any more. The crumb of wax was still in the nap under her, and it dug into her, and she pressed down onto it.
+
+She got the corner of the towel into her mouth when it came, and bit down on the terry, and kept it there until she was quiet.
+
+She sat with her breath going in and out of her until it slowed. Then she got up and put the towel round her shoulders again and went back to the table, and stood over the dress and looked at it. She rubbed her wet fingers together. She laid the strip flat on the back of her hand and drew one finger down the length of it, down the middle, end to end, and the line shone on the silk where the light caught it. She wiped her hand dry on the towel.
+
+She lifted the open waist of the bodice in one hand, careful of the pins, and slid the strip up inside it, between the burgundy and the pale lining, and worked it up with her fingertips from outside until it lay flat under the cross of the neckline. She smoothed it with her palm. Nothing showed. She laid the bodice down where it had lain and brought the sheet back over it, fold by fold, and drew the corner down until it hung as it had hung.
+
+In the den she put the lamp out.
+
+He had turned in his sleep, onto his side, toward her half of the bed. She let the towel down beside the bed where it had been, and stood over him a moment in her stockings with the cold still on her, and bent to him.
+
+---
+
+A hand on his face woke him. The fingers were cold, cold as if she had held them under the tap, and they smelled of soap, and her hair came down over him. He turned his face into the palm before he knew he had, and it was still cold, and then he was awake enough to let it go.
+
+"Pace." She was bent over him in the dark. "The house expects me."
+
+He came up on an elbow. "I'll make you coffee."
+
+"Next time."
+
+She had the light from the hall to dress by. She took her bra and her panties off the top of the bench, where they had landed, and put them on with her back to him, and the merino over her head, and stepped into the houndstooth and did up the zip at her hip. He got up and found his jeans and a sweater. The heels were on the area rug where he had set them. She put a hand on his shoulder and stepped into them, one and then the other, and put the beret on.
+
+At the front door he took his boots out of the closet and stepped into them, bending to hook a finger through the loop at each heel and draw it up.
+
+Outside the cold had come down hard, and the yard was black to the trees. He walked her across it to her car with his hand at the small of her back, and opened the door for her, and shut it when she was in. The window came down. He bent to it, and she put her hand up to his face and kissed him, and her fingers were as cold as they had been, and she kept them there until the kiss was done. Then she let him go, and the window went up.
+
+He stood in the drive until her lights had gone down through the trees, and then he went in and locked the door behind him.

@@ -1,30 +1,29 @@
-*capture-dag-v3-grounded · gate ch031 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9e4c9f23fce8 · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch028 · history ch001..ch028 · ledger no seed dd17797abbeb · 2026-11-19*
+*capture-dag-v3-grounded · gate ch031 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 660be004cce1 · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch026 · history ch001..ch026 · ledger no seed 24da5cb39573 · 2026-11-19*
 
 REACTION
 
-God, I love this book. I am sitting here grinning like an idiot and my heart is still hammering.
+*Oh, Randi.* That was surgical.
 
-First of all, *Pace playing terrible air guitar to "Thunderstruck" in his kitchen* while Vee spies on him through the window? After twenty-eight chapters of him being this quiet, exact, courtly man, watching him shake his head loose in his gym shorts and then immediately light up when she shows up an hour early—I’m done for. And Vee! Texting him first, yanking his gym shorts off, flashing him in the den just to make him chase her—she is so *alive* now.
+I am sitting here with my heart still hammering from a scene where nobody even touched each other, because watching Randi take Vee’s little confession about Sunday morning and turn it into a slow, deliberate seduction in a soundproof piano closet was *lethal*.
 
-And then the bet. *Good god.*
+First of all, the way it started: Vee’s two fingers on Randi’s wrist after class, literally leaving Cassie behind with her granola bar and her wrong textbook. For twenty-six chapters, Randi has been the one steering Vee out of the herd. Now Vee is the one reaching for *her*, towing her into a tiny, soundproof room where people used to hook up freshman year, because she’s still buzzing from Sunday and Randi is the only person she wants to tell.
 
-The way he handled that—stopping the exact second she said *"Don't,"* showing her empty hands, and waiting until she said *"Yes. We find out"*—is why this book ruins other romances for me. And the spanking itself! Vee is kneeling on the bed in nothing but those black heels, bracing herself for Randi’s story—for counting out loud, for theatre, for humiliation—and instead Pace gives her quiet, gentle, soothing warmth, kissing her skin between every tap until she’s completely undone. *"Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness, anywhere."* That line wrecked me.
+And Randi doesn't waste a second. The moment Vee tries to brush off Pace’s swat as a "game of slap-and-tickle," Randi goes still like a cat and zeroes right in: *"Tell me about the one he gave back... His hand was wet."* She knows *exactly* what Pace did, and she knows *exactly* what it did to Vee. Watching Vee’s voice drop and her nipples go hard under her thin jersey right there in the chair—and then watching Randi lean back, let her accent slip out on *roars*, and feed Vee a "story" about being put over a man's knee, skirt up, panties down, counting out loud until his hand slips between her legs—was scorching.
 
-And then the aftercare. A glass of cold juice, her head in his lap, him stroking her hair and calling her *wonderful* until she falls asleep. And waking up to a whole pack of deep green scrunchies with white dots sitting on the bathroom counter—without a note, just because he remembered Monday morning!
+And the fact that Vee got so wet from just *listening* to Randi’s voice that she had to bolt to a locked bathroom and physically pin her own hand to her knee to stop herself from touching herself? *God.* She’s telling herself *"Not here. Not over a story. To do that would be to say yes to it,"* and she’s already saying yes to it with every inch of her body.
 
-She’s using his deodorant and planning to bring an overnight bag next time. She’s eating spicy curry and drinking beer in his kitchen. She’s all the way in, and she still has no idea Randi exists.
+Then Randi’s little pivot at the end—already packed up, breezy, warm, kissing her on the mouth at the top of the stairs (*"Love you, gorgeous girl"*) while Vee’s arms are slow to come down—is pure psychological warfare, except I don't even think Randi is faking the warmth anymore. She’s priming Vee for the bench, and she’s enjoying every second of it.
 
-GATE 29 — We Find Out
+GATE 27 — The Practice Room
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 9
+CAPTURE: 9
+NEXT: 10
 HEAT: 3
-ROMANCE: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: From the hilarious joy of catching Pace playing air guitar to "Thunderstruck" to the scorching, deeply tender bet in the bedroom—and those green scrunchies on the bathroom counter the next morning—this chapter hit every single note I read for.
+WHY: Peak erotic tension built out of nothing but two women talking in a soundproof room. Watching Randi zero in on Sunday’s swat and talk Vee right to the edge of coming in a locked bathroom—and watching Vee’s arms linger after that goodbye kiss—has me desperate for what happens next.
 
 LEDGER
-~ L1.1 DEEPENED: Terrible air guitar in his kitchen, pulling his hand back the instant she says *Don't*, bringing her juice afterward, and leaving a pack of green scrunchies on the counter.
-~ L3.1 DEEPENED: Texting first, yanking his shorts off, flashing him in the den, and finally letting go of her shame in bed.
-~ W26.1 ANSWERED: Pace turned Sunday’s swat into a quiet, tender, consensual bet in the bedroom, nothing like the theatre of Randi’s story.
-~ F4.2 DEEPENED: Vee is planning to bring an overnight bag next time, completely unaware of Randi.
++ WAITING: For Vee to stop pretending to herself about what Randi’s stories—and those goodbye kisses—are actually doing to her.
+~ W26.1 DEEPENED: Randi didn't even need Pace to tell her about Sunday afternoon—she clocked it off Vee’s face in ten seconds and immediately used it to prime her.
+~ F4.2 DEEPENED: Vee is now actively choosing Randi over Cassie and getting turned on by Randi’s stories about *Pace* without knowing it’s him.

@@ -1,27 +1,24 @@
-*capture-dag-v3-grounded · gate ch033 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8090ff35ac88 · dated · memory grounded: facts ck-ch030@consensus (audited, 6 non-fact sentence(s) dropped, 0 trimmed) · history ch001..ch030 · ledger no seed 3c41b00af593 · 2026-11-19*
+*capture-dag-v3-grounded · gate ch033 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0866878b4a64 · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch029 · history ch001..ch029 · ledger no seed 27e347d0286f · 2026-11-19*
 
 REACTION
 
-*"Sticky fingers?"*
+Oh, *Vee*. Look at her.
 
-I actually gasped out loud. My heart stopped right alongside Vee’s, because for two agonizing seconds I thought Randi had just dropped the polite-friend act entirely and called her out in the middle of a sunny brunch porch. And the worst part—the *best* part, the part that’s going to keep me up tonight—is that Randi knew *exactly* what she was doing. Even with the glazed pastries sitting right there as plausible deniability, that tiny, pleased corner of her mouth staying up for the rest of the meal said everything.
+If you had told me six weeks ago—back when she was apologizing to strangers on the sidewalk and hiding in cardigans—that she would be ordering Pace into his recliner on Halloween night, making him sit on his hands, and then walking down his hallway in nothing but four-inch heels and a blush, I wouldn't have believed you. And yet it feels completely, undeniably earned.
 
-Randi is surgical. All it took was one casual *"Vanilla"* to get Vee spilling every single detail of Friday night—the pantsing, the bet, Pace checking inside her, stripping down to nothing but those heels. Watching Vee get progressively wetter right there at the table, pressing her thighs together under the tablecloth while Randi leaned in like a cat with a mouse, was scorching. And then Randi casually drops that Radford mixer story—whether it actually happened or she just spun it up on the spot to push Vee over the edge—and sends Vee straight into a hard-lit bathroom stall, soaked and desperate.
+I loved how quiet and domestic the opening was, just her sitting at his table with her wine watching his back while he did the dishes, and the fact that she’d snuck that burgundy dress into her back seat on Friday even while she was pretending she wasn't packing a bag. Giving him the induction walk he missed in Berkeley was already lethal—watching him start to get up out of the chair and then force himself to stay put because she put one flat hand out—but *Costume Two*? Stepping out of the dress and walking back into that lamplight in nothing but the heels, pink all the way down, and not covering a single inch of herself?
 
-What wrecked me, though, wasn't even the heat of the stall scene. It was the fact that Vee didn't stop herself because of her mother's voice this time. She stopped because *Randi’s face* arrived behind her eyes, fond and clear, and she couldn't bear to be looked at like that while her hand was inside herself.
+And Pace. *"The other is for the world. This is just for me."* He’s going to kill me. Nobody even touched anybody in this chapter and I’m sitting here breathless.
 
-And then they walk out into the cold, and Randi looks her in the eye and calls her *"my best friend in the whole world,"* and Vee just melts into it. That final beat—Vee standing on the sidewalk alone after the Mercedes pulls away, licking her lower lip and tasting the sugar and butter of the pastry Randi took *one bite* of—is lethal.
-
-GATE 31 — One Bite
+GATE 30 — Made-Up
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Scorching heat and unbearable psychological tension, all built out of a brunch table, a bathroom stall, and a single glazed pastry. That *"Sticky fingers?"* drop—and Vee tasting Randi’s pastry on her own lip at the curb—has me completely hooked.
+WHY: A short, scorching chapter that pays off Vee’s entire arc of shedding her shame—watching her put Pace in that chair and walk out in nothing but four-inch heels and a blush had my heart hammering.
 
 LEDGER
-~ F4.2 DEEPENED: Randi just called Vee her *"best friend in the whole world"* right after winding her up to the edge in a public bathroom—the fallout when the truth comes out is going to be nuclear.
-~ W27.1 SHIFTED: Vee is still trying to pretend it’s just friendship, but Randi’s face is what stopped her in the bathroom stall, and she’s tasting Randi’s pastry glaze on her lip at the end.
-+ SUSPICION: Whether Randi’s Radford mixer story was even real, or if she invented it on the spot just to push Vee into that bathroom.
+~ L3.1 DEEPENED: Walking out into the lamplight in nothing but four-inch heels and standing there blushing without covering an inch of herself.
+~ L1.1 DEEPENED: Staying put in the chair when she tells him to, letting the looking be the touch, and *"The other is for the world. This is just for me."*

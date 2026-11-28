@@ -1,55 +1,53 @@
-*capture-dag-v3-grounded · gate ch047 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 819e1bd10401 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch044 · history ch001..ch044 · ledger no seed 640919fb60eb · 2026-11-06*
+*capture-dag-v3-grounded · gate ch047 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9a7b91c690c6 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch043 · history ch001..ch043 · ledger no seed 909120bd4b8f · 2026-11-06*
 
 REACTION:
 
-I am screaming. I am literally clutching my own throat at 1:00 in the morning. My hands are shaking so hard I can barely type this.
+Oh, god. My chest is caved in. I am sitting here in absolute silence with tears running down my face.
 
-WHAT A CHAPTER. Helen Rivers just pulled every single tripwire on this board simultaneously!
+Helen Rivers just gave us the three-sided mirror from hell. Chapter 42 was Randi hollowed out in Gstaad; chapter 43 was Vee frozen in Ohio; and now chapter 44 is Pace, completely coming apart at the seams out in the woods. Three people, three corners of the country, all drowning in the same silence on New Year's Eve.
 
-First of all, Vee’s arrival—the red-eye from Ohio, the gray morning at Roanoke airport, dragging herself into that dark dorm room with Cassie gone, completely crushed by a month of silence from Pace. And where does she run when her heart is hemorrhaging? Straight across campus to Randi’s. That bedroom scene was pure, suffocating psychological genius. Randi pushing her luggage, her expensive Gstaad dresses, onto the floor because *the wrecked girl in her doorway came first*! And then methodically, brilliantly dismantling Vee’s panic: dismantling the phantom blonde ("Sheri"), reminding Vee that Pace hoards her like gold and never checks his phone, and diagnosing Pace’s silence not as indifference, but as a terrified boy backed into a corner holding himself still. Randi knows him so well it's chilling—and she uses that intimate knowledge to comfort the woman they are both obsessed with.
+First of all: Sheri is an absolute godsend. Every book needs a Sheri. A no-bullshit, five-foot-tall road cyclist who orders the double cheeseburger and chocolate shake, steals your fries, and doesn't buy your intellectualized, philosophical armor for one single second. The banter in that diner was so grounded and sharp: *"Lord almighty. Get over yourself... What is it you want?"* And Pace finally laying it down: *"I want Vee. I miss her."*
 
-AND THEN RANDI’S PLAN.
+And Sheri hitting him with the cold, unvarnished sledgehammer: *"She's told you what you have to do. So say it... Then not saying it matters more to you than having her. And I'll tell you — from this seat, that feels pretty shitty."*
 
-*“You just show up already being the answer... that good long coat... and nothing under it.”*
+BOOM. That is the entire novel right there. She stripped away his whole mathematical architecture—the "spaciousness," the respect, the letting her choose, the providing—and showed him the ugly, cowardly truth underneath. He’s hoarding the word to protect his own skin, and calling it a principle.
 
-SWEET MOTHER OF GOD.
+AND THEN THE HOUSE.
 
-Randi literally hands Vee the nuclear option! Walking her down from her mother’s church-basement "slut" shame, turning it into the ultimate, breathtaking gesture of female bravery. And then going to the closet and handing over those lethal, multi-strapped gladiator stilettos that put the leg on display clear to mid-calf! Vee standing there holding the straps, her nipples instantly aching and hard against her shirt, thinking it’s anticipation for Pace—when Randi is the one who curated the outfit, Randi is the one who touched her knee, and Randi is the one holding the other end of the shoes.
+Oh, god, the house. Pace drinking whiskey alone in the dark—something he *never* does—staring at the pictures on his phone until the order stopped making sense, and then waking up on New Year’s Day to the smell of bleach in the hall... He got violently sick, spent the night throwing up, and cleaned it up on his hands and knees in the dark. The stoic, controlled powerlifter reduced to trembling, sweating, dry-heaving wreckage.
 
-AND THEN THE FOYER. THE KISS.
+And the confession over that bowl of boiled chicken and broccoli. Rivers finally gives us the key to Peter's entire emotional fortress, and it broke my heart into a thousand pieces.
 
-I STOPPED BREATHING. I PHYSICALLY GASPED.
+*Daphne.*
 
-Vee didn't just lean in. Vee didn't just accept the French double-press. *Vee turned back from the latch, took Randi’s face in BOTH HANDS, and kissed her mouth until the thing in her chest had somewhere to go.*
+The fifteen-year-old child prodigy dropped into a university alone, groomed and loved and guided by the only person in the world he trusted—and when she walked out, the world ended. So he did the terrible, broken arithmetic that traumatized people do: *I gave Daphne the words, and she destroyed me. If I never say the words again, loss is survivable.* He convinced himself that withholding the syllable "love" would keep him safe.
 
-FOUR MONTHS OF RANDI LEANING IN, AND VEE FINALLY CAME BACK AND TOOK HER MOUTH.
+*"He had hurt her because he was afraid of how much she could hurt him."*
 
-The shift in perspective to Randi standing in that hall after the door shut—her hand against her own lips, laughing that short, stunned, idiotic laugh of pure, disbelieving joy, her Kentucky accent slipping all the way to the surface—was so achingly real and triumphant.
+HE ADMITTED IT. In his own head, sitting over cold prison food, he finally admitted that he loves Vivienne Thorne, and that when she offered him her soul on the porch, he was weak and terrified and gave her a small truth instead of the whole one.
 
-AND THEN BROOKE.
+AND THEN THE TRUCK ON THE HIGHWAY.
 
-CHILLS. Absolute, ice-water-down-the-spine terror.
+I sobbed. I actually gasped out loud and buried my face in my hands. The fork freezing halfway to his mouth. His whole muscular, controlled body straining toward the road, praying it was her little Corolla coming up the gravel... and then the sound holding steady and driving past.
 
-Brooke was waiting like a sleek viper in the kitchen. Brooke saw the kiss under the composites. And Brooke laid out the brutal, velvet-wrapped sorority reality: *"Play all you want, privately, or for the boys... The day he thinks it's true... You remember Lauren Pike... You've got a position in this house, and you've got her. You need to choose."*
+*He bent over the table and sobbed until he could no longer hear the truck, and for a few breaths after.*
 
-The threat is out in the open. The surveillance is complete. Randi has to choose between Standards/her untouchable sorority life and Vee. And meanwhile, Vee is currently at the dorm resting up, getting ready to drive out to the woods tonight in four-inch strapped stilettos and nothing under her coat to throw herself at Peter’s feet!
+Peter. Oh, Peter. Watching this courtly, immovable man break down and weep alone at his kitchen table destroyed me. But then—picking up the fork and eating the cold chicken anyway, because the body has to go on.
 
-Tonight is the night. Pace has been weeping at his kitchen table over his cold chicken, and Vee is about to open her coat on his porch. I am vibrating with adrenaline. Turn the page right this second!
+January is coming. Vee is heading back to campus thinking he doesn't care. Pace is sitting in the woods knowing he loves her and has no idea how to cross the floor he broke. And Randi is waiting with open arms and a hidden fire. Turn the page right now.
 
-GATE 45 — My Friend Randi
+GATE 44 — The Usual
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
+HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The jaw-dropping escalation of Vee taking Randi's face in both hands for a passionate goodbye kiss, followed instantly by Brooke's chilling ultimatum under the composites, was an absolute masterclass in erotic tension and dramatic stakes.
+WHY: The emotional payoff of Pace finally confronting his own cowardice—drank to sickness, sobbing over his kitchen table at the sound of a truck that wasn't Vee's—was an absolute, devastating masterpiece of character interiority.
 
 LEDGER
-+ FEAR: Brooke is going to use Lauren Pike's fate to force Randi off Standards or expose Vee if Randi doesn't drop her.
-+ LOVE: Vee turning back from the front door to take Randi's face in both hands and kiss her out of pure, overwhelming gratitude and desire.
-+ WAITING: Tonight—Vee arriving at Pace's house in Randi's strappy heels and nothing under her long coat.
-~ [F2.2] CONFIRMED: Brooke officially confronted Randi in the kitchen, warning her that her visible romance with Vee threatens her position on Standards.
-~ [F17.2] SHIFTED: Vee is no longer just normalizing Randi's kiss—Vee actively initiated and prolonged a deep mouth-to-mouth kiss, taking Randi's face in both hands.
-~ [F43.1] CONFIRMED: Vee ran straight to Randi's room the moment she landed on campus, putting herself entirely in Randi's hands to fix her heartbreak.
-~ [W43.2] SHIFTED: The reunion didn't wait for Tuesday's Anthro class; Vee ran straight to Randi's house on Friday morning, setting up tonight's confrontation with Pace.
++ LOVE: Sheri calling Pace out on his philosophical bullshit over cheeseburgers: "Then not saying it matters more to you than having her."
++ LOVE: Pace sobbing alone at his kitchen table when the car on the highway drives past—pure, earned heartbreak.
+~ [L1.2] SHIFTED: Pace's patience and withholding of words wasn't an arrogant philosophy; it was a desperate trauma response rooted in Daphne abandoning him, and he finally admitted he loves Vee.
+~ [F5.1] DEEPENED: Pace has officially confirmed to himself that he is completely, helplessly in love with Vee, making the eventual revelation of the pointing game even more devastating for both of them.
+~ [W43.2] DEEPENED: All three players (Randi, Vee, Pace) are now emotionally shattered and heading straight into the start of the spring semester.

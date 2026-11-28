@@ -1,49 +1,40 @@
-*capture-dag-v3-grounded · gate ch046 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9a7b91c690c6 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch043 · history ch001..ch043 · ledger no seed 02f356d5e38c · 2026-11-06*
+*capture-dag-v3-grounded · gate ch046 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8a57074b7fe9 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch042 · history ch001..ch042 · ledger no seed 7ca552e0e594 · 2026-11-06*
 
 **REACTION**
 
-He's been sitting in the recliner the whole time. I griped for ten chapters that the book left him in that chair on Halloween, and here he is on New Year's Eve, in the same recliner with the lamp off, scrolling through the pictures, filling the glass three times. I don't think the book meant it as a joke on me, but it landed like one, and it hurt.
+It's the same text, read from the other end. Last chapter I watched Randi type "Every word of it true. None of it the thing" with a stranger asleep behind her. Now I watch it light up Vee's ceiling in Ohio, and it works exactly the way Randi built it to. Vee reads "fairytale" and pictures white tie, a man out of the stories, a life lived where everyone can see. She's right about all of it, and she envies all of it, and it's the one life Randi just lay inside and felt nothing. Each of them is lying alone in a cold room picturing the other one warm. That's what I'd text at 1 a.m. And "miss your face most though, gorgeous," the one line Randi actually meant, is the line Vee skims right past on her way to the billionaire. She registers that Randi "took the time." She has no idea it was the only true thing on the screen.
 
-That's three chapters of the same night now: Randi in Gstaad, Vee in Ohio, Pace in the woods. Each of them is lying in a cold room picturing someone warm. I came in braced for a third quiet chapter and ready to skim. I didn't skim a word.
+Going back to a night I'd already seen worked for me. The two-page chapter taught me how this book uses chronology, and the mirrored midnight is the same move. I know where Randi is and what she just did, so every guess Vee makes lands like a bruise. When she pictures "a weekend so wild Vee wouldn't recognize half of what they did," I know it was one hollow night and a lipstick ring. That's dramatic irony done as grief, not as a gotcha.
 
-Here's the big one, and I'd text it at 1 a.m.: Randi hasn't been back since the morning of the drawer. Six weeks. She hasn't come out to the house or called. I've spent a dozen chapters dreading Mondays, sure every soft thing Vee did was going into Randi's ears in his bed, and the Mondays were empty. He's been alone on those nights since November. The cashmere blanket slides off the foot of the bed, and he folds it and puts it back "where it lived" for a woman who isn't coming. Meanwhile Randi is in the snow deciding to "keep the brunches exactly as they were." She walked out on him without saying a word, and he's calling it her choice to make: "When she was ready, she would call. If she was." Everybody in this book leaves the room for everybody else. Nobody walks back into it.
+The best thing in the chapter is the fra diavolo memory turning on her. She reaches for her best night to get warm, and while she's inside it the hair goes gold, the leg goes tan, and a blonde is sitting in her sheet at his table. "She could not keep her own night." God. That's jealousy written as something happening to her memory, which is so much smarter than a catty stranger at a bar. And the cropped photo: "Same picture, one house, and she was the one who had divided it." That line knows something about her that she's only half ready to know.
 
-And he still has the picture: three of them in his kitchen, Vee in the sheet with too much honey, Randi with her feet up. "Further along than last time, because he had been adding to it for weeks." Vee is gone and Randi is gone, and he's still furnishing that kitchen. That's the coldest and saddest thing he's done. "Whether the room would ask more of her than she had in her." Oh, Pace. The room already asked. She left.
+And the book finally remembered MIRANDA. "She knew whose money it was," and she envies the mountains anyway, "a poisoned Gstaad." Seven chapters late, but it came back, and it came back honest. Her wanting what she knows is dirty from a twin bed is real interiority.
 
-Sheri got me. I've had her on my ledger as the bar blonde, then as a rival at the Thanksgiving table, and she's neither. She's estranged from her family, lost Paige over "call your mama, Sheri," and eats a double cheeseburger like she rides. "People who've never lost anything think grief is a choice." That's the two of them in one line, two people who don't go home sitting across from each other. Then "Then not saying it matters more to you than having her." She says what I've been yelling for six chapters, to his face, in a diner, and then steals his fries. "The philosophy of your food. Lord almighty. Get over yourself." I laughed out loud. She's the first person in two books who isn't impressed by him, and he laughed his first full laugh of the night because of it. I love her. And "she looked at me like I was one more of your harem applicants" about Randi made me grin.
+Here's what I learned, and it hurts. Pace never came after her. There was no text for three weeks. "He left you the room. He always left you the room — a thing she'd appreciated once, and hated now." Yes. That's his whole virtue turned into the wound, and it's Randi's line about him being thrown back at him. And Vee never told Randi. She wishes she could, but she sent "i'm here if you want to talk" and offered comfort instead of asking for it. So Randi doesn't know they broke, and her plan of "keep the brunches exactly as they were" is resting on a floor that's already gone.
 
-Then the morning, which wrecked me. Bleach, and the mop bucket outside the bathroom with foam crusted above the waterline. The book never says he threw up. It just shows me the bucket, and that restraint is exactly what I've been begging for. Then the freezer, chicken in one column and broccoli in the next, "enough in there to go on like this a long time." The man who has fed every woman in this series boils bags for himself and eats "because he told it to." Prison food. So the feeding thread was never about him liking to cook. He feeds other people because that's the only way he lets himself eat well.
+Gripes. The bartender's lines get recited again, word for word. The fra diavolo gets recapped in full before it turns, and I needed the turn, not the menu. "Old lady air freshener" shows up twice. Then "a devastatingly handsome billionaire": Randi's text never said that, so either Vee is psychic or the book leaked its own knowledge into her head. I'm calling it imagination, but it was a little too exact. And the ending explains itself again, with "holding both of them and setting neither down" and "the girl who was gone." The room-that-loved-Vivienne idea landed on page one, and the last sentence didn't need to bring it back. This is also the fourth chapter in a row with basically no heat. Every one of them is grief-shaped, and I'm starting to feel the book holding its breath a beat too long.
 
-The truck on the highway undid me completely. His head comes up before he knows it, the fork stops, and his whole body leans toward the cut in the hill. "It was the wrong sound." It doesn't slow down. Then he sobs at his little table. The man who reads every breath in everyone else finally gets read, by me, and he's a wreck. "Pace picked up his fork. He was not hungry. He ate anyway." That's a perfect last line.
+Still, "a day she could circle for the one and nothing at all for the other." The first day of term is now a date I'm reading toward.
 
-Daphne: "brown hair and glasses who laughed with her hand over her mouth." "There had been no one to tell that Daphne was gone." Gone. Not left. Next to Sheri's line about grief, I think Daphne is dead, and I think the scar has something to do with it. That's the door he won't open, and now I understand why he can't say the word. He said it once, and losing her took over his whole life.
-
-Gripes. The book explains him to me in the exact paragraphs where I didn't need it: "He had taught himself that the words were the difference," "He had hurt her because he was afraid of how much she could hurt him." That's the moral handed to me in a sentence, right after the diner had already shown it beautifully. The Daphne section goes flat and summary-like ("Those relationships mattered. Their endings hurt.") in a way that felt like notes. Maybe that's deliberate, a man reciting himself, but I noticed. The crackers-and-meal speech gets replayed one more time, though at least now it's from his side and comes with the answer he swallowed. "Whiskey River was a liar" is a great line. And a small one: he said "most important thing" to Sheri, but in chapter 41 he said "person."
-
-But I finally have Pace's interior, and he loves her, and he knows it, and he knows what he did. Now I need the two of them in the same room.
-
-GATE 44 — The Usual
+GATE 43 — Old Acquaintances
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 7
+NEXT: 8
 HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him." The book stated the thesis outright, after a diner scene and a mop bucket that had already said it better.
-WHY: It's the third telling of the same night and the best one. Pace in the recliner, the empty Mondays, Sheri's "not saying it matters more to you than having her," and a grown man sobbing because a truck didn't turn in. He finally admits the word, to himself, and I want to see him spend it.
+ROMANCE: 2
+ALMOST-STOPPED: "The bartender, the older lady, closing the place down that night without looking up from the glasses — *he doesn't take advantage, I'd have heard*" — the book replaying chapter 23's dialogue to me one more time.
+WHY: The mirrored midnight is the dramatic irony this book does best: both women lie in cold rooms imagining each other warm, and the one true line in the text goes unread. The fra diavolo memory turning blonde wrecked me. It's another quiet, over-explained chapter, though, and I want bodies back on the page soon. The first day of term is what I'm reading toward now.
 
 LEDGER
-+ LOVE: Sheri, a lesbian estranged from her family, eating her double and stealing his fries: "The philosophy of your food. Lord almighty. Get over yourself."
-+ LOVE: The truck that doesn't slow down, the sob at the table, and "He was not hungry. He ate anyway."
-+ LOVE: The freezer in its columns, prison food, and the man who feeds everyone eating bags of boiled chicken alone
-+ SUSPICION: Daphne didn't leave, she died: "no one to tell that Daphne was gone." The scar is part of it
-+ FEAR: He's still building the three-in-the-kitchen picture while both women are gone, and he'll pitch it the moment one of them comes back
-+ WAITING: Pace finally spending the word on Vee, out loud
-+ GRUDGE: The interior paragraphs spell out his fear as a thesis right after the scene had shown it
-~ S32.6 ANSWERED: Randi hasn't come to the house since the morning of the drawer. The Mondays have been empty for six weeks
-~ F25.1 DISPROVED: Vee's private things haven't been going to Pace's bed since November. Randi stopped coming
-~ S25.2 DISPROVED: Sheri wasn't the blonde. She only saw Vee "before she started throwing things"
-~ S33.5 DISPROVED: Sheri is a friend who doesn't go home either, not a rival
-~ S41.4 SHIFTED: The line he's holding isn't Randi. It's Daphne, and it's fear
-~ F32.4 SHIFTED: The silence was a choice. He had the true answer ready on the porch and picked the smaller one
-~ F43.3 DEEPENED: Vee's imagined blonde doesn't exist. He's alone in a recliner going through pictures of her
-~ W16.2 DEEPENED: The Daphne wound is a loss he never recovered from, and the scar probably sits on top of it
++ LOVE: The fra diavolo memory turning on her mid-dream, the blonde in her sheet at his table. "She could not keep her own night"
++ LOVE: "Same picture, one house, and she was the one who had divided it"
++ FEAR: Vee is building a rival out of nothing, a blonde from the dance hall, and she'll walk into January already believing she's been replaced
++ GRUDGE: Vee somehow knows it's "a devastatingly handsome billionaire," and the bartender's lines and the fra diavolo get recited again
++ WAITING: The first day of term, with Randi's lit-up face and Pace nowhere to be circled
+~ W42.7 ANSWERED: Pace sent nothing the whole break, and Vee never told Randi they broke
+~ W41.6 ANSWERED: He did nothing. He left her the room, and she hates it now
+~ F41.5 DISPROVED: Vee never took the fight to Randi's table. She offered Randi comfort instead
+~ F42.3 DEEPENED: Vee skims right past "miss your face most," the one line Randi meant, on her way to the fairytale
+~ L4.4 DEEPENED: "Glamorous, wild Randi" in the snow. Vee envies the exact life Randi just felt nothing inside
+~ W36.6 DEEPENED: Vee still keeps MIRANDA folded away, and envies "a poisoned Gstaad" anyway
+~ S25.2 SHIFTED: Vee's imagined rival is blonde, and Sheri at his table is a bleached blonde she "folded away as pity"

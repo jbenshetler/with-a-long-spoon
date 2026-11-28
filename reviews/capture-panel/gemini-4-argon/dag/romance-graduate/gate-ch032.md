@@ -1,38 +1,57 @@
-*capture-dag-v3-grounded · gate ch032 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e921d1a09641 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch029 · history ch001..ch029 · ledger no seed 701dedf9f685 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch032 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c0fe737f7acd · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch028 · history ch001..ch028 · ledger no seed 1826db83eba8 · 2026-11-06*
 
 REACTION
 
-Wait—THAT'S IT?! No, I mean it in the best possible way: what a breath-catching, incandescent jewel of a chapter! Not a single hand gets laid on either of them in these three pages, and yet the erotic charge of Vee walking down that hallway twice had my heart hammering in my ribs.
+Oh, I am grinning so hard AND my heart is in my throat at the exact same time! This chapter gave me EVERYTHING—the funniest, most endearing opening, a scorching, emotionally deep bedroom scene that stands in direct, pointed contrast to Chapter 1 and Chapter 27, and then a Saturday morning bathroom detail that made me want to scream!
 
-Look at how far this girl has come since Chapter 4 when she sat in Chi Latte clutching her cardigan closed, or even Chapter 14 when she stood on the riser with her eyes squeezed shut while her mother's voice called her a *stripper*! Tonight, it's Halloween out in the woods, and she hasn't packed an overnight bag—wait, she told herself she wasn't planning to stay the night, and yet before she drove out on Friday she dumped all her books and pens out of her backpack to pack her makeup and laid the burgundy dress across her back seat! Because deep down she knew!
+First of all: PACE PLAYING TERRIBLE AIR GUITAR TO "THUNDERSTRUCK" ALONE IN HIS KITCHEN WITH A PROTEIN SHAKE.
+I laughed out loud when Vee crept up the stoop an hour early ("like a thief") and caught this solemn, courtly twenty-two-year-old math genius blasting AC/DC so loud the bass came through the siding and giving the empty kitchen "four bars of the worst air guitar she had ever seen, no shape to it anywhere, both arms doing something nobody should do sober." What a stroke of genius to let her see him completely uncurated when nobody was supposed to be there for an hour!
 
-And I love that the impulse starts from her watching Pace's back at the kitchen sink and thinking about everything his hands have made: the dinner, the table, the chair holding her, and the dress out in the cold dark car that crossed a stage for a roomful of strangers while its maker was three thousand miles away in Berkeley. Even when she steps out of the dress in the bathroom for Costume Two, look at how she treats it: *"hung it — properly, seams squared on the hanger, a thing somebody's hands were in."* Compare that to Randi in Chapter 13 looking at his white-oak furniture and moving on because there wasn't a label she knew!
+And the way that playfulness carries right into the den! Vee poking his sore post-leg-day quad until he actually flinches ("Get up. Get up. Get up"), yanking his red gym shorts right off his feet while he's commando ("Ha!"), him spinning her out of her wrap skirt in one move, and her discovering she can cut and reverse faster than his powerlifter bulk in her strappy boutique heels—and then *flashing her breasts at him* to bait him into chasing her down the hall! Look at how far Vee has come since Chapter 4 when she wouldn't even take off her cardigan!
 
-Then there is the sheer, delicious power of Vee directing the room:
-*"Get your wine and go to the den. Wait for me in the recliner."*
-And when she comes out in the dress and Pace starts to rise out of the chair, *"she put out one hand, flat, and he sat back down."* That flat hand stopping him in his tracks! And then giving him the exact long-strided walk she gave the induction ceremony—the slit parting all the way to her bare hip—while he has to physically put his own hand away so he doesn't touch her before she's done!
+And then, when he catches her in the bedroom and she playfully swats his rock-hard ass ("like slapping the workbench"), we get the real payoff to Sunday's kitchen smack and Monday's practice-room confession.
+*"Either you admit you lost, or we find out."*
+The consent mechanics in this scene are so fucking hot I could barely breathe. When his rough, calloused hand starts sliding up the inside of her thigh and she panics and says *"Don't,"* his hand doesn't just pause—it leaves her completely, palm turned up and away like a man showing empty hands. No pressure, no pouting. So that when the air comes back into her lungs and she realizes she *wants* the promise of his hand back, she has to say it out loud: *"Yes... We find out."*
 
-AND THEN COSTUME TWO.
-Wait—do you remember Chapter 24 in Randi's bedroom, when Vee looked in Randi's closet and giggled: *"I was picturing it. Me, in here, in nothing but your shoes"*? And Randi laughed and called her *"my very own shoe whore"*!
-And then last night in Chapter 29, Pace told her: *"All of it. Leave the shoes."*
-And now, on Halloween night, Vee takes that exact image—four-inch boutique heels (the ones Randi knelt to buckle onto her feet!) and nothing else, plus her full face of makeup ("Made-Up"!)—and walks ten steps down the warm hallway into the circle of lamplight that Pace clicked one notch brighter for her!
-*"'And this is what I had on under it,' she said."*
-And her hip cocking out on its own before she even knows she's doing it! Look at the closing line of this chapter:
-*"She stood in his light and let him look, and the blush went down and down, and she did not cover one inch of it."*
-No mother's voice. No *floozie*. No *stripper*. Just a blush going all the way down her bare body in the lamplight while she lets him look and doesn't cover a single inch.
+And when he slides his finger into her and holds it up gleaming in the lamplight—more wetness than she'd ever admit to having—look at how the book connects it back to Chapter 8 under the tree:
+*"He looked at the wet on his finger the very same way. Like it was true. Like it was fine. Like it was hers, and good."*
+And then: *"All of it. Leave the shoes."* (Those expensive black strappy heels Randi buckled onto her feet at the boutique in Chapter 20!)
 
-I am grinning like an idiot, and at the same time I am terrified because it is Saturday night—they have now been together in this house from Friday at 3 p.m. through Saturday night—and Sunday (or Monday stats!) is coming right behind it. Give me the next chapter immediately!
+What really blew me away, though, was how explicitly Vee's mind brings Randi's story from the piano practice room into the bedroom—and how completely different Pace actually is with Vee!
+When Pace has her kneel at the edge of the bed with her cheek on the sheet and her bare ass in the air (NOT on the bench—the bench is still a table against the wall!), Randi's story rises up in Vee's head: *"would she have to count out loud? Was that the theatre of it, the hand coming down hard and then harder? She braced for that, for loudness, for a show..."*
+Because remember: in Chapter 27, Randi described spanking as *humiliation and performance* ("Over his knee. Like a naughty little girl... And I had to count. Out loud. Every one, while he turned me as red as he wanted. It was humiliating").
+And what does Pace actually do with Vee?
+*"What came was nothing like the story. Behind her he was quiet... No theatre, no counting, no audience, only his rough hand and her held breath and the slow heat blooming up from where he'd touched her, and then his palm again, soothing the place it had struck, and his mouth, once, pressed to the warm pink of her, so gently that she made a sound she was ashamed of."*
+He doesn't humiliate her! He doesn't make her count! He gentles her, taps her softly first like a question, soothes every real smack with his warm palm, and kisses her warm pink skin until her hips are rising to meet his hand even while her mouth is still whispering *"It's not, I don't—"* into the sheet! And when he turns her over and comes down into her, and every thread of the cotton sheet talks to her sensitized skin:
+*"No week behind her, no stats class, no mother's voice, no Sunday, no Randi to be told. Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness, anywhere, and for a little while she let her body say the thing her mouth still wouldn't, and was not ashamed."*
+NO RANDI TO BE TOLD. In that moment, Pace and Vee are in a country of two where Randi's theatre doesn't exist. And the aftercare! Bringing her cold sweet juice and holding the glass to her mouth, lifting her head into his lap, stroking her hair and whispering *"wonderful, wonderful"* until she falls asleep feeling *treasured*! Compare that to Chapter 1, where Randi fled to the bathroom to cry and shove a bottle cap under her thumbnail!
 
-GATE 30 — Made-Up
+AND THEN SATURDAY MORNING (OCTOBER 31—HALLOWEEN!):
+Remember Monday morning in Chapter 26, when Vee nearly cried in his bathroom because her hair was a wreck and she had "nothing to put it up with, nothing to pull it back, nothing of hers anywhere in the small ordered room"?
+While Pace was away or before Friday afternoon, he bought an entire display form of **deep green scrunchies with small white dots** (green for her red hair!) and set it on the bathroom counter for her! *"There were more of them than a person could go through quickly, far more, and the plenty of them said the thing no note would have, that he meant to be looking at her hair a long while yet."*
+AND VEE PUTS ONE IN HER HAIR AND SAYS TO THE MIRROR: *"I'm going to start bringing a bag."*
+
+WAIT A SECOND.
+1. There is now a whole tower of deep green dotted scrunchies sitting out on Pace's bathroom counter! What happens the next time Randi walks into that bathroom?!
+2. Vee is going to start bringing an overnight bag—just like Randi's bag that sits on the chair by the door!
+3. And today is Saturday! Vee has been at Pace's since Friday at 3 p.m., eating coconut curry and drinking Chinese beer on Saturday afternoon, AND she's probably going to tell Randi at brunch (or in stats) about "We find out"—AND about how Pace was nothing like Randi's story, AND about the green scrunchies on the bathroom counter!
+
+I am dying to see Randi's face when she hears about this—or sees those scrunchies!
+
+GATE 29 — We Find Out
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Zero physical contact and still an effortless 3 on both heat and romance—Vee putting out a flat hand to keep Pace in his chair while she gives him the induction walk he missed, then walking back out in nothing but her makeup and the four-inch heels ("And this is what I had on under it") and letting the blush go all the way down without covering an inch of herself was pure triumph.
+WHY: From Vee catching Pace doing terrible air guitar to "Thunderstruck" and yanking his gym shorts off, to the breathtakingly hot "Either you admit you lost, or we find out" bet, to the tender spanking scene that directly refutes Randi's humiliation story—plus that display of green scrunchies on the bathroom counter!—this chapter was pure magic.
 
 LEDGER
-+ LOVE: Vee clomping out to her car in Pace's oversized boots ("like a child playing dress-up in a parent's closet") because she dumped her textbooks out of her backpack on Friday to pack her makeup and the burgundy dress even while pretending she wasn't planning to stay the weekend.
-+ LOVE: Vee putting out one flat hand to make Pace sit back down in the recliner while she gives him the long-strided induction walk he missed in Berkeley, and then coming back down the hall in nothing but her four-inch heels ("And this is what I had on under it") with her hip cocking out on its own and not covering a single inch of her blush.
-+ LOVE: Pace clicking the den lamp one notch brighter as Vee goes down the hall, putting his own hand away when it starts to reach for her, and telling her "The other is for the world. This is just for me."
++ LOVE: Vee creeping up to the kitchen window an hour early and catching Pace blasting "Thunderstruck" and doing four bars of terrible, shapeless air guitar with a protein shake in his hand.
++ LOVE: The playful chase through the den—Vee yanking Pace's red gym shorts off commando and waving them like a flag, cutting and reversing in her strappy heels faster than he can turn, and clumsily flashing her breasts to make him chase her into the bedroom.
++ LOVE: The consent beat of Pace's hand leaving Vee's inner thigh completely when she says "Don't," palm turned up and empty, so that she has to claim her own desire out loud ("Yes... We find out") to bring his hand back.
++ LOVE: The way Pace spanks Vee at the edge of the bed—"nothing like the story" Randi told in the practice room, with no counting or humiliation, just quiet patience, his warm palm soothing each sting, and his mouth kissing her warm pink skin before he brings her juice afterward and holds her head in his lap whispering "wonderful."
++ LOVE: Pace putting a whole online display form of deep green white-dotted scrunchies on his bathroom counter after Vee panicked over her wild hair on Monday morning—"that he meant to be looking at her hair a long while yet."
++ FEAR: There is now a whole form of deep green scrunchies (clearly for a redhead!) sitting on Pace's bathroom counter, and Vee has just decided to start bringing an overnight bag—Randi is going to see the physical proof that Vee is moving into Pace's space.
++ WAITING: To see what happens when Randi finds out about Friday night (and the green scrunchies on the bathroom counter!).

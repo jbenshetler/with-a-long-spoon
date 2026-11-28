@@ -1,27 +1,31 @@
-*capture-dag-v3-grounded · gate ch032 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e921d1a09641 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch029 · history ch001..ch029 · ledger no seed cf2afdfe3363 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch032 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c0fe737f7acd · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch028 · history ch001..ch028 · ledger no seed d520c15208fd · 2026-11-06*
 
 REACTION
 
-This is a short, pretty, mostly static chapter. It's a costume reveal, and the dread I carry stays almost entirely off the page.
+Oh, this one is fun, and it's the first time Vee has had the upper hand in a scene. She texts first. She laughs at him through the window. The air guitar to "Thunderstruck" is the most human thing Pace has done on the page, and I loved catching him unguarded. Then the chase, the shorts waved like a flag, the flash. Vee being quick and brave and silly in a house that used to make her careful is a real turn. She's playing now, not performing.
 
-What works: the dress she carried out to the car, "the finished thing had crossed a stage for everyone but its maker," and the second costume being nothing but the heels. Her blush going "down and down" with nothing covered is exactly the charge I came for, and nobody touches anyone. "The other is for the world. This is just for me" is a good line. It's also the book's old thesis: he is the private one, and Randi's version of her is the public one. His hand coming up and being put away again is the best beat.
+The heat is good, and I was with it. The bet is smart, because it lets her say yes without ever saying yes. The wetness being her old shame, and him looking at it like it's true and fine, is exactly the emotional intelligence I came for. "Slow. For me." and the juice and "wonderful" got me too. The scrunchies are lovely, a plain statement that he plans to be around.
 
-I'm uneasy in the way I should be. Vee now performs the induction walk for Pace as a gift, so the exhibitionist wire I flagged in ch28 has become something she brings home to him. Randi isn't in the chapter at all, and neither is her head. That's twelve chapters. Even the Halloween date, with the town out being somebody else, is a quiet joke at the book's expense, since everyone here is already in costume.
+But I'm uneasy, and I think I'm meant to be. Randi's closet story is in Vee's head: "would she have to count out loud?" She expects Randi's version and gets Pace's, which is gentler. So Randi's script is already being measured against the real thing. And "no Randi to be told" is the first time Vee wants a room with no witness. That's the first crack in the Randi pipeline. I didn't expect it and I like it.
 
-Small grudges: the dress logistics run long. The bit about the heels sitting by the wall since Friday explains itself to me. And it's a second quiet-ish chapter after the curry coda. The ending lands, but nothing turns. I'm still hooked, but I'd like the plot to move now. The scar, Randi, anything.
+Small grudges. The long middle with her denying "I don't enjoy it" runs a bit repetitive. The "Shame wants a witness" line explains itself to me. The scar gets another glance and still no story. And the title promises someone finds out something, but nobody does yet. The curry ending is soft, so I'm waiting on that.
 
-GATE 30 — Made-Up
+No Randi head, eleven chapters now. I'm resigned and still hungry.
+
+GATE 29 — We Find Out
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 2
+CAPTURE: 8
+NEXT: 9
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "Half a plan, and it got ahead of her — the glass set down, her body on its feet while the rest of it was still arriving." (the dress-logistics throat-clearing before the reveal)
-WHY: The heels-only walk and "this is just for me" are charged and tender, with nobody touching anyone. It's a pure heat chapter with no turn, and I need Randi or the scar story to move soon.
+ALMOST-STOPPED: "Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness, anywhere" (the book explaining its own subtext)
+WHY: The play, the bet and Vee saying yes by saying "we find out" are hot and psychologically exact. Pace caught unguarded is a gift, and the "no Randi to be told" slip tells me the pipeline is cracking.
 
 LEDGER
-+ LOVE: "The other is for the world. This is just for me." Vee in nothing but the heels, and his hand put away.
-+ FEAR: Vee is now bringing the exhibition wire home to Pace, so Randi's feeding of it is being replaced. When Randi notices she's been cut out, she'll escalate.
-+ WAITING: A plot turn, either the scar story or a Randi-and-Vee collision, because this is the second glow chapter in a row.
-~ W18.4 DEEPENED: Twelve chapters now without Randi's own head.
-~ S29.3 DEEPENED: Vee brings the private performance to Pace, not Randi, so the "only mine and his" space keeps growing.
++ LOVE: Pace's air guitar to "Thunderstruck," seen through the window, the first time he's been unguarded on the page.
++ LOVE: "Slow. For me." and the juice, "wonderful," and the stacks of green scrunchies, the care that says he plans to stay.
++ SUSPICION: "No Randi to be told" means Vee is starting to want one thing that's only hers and Pace's, and Randi will feel it.
++ WAITING: Whatever "We Find Out" means, whether it's Randi learning about the bench or Vee learning about the plan.
+~ F28.4 DEEPENED: Vee's want to be looked at and handled is growing, and this time Pace is feeding it, not Randi.
+~ W18.4 DEEPENED: Eleven chapters now without Randi's own head.
+~ S16.3 DEEPENED: Vee touches the scar again and still doesn't ask, and I'm still waiting for the story.

@@ -1,49 +1,50 @@
-*capture-dag-v3-grounded · gate ch039 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch036 · history ch001..ch036 · ledger no seed a10b121fa3a5 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch039 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a03ea01d3f8f · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch035 · history ch001..ch035 · ledger no seed 55025ddd753b · 2026-11-06*
 
 REACTION
 
-Oh, I am an absolute puddle on the floor over that ending with the flannel shirt, AND at the exact same time I want to shake both of them by the shoulders!
+WAIT A SECOND. WHAT DID I JUST READ?!
 
-First, let's talk about the timeline because it just solved a huge question from the last two chapters! When Vee told Pace she needed a few nights to study because she was falling behind after Cassie's "You don't come home school nights" comment in Chapter 32, she took **five school nights off** (Sunday through Thursday, November 15–19!).
-1. That's why Monday night, November 16, was wide open for Randi to come over in *Four* and find Vee's bathroom drawer and green panties on Tuesday morning!
-2. And look at why those five nights still sat wrong in Vee:
-*"He'd said of course. That was all of it. Take the time you need, he'd said, I'll be here. He hadn't argued and he hadn't gone cold and he hadn't made her pay a cent for it, and the plain grace of that had cost her more than a fight would have, because some unreasonable corner of her had wanted him to fight, to want the nights badly enough to say so out loud. He never said so."*
-There it is again! Even his boundless, courtly respect for her boundaries has a shadow side now: because he never fights for her to stay, never says *I'll miss you* or *I want you here*, part of her is left aching for him to want her out loud! (And of course we know the ugly half-truth underneath his easy grace: having Monday night free meant he could have Randi over without conflict!)
+Hold on, let me catch my breath, because this four-page statistics project chapter just dropped a massive character and plot bomb out of nowhere AND flipped the entire dynamic between Vee and Randi on its head!
 
-Then comes that hallway undressing scene, which was hilarious, breathless, and so hot. Every single woman who has ever tried to strip out of cold, tight skinny jeans in a hurry while trying to look sexy felt that battle in her bones! Leaning back into him for balance, him calmly cupping both her breasts through the green satin bra and putting his hand flat over the wet front of her green thong while she's stuck with one leg half-out of her denim ("You're not helping" / "I'm helping"), hopping on one foot in white cotton socks, and then him just holding the back clasp of her bra so she unwinds out of it like a spool!
-AND WAIT A SECOND:
-*"The thong she took off herself, three steps into the room, and threw. It landed green on the long, unusually proportioned table that stood in the middle of his bedroom. She never looked to see where it went."*
-SHE JUST THREW HER GREEN SATIN THONG ONTO THE BENCH-TABLE!
-Look at the description: *"the long, unusually proportioned table that stood in the middle of his bedroom."* In Chapter 1, Chapter 3, and Chapter 25, Randi couldn't walk past that concealed spanking bench without staring at it or laying her hand flat on the wood and jiggling her bracelet. And tonight, Vee—who still has no idea what's underneath that tabletop!—casually flings her green satin thong straight onto the bench on her way to his bed!
+First: **Randi's real name is MIRANDA** ("the long formal version on the chapter paperwork of the name her parents had given her and then, with a sense of humor, shortened to something a person could stand to answer to" — Miranda / Randi / "horny" joke from Chapter 4!). And her father named his holding company—or his string of shell companies—**MIRANDA** after his daughter!
+Look at how this was set up:
+In Chapter 1, we learned Randi lived in Kentucky until she was nine and her mother lives on egg whites and tofu. Why did they leave Kentucky when she was nine, or where did all that dark-green Mercedes, Hermès scarf, boutique-loafer, white-columned sorority money come from? Her father owns "several businesses." And when Cassie—whose own dad got laid off in 2020!—proposes doing their exploratory data analysis project on PPP loan fraud, Randi steps right up to defend her father with total confidence:
+*"Her father had taken the loans — several businesses, several loans — and kept people on with them; that was the whole point of the money, that was what it had been for. She'd show it."*
+Randi genuinely believed her father! She pulled up her home county specifically to prove Cassie wrong and show that her father was the bright, honorable counterexample!
 
-And the pizza! Remember in Chapter 32 when Vee thought about how she ate chicken piccata instead of cafeteria pizza at his table? Tonight he makes her *his* version of pizza—dough from scratch, roma tomatoes cooked down for half an hour with onion, garlic, wine, and a touch of cream, fresh water-buffalo mozzarella, cornmeal on a hot baking stone, and a Nebbiolo that tastes of dried cherry and tar! And her realization with her mouth full—*"I used to just eat... It was the difference, she thought, between cotton candy and a bowl of cut strawberries"*—felt like the culinary thesis statement of the whole book.
+And instead, sitting way up and to the right, all alone in the white space as **the single worst PPP fraud outlier in the entire county**—tagged `MIRA` by Randi's own four-letter shorthand code—is **MIRANDA**. Her father's businesses took massive government payroll loans under *her name* and laid the workers off anyway.
+Look at Randi's reaction:
+*"Randi read it. Vee watched her do it — watched her eyes go down the short column once, fast, like a person reading a thing she already disbelieved, and then again from the top, slower, as if the second pass might turn up the line that took it back. It didn't."*
+*"'Cheating bastards,' Randi said. Low, to the screen. Two words, and nothing let out after them — no these, no those, no clause to fold the plural down into something a person could hold — just the two words set loose in the glass room."*
+She just found out in real time, on a government database in a fourth-floor library room, that the money she's living on—the Mercedes, the tuition, the boutique credit card, all of it—is dirty, and that her father lied to her face and used her own name (`MIRANDA`) on the companies that stole the money and cut the workers!
 
-AND THEN THE FLANNEL SHIRT AT THE END.
-Remember in Chapter 23 after the Rusty Nail fight when Vee had to wash his handmade tagless flannel shirt because she'd worn it every night until it went stale, and when she put it on at 2 a.m. it smelled like *"fabric softener and no one"*?!
-She has been carrying that washed shirt since October, and tonight she finally pulls it out of the bottom of her bag and hands it to him.
-And look at Pace's face for one heartbeat before she explains:
-*"something moved across his face. A puzzlement first, and under the puzzlement something she'd put there without meaning to, the start of a hurt, because he thought she was giving it back. He decided not to ask. He was good at not asking things."*
-WAIT A SECOND. Stop and look at those two sentences together:
-1. When he thinks she's returning his shirt, **he feels the start of a hurt**—we get to see, right on his face, how much it would wound him if she gave back the thing of his she keeps!
-2. And yet: **"He decided not to ask. He was good at not asking things."** Even when he's hurt, his instinct is to swallow it in silence and never ask!
-Which makes Vee blurting out the truth—*"No. This is still my shirt. You don't get to keep it... I had to wash it. It stopped smelling like you... I need you to wear it for me. The whole weekend. And give it back to me Sunday so it smells like you again"*—land ten times harder!
-When his face comes open with that rare, slow smile that costs him something, and he pulls the heavy flannel shirt right on *over the shirt he's already wearing* in his warm house ("All weekend... You'll have it back Sunday. Smelling like me"), my eyes stung right along with Vee's. Look at the trade they've made: he keeps her green satin panties from their first night at the bottom of his undershirt drawer, and she makes him wear two shirts all weekend in a warm house so she can sleep inside his scent while she's home in Ohio for Thanksgiving!
+AND LOOK AT WHAT VEE DOES.
+For thirty-five chapters, we have watched Randi be the one a step ahead of Vee—Randi reading Vee's face, Randi steering Vee, Randi extracting Vee's secrets, Randi knowing everything while Vee knows nothing.
+And now, on Wednesday, November 18 ( literally the day after Tuesday morning when Randi wept over Vee's bathroom drawer and green panties!), **Vee sees Randi's deepest, rawest humiliation while Randi has no idea Vee saw it.**
+Look at how Vee protects her:
+1. Cassie is on the other side of Vee and can't see the `MIRANDA` record on Randi's canted screen—Cassie thinks *"Cheating bastards"* is Randi agreeing with her about a random company! And when Cassie says, *"One company, that size, everybody cut anyway. That's not the exception. That's just the one that's easy to see,"* Cassie has no idea she's twisting a knife straight into Randi's chest about Randi's own father!
+2. And Vee—who loves them both, sitting in the middle seat between the laid-off father on her right and the fraudulent loans on her left—doesn't gasp, doesn't ask, doesn't expose Randi to Cassie, and doesn't even let Randi know that she saw the name `MIRANDA` on the screen!
+*"Vee looked a moment longer. Then she did the one useful thing there was, which was to give Randi somewhere to put her hands. 'Okay,' she said, and slid the laptop a few inches toward herself, and started in on the write-up... She kept Randi in it. She asked Randi the things Randi could answer. She didn't look back at the point, and she didn't say the name, and she didn't tell Randi, then or after, what she'd seen."*
 
-Except—WAIT. Tomorrow is Saturday, November 21! The last Saturday before Thanksgiving break!
-Is Vee going to Saturday brunch with Randi tomorrow morning—after Vee saw `MIRANDA` on Randi's laptop on Wednesday, AND after Randi found Vee's bathroom drawer and green panties in this very house on Tuesday morning?! What is going to happen when Vee and Randi sit down across from each other tomorrow?!
+My heart actually swelled reading that. Remember in Chapter 10 when Pace picked up Vee's cherry pit on the mountain and put his own pit beside it without looking at her so she wouldn't have to carry the shame in front of him? Vee just did the exact same thing for Randi! Without any calculation, without keeping it as leverage, purely out of love and grace: *"that the kindest thing a friend could do was not make her carry it in front of anyone."*
 
-GATE 37 — The New Ordinary
+And think about what this does to the whole triangle right before Thanksgiving break!
+1. Yesterday morning (Tuesday, Nov 17), Randi had her heart broken in Pace's bathroom and bedroom drawers.
+2. Today (Wednesday, Nov 18), Randi just found out her father is a "cheating bastard" who committed massive PPP fraud under her name (`MIRANDA`), and in a few days she has to go *home* to her parents for Thanksgiving!
+3. And for the very first time in the book, **Vee is keeping a secret for Randi that Randi doesn't know Vee knows.**
+
+Where is Randi going to go tonight after finding out her father is a fraud?! Straight to Pace's house?! Or is she going to spiral even harder now that both Pace's house (where Vee has the top drawer) and her own family home/money have just collapsed under her feet in the same forty-eight hours?! I have to read the next chapter immediately!
+
+GATE 36 — The Outlier
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: From the comedy and heat of Vee getting stuck in her cold jeans in the hallway (and casually flinging her green thong onto the concealed spanking bench!) to the homemade water-buffalo mozzarella pizza and that heart-melting ending where Pace sees her holding out the flannel shirt, briefly flashes hurt thinking she's giving it back, and then puts it on over his own shirt for the whole weekend so it'll smell like him again, this chapter was pure romantic perfection.
+WHY: Even with zero heat, watching Randi pull up her home county to defend her father only to discover in real time that his company (`MIRANDA`) is the single biggest PPP-fraud outlier on the graph—and watching Vee quietly shield her from Cassie and never let on that she saw Randi's name on the screen—was a breathtaking reversal of who sees whom.
 
 LEDGER
-~ F32.6 DEEPENED: Even when Vee asks for five nights off to study, Pace's easy, unarguing "of course" hurts her more than a fight would have because she wants him to want her nights badly enough to say so out loud—and later, when he thinks she's returning his flannel shirt, we see that even when he's hurt, "He decided not to ask. He was good at not asking things."
-+ LOVE: The hallway undressing battle with Vee's cold, tight jeans—Pace calmly cupping her breasts and holding the wet front of her green satin thong while she's stuck one-legged, then holding her bra clasp still so she unwinds out of it like a spool.
-+ LOVE: Vee casually tossing her green satin thong onto "the long, unusually proportioned table that stood in the middle of his bedroom" without even looking—having no idea she just threw her underwear onto the concealed bench from Chapter 1.
-+ LOVE: Pace's scratch-made pizza with water-buffalo mozzarella and half-hour tomato-cream sauce, and Vee realizing with her mouth full that "I used to just *eat*... It was the difference, she thought, between cotton candy and a bowl of cut strawberries."
-+ LOVE: The start of hurt crossing Pace's face when he thinks Vee is giving his handmade flannel shirt back, followed by his rare, open smile when she demands he wear it all weekend to recharge his scent—and him immediately pulling it on over the shirt he's already wearing in his warm kitchen.
++ LOVE: Vee seeing `MIRANDA` on the worst PPP-fraud outlier in the county, hearing Randi's ragged "Cheating bastards," and immediately sliding the laptop over to give Randi busywork so Cassie never finds out and Randi never knows she was seen.
++ LOVE: The structural perfection of the three of them in the cold lecture hall—Vee in the middle seat loving them both, flanked by Cassie's laid-off father on her right and Randi's fraudulent PPP loans on her left.
++ FEAR: Randi just lost her footing in both halves of her life inside forty-eight hours—finding Vee's bathroom drawer and kept panties at Pace's on Tuesday morning, and discovering on Wednesday afternoon that her father committed massive payroll fraud under her own name (`MIRANDA`) right before she has to go home for Thanksgiving.

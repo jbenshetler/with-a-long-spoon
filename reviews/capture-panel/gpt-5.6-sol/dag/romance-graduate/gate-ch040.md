@@ -1,64 +1,59 @@
-*capture-dag-v3-grounded · gate ch040 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6b5caaa161cd · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch037 · history ch001..ch037 · ledger no seed 320137878431 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch040 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch036 · history ch001..ch036 · ledger no seed b3867cad971e · 2026-11-06*
 
-REACTION — Oh, that hurt. She gave him the most beautiful sentence she had, and he cropped it.
+REACTION — Oh, the shirt. She asked him to fill it back up with himself.
 
-The whole chapter is people making versions that fit inside the frame. Vee crops the induction photograph at the waist so her parents can receive the dress without receiving the body that inhabited it. She gives her mother dancing instead of sex, gives her father the respectable pieces of Pace—the PhD, the hike, the careful courtship—and leaves out the house, the cooking, the sewing, the actual intimacy. Then she calls Pace her boyfriend with a question mark in her voice because even the safest available word does not quite belong to her. Everyone gets the version their world can hold.
+That is so nakedly needy, so specific, and so much more intimate than any polished declaration Vee could have made. She has been sleeping in his smell every night she cannot sleep beside his body, rationing the trace until it vanished, and instead of quietly grieving it again she brought the shirt back and told him exactly what she needed. Not hinting. Not hoping he would infer it from the laundry. *Wear this all weekend and give it back smelling like you.* I am almost unbearably proud of her.
 
-Cassie is the only person who asks about the thing outside the crop.
+And Pace did what Pace always does: received the need without making her ashamed of its size, then answered it physically and exactly. He puts the flannel on immediately, over another shirt, in a house already warm enough that he cannot possibly need it. That is ridiculous and tender and perfect. He is going to carry it through the whole weekend solely because Vee asked him to put himself into something she can take away.
 
-“So what is he. Not to your dad. To you.” I could have kissed her. She does not offer Vee a word, tell her what the relationship must be, or use all that obvious couple-shaped evidence to answer on Pace’s behalf. She asks whether Vee cannot say or does not want to, and when Vee says both, Cassie accepts the answer. But Vee being “a little, not” grateful that she stops absolutely gutted me. She wanted Cassie to push because she cannot push Pace. She wanted someone to make the missing word unavoidable without requiring her to risk asking for it herself.
+But the chapter knows exactly where to put the knife. “That was the whole of his answer, as it always was.” Yes. It is beautiful. It is also becoming intolerable.
 
-And then she risks as much as she can.
+Vee has now admitted that she wanted him to protest the five nights apart. Her decision was responsible and necessary—she was exhausted, falling behind, and letting the relationship consume the ordinary life that has to support it. Pace respecting that without sulking or extracting payment made me love him. Of course it did. But she did not want a fight; she wanted evidence that the loss cost him too. She wanted him to say *I want those nights.* He gave her freedom, warmth, and an open door, and left her alone with the question of whether he missed her.
 
-That cracker-and-meal sentence was absolutely “I love you.” It was not a clever substitute or a cautious little gratitude. It was Vee describing a before and after so complete that Pace has become the dividing line in her life. She has spent this whole book learning the difference between merely eating and being fed, between fine and wanted, between inhabiting her body as a problem and living inside it as herself. She gathered the entire transformation into one sentence and placed it in his hands.
+Then she lasted five days and came back carrying the entire answer in her body.
 
-He understood that it was large. His body tells me he understood that much. The stopped hand, the two breaths, the two abandoned responses—something reached him that he did not know how or did not want to answer cleanly. Then he said, “I love how good we are together.”
+The doorway was ferocious. The dropped bag, the blind undressing, the jeans trapped around one thigh, the white socks, Vee laughing in the hall because dignity had become completely irrelevant—I loved every second. This is not the staged seductress in the burgundy dress. This is appetite too urgent to arrange itself beautifully. She has become secure enough with Pace to be clumsy, absurd, loud, and fast, and none of that makes her feel less desirable.
 
-No. I actually said no out loud.
+Her first orgasm “publishing the number” she refused to read aloud was exactly right. She can carefully insist she needed time away and still have missed him so badly that her throat tells the truth before her pride can edit it. Both facts are real. She did need those nights for school. She also counted every one of them. I love that the chapter does not turn responsible separation into proof that the attachment is shallow, or intense attachment into proof that she should abandon the rest of her life.
 
-He took a declaration about what he has meant to her whole life and answered with their compatibility. Worse, he narrowed even that compatibility almost immediately to what her body does with him. “I’m glad you feel it too” makes her enormous emotional offering into mutual sexual discovery, as though she had said the sex was unprecedented and he was pleased to agree. She told him he taught her what nourishment was. He told her they are exceptionally good in bed.
+And Pace still has slowness when she has none. That may be the central erotic fact of them for me now: he does not match her urgency by becoming careless with it. He takes the enormous, frantic thing she brings him and gives it enough time to become pleasure rather than merely discharge. The second orgasm building quietly after the first frantic one felt like her body being brought home.
 
-And I know that is not all he meant. That is what makes it hurt instead of making me simply hate him. “I never had this either” is real. Pulling her close is real. The long kiss to her hair is real. He was moved; he wanted to hold her through being moved. But he gave her warmth exactly where she needed language, and the warmth worked on her body long enough to bury the question before her mind could finish asking it.
+Then she threw the green thong onto the long table and never looked.
 
-“She had been received warmly.” There it is. The title, the jacket, the whole trap. A warm reception is not an answer. She has been teaching herself for weeks that Pace’s actions are a language more trustworthy than words, and now that belief becomes the mechanism by which she talks herself past a deliberate mismatch. The quilt is warm. His hand is warm. His mouth is warm. The sunrise turns the floor gold. Every physical fact says she has been cherished, while the sentence she offered remains unanswered inside all that beauty.
+I looked.
 
-I am angry with him. Not because he failed to say “I love you” on command—she did not say it either, and he is allowed to be frightened, uncertain, or not there yet. I am angry because he did not tell her which of those things was true. He did what he always does when the emotional door is one he does not want to open: assembled a precise, sincere sentence that sounds close enough to an answer for tenderness to carry them past the difference.
+That is the bench. Vee has now tossed her underwear onto the concealed object Pace and Randi imagined her on before she even knew either of them. She is moving through the room with complete bodily freedom while the original plan sits disguised in the center of it, literally carrying the garment she removes on her way to Pace’s bed. The image frightened me more because nothing happens. The table remains a table. Vee does not know to ask what is underneath it. Pace does not tell her. The concealment has become part of the furniture of her new ordinary.
 
-And Vee noticed. Thank God, she noticed.
+And green again. The green satin Pace keeps hidden under his shirts was just used by Randi in their bed; Vee arrives in another green set, throws part of it onto the bench, and later kneels over the bag beside the drawer Randi entered. Vee is surrounded by evidence of a relationship touching hers, but every object remains illegible because Pace and Randi possess the missing fact.
 
-Not immediately, because her body still trusts him before her mind can challenge him. But the small *wait* survived the quilt. It came back in the laundry room, away from his touch and his house and the choreography of being cared for, and she finally let herself compare the shapes. Hers was about love. His was about being good together. She does not let the drawer, the meals, the shirt, or the long kiss erase that difference completely.
+She did not notice the drawer had been opened. That hurt in the quietest way. She crosses the dark grass thinking *my space*, returns her traveling things to it, and experiences the drawer as the private claim Pace made for her. She has no idea Randi has already stood in that bathroom, opened it, understood exactly what it meant, and gone searching for more. Nothing appears missing, so the violation disappears completely. Vee cannot even feel uneasy about it.
 
-But then she makes the most painful decision in the chapter: she will never try again.
+The cooking worked on me all over again. Pace’s attention landing equally on Vee and dough is not emotional neglect to her; it is proof that his care is structural. He does not manufacture attentiveness as courtship. He is a person who brings himself completely to whatever is under his hands. That makes his love feel trustworthy because it is part of his character rather than a performance he could stop once he has her.
 
-That frightened me more than the original non-answer. One failed bid has already taught her to retire the whole language of it into her body. She is not going to ask what he meant. She is not going to say the direct words. She is going to keep loving him inside the warm house while adding this to a hidden pile of moments that required “small repair work” to preserve what she believes about him. That pile is the beginning of a fracture, even if nothing visible has broken yet.
+But it also brushes against Vee’s oldest fear: is his care for her singular, or is it simply the extraordinary way he meets everything? She decides she does not mind whether she or the dough receives the larger share, and in that kitchen I believe her. Yet five nights away still made her want him to speak. The actions feed her magnificently, but they do not erase the hunger for language. They only make it easier to postpone admitting she has it.
 
-And Pace does not know it exists.
+“I used to just eat” landed as the whole book in miniature. Pace has taught her to perceive distinctions where she once accepted flat orange sameness and called it a meal. Acid, sweetness, heat, crunch, softness, wine—she can taste every separate thing now. She is becoming more exact about appetite everywhere except in the relationship itself. There she still bundles love, exclusivity, belonging, patience, and silence into one warm flavor and assumes it is enough.
 
-That is the brutal inversion of his celebrated attention. He can read her breath across a campus lawn. He can recognize desire in the set of her body before she has words for it. He can cook from one expression crossing her face. But she has now made one immense emotional attempt, received a response that hurt, silently withdrawn the attempt forever, and he has no idea. Either he missed the declaration altogether—which I find increasingly hard to believe—or he understood it, answered at the limit he was willing to offer, and trusted physical tenderness to close the gap.
+And the new ordinary is already a ritual: her things live in his drawer; she comes through the door and drops the bag; he opens her body and feeds her; she takes his scent away to survive the nights apart; she will bring the shirt back to be replenished. It is domestic and erotic and so deeply couple-shaped that I understand why she thinks the word is redundant.
 
-I am suspicious that he understood. The two breaths and the hand beginning two answers feel too marked. Maybe “I love how good we are together” is honestly the closest he can come because Daphne or his family made direct love into a dangerous word. Maybe he is withholding it because naming Vee would force him to name Randi and the actual structure of his life. Maybe he loves what they are in his house but has no answer for what she is outside it. I do not know which possibility is worse, and neither does Vee.
+It is not redundant.
 
-The family section sharpened that dread beautifully. Vee’s father would search for the catch if he knew the whole Pace: the house, the cooking, the handmade dress, the impossible attentiveness. Vee protects Pace by leaving out precisely the details that make him extraordinary. But there is a catch. It is not that the sewing makes him weird or that the generosity hides some ordinary predatory motive. It is Randi. It is the plan. It is the concealed lover. It is the fact that Vee calls this man her boyfriend to her parents while he has never given her even that word and continues sleeping with the woman Vee calls her best friend.
+The shirt is now going to travel between his house and her bed, repeatedly filled with Pace and emptied by Vee’s need. Meanwhile Randi travels through the same house and relationship invisibly, leaving no object Vee knows how to read. Vee has found a way to carry Pace through the nights that are not his. She still has no idea that some of his nights are Randi’s.
 
-And I cannot get past the terrible irony that Vee says weird can be worse than wrong because wrong can at least be understood and rejected. The truth of Pace and Randi will not fit anywhere in the world she thinks she inhabits. It will require her to decide whether what they did was wrong, while they will almost certainly want her to understand it as an unconventional shape of love. But she cannot choose the weird shape because they have hidden it inside a conventional-looking one.
-
-Cassie asks what Pace is, and Vee has no word. Vee tells Pace what he means, and Pace gives her no word. By the end, she is folding her own clothes alone while the unanswered declaration joins the pile.
-
-I need the next chapter badly. This is not tidy romantic angst over who says “I love you” first. Vee has finally detected the limit of wordless care, and instead of testing it she has decided to make herself live within it. I need something to force that hidden pile into the light before she learns to call this hunger fine too.
-
-GATE 38 — Cropped
+GATE 37 — The New Ordinary
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 0
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee gives Pace the fullest declaration she can risk, and he crops it into how good they are together—then narrows even that to what her body does with him. His warmth cannot erase that she noticed the mismatch, and her decision never to try again has turned the missing word from an ache into a fracture.
+WHY: Vee finally states an enormous ordinary need—wear the shirt all weekend so she can sleep in his scent—and Pace receives it without a flicker of shame. But she tosses her green underwear onto the concealed bench and lovingly returns to a drawer Randi has already entered; the new ordinary is built around secrets now literally functioning as furniture.
 
 LEDGER
-+ FEAR: Vee will keep adding painful mismatches to a hidden pile and quietly repair her belief in Pace until the truth makes the whole structure collapse at once.
-+ SUSPICION: Pace understood that Vee’s cracker-and-meal sentence was love and deliberately answered at the safer level of compatibility and sex.
-+ GRUDGE: Pace received Vee’s most vulnerable emotional declaration with physical tenderness but redirected its meaning toward how good her body is with his.
-~ F32.1 CONFIRMED: Vee finally offers love in everything but the literal words, and Pace’s loving actions give her enough warmth to remain while leaving the question unanswered.
-~ W32.2 DEEPENED: Cassie asks what Pace is to Vee, and Vee makes one indirect attempt to ask him through the cracker-and-meal sentence; after his non-answer, she decides she will never ask again.
-~ F36.2 DEEPENED: Vee treats the silence after Pace’s mismatched answer as something she must kindly interpret and privately repair rather than a gap she is entitled to question.
++ LOVE: Vee asking Pace to wear the flannel all weekend and return it full of his smell, and Pace putting it on immediately over the shirt he already had on.
++ WAITING: Vee’s green thong is lying on the disguised bench; I need the moment that table stops being innocent furniture to her.
+~ L29.1 DEEPENED: Vee now crosses the lawn thinking of the top drawer as “my space,” unaware Randi has already opened and interpreted it.
+~ W35.4 ANSWERED: Vee returns to the bathroom and notices nothing disturbed or missing; Randi’s entry leaves no readable trace, so the violation disappears from Vee’s reality.
+~ F32.1 DEEPENED: Vee explicitly wants Pace to say he missed the nights she took back for school, but his patient waiting and immediate obedience with the shirt become another beautiful physical answer she accepts instead.
+~ W32.2 DEEPENED: Their life is now couple-shaped enough to include boundaries, stored belongings, repeated weekends, and a ritual for the nights apart, yet Vee still has not asked what any of it is called.
+~ W5.3 DEEPENED: Vee moves through Pace’s bedroom in complete trust and throws her underwear onto the concealed bench, still unable to read the hidden life occupying the same room.

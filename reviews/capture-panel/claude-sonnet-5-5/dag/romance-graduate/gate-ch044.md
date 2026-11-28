@@ -1,34 +1,32 @@
-*capture-dag-v3-grounded · gate ch044 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha ff03d4270e7c · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch041 · history ch001..ch041 · ledger no seed c05c5c03ee94 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch044 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch040 · ledger no seed 15c128a453f7 · 2026-11-06*
 
 REACTION
 
-Randi's head, at last, after eighteen chapters of asking. It arrives as a jolt, because it's a flashback. The date is Dec 31 and the chapter is titled "Fairytale," so I take it as the previous year's New Year's Eve, though the book never says so. I'm slightly annoyed it isn't present-tense Randi. Vee just walked out of Pace's door and I want the aftermath. Cutting away to a stranger in Gstaad is a gutsy swerve, and I resent it for about a page.
+Finally. She asks it out loud, in his doorway, with her coat buttoned and her hands in her pockets, and I wanted to cheer. The withheld kiss is the best beat in the chapter. She makes him arrive at the fact of it, and the book lets me watch him not understand. After five chapters of the ache circling, this is the first time she acts on it.
 
-Then it works. The family breakfast shows me the face being built. "Eating her revulsion." The tennis bracelet, and her own plain white-gold band kept out of the light. The invented boys are "safer than the real ones." That is the interiority I was starving for, and it explains the whole machine: a girl who learned to hand over a performance at a table where the real thing was never wanted.
+"Words are cheap. Believe what I do." is the line I knew was coming, and it still landed like a slap. It's the blurb's own sentence, spoken by a man who is not cruel and is therefore worse. "Do any of your friends have a relationship you'd rather have than this one?" is a masterpiece of a dodge. It's true, so she can't even win the point. And then her answer, "Words are cheap, and you still won't spend them on me," is her best line yet.
 
-The ski day is charming, and I liked John, which is the point. Then the Pace comparison starts. John leads firmly and Pace's lead is a light pressure she has to listen for, and tonight she's "done with the work." That inverts Vee's dance lesson, and it made me wince. The sleigh and the hotel steps followed, and "Pace made her say it, out loud, every time. She found, tonight, that she liked not being asked." A neat flip.
+He folds his arms and holds the line "at cost." That's the detail I'll keep. He knows what he's refusing her. This is choice, not blindness, and I'm angry at him in a way I like. Then the hand reaching for her, "not the hand in place of the word," is the book finally refusing to let touch substitute. She leaves. I'm cheering and also heartbroken.
 
-The sandwich-eaten-fast sex and the cold that "was hers" are the chapter's real heat, even though it's a cold sort of heat. The mirror scene, the lipstick ring on him, and "Nothing had happened to her eyes" are great. Pace "on his worst night reached further than this man at his best" is the line.
+I did notice something. "You're the most important person in my life" is a real answer, and she brushes past it fast. I wondered if she's being unfair, then decided no, because it's a thing and not a name.
 
-The Vee passage makes me want to throw something. She knows precisely what she feels, she can run every scenario except Vee's face, and she decides the word keeps "its cover." This is the confession of the want I've circled for eighteen chapters, and it comes from a Randi who is choosing, with open eyes, to keep Vee in the dark. That sours me on her a bit, and it's good. The text exchange is perfect. Every word true, none of it the thing.
+Still no Randi, still the plot hasn't turned, but this is a scene, with a door slamming. The speech is long and a little self-explaining, though in dialogue it earns it. The beat I want next is where she drives to, and my bet is Randi, which is the worst possible answer.
 
-My grudges: the dress shopping and the dinner courses run long, and the chapter explains Randi's interior quite literally ("She was not brave enough to lose her"). Still, no heat, and she doesn't tell me when this happened.
-
-GATE 42 — Fairytale
+GATE 41 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
+CAPTURE: 9
+NEXT: 10
 HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "Dinner came from a chef they'd flown in with a star to his name, and it came as a run of small illusions." (the long ball and dress inventory)
-WHY: Randi's own head at last, with the face being built at breakfast and "Nothing had happened to her eyes," is what I've waited for. Her choosing to keep Vee in the dark, knowing exactly what she feels, is a hard turn. But I'm itching to know where Vee drove.
+ROMANCE: 3
+ALMOST-STOPPED: "I want to know what we are." (the long speech laying out everything the book has already shown me)
+WHY: The withheld kiss, "Believe what I do," and her walking out are the confrontation the whole stretch has been building toward. It's finally a scene instead of an ache, and I need to know who she turns to.
 
 LEDGER
-+ LOVE: "Nothing had happened to her eyes." Randi at the mirror after John, putting the face back on.
-+ LOVE: Randi's text to Vee, every word true and none of it the thing, with "miss your face most though, gorgeous."
-+ FEAR: Randi knows exactly what she feels for Vee and has decided to let Vee "arrive at it" herself, so the lie is now deliberate and will cost more.
-+ SUSPICION: This is a flashback to the previous New Year's Eve, before Vee and Pace, and the book hasn't said so. I'm not sure when it sits.
-+ SUSPICION: Randi has never been brave because she arranged her life to avoid it, so the breakup with Pace and Vee may finally force her.
-~ W18.4 ANSWERED: Randi's own head finally arrived, in a flashback to Gstaad.
-~ S36.1 DEEPENED: The father's table, the mother, and the performed hearts show the family story is a face too.
-~ W41.5 DEEPENED: Still don't know where Vee went. The book cut away to Randi's past instead.
+~ W40.2 ANSWERED: In daylight she asked him straight, in his doorway, and he gave her "believe what I do."
+~ F38.1 CONFIRMED: He heard the question, took it seriously, and chose the dodge, holding the line at cost.
+~ W32.6 RESOLVED: She asked outright and he still wouldn't say the word.
++ FEAR: She drives to Randi next, and Randi turns the breakup into the thing that finally pulls her fully in.
++ LOVE: The withheld hello kiss, and him not understanding why.
++ LOVE: "Words are cheap, and you still won't spend them on me."
++ SUSPICION: His silence is a deliberate vow tied to the Randi plan or to his past, not just temperament.
++ WAITING: Where Vee goes tonight, and whether Pace tells Randi or goes after her.

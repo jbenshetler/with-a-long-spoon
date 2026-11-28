@@ -1,27 +1,29 @@
-*capture-dag-v3-grounded · gate ch052 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 156c8e3f33b2 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch049 · history ch001..ch049 · ledger no seed 9ff90468bbcb · 2026-11-06*
+*capture-dag-v3-grounded · gate ch052 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 213059ecdcb4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch048 · history ch001..ch048 · ledger no seed 96234898f8e5 · 2026-11-06*
 
 REACTION
 
-It's a friends-at-brunch bridge, and it's warm and funny. Kayla at the locked dining hall doors is a gift. But it's the third quiet chapter in a row, and I'm counting.
+Okay, this is a breather, and I'm fine with it. After the doorstep and the pancakes, two girls in a dorm room laughing about a shrunken sweater is a nice change of air. Cassie going "He salts the persimmons" back at her deadpan is the best thing in the chapter. I also love the tiny detail of the cold line off the open window that Vee missed.
 
-What I noticed is that Vee edits again, now for a third audience. For Cassie the doorstep became a laundry accident. For Kayla and Meg it's "I flashed him on his front porch," a good story with the real story sanded off. She never had to say a word about the drive, the mirror, or the cruiser. Meg's maple-bacon apology gets her a laugh and a "big apology" verdict, and Vee just takes it. Every friend now holds a different cut of that weekend, and only I have the whole thing. I like that tension, but I'm waiting for the first friend who won't take the cut.
+But I'm watching what Vee does with Cassie, and it's the same pattern. She edits. Her clothes were in the laundry and the sweater shrank? No. She left her bag in the car because there wasn't "anything important in it." She came home with no clothes because she showed up in a coat and nothing else. She turned the doorstep into a funny laundry accident and Cassie took it. Cassie is smart and she may well know, but she let Vee have it. "Hmm" in the last chapter was already her telling us. And Cassie's mother saying thank you for the card, with Vee going small and warm and not examining it, is a quiet knife. Vee has a family she's drifting from and another one that keeps reaching for her.
 
-The dread is the new part. She tells them flatly: "Wednesday night. He's taking us all to dinner. Everybody. Randi." Pace and Randi at one table, with the salt-edge question hanging unspoken, is the collision I've been promised. Vee being proud of "he's handling it" is the sweetest, most ironic line in the chapter. He's handling it more than she knows.
+The shower contrast is nice too. Water that is simply less, and she's happy anyway. Then the top bunk and the cinderblock, where she's used to acreage now. The book keeps telling me she's outgrowing the room, same as in Ohio. I get it.
 
-I'm tired of the price-card habit, though. She reads the right side again, then spends "without arithmetic." It's the book telling me she's grown. The scene holds no heat and no turn. Wednesday had better pay all this off.
+The weak spot is that the taste thread just sat there again. Nothing about it. Randi is still two days off. And I'm tired of the "wear the shirt this weekend" echo, though it's small.
 
-GATE 50 — Across
+No heat, no turn, second quiet one in a row. I'm keeping my patience because Tuesday is coming and the dinner is being planned.
+
+GATE 49 — Unpacking
 DECISION: CONTINUE
 CAPTURE: 6
-NEXT: 9
+NEXT: 8
 HEAT: 0
 ROMANCE: 1
-ALMOST-STOPPED: "The menu was a single heavy card. Vee knew what things cost here, and read the right side of hers anyway, out of old habit, and put it down" (a repeat of the price-reading beat)
-WHY: Kayla is funny and the dinner announcement sets up the collision I've been waiting for. But it's a third quiet chapter, and Vee's cleaned-up retelling is the same move I've watched twice already.
+ALMOST-STOPPED: "Cassie's duffel sat on the lower bunk half-emptied, white athletic socks in one stack and graphic tees in another" (the long room inventory before anything happens)
+WHY: Vee sanding the doorstep into a laundry joke for Cassie is the pipeline in reverse, and "my mother says thank you for the card" lands soft and sharp. But it's a second quiet chapter in a row with nothing moving, and I want Tuesday.
 
 LEDGER
-+ WAITING: Wednesday's dinner with Pace, Randi, Cassie, Kayla and Meg at one table, and how Randi and Pace hold their faces.
-+ SUSPICION: Pace is choosing the place and the guest list, "Bring Cassie," "Bring Theo," so he may be managing the evening around Randi.
-~ F9.1 DEEPENED: Kayla and Meg now get a third cut of the weekend, so every friend holds a different edit.
-~ G49.3 DEEPENED: Third quiet bridge chapter in a row, with the price-card habit again.
-~ W47.5 SHIFTED: Tuesday's one-on-one with Randi now leads into Wednesday's group dinner, and the taste question still hasn't been asked.
++ LOVE: Cassie's deadpan "He salts the persimmons," and her full laugh at the shrunken sweater.
++ SUSPICION: Cassie is letting Vee edit the weekend because she already guesses what's under it.
++ GRUDGE: A second quiet bridge chapter in a row, with the room inventory eating pages again.
+~ F9.1 DEEPENED: Vee tells Cassie a cleaned-up story and Cassie's mother keeps reaching for her, so the drift is quieter and sadder.
+~ W47.5 DEEPENED: Tuesday is still the next thing I'm reading toward, and the taste thread sat untouched.

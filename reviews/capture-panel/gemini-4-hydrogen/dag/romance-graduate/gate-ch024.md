@@ -1,26 +1,30 @@
-*capture-dag-v3-grounded · gate ch024 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha ec3c41639caf · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch027 · history ch001..ch027 · ledger no seed 90cb28c63b1a · 2026-11-19*
+*capture-dag-v3-grounded · gate ch024 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 33905fa12671 · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch021 · history ch001..ch021 · ledger no seed 21af47f9f81d · 2026-11-19*
 
 REACTION
 
-I am grinning so hard my face hurts. *That* was the payoff I’ve been waiting for since she first saw that burgundy silk hanging in his sun porch.
+God, this chapter just sat on my chest and stayed there. There’s no sex in it at all—just two people under a quilt in front of a fire with cold tea—and yet it’s one of the most intimate things I’ve read in this entire book.
 
-It’s almost better that neither Pace nor Randi was in the room for it, because it meant the moment belonged entirely to Vee. Sure, there’s that quiet, honest sting about her parents not being able to afford the flight—and that sharp little truth about her being relieved, because she’s sitting three rows from a microphone with nothing on under the silk and nobody there to whisper *floozie* in her ear. And thank god for Cassie, standing at the door like a loyal bodyguard, tearing up just a tiny bit, and then snapping that exact mid-stride photo so Vee could see herself the way the room saw her. *"Come on, streetlight."* I love Cassie so much.
+First of all: *Peter*. He’s twenty-two, he went to college at fifteen, and in seventh grade his teacher put his desk in the hallway for an entire year to do long-division worksheets because he taught himself trigonometry. When Vee said, *"They took the thing you loved and made it the punishment,"* I felt my throat tighten. And then watching him light up over coastlines and Newton’s three sentences—making Vee see the stars and the falling leaves as one piece—was pure magic. That’s what I mean when I say I want characters with actual interiority.
 
-And that walk across the stage! Watching her start with one careful, modest step—and then just *decide* to take the long one, letting the slit fall open all the way to the hip and giving that dull, navy-blue room the whole length of her bare leg—was electric. The fact that her body lit up from it, that she felt that low, certain heat right there in front of everybody and didn’t flinch or shrink back, is everything. She’s not hiding anymore.
+And then *Daphne*.
 
-Sending the uncropped photo to Pace in Berkeley—letting him see the dress do the exact thing he built it to do, while keeping the secret of what she felt on that stage all to herself—was the cherry on top.
+*Jesus.* Fifteen and nineteen. Watching Vee do the arithmetic in her head and hold that ugly, grown-up word behind her teeth while Pace—*Peter*—lays it all out in his flat, careful voice and defends it as the best two years of his life? It broke my heart. It also suddenly makes *everything* about him make sense: why he’s so obsessive about asking *May I*, why he waits for Vee to choose every single step, why he’s so careful not to take anything she hasn’t handed him.
 
-GATE 28 — The Induction
+Even the moment with the scar on his thigh—when he doesn’t pull her hand away, just covers it with his own and says *"Not tonight"*—felt like a real, earned boundary instead of cheap mystery.
+
+And then that ending. *Oof.* Lying there in the dark with her leg over him, thinking about how she "stumbled into" Randi outside the dining hall and how Pace just happened to cross a coffee shop for an integral, feeling so fortunate and so happy that it all came to her "of a piece." Knowing what *we* know—that she was pointed at from across a quad in a game they started in bed—made my stomach drop. This is going to hurt so badly when it breaks.
+
+GATE 22 — Rock
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-HEAT: 2
-ROMANCE: 2
+HEAT: 1
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: A triumphant, electric payoff for Vee’s arc. Watching her choose to let that slit fall open to the hip in a room full of strangers—and watching Cassie document it like a movie star—left me grinning, and now I need to see Pace’s reaction to that photo.
+WHY: A quiet, devastatingly intimate chapter that gives us Peter’s real name, his past with Daphne, and the reason he’s so careful with Vee’s choices. That final beat—Vee lying awake, marveling at how lucky she is to have "stumbled into" both of them—is a knife twist I’m not going to forget.
 
 LEDGER
-~ W19.1 ANSWERED: Vee wore the burgundy silk and the four-inch heels to the induction, owned the room with that long stride, and sent the uncropped photo to Pace in Berkeley.
-~ L3.1 DEEPENED: Vee stalking across that stage with her bare leg out to the hip—and not being able to tell pride from heat anymore—is the most alive she’s been.
-~ L4.1 DEEPENED: Cassie’s *"Come on, streetlight"* and catching that exact mid-stride photo made me love her even more.
-+ WAITING: To see Pace’s reaction to that photo when he gets it in Berkeley, and what happens when he comes home.
+~ L1.1 DEEPENED: Learning his real name is Peter, hearing about the seventh-grade hallway, and watching him light up over Newton and coastlines made me love him even more.
+~ S1.3 ANSWERED: Daphne was his nineteen-year-old college tutor when he was fifteen—a two-year relationship he still defends as the best thing that happened to him, which explains why he’s so obsessive about consent and waiting for Vee to choose.
+~ S16.1 SHIFTED: Vee finally touched the scar on his inner thigh, and instead of pulling away, he held her hand there and said *"Not tonight"*—it’s a real story he’s just not ready to tell yet.
+~ F4.2 DEEPENED: Watching Vee lie awake in his bed, marveling at how she "stumbled into" Randi and Pace and how lucky she is, makes the inevitable truth feel like a ticking bomb.

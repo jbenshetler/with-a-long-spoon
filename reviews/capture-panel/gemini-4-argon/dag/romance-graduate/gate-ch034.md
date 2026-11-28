@@ -1,57 +1,64 @@
-*capture-dag-v3-grounded · gate ch034 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0a371aa0512c · dated · memory grounded: facts ck-ch030@consensus (audited, 6 non-fact sentence(s) dropped, 0 trimmed) + raw ch031..ch031 · history ch001..ch031 · ledger no seed 4315eb35dc59 · 2026-11-19*
+*capture-dag-v3-grounded · gate ch034 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 2a481d9a0a3a · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) · history ch001..ch030 · ledger no seed 53e915b8f90f · 2026-11-06*
 
 REACTION
 
-Oh, my heart is in my throat. Look at the jacket blurb coming to life right in front of our eyes: *"He gives her everything but a word for what they are... When she asks what she is to him out in the world, he tells her to believe what he does, and says nothing more."*
+OH MY GOD. ARE YOU SEEING THIS?!
+*"Sticky fingers?"*
+AND THEN THAT FINAL SENTENCE: *"And on her lower lip, when her tongue went to it without being told, there was a thread of sweetness, sugar and butter and something warm under it, the glaze of a pastry she had never once touched."*
 
-There are four scenes in this chapter across five days, and the emotional arc that runs through them is so quiet and so devastatingly exact that I felt every beat of it under my ribs.
+I am actually shaking. This chapter is so wickedly, breathtakingly brilliant that I want to scream into a pillow.
 
-First: Friday night after a whole week apart because Pace was at a seminar in Boston! Him swinging the door wide before she even reaches it, lifting her clean off the ground under the arms and spinning her with the porch light wheeling behind his head, and them tearing their coats off right inside the door without even making the hall! And the detail that she's eating like a field hand at his table now—salmon with dill sauce, warm tomatoes, chicken piccata—and yet her bras have gone in a hook because she's trading cafeteria pizza and fries for real food and burning calories in his bed!
+Look at the escalation from Chapter 27 in the music practice room to today's Sunday brunch! In the practice room on Monday, Randi told the over-the-knee spanking story, Vee fled to the bathroom soaked through, and when Vee's hand went down toward her lap, she caught her own wrist and held it flat to her knee: *"Not here. Not over a story. To do that would be to say yes to it, and she would not say yes to it."*
 
-AND THEN SHE TALKS TO HIM ABOUT RANDI WHILE HE COOKS THE SALMON.
-I was holding my breath so hard my lungs hurt. Listen to Vee innocently summarizing the entire conspiracy right to Pace's back while he flips the fish:
-- *"You remember Randi? From the froyo day... I walked right into her outside the dining hall, beginning of the semester... And then the next morning, she comes and sits right down with me."*
-- *"Cassie, who's also in stats with me, isn't a fan, but Cassie doesn't like sororities on principle."* (Cassie knows!!)
-- *"She's got the funniest stories about the boys she goes out with. Honestly, she's so pretty, and she still can't find what she wants."* (Wait—what is going through Pace's head hearing that Randi has been telling Vee stories about all the "boys she goes out with"?! Does Pace know Randi has been feeding Vee fake stories about exes and Radford mixers, or does he realize it right there at the stove?!)
-- *"And she's got this little accent. You hardly hear it. She must have lived in Europe when she was little."* (Pace knows she's from Kentucky!)
-- And then the kiss: *"Oh, and she does this funny goodbye kiss she must have picked up there... No, on the mouth. And then she comes back and does it again. This kiss-kiss. It's French, I guess."*
+Today, Randi sits across a sunlit brunch table, baits Vee with one single word (*"Vanilla"*), and walks Vee step by step through Friday night ("We Find Out"). Look at how Randi receives every beat of Pace's scene with Vee:
+- *"He checked."* -> Randi goes still, then her mouth opens: *"He did not... Inside? The cheeky devil."*
+- *"Down to nothing but the heels."* -> Randi fans herself, not all the way a joke: *"Whew. Is it warm in here."*
+- And then Vee tells her: *"It wasn't quite like you said... He rubbed first. Before each one. And after, mostly, he kissed the spot."* Notice how Randi doesn't even flinch or press her thumbnail into the glass this time—because watching Vee get visibly, helplessly wet across the brunch table *while telling Randi about it* ("Randi watched it do the thing with frank, open pleasure") is giving Randi total dominance over the room!
 
-AND LOOK AT PACE'S REACTION WHEN VEE LICKS HER LOWER LIP (the exact lower lip where Randi left the pastry glaze five days ago!):
-*"His grin spread, and then it left, and under it was the look she knew from his bed, and that look was no joke."*
-And when Vee walks over to kiss him at the stove and slides her hand down the front of his jeans, **HE IS ROCK HARD** just from hearing Vee say that Randi kisses her on the mouth and comes back a second time! And he puts his hand over her breast through his shirt and says: *"I'll pretend it was that kind of French. After you feed me."*
-Wait—he's not pretending! He *knows* it's that kind of kiss! And after dinner he takes her again on the couch, unhurried, turning that image over in his head the whole time the salmon cooked!
+And then, once Randi has wound Vee's body all the way up using Vee's own memories of Pace, Randi leans back and drops a **completely fabricated story** to push Vee over the edge!
+We *know* there was no "young Robert Redford" at a Radford mixer! Look at how Randi builds the lie out of pieces of Pace and Vee:
+1. *"And he could dance, actually dance, you have no idea how rare"* — Pace at the Rusty Nail!
+2. *"Forceful, but he knew when to ease off and leave you the room to come after him, which is the entire art and almost nobody has it"* — THAT IS LITERALLY PACE UNDER THE TREE IN CHAPTER 8 AND PACE WITH HIS EMPTY PALM IN CHAPTER 29! Randi is describing *Pace's* signature move right to Vee's face!
+3. *"An emergency, a friend in some trouble. He had to leave... part of me respected it, honestly, a man who looks after his people."* — Pace escorting the drunk bar girls home safe!
+4. And then the payload she actually built the whole fake story to deliver: **putting the image of Randi masturbating into Vee's head.**
+*"Dress up, panties to the side, knees wide, doing a private dance."*
 
-And then late that night in bed, while he sleeps flat on his back with his birthmark bare, Vee admits it to herself: *She loved him.* And she already starts rationalizing his silence: *"He felt it in everything he did and said it in nothing, and she found, tonight, that she could live clear inside the everything-he-did and not go hungry for the saying."* And she whispers his real name—*"Peter"*—to him while he's asleep so he can't hear it! Because deep down she already knows she isn't safe saying it while he's awake!
+She says it looking straight into Vee's eyes across the mimosas so that Vee has no choice but to picture Randi with her dress pushed up, panties pulled aside, knees wide, touching herself! And when Vee bolts out of her chair with a strangled *"Bathroom,"* look at what Randi says without even looking up from her glass:
+*"Do what you need to."*
+SHE KNOWS. She just gave Vee permission—or an order!—to go take care of herself in the restaurant bathroom just like the "story" she just told!
 
-Which brings us straight to Saturday morning in the bathroom.
-Vee finally brought her overnight bag! And her brush, her loose bobby pins, a fallen green scrunchy, her open face cream, her beige makeup sponge, and her foundation bottles have completely colonized his bare, wiped counter where nothing ever sits but his squared-off razor.
-When Pace comes in behind her, wraps his arms around her, and kisses her neck, it's so tender her throat pulls tight—and then his eyes open in the mirror and drop to the counter:
-*"She watched them move, in the mirror, off her face and down to the counter, to the brush and the pins and the bottles and the spill of her, and hold there a second, taking it in."*
-And he says *nothing*. Smiles his private smile, kisses her shoulder, and leaves it completely unnamed. Wait—why did his eyes hold on the counter for a second?! Was he thinking about the fact that *Randi* is going to walk into this bathroom and see another woman's makeup and brushes spilled across his counter (or that he's going to have to make Vee pack it up before Randi comes over)?! Or does he actually love seeing her mess there, or mind it?! Vee can't tell—*"He hadn't said. He never said."* And that tiny splinter stays under her skin from Saturday all the way to Tuesday!
+And this time, in the clinical blue light of the bathroom stall, Vee doesn't stop her hand at her knee. She pulls her panties down, puts her fingers in her own slickness, circles her clit, and then—because an hour of talking to Randi wants *filling*—slides her fingers down and starts to press *inside* herself...
+AND RANDI'S FACE APPEARS BEHIND HER EYES.
+Not Pace! When Vee pushes her own fingers inside herself in the bathroom stall, it is **Randi's face** ("Clear, and fond, and near, as though Vee were the best thing in the room") that arrives behind her eyelids! And she stops one inch from coming—not because she doesn't want it, but because *"the bright wanting curdled into something low and ashamed and obedient. Frustrated and cowed in the same breath."*
+OBEDIENT. She literally edges herself and leaves herself aching and unfulfilled in her panties because of Randi's imagined gaze!
 
-Because look at what happens on Monday night at 11 p.m. when Vee comes back to the dorm glowing ("You're doing the streetlight thing again... You're a public utility"—God, I love Cassie) and tells Cassie about burning the side of her bare breast with a hot baked tomato at his table ("Not enough on") and how he keeps the house warm for her now.
-Cassie listens with no expression and says: *"You don't come home school nights."* (Just like the chapter title: *Not in Your Bed*!)
-And then Cassie asks the flat, simple question: *"Do you love him."*
-In Pace's dark bedroom on Friday night, Vee was 100% sure she loved him and told herself she didn't need him to say a word. Out loud in front of Cassie, her voice goes small—*"Maybe. I think so. It's all so fast"*—and when she takes that *"maybe"* into the swimming pool on Tuesday afternoon, look at what the rhythm of the laps strips away:
-*"Do you love him was a pressure under her ribs with a dread riding it... and the thing about Pace turned over once in the quiet and she could not tell, for about four strokes, whether the man she was turning over was Pace or was somebody she had built out of wanting him — whether he was that good or she had made him that good, out of wanting, out of two months of being looked at like that."*
+And then she walks back out to the porch with her wrists cooled under the tap, and Randi looks right up at her and says:
+**"Sticky fingers?"**
+My heart stopped dead in my chest. Just like Vee's! And the genius move of Randi immediately tipping her head toward the plate of glazed pastries that arrived while Vee was in the bathroom (*"They came while you were up. Go on, have one before I get to both"*)—so Vee is left standing there with her face on fire, unable to tell *"whether her friend had just handed her a door or shown her there had never been one"*!
+Oh, there was never a door, Vee! Look at the corner of Randi's mouth staying up for the rest of the meal while she takes *one neat bite* of the glazed pastry, says *"Delicious"* in a way that closes the subject, and drinks her coffee black! Remember Randi's mother who lives on egg whites and tofu, and Randi leaving Pace's cream stew untouched in Chapter 18?! Randi doesn't eat sugary brunch pastries! She ordered those glazed pastries while Vee was in the bathroom specifically so she could say **"Sticky fingers?"** when Vee walked back to the table, and she took **one bite** specifically to put the sugar-and-butter glaze on her own mouth!
 
-What a piece of writing that Tuesday lap-swim is. The butterfly man and the flip-turn woman arranging themselves around Lane 3 without a word; swimming a workout like the second verse of a hymn; her body, which has opinions all day long, having none at all underwater where it only works; and the water taking the words off her dread one at a time until she can walk up the hill in the dark thinking about a sandwich.
+Because then, out on the cold sidewalk, when Vee is quiet and shell-shocked, Randi drops the emotional nuclear bomb:
+*"I couldn't bear it if there was something between us. You're my best friend in the whole world, you know that?"*
+Which melts every defense lonely, big-hearted Vee has left—and then Randi pulls her in, kisses her on the mouth, pauses, kisses her a second time with a little more, and leaves the sugar-and-butter glaze of the pastry Vee never touched right on Vee's lower lip so Vee's tongue has to taste it after the Mercedes drives away! ("One Bite"!!)
 
-Wait: she stayed at Pace's on Friday night AND Sunday night ("came in past eleven on Monday with the night still on her"). Where was Randi this whole weekend?! Did Vee not even have brunch with Randi on Sunday, or did Pace not see Randi at all since coming back from Boston?! And did Vee leave any of her things on Pace's bathroom counter, or is Randi about to walk into Pace's house?! I need the next chapter right now.
+That is the most diabolical, thrilling, erotic power play I have read in my entire life. Randi just:
+1. Made Vee edge herself in a restaurant bathroom to Randi's face;
+2. Called her out with *"Sticky fingers?"* under the plausible deniability of glazed pastries;
+3. Took *one bite* of a pastry she doesn't even want to eat just so she could transfer the glaze onto Vee's mouth in the goodbye kiss—meaning every time Vee tastes that sugar and butter on her lip on the walk home, she is tasting both the kiss AND the exact double meaning of *"Sticky fingers?"*!
 
-GATE 32 — Not in Your Bed
+I am losing my mind. Where do we go from here?! Give me the next chapter right now!
+
+GATE 31 — One Bite
 DECISION: CONTINUE
 CAPTURE: 10
-NEXT: 9
-HEAT: 2
-ROMANCE: 3
+NEXT: 10
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This chapter wove dramatic irony and emotional ache together seamlessly—watching Vee innocently tell Pace about Randi's "European" accent and two-stage mouth kiss while he gets rock hard at the stove, her whispering "Peter" only once he's asleep, the silent beat over her makeup scattered across his bathroom counter, and that gorgeous Tuesday lap-swim where the dread underneath "Do you love him" rises to the surface.
+WHY: This chapter had me gasping out loud—Randi baiting Vee with "Vanilla," spinning a fake mixer story to plant the image of herself masturbating ("panties to the side, knees wide") until Vee flees to the bathroom stall and edges herself with Randi's face behind her eyes, and then that diabolical one-two punch of "Sticky fingers?" over the glazed pastries and leaving the sugar glaze on Vee's lower lip in the goodbye kiss.
 
 LEDGER
-+ LOVE: Vee innocently telling Pace at the stove about her "new friend" Randi's European accent, boy stories, and "French" two-stage kiss on the mouth—and finding Pace rock hard against her hand a second later ("I'll pretend it was that kind of French").
-+ LOVE: Vee whispering "Peter" only after Pace is dead asleep beside her, already convincing herself she can live inside "everything-he-did and not go hungry for the saying."
-+ LOVE: Cassie calling glowing Vee "a public utility" and wryly clocking how a hot baked tomato burned the side of Vee's breast ("There's only one way *that* burn happens. Not enough on").
-+ LOVE: The Tuesday afternoon lap-swim—how swimming takes the words off her dread ("Do you love him" / "Did he mind?") one stroke at a time until only a bearable shape is left.
-+ FEAR: Pace's one-second pause looking at Vee's makeup and brushes spilled across his bare bathroom counter—and his total silence about what they are—is already planting the dread in Vee that made her say "maybe" to Cassie.
-~ F29.6 DEEPENED: Vee finally brought her overnight bag and spilled her brush, pins, foundation, and green scrunchies all over Pace's immaculate bathroom counter—and when Pace saw it in the mirror, his eyes held on the mess for a full second before he smiled and said nothing at all.
++ LOVE: Randi's fabricated "young Robert Redford" mixer story covertly borrowing Pace's exact traits ("knew when to ease off and leave you the room to come after him") just to plant the visual of herself masturbating ("Dress up, panties to the side, knees wide") straight into Vee's head across the brunch table.
++ LOVE: The moment in the bathroom stall when Vee slides her own fingers inside herself and it's Randi's face—not Pace's—that appears behind her eyes, turning her climax into "something low and ashamed and obedient" one inch from the peak.
++ LOVE: The jaw-dropping double play of "Sticky fingers?" and the title beat "One Bite"—Randi ordering glazed pastries while Vee is in the bathroom solely to set up the joke, taking one neat bite she doesn't even want, and transferring the sugar-and-butter glaze onto Vee's lower lip during their two-stage goodbye kiss.
+~ W29.7 ANSWERED: Vee told Randi all about Friday night's bet and spanking over Sunday mimosas—including that Pace rubbed and kissed each spot instead of humiliating her—and instead of retreating, Randi used Vee's arousal to drive her into the bathroom stall and claim her with "Sticky fingers?" and the glazed-pastry kiss.

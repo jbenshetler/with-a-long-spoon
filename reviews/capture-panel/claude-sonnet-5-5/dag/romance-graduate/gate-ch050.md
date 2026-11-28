@@ -1,28 +1,26 @@
-*capture-dag-v3-grounded · gate ch050 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha bb2635a8b1b0 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch047 · history ch001..ch047 · ledger no seed 88472f42e9b2 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch050 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha cf3b0e619e49 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch046 · history ch001..ch046 · ledger no seed 69a8bd5928cb · 2026-11-06*
 
 REACTION
 
-This is a bridge chapter, and a short one, and I liked it more than I expected. After the big explicit run of 46 and 47, two people in a kitchen talking is the kind of scene I'll happily take.
+Oh, this is a gift. A chapter of pure, joyful, explicit heat, and Vee being funny and unashamed inside it. The "pleasure princess" flip is the best thing she's done in her own head. She starts in "pleasure slave," catches herself counting what he does for her, and rewrites it. The toast-burning bit is lovely too, and the pointing and "Bad slave" are hot and silly at once. The long oral sequence is the most sustained sex in a while, and it's specific and tender.
 
-What works is Vee noticing that Pace kept everything. The boots that were Meg's, the heel lifting out of the right one, "talk the paint off a wall" handed back to her in his voice. It's the best evidence yet that his love goes into the doing and the remembering, not into words. And "I want to meet your people" is the first time he has put her in his out-there world on his own. That is the answer to her December speech, given sideways and without being asked, and I felt it land.
+Then the turn. She tastes herself on his mouth, her tongue goes first, and her mother's voice shuts it down: "Ugh — gross. That's — no. Wrong." The best part is that Pace stops, asks nothing, and gentles. And then Vee talks herself into "he forgot to wipe." I'm not buying it. She also wonders how many times, and how carefully, and "had there always been—" and then drops it. I know what Randi has been doing on Saturdays and Fridays, and I know what a faint salt edge on his mouth could mean. The reader's knowledge cuts hard here. Vee is about to give the thing to Randi. "Randi would know what to make of it." That's the pipeline, ready to feed the wrong person again.
 
-Then my dread kicks in, because I know what she doesn't. Her first thought is Randi, the dinner of three. She is about to put the woman who knows his body next to him at a table. Sheri's line about the redhead and the brunette also hangs over this. The Chili's memory surfacing and "Let me handle it" are tender, because he's quietly fixing the problem from the loud restaurant. He is also choosing the place so he can hear her, which is lovely. He has taken the noise thing seriously.
+My complaints are small. The kitchen walkthrough is long (the blood orange, the mushrooms) and I skimmed some of it. The "Why does he like it so much?" beat is a little on the nose. But the charge never dropped.
 
-What bothers me: it's thin. Nothing here follows up the taste thing from 47, so the thread I was waiting on just sat there. "Bring Theo" is a nice little tell that he isn't jealous, but no heat and no real turn. The group-party idea reads as a setup for a collision, and I want that collision now.
-
-GATE 48 — Back
+GATE 47 — Missed a Spot
 DECISION: CONTINUE
-CAPTURE: 7
+CAPTURE: 9
 NEXT: 9
-HEAT: 0
-ROMANCE: 3
-ALMOST-STOPPED: "She'd watched somebody be fine about it before. She wasn't going to look at when." (the book nudging the Cassie subtext)
-WHY: Pace remembering Meg's boots and Kayla's line is the love he can't say out loud, and his offer to bring in her people answers her December question sideways. The party sets Randi and Pace at one table with Vee between them, and I can't wait for that.
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "The blood oranges he did the way he did everything." (the long food-prep walkthrough)
+WHY: Hot, funny, tender sex, and then a real crack when she tastes herself and the shame voice slams the door. "Forgot to wipe" is her kindest lie yet, and the unfinished question that sinks under it is what I'm reading toward.
 
 LEDGER
-+ LOVE: Pace remembering the boots, "heel came up out of the right one," and Kayla's paint line, all kept.
-+ LOVE: "I want to meet your people": the first time he's offered her the world outside the door.
-+ WAITING: The big gathering, Pace and Randi in one room with Vee between them, and who picks the quiet place.
-+ SUSPICION: Vee's instinct to make it a dinner with Randi will run straight into Pace's knowing Randi better than she can guess.
-~ F47.4 DEEPENED: She hasn't asked about the taste yet, but the plan to bring Randi and Pace together makes the Tuesday confession more dangerous.
-~ S47.3 DEEPENED: Still sitting unspoken, and the chapter's pivot to introducing them makes the salt-edge thread feel like a fuse.
++ LOVE: "Pleasure princess": Vee flipping slave into princess while counting everything he does for her.
++ LOVE: Pace stopping, not pushing, and kissing her like nothing happened after "gross."
++ SUSPICION: The salt edge on Pace's mouth is Randi's taste, and Vee's "had there always been—" is the first thread toward the truth.
++ FEAR: Vee will take the strange small thing to Randi on Tuesday, and Randi will have to explain it away.
++ WAITING: Tuesday's dinner with Randi, and what Vee asks her about the taste.
+~ F46.1 SHIFTED: He said her name warmly, and the word is still unsaid, but she's stopped waiting on it for now.

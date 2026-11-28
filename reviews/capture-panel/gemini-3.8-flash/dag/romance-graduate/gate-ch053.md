@@ -1,53 +1,40 @@
-*capture-dag-v3-grounded · gate ch053 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 939fbe005321 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) · history ch001..ch050 · ledger no seed 5f58fe24e658 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch053 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 156c8e3f33b2 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch049 · history ch001..ch049 · ledger no seed 70d2604ae35e · 2026-11-06*
 
 REACTION
 
-I am sitting here in the dark with my hands shaking and my jaw on the floor. I don’t even know where to start. My heart is hammering so hard I can hear it in my ears. This chapter was an absolute, suffocating, five-alarm psychological tour de force.
+I am practically vibrating in my seat. This chapter was so sunny, so hilarious, so deeply charming—and every single second of it felt like watching someone laugh and adjust their sunglasses while walking barefoot toward a minefield.
 
-First of all: Dr. Marsh and Marcel Mauss’s essay on the *hau*. *The spirit of the giver rides inside the object, and the gift wants to go home.*
+First of all, Kayla and Meg are absolute treasures. Kayla standing outside the locked dining hall doors in her mittens mourning waffles like she’s attending a state funeral ("I am not having break*fast* out of a machine... This is the last morning of my life and it's going to be peanut butter crackers") had me howling. That is so violently college. And Meg countering her own five-day hormonal war crime against Danny with a dozen maple bacons and enduring *all* the Matrix movies? That is top-tier female solidarity. Watching Vee get to sit in the bright sunlight of a glassed-in bistro, spending her Christmas money on mimosas, and openly giggling about flashing Pace on his freezing front porch while Kayla shrieked and turned heads—it gave Vee such joyful, earned lightness. She isn't hiding under oversized sweaters anymore. She owns the porch story.
 
-Helen Rivers, you absolute genius monster. The sheer weight of that thematic bomb dropping in the first five minutes of class! Randi is sitting right there beside Vee wearing *the* green-and-gold Hermès silk scarf in her hair—the scarf she gave Vee to make up with Pace, the scarf from the bondage story. Vee is wearing Randi’s shoes. Randi’s cashmere blanket is lying out in Pace’s bedroom, soaked with Vee’s release. And Pace’s burgundy dress is hanging in Vee’s closet. Every single thing connecting these three people is an inhabited gift carrying someone else’s spirit, pulling back toward its maker, tangling them in an unbreakable web of debt and longing. Nobody is free.
+BUT WEDNESDAY. *WEDNESDAY NIGHT.*
 
-And then the restaurant. God, the restaurant.
+It is officially on the calendar. Two days away.
 
-Randi’s story about the lawn boy and the robin’s-egg blue underwear. I felt physically sick reading that. That wasn’t just a funny college hookup mishap; that was a brutal, horrifying window into the emotional torture chamber Randi grew up in. Her mother finding her nineteen-year-old daughter’s underwear in the master bed, having them professionally laundered and folded, holding onto them for *days*, and then silently setting them down next to Randi’s plate in front of the boy at Sunday dinner: *"They're not mine. They're your color."*
+"You two, Cassie, and Randi, Theo maybe."
 
-The absolute, smiling, aristocratic cruelty of that! It explains *everything* about Randi. It explains why Randi press-gangs her thumbnail into glass rims until it bleeds. It explains why she leaves her panties on Pace’s bench like a sacrificial offering. It explains why she treats sex as an instrument of surveillance and performance rather than safety. She was raised by a monster who weaponized domestic shame as a blood sport.
+My stomach did an actual backflip. Vee dropped that invitation like it’s just a sweet, proud college girl bringing her impressive older man to meet the dorm crew. She has NO IDEA what the roster actually is.
 
-And what does Vee do? Vee—in her magnificent, terrifying, unhinged new confidence—turns her olive church coat around on the hook and proudly shows Randi the dark, soaked bloom on the satin lining from Friday night.
+Let’s review the bomb components Pace is packing into whatever venue he’s choosing:
+1. **Randi.** Randi, who has spent four months acting like Pace is just some tutor from the coffee shop, who secretly chose Vee on the quad with Pace, who broke down weeping on Pace’s chest in November while holding Vee’s underwear, and who Brooke *just* threatened with Lauren Pike’s fate if her sapphic affair gets out.
+2. **Pace.** The man who orchestrates everything down to the millimeter, who knows *both* women intimately, and who is choosing the ground specifically so he won't be overwhelmed by noise.
+3. **Cassie.** The human lie detector. Cassie, who knows Randi is slick, who knows Pace was at the center of the doll-sized sweater mystery, and who will be sitting right there watching the micro-expressions pass between Randi and Pace across the table.
+4. **Theo.** The guy who asked Vee out, thrown in just to add a dash of college territory-marking!
+5. **Kayla and Meg.** The loud, chaotic peanut gallery who are going to ask twenty intrusive questions before the appetizers even arrive!
 
-I literally gasped out loud. The sheer, feral erotic audacity of that! Showing another woman the physical evidence of your own dripping arousal on the satin lining of your coat while describing how your man took you with his mouth on the open porch in January! Randi’s eyes going dark and liquid, her voice dropping to a hoarse whisper, her bare foot slipping out of her shoe to press against Vee’s ankle under the table... the heat between those two women was so thick you could have sliced it with a butter knife.
+Pace said, *"Let me handle it."* Pace is setting the board. Does Randi even know yet?! Vee hasn't seen Randi since Friday's explosive kiss in the sorority foyer! Tomorrow is Tuesday—Anthro class, the debrief about the coat and the post-oral kiss, and Vee dropping the news: *"Oh, by the way, Pace is taking all of us to dinner tomorrow night!"*
 
-AND THEN THE BATHROOM STALL.
+Randi is going to throw up blood. I cannot breathe. I need Tuesday, I need Anthro, and I need Wednesday night immediately.
 
-Vee running down the stairs, throwing the latch, shoving her hand down her pants, and getting off against the cold partition while *Randi’s face* fills her mind—saying *he could see you were ready*—and then Vee immediately lying to herself in the mirror: *"Because that had been about Pace, obviously. All of it. About Pace."*
-
-BABY GIRL, NO IT WASN'T! You just came so hard your knees buckled thinking about your best friend’s mouth and her blue eyes across a candlelit table!
-
-And Randi sitting upstairs, pouring the last of the wine, waiting for her to come back, and dropping that lethal double entendre: *"Things were really heated. It's a good thing you got relief."*
-
-I almost choked on my own tongue. Randi *knew*. Randi has spent months orchestrating Vee’s arousal, and she read the glossy eyes and flushed skin the second Vee walked back up those stairs. Giving Vee the out—"After driving out to see Pace"—was pure, velvet-wrapped mercy, but Randi knew exactly what fire she had just stoked.
-
-And the ending. Oh god, the ending.
-
-Randi saying, *"Tomorrow... I can't wait to properly meet Pace. After all you've told me, I want to see him again."* Acting like he’s just some polite tutor from October! While Brooke’s threat hangs over her head, while Cassie is waiting with her radar tuned to high, and while Vee kissed her right on the side of her neck where she cried after Christmas—making Randi flinch like she’d been struck by lightning.
-
-Tomorrow night is Wednesday. The dinner is tomorrow. All three of them. Plus Cassie. In one room. I am not going to survive this.
-
-GATE 51 — Covering
+GATE 50 — Across
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 3
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The agonizing psychological brilliance of Dr. Marsh's lecture on the spirit of gifts, paired with Randi's devastating family trauma and Vee getting off in the bathroom to Randi's face, was an absolute tour de force—and the countdown to Wednesday's dinner is pure agony.
+WHY: The sunny, hilarious dorm-friend debrief over mimosas and waffles was pure joy—and the countdown officially dropping Wednesday's dinner as the collision point for Pace, Randi, and Cassie is suffocating suspense.
 
 LEDGER
-+ LOVE: Dr. Marsh’s opening lecture on Marcel Mauss and the *hau*—the spirit of the giver riding inside the object, making every gift in this book an inescapable, haunted tether.
-+ LOVE: Randi’s heartbreaking confession about her mother setting out the folded blue underwear at Sunday dinner—a devastating, psychologically exact reveal of the smiling cruelty that built her.
-+ LOVE: Vee turning her church coat around on the hook to show Randi the soaked stain on the satin lining—feral, unhinged, magnificent female boldness.
-~ [F1.1] DEEPENED: Randi's childhood trauma with her mother laundering and presenting her underwear at dinner proves how deeply conditioned she is to use sex and distance as armor, making her love for Vee even more volatile.
-~ [F17.2] DEEPENED: Vee coming in the bathroom stall to Randi's face and voice proves her physical desire for Randi is now fully awake, even as she desperately lies to herself that it was about Pace.
-~ [F48.2] DEEPENED: Randi confirming she is attending Wednesday's dinner to "properly meet" Pace locks the ticking time bomb in place for tomorrow night.
-~ [W48.3] SHIFTED: The group dinner where Randi, Pace, Vee, and Cassie collide is no longer two days out—it is tomorrow night.
++ LOVE: Kayla’s unhinged morning grief over locked dining hall doors and Meg’s maple-bacon apology peace offering.
+~ [W48.3] SHIFTED: The group dinner is no longer a vague future plan; it is officially locked in for Wednesday night, two days away.
+~ [F48.2] DEEPENED: Pace orchestrating Wednesday's dinner with Kayla, Meg, Cassie, Randi, and Theo in the same room makes the secret threesome setup an active, ticking time bomb.

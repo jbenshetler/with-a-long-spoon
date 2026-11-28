@@ -1,44 +1,40 @@
-*capture-dag-v3-grounded · gate ch041 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha abb1b2754206 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch038 · history ch001..ch038 · ledger no seed 821cb7277667 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch041 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6b5caaa161cd · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch037 · history ch001..ch037 · ledger no seed 5ee4c7c5cc6a · 2026-11-06*
 
 **REACTION**
 
-"Is this what we are now?"
+"I love how good we are together."
 
-She finally asked it. For thirty-eight chapters the jacket question has sat under every scene: what is she to him out in the world? Tonight it comes out of her too loud, at the wrong size for the room, "a daytime voice in a room built for murmuring." I loved that she couldn't make it come out light. She'd had it light a second ago, and then her body ran ahead of her again, toward a fight this time instead of toward heat. The conflict is real and it's grown-up, and nobody needed a catty blonde to start it. It's been building in the pile since the porch.
+I put the Kindle down. That's the jacket line, at last, on the page where I can see it. She brings him the most careful sentence she's ever made, a thing built around the word so it can carry the word without saying it. He takes two breaths (she's never heard him take two), his hand starts two answers and drops both, and then he gives her *us*. He gives her *what your body does*. He hands her the body when she offered him the girl. Four chapters ago she told Randi he wants "me, with the body attached." This morning he answered "the body," and she felt the small *wait* behind her breastbone before she let the quilt swallow it. That part I believed completely. The way her body files the hurt before her mind is allowed to look at it is the Vee I've loved for two books.
 
-Then he says "Okay. Where do you want to go tonight?" and it's devastating. She threw something ugly, and he caught it and handed her back a plain question, with nothing for the fight to catch on. "He was *actually thinking about it*. Somehow that was worse." Yes. That's the same grace that cost her more than a fight in chapter 37, and here it costs her again.
+And "I never had this either." Never? He has had Randi in that bed three, four times in one day. Maybe he means it exactly, that nobody ever answered him the way Vee's body does, and that's the cruel version. Or it's a true sentence holding a lie, like "That part was all you." Either way, the man who wouldn't say "I love you" found the room to say "I never had this either," and Randi was the reason he could say it so carefully.
 
-Chili's was the best thing in the chapter, and it's the food wire one more time, which I've griped about. This time it runs backwards. The nachos lie there dead, "fine had been plenty," and then: "He had ruined it for her, was the thing. Not just this." That turned my stomach a little. It's not a cracker-and-meal speech, it's grief. He's spoiled ordinary life for her, and if this ends, she can't go back to fine. The billboard-and-painting line is a bit much, but "Not just this" earned it.
+The Cassie dinner is the better half and the quieter one. "Is it that you can't say, or that you don't want to?" "Both." Cassie gets the realest question in the chapter for the second time running. Dad would take the sex better than the sewing, because "weird is worse than wrong." That's a smart, grown-up line about fathers, and it made me laugh. The cropped photo stopping at the waist for Mom, the nurse face watching her go back for seconds, "boyfriend?" with an audible question mark. That's the jacket again from the other side: she can't name him to her parents because he's never named himself to her. I liked all of it. And Dad "pricing" the dress made my credit-card dread twitch.
 
-What I'd text at 1 a.m.: "You went cold on me after the Rusty Nail. It wasn't true. Some back room of her knew." She says it anyway, "because she needed the line of it to hold," and "the needing made her mean." I've been asking this book for heroines with an inner life, and here's one being knowingly unfair and the book letting her be. Then he says "You know what happened after the dance," quietly, and she collapses. And the title lands. She *forgives* him. She forgives him for a fight she picked and for a coldness she invented, and it "sat well in her." Under the rug. That's the pile from the laundry room growing a new layer, and she doesn't even know she's sweeping.
+But. The porch half explains itself to death. "The small choreography of a morning." That's the exact phrase I flagged at the induction, recycled. "She had been received warmly." The book is literally reciting its own title at me. Then the laundry room paragraphs say the same thing four ways: "not the same shape," "did not resolve," "the not-saying had a particular shape," "the sentence retired into her body," "the cracker-and-meal would not return to her speech." I GOT IT at "I love how good we are together." The moment was devastating on its own and the book wouldn't stop narrating it. And the sentence itself is the food speech again. Mouth asleep, eating with the sound off, cotton candy and strawberries, now crackers and a meal. Her "best sentence" is one I've heard her say to Randi and to him already. Maybe that's the point, that he's heard it before, so it registers as food. I'm not sure the book knows that, though.
 
-Now Pace. The fork squared to the table edge, the eyes pulled to the screen, the flicker of irritation, and "I listen as hard as I know how and I still can't hear you." Put that next to the seventh-grade desk in the hall and the house in the woods, and the book is telegraphing that he isn't wired for rooms like that. Fine, I believe it. But I'm suspicious of how convenient it is. A man sleeping with a sorority girl on Mondays has another reason to keep the redhead off Main Street, and "we don't leave the house" is exactly true. Also, "a thing one of his students had said in office hours." He has students? Randi swore to Brooke he doesn't teach her section. I noticed.
+Housekeeping grumbles. Thanksgiving with Sheri happened offstage. The drawer Randi opened, MIRANDA, the night class: nothing. Randi isn't even a thought. That's twenty-two chapters without her head and three without her in the room. And this is a Monday morning at his house, which was Randi's night. Zero heat, two of the last three chapters.
 
-The sex is good and a little stock. I liked her wanting his control to break, and the word drowned at the top of her orgasm, "with his name in her mouth and not the other thing." That's lovely. But "took her like a man who'd run clean out of the strength to wait," "spent himself in her, shaking, undone, hers," and "her passion reaching up and pulling him over" read like the KU shelf. The breasts-as-comfort beat is chapter 33 again.
+What keeps me is the pile. "Small flickers… small repair work to keep functioning. This joined them. She did not look at the pile." That's the first time Vee has admitted to herself that she keeps one. When the pointing game comes out, it's all going to come down at once.
 
-Then the coda kills me in the wrong way. "It had no name. He'd given her all of it and not the name." I know, book. That's the laundry room, the porch, the shirt, and the drawer all over again. Some of it is new: she belongs to him, but he can't be proved, and what she has of him "stopped at [the bed's] edges." That's sharp, and it's the jacket in a line. But it's the fifth chapter in a row explaining the no-name, and I was skimming the last paragraph for a turn that never came.
-
-And Randi. Twenty-three chapters without her head, and it's a Friday, the anthro class is two nights a week, and none of it exists. Vee is spiraling over a name while the actual reason it doesn't exist is out of the room again.
-
-GATE 39 — Under the Rug
+GATE 38 — Cropped
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 7
-HEAT: 2
+CAPTURE: 6
+NEXT: 6
+HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: "It had no name. He'd given her all of it and not the name." That's the fifth time the book has narrated this exact ache, at the end of a chapter that had already shown it.
-WHY: She finally asked the jacket's question out loud, picked an unfair fight knowing it was unfair, and then forgave him for her own sin. That's real interiority with teeth, and "Not just this" over dead nachos hurt. But the coda re-explains the no-name, and Randi has vanished again, so I'm reading on half for the ache and half out of stubbornness.
+ALMOST-STOPPED: "The sentence retired into her body where she had been carrying it before. The cracker-and-meal would not return to her speech." That's the fifth explanation of a moment that landed perfectly the first time.
+WHY: The jacket's missing word finally happens on the page, and "what your body does" in answer to her is a real turn, quiet and awful. But the porch is buried in explanation, there's no heat, and the book keeps dropping every live wire Randi left behind. I'm reading on for the pile, not for the prose.
 
 LEDGER
-+ LOVE: "The needing made her mean." She says the Rusty Nail line knowing it's false, and the book lets her be unfair
-+ LOVE: "He had ruined it for her. Not just this." Fine is gone for her, and if this ends she can't go back to it
-+ FEAR: She "forgave" him for a coldness she invented. The rug is the pile, and she's sweeping her own fault under it as his
-+ SUSPICION: The noise and the fork-squaring are the book telling me he's wired differently, but "we don't leave the house" also keeps Vee out of sight of Randi's world
-+ GRUDGE: The lying-awake coda explains the missing name yet again, and the sex slides into stock phrasing ("spent himself in her, shaking, undone, hers")
-~ F32.4 DEEPENED: She asked out loud, and he answered with a restaurant and "I'm listening now." Near the word, never the word
-~ F38.1 DEEPENED: A new layer on the pile, and this time it's something she's forgiven him for
-~ S23.3 DEEPENED: "Whether all that attention was showing her the truth or keeping her from it." She's circling the right question with the wrong suspect
-~ W32.8 DEEPENED: The "had she made him that good" doubt came back up in the dark, out loud this time
-~ G38.6 SHIFTED: The food speech ran backwards this time, and it earned it
-~ S2.2 DEEPENED: "One of his students… in office hours." He teaches somebody, and Randi swore he didn't teach her section
-~ W18.5 DEEPENED: Twenty-three chapters without Randi's head, and on a Friday she isn't even a thought
++ FEAR: Vee keeps a pile of "small repair work" she won't look at, and when the pointing game comes out, all of it falls on her at once
++ LOVE: Cassie's "Is it that you can't say, or that you don't want to?" and Vee's "Both"
++ LOVE: Dad would take the sex better than the sewing. "Weird is worse than wrong"
++ SUSPICION: "I never had this either" is another exact sentence holding a lie. He has Randi, and he answered Vee's love with her body
++ GRUDGE: "The small choreography of a morning" is recycled, and "She had been received warmly" has the book reciting its own title
++ GRUDGE: Her "best sentence" is the food speech a fifth time
+~ F32.4 DEEPENED: She said her best sentence and got "how good we are together." The silence finally hungers, and she's decided never to ask
+~ G1.7 DEEPENED: The laundry room explains the porch four separate times
+~ W18.5 DEEPENED: Twenty-two chapters without Randi's head, and she isn't even a thought on what should have been her Monday
+~ W33.6 FADED: Thanksgiving, Sheri, and wherever Randi went all happened offstage. The book isn't going there
+~ S23.3 DEEPENED: "Small repair work to keep functioning." She knows something's built, and she's stopped looking
+~ F20.3 DEEPENED: Dad priced the dress at the table. The money question is now in her parents' house

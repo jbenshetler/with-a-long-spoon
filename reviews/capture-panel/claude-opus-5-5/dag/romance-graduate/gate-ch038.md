@@ -1,43 +1,46 @@
-*capture-dag-v3-grounded · gate ch038 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a03ea01d3f8f · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch035 · history ch001..ch035 · ledger no seed 4dcd987b8bf2 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch038 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b29cb00cede3 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch034 · history ch001..ch034 · ledger no seed 68b9dce8006a · 2026-11-06*
 
 **REACTION**
 
-Okay. I need a minute with this one, because I can't tell whether I just watched the book change gears or lose the plot.
+The drawer. I'm starting at the end because I can't stop thinking about it. "Vee's drawer stood out from the cabinet an inch." He pushes it shut with two fingers and blames the house settling in the autumn cold. No, Pace. She heard the second drawer and was gone "longer than it took to find a shirt." She went through the bedroom, found the green satin under his undershirts, and on her way back she opened the drawer you built for Vee. She looked at the room with space to spare, the pins in their little dish, all of it. Then she came into the kitchen with her face washed and her eyes liquid and fucked you holding Vee's panties against your chest, without a word, eyes on the wall, making a sound you'd never heard from her. Afterward she cried and called it hormones. The man who reads every breath she takes decides the grief is that she's never given him anything to keep. That's close, and still wrong. She found two keepsakes, a drawer and a pair of folded panties. Vee gets a place in his house. Randi gets a coffee poured black, and she leaves it untouched on the counter. I texted "THE COFFEE" to nobody.
 
-Last night I closed the book on the drawer standing out an inch, the untouched coffee, and Randi coming apart in his bed holding Vee's panties. I wanted Vee's Monday, the stats class with Randi tucking her hair back and whispering "still full of you." What I got was a group project on pandemic loans. For about a page and a half I really thought I'd picked up the wrong book. When "Cassie wanted PPP" arrived, my thumb was hovering over the library return button. I've been grumbling since chapter 27 that the stats lectures were the theme announcement. Now the theme has a slide deck and a 25% weight. "Here they argued with data, not with analogies." Really? The book is winking at me about its own analogies in the chapter literally called "The Outlier."
+Then I went back to the beginning and realized what else I'd been handed. The pointing game, from his side, finally. "He had already chosen; the pointing was only to find out whether they had chosen the same." So it wasn't Randi's pick. It was never only hers. He saw the copper in Vee's hair, pictured both of them on his pillows, got hard on the quad with Randi's hand in his, and then let Randi believe her face had picked. "That part was all you." He tells her the true answer and leaves out the truest part. Since chapter 1 I've suspected Randi was outsourcing the bench. Now I think Pace was outsourcing the wanting, letting her carry the choice so it would feel like a gift to her. That's colder and smarter than anything I'd guessed.
 
-Cassie's dad got laid off in 2020, and Randi's dad took several loans. The one point off by itself in the white turns out to be MIRANDA. That's a lot of coincidence for a book that's been so careful. It's the bar blonde all over again: the plot handed to the characters by a device instead of grown out of them.
+The couch scene is the hottest thing in the book, and the heat comes out of the argument. "I'm doing it for *you*." "I didn't ask who it was for." "It's *work*." "Sounds grueling." Then he says, kindly, "You don't have to do it for me," and that sentence makes her come. She's been allowed to want Vee for herself and her body takes the permission before she can refuse it. Then "God, I want her," into the wood, and "For us," a second too late. She's facing away so he can't see her face and she forgets the mirror. That's the bench night again, with her trying to hide and him seeing everything. "Tell me" is back, and this time it's Pace pulling it out of her with his hands, which flips chapter 6 completely. I loved it and it made me queasy, which is the deal with this book.
 
-Here's what kept me reading anyway. It's the first time in thirty-six chapters that Vee knows something about Randi that Randi doesn't know she knows. Randi has been collecting Vee piece by piece since the library steps: the wet satin, the thumb behind the knee, "he checked," the uncropped photo. Now Vee gets one piece of Randi, and she doesn't take it. "She did the one useful thing there was, which was to give Randi somewhere to put her hands." She slides the laptop over, hands Randi the busywork, and never says the name. That's the opposite of everything Randi has done to her, and Vee doesn't even know there's an opposite. I loved her for it, and it hurt. "Randi had no idea she'd been looked at." That's the bench in a glass room. The woman who can't stand being seen gets seen at her worst, by the one person kind enough to pretend she wasn't.
+"It isn't you I'm checking on." Oof. He's being good about Vee's consent, and I believed "or I'm done." But Randi said "don't ask me in that voice" because she wanted it to be her he was checking on, and he told her straight that it wasn't. Then on the blanket she says "You see more of me than anybody ever has… some nights it frightens me." It's the closest she's come to saying the bathroom mirror out loud, and he answers "Then I'll be careful with you." It's lovely and he means it, and he still has no idea what he's being careful of.
 
-And MIRANDA. Pace gave Vee "Peter" by the fire, as a gift. Vee gets "Miranda" off a government page, as a wound. I noticed the rhyme and I liked it, though the book was nice enough not to point at it.
+And "told her she'd come to class still full of you." Wait, she said that to Vee's face? Full of *him*, presumably, the boyfriend. That's Randi playing chicken in a lecture hall, and I want Vee's side of that moment badly. Nineteen chapters without Randi's head, but this was the closest the book has let me get. Pace's eyes are so exact on her that I could feel her from the outside: her hand on the arm of the couch, the "shrug that was not one of hers," her hand pulling his arm tighter and then tighter again, twice in one night.
 
-"Cheating bastards." It's plural, and the book makes a little fuss about the plural. Is that the father and the mother? The egg-white mother with "a knife in it"? Suddenly the Mercedes, the loafers bought without checking the price, and the never-opened wine list all have a smell. Randi has been paying for Vee's whole education in glamour with that money. And Vee, still filing Randi under Swiss schools, now has a rich daddy who cheated, and she's casting Randi as the innocent daughter "dealt a rotten thing." Maybe. I'm not sure Randi didn't know. The ragged way it came out makes me think she didn't, but she was "aiming the whole picture" at her own county. She wanted to prove him good. That's a girl who needed him to be good.
+Gripes, small ones. The three-times recap at the top is the montage habit again, though this time it's setting the stakes for "four," so I'll allow it. "Some women cried after… it meant nothing, or nothing bad" made me want to throw something at him, and that's character, not craft. But "She had pressed Vee between them this morning, and it had excited her as much as it fired him now. Whatever it had been, she had come through it" closes the scene down a beat too neatly, even as Pace's misreading. And the fourth orgasm hurting is good, but "a sound into her back he did not recognize" is the second unrecognized sound in one chapter. I noticed.
 
-Also, Cassie and Randi are now on opposite sides of an actual argument with Vee in the middle chair, "loved them both." That's the triangle again, with Cassie as the third corner instead of Pace. I hadn't seen that coming. It's sharp, I'll give the book that.
+He folded the panties in thirds, spot centered, the way Vee did. This book is going to wreck me.
 
-Gripes: zero heat right after the hottest chapter in the book, and the professor drone at the top was throat-clearing. "Not that she let herself think about it much," and then she thinks about it for a whole paragraph of explanation. And twenty chapters without Randi's head, in the one scene where I'd have paid anything to be in it. I'm not quitting. But this needs to turn out to be about Randi's wound, and not an op-ed wearing her clothes.
-
-GATE 36 — The Outlier
+GATE 35 — Four
 DECISION: CONTINUE
-CAPTURE: 5
-NEXT: 7
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "Cassie wanted PPP." That's where the book stopped being about bodies and started being about a policy paper, the morning after the drawer.
-WHY: The device is clunky and convenient, and it skipped everything Chapter 35 left burning. But Vee seeing Randi at her worst and handing her somewhere to put her hands is the first time the gaze has run the other way, and I want to know what that costs everybody.
+CAPTURE: 9
+NEXT: 10
+HEAT: 3
+ROMANCE: 3
+ALMOST-STOPPED: "Whatever it had been, she had come through it." The narration closes the door on Randi's crying right after it opened, even if that's Pace's misreading.
+WHY: The explicit sex and the reveal are the same scene: "You don't have to do it for me" is what makes her come, and "God, I want her" gets out before "for us" can stop it. Then the green satin, the untouched coffee, and Vee's drawer standing open an inch. Randi has been through the house, and I need the next chapter tonight.
 
 LEDGER
-+ GRUDGE: A PPP group project and a too-convenient outlier, landing right after the drawer cliffhanger. The plot was delivered by device, like the bar blonde
-+ LOVE: Vee giving Randi "somewhere to put her hands," never saying the name, and keeping the secret as a kindness
-+ SUSPICION: "Cheating bastards," plural. Randi's whole glamour runs on her family's dirty money, and her mother is in it too
-+ SUSPICION: Randi aimed the project at her own county to prove her father good. She needed him clean, so maybe some part of her already wondered
-+ FEAR: The presentation goes up in front of the class with MIRANDA's county as Cassie's star example, and Randi gets exposed in public, or she quietly sabotages the slides
-+ WAITING: Whether Randi ever finds out Vee saw, and what it does to a woman who can't stand being seen
-+ LOVE: "Miranda" found on a government page, the bad-luck twin to "Peter" by the fire
-~ G27.5 DEEPENED: The outlier lecture became a literal outlier, with a wink about "data, not analogies"
-~ W35.6 DEEPENED: The book skipped Vee's side of "still full of you" entirely
-~ F35.1 DEEPENED: Not a word about the drawer. Randi just shows up bright and normal, which is scarier
-~ W18.5 DEEPENED: Twenty chapters without Randi's head, in the scene where her face went white
-~ F4.2 SHIFTED: Cassie and Randi are now on opposite sides of an actual argument, with Vee in the middle chair
-~ L4.4 SHIFTED: Vee finally knows something real about Randi, and it's not Kentucky. She still has her filed as a victim of glamour
++ FEAR: Randi went through Vee's drawer after the panties. She knows exactly how much room Pace has made for Vee, and she'll do something with it
++ SUSPICION: Pace chose Vee first and let Randi think her face made the pick. "That part was all you" is a true sentence holding a lie
++ GRUDGE: He reads every muscle in Randi and settles on "hormones," then on a grief about keepsakes. He pushes the drawer shut and blames the weather
++ LOVE: "You don't have to do it for me," said kindly, and her coming on it before she could argue
++ LOVE: "Then I'll be careful with you," and her pulling his arm tighter, then tighter again
++ WAITING: Vee's side of Monday stats, with Randi tucking her hair back and whispering "still full of you"
++ GRUDGE: "It isn't you I'm checking on." He's right about Vee, and it lands on Randi like a slap
+~ S1.2 SHIFTED: Pace already wanted Vee before Randi chose her. The outsourcing ran both ways
+~ S3.4 CONFIRMED: "He had already chosen." Vee was for him from the first sight of her on the quad
+~ L6.1 DEEPENED: "Tell me" came back, but now Pace pulls it out of her with his hands, and the telling turns into her confession
+~ W15.6 DEEPENED: "God, I want her," said into the wood, then "for us" a second late
+~ S34.2 CONFIRMED: She wants Vee for herself. Calling the kissing "work" for the threesome didn't survive one kind sentence
+~ S6.2 DEEPENED: He misreads her crying again, this time as hormones and as wanting something of hers kept
+~ F16.1 SHIFTED: The panties finally reached Randi's bed, but she found them herself and fucked him holding them
+~ S17.3 CONFIRMED: Randi knows exactly where the green panties went. She dug them out of his drawer
+~ W3.7 DEEPENED: Untouched black coffee, ruined eggs, and him going hungry. Randi still won't take what he pours her
+~ W18.5 DEEPENED: Nineteen chapters without Randi's head, but Pace's eyes got me closer to her than ever
+~ F2.3 DEEPENED: "You see more of me than anybody… some nights it frightens me." The bench mirror, almost said out loud

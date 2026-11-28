@@ -1,29 +1,31 @@
-*capture-dag-v3-grounded · gate ch030 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 660be004cce1 · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch026 · history ch001..ch026 · ledger no seed 24da5cb39573 · 2026-11-19*
+*capture-dag-v3-grounded · gate ch030 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 66849f307f53 · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch025 · history ch001..ch025 · ledger no seed 1f75b8d1e827 · 2026-11-19*
 
 REACTION
 
-*Oh, Randi.* That was surgical.
+Oh, this chapter just wrecked me in the best possible way.
 
-I am sitting here with my heart still hammering from a scene where nobody even touched each other, because watching Randi take Vee’s little confession about Sunday morning and turn it into a slow, deliberate seduction in a soundproof piano closet was *lethal*.
+First of all, the doorway scene with the heels and the *HUMBLE PIE* label—I was grinning and wincing at the exact same time. Vee panicking the second she realizes she’s taller than him, trying to fold herself down to unbuckle them, and Pace just calmly lifting the pie out of her hands, fixing her wind-blown scarf, and saying, *"Leave them on. Beauty like yours made for the gods and loaned out — I'm not going to insult the loan by complaining I have to look up."* He’s lethal. And the way he didn’t even ask why she was upset—he just listened to her whole messy, honest confession about the blonde at the bar and *thanked her for saying it out loud*—is the kind of grown-up emotional intelligence I’ve been starving for.
 
-First of all, the way it started: Vee’s two fingers on Randi’s wrist after class, literally leaving Cassie behind with her granola bar and her wrong textbook. For twenty-six chapters, Randi has been the one steering Vee out of the herd. Now Vee is the one reaching for *her*, towing her into a tiny, soundproof room where people used to hook up freshman year, because she’s still buzzing from Sunday and Randi is the only person she wants to tell.
+And then Sunday afternoon in the kitchen. *Good god.*
 
-And Randi doesn't waste a second. The moment Vee tries to brush off Pace’s swat as a "game of slap-and-tickle," Randi goes still like a cat and zeroes right in: *"Tell me about the one he gave back... His hand was wet."* She knows *exactly* what Pace did, and she knows *exactly* what it did to Vee. Watching Vee’s voice drop and her nipples go hard under her thin jersey right there in the chair—and then watching Randi lean back, let her accent slip out on *roars*, and feed Vee a "story" about being put over a man's knee, skirt up, panties down, counting out loud until his hand slips between her legs—was scorching.
+The shift from Vee being goofy and sleep-warm against his back, lecturing him about how *"soaking is a recognized method,"* to that single, playful swat across her backside—and the way the whole room just *stopped*—had my heart in my throat. You can feel the exact second her body answers before her brain can get in front of it, and Pace *sees* it. Watching her try to out-talk it all the way down the hall, riding him with her face buried in his neck so he can’t look at her, only for the motion itself to keep lighting up the sting until she completely unravels the second his hand presses down on it... *"Please."* *"This?"* *"Please."*
 
-And the fact that Vee got so wet from just *listening* to Randi’s voice that she had to bolt to a locked bathroom and physically pin her own hand to her knee to stop herself from touching herself? *God.* She’s telling herself *"Not here. Not over a story. To do that would be to say yes to it,"* and she’s already saying yes to it with every inch of her body.
+It’s scorching, and it’s not just about the heat—it’s about the fact that she didn’t have to explain it, and he didn’t push her to name it. He just held her there and let it be hers.
 
-Then Randi’s little pivot at the end—already packed up, breezy, warm, kissing her on the mouth at the top of the stairs (*"Love you, gorgeous girl"*) while Vee’s arms are slow to come down—is pure psychological warfare, except I don't even think Randi is faking the warmth anymore. She’s priming Vee for the bench, and she’s enjoying every second of it.
+And then waking up late on Monday, panicking over her wild hair, and Pace gathering it at her nape and saying, *"You're always beautiful."* She stayed two nights. She smells like him head to foot. And now I’m sitting here remembering what’s hidden under that tabletop in his bedroom, and wondering what happens when Randi finds out how well Saturday night went.
 
-GATE 27 — The Practice Room
+GATE 26 — A Recognized Method
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 10
+NEXT: 9
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Peak erotic tension built out of nothing but two women talking in a soundproof room. Watching Randi zero in on Sunday’s swat and talk Vee right to the edge of coming in a locked bathroom—and watching Vee’s arms linger after that goodbye kiss—has me desperate for what happens next.
+WHY: The emotional repair in the front hall was so grown-up and earned, and that transition from playful kitchen banter into a completely unguarded, scorching new discovery in bed was electric.
 
 LEDGER
-+ WAITING: For Vee to stop pretending to herself about what Randi’s stories—and those goodbye kisses—are actually doing to her.
-~ W26.1 DEEPENED: Randi didn't even need Pace to tell her about Sunday afternoon—she clocked it off Vee’s face in ten seconds and immediately used it to prime her.
-~ F4.2 DEEPENED: Vee is now actively choosing Randi over Cassie and getting turned on by Randi’s stories about *Pace* without knowing it’s him.
+~ W24.1 ANSWERED: Vee walked into Pace’s house in Randi’s heels and scarf, and Pace didn’t blink at the height—he fixed her scarf, told her to leave them on, and listened to her whole confession.
+~ L1.1 DEEPENED: Taking the pie out of her hands, thanking her for saying the ugly part out loud, and holding her through a brand-new, unnamed hunger without making her explain it.
+~ F4.2 DEEPENED: Vee just spent two full nights in his house, smelling like him head to foot, and let him unlock another piece of her; the truth is going to be devastating.
++ WAITING: To see what Pace does with the discovery that Vee lit up from that single swat—especially knowing what’s under his tabletop.
++ WAITING: To see how Randi reacts when she finds out Vee stayed all weekend, and whether Pace tells her about Sunday afternoon.

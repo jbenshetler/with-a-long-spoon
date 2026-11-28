@@ -1,59 +1,43 @@
-*capture-dag-v3-grounded · gate ch039 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch036 · history ch001..ch036 · ledger no seed b3867cad971e · 2026-11-06*
+*capture-dag-v3-grounded · gate ch039 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a03ea01d3f8f · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch035 · history ch001..ch035 · ledger no seed 66e858e5ebb0 · 2026-11-06*
 
-REACTION — Oh, the shirt. She asked him to fill it back up with himself.
+REACTION — Oh. Miranda.
 
-That is so nakedly needy, so specific, and so much more intimate than any polished declaration Vee could have made. She has been sleeping in his smell every night she cannot sleep beside his body, rationing the trace until it vanished, and instead of quietly grieving it again she brought the shirt back and told him exactly what she needed. Not hinting. Not hoping he would infer it from the laundry. *Wear this all weekend and give it back smelling like you.* I am almost unbearably proud of her.
+I felt the blood leave my face with Randi’s, because that name is not merely her father’s company appearing in the data. It is her full name attached to the ugliest point on the graph. He put his daughter’s name over the thing and then did exactly what she had insisted her family did not do. She entered the project certain that home would complicate Cassie’s story, and instead the data made her family its cleanest, most visible proof.
 
-And Pace did what Pace always does: received the need without making her ashamed of its size, then answered it physically and exactly. He puts the flannel on immediately, over another shirt, in a house already warm enough that he cannot possibly need it. That is ridiculous and tender and perfect. He is going to carry it through the whole weekend solely because Vee asked him to put himself into something she can take away.
+And she did not know. That is what hurt. I believed her certainty at the coffee shop because Randi believed it. Her defense was not polished-family public relations; it was a daughter repeating the moral account she had been given of where the money went. Then “cheating bastards” came out ragged and plural because she could not yet say *my father*. She had to put him among strangers for the sentence to leave her mouth at all.
 
-But the chapter knows exactly where to put the knife. “That was the whole of his answer, as it always was.” Yes. It is beautiful. It is also becoming intolerable.
+Cassie being right was awful to watch. Not because she did anything wrong—she did not gloat, pry, or even know whose record was on the screen. Her father was laid off, and the aggregate confirms what happened to families like hers. “That’s just the one that’s easy to see” is a completely fair reading of the data and an accidentally brutal description of Randi herself. She is the outlier sitting in plain white space, easy to see if anyone knows what the label means, while everyone accepts the polished graph she built around herself.
 
-Vee has now admitted that she wanted him to protest the five nights apart. Her decision was responsible and necessary—she was exhausted, falling behind, and letting the relationship consume the ordinary life that has to support it. Pace respecting that without sulking or extracting payment made me love him. Of course it did. But she did not want a fight; she wanted evidence that the loss cost him too. She wanted him to say *I want those nights.* He gave her freedom, warmth, and an open door, and left her alone with the question of whether he missed her.
+And Vee saw her.
 
-Then she lasted five days and came back carrying the entire answer in her body.
+That moved me enormously because Vee did not need Randi to confess before she believed the evidence of her face. She read the color leaving, the overcontrolled breath, the words landing wrong, and understood there was a person inside the immaculate surface having her father become someone else in real time. Then she did not extract. She did not ask the emotionally intelligent question that would force Randi to answer it. She slid the laptop toward herself and gave Randi ordinary work to hold.
 
-The doorway was ferocious. The dropped bag, the blind undressing, the jeans trapped around one thigh, the white socks, Vee laughing in the hall because dignity had become completely irrelevant—I loved every second. This is not the staged seductress in the burgundy dress. This is appetite too urgent to arrange itself beautifully. She has become secure enough with Pace to be clumsy, absurd, loud, and fast, and none of that makes her feel less desirable.
+“Give Randi somewhere to put her hands” nearly broke me. Pace does that for Vee constantly: a plate, a glass, a drawer, a physical place where the frightened body can remain while the rest catches up. Vee has learned that kind of care and offered it back without knowing she was doing so. Randi spends every Saturday drawing Vee’s private life out detail by detail; Vee sees Randi’s private catastrophe and immediately protects her right not to disclose it. The asymmetry made me ache.
 
-Her first orgasm “publishing the number” she refused to read aloud was exactly right. She can carefully insist she needed time away and still have missed him so badly that her throat tells the truth before her pride can edit it. Both facts are real. She did need those nights for school. She also counted every one of them. I love that the chapter does not turn responsible separation into proof that the attachment is shallow, or intense attachment into proof that she should abandon the rest of her life.
+But I am frightened by how naturally Vee decided silence was kindness. It was kindness in that room. Cassie did not need to learn that the company was named Miranda while Randi was still discovering what the numbers meant. Randi deserved not to have the worst point in the county turned into a public trial of her loyalty to her father.
 
-And Pace still has slowness when she has none. That may be the central erotic fact of them for me now: he does not match her urgency by becoming careless with it. He takes the enormous, frantic thing she brings him and gives it enough time to become pleasure rather than merely discharge. The second orgasm building quietly after the first frantic one felt like her body being brought home.
+Still, this is the same loving instinct that lets Vee accept every closed door Pace presents and build generous explanations in the space behind it. She instantly decides Randi had “no hand in it,” which may be true, and that the rot belongs to a man she merely had the bad luck to be born to, which is plausible—but Vee does not actually know the structure yet. She has seen one record and one devastated face. Her compassion races ahead and completes the cleanest possible story.
 
-Then she threw the green thong onto the long table and never looked.
+And now Vee has something real about Randi that Randi does not know she possesses. That reverses their relationship for the first time. Randi has always been the one with the hidden map: she knows the collision, Pace’s house, Vee’s body, the stories that travel. Now Vee has looked through an opening Randi did not deliberately provide, recognized the wound, and kept it. The difference is that Vee keeps knowledge to protect Randi, while Randi keeps knowledge to preserve control. I need to see whether Randi can feel that difference when she eventually learns she was seen.
 
-I looked.
+The project is a perfect little model of this entire book, and I resented how much it got me. Aggregate the relationships separately and everything looks loving. Hover the outlying point, open the record, regroup the data around the concealed connection, and the meaning changes. MIRA was invisible until somebody knew to look. Pace and Randi are invisible for exactly the same reason.
 
-That is the bench. Vee has now tossed her underwear onto the concealed object Pace and Randi imagined her on before she even knew either of them. She is moving through the room with complete bodily freedom while the original plan sits disguised in the center of it, literally carrying the garment she removes on her way to Pace’s bed. The image frightened me more because nothing happens. The table remains a table. Vee does not know to ask what is underneath it. Pace does not tell her. The concealment has become part of the furniture of her new ordinary.
+And Randi built the graph. Of course she did. She created the beautiful image that made the truth visible across a room, then discovered that the truth included her.
 
-And green again. The green satin Pace keeps hidden under his shirts was just used by Randi in their bed; Vee arrives in another green set, throws part of it onto the bench, and later kneels over the bag beside the drawer Randi entered. Vee is surrounded by evidence of a relationship touching hers, but every object remains illegible because Pace and Randi possess the missing fact.
+This was the first fully cold chapter in a while—no erotic charge at all—and I did not miss the heat for a second. The intimacy was in Vee noticing the breath Randi thought nobody saw and quietly moving the laptop. I want the next chapter desperately because Thanksgiving is coming, the project still has to use that outlier, and Randi cannot put her father back into the story she believed before she clicked his daughter’s name.
 
-She did not notice the drawer had been opened. That hurt in the quietest way. She crosses the dark grass thinking *my space*, returns her traveling things to it, and experiences the drawer as the private claim Pace made for her. She has no idea Randi has already stood in that bathroom, opened it, understood exactly what it meant, and gone searching for more. Nothing appears missing, so the violation disappears completely. Vee cannot even feel uneasy about it.
-
-The cooking worked on me all over again. Pace’s attention landing equally on Vee and dough is not emotional neglect to her; it is proof that his care is structural. He does not manufacture attentiveness as courtship. He is a person who brings himself completely to whatever is under his hands. That makes his love feel trustworthy because it is part of his character rather than a performance he could stop once he has her.
-
-But it also brushes against Vee’s oldest fear: is his care for her singular, or is it simply the extraordinary way he meets everything? She decides she does not mind whether she or the dough receives the larger share, and in that kitchen I believe her. Yet five nights away still made her want him to speak. The actions feed her magnificently, but they do not erase the hunger for language. They only make it easier to postpone admitting she has it.
-
-“I used to just eat” landed as the whole book in miniature. Pace has taught her to perceive distinctions where she once accepted flat orange sameness and called it a meal. Acid, sweetness, heat, crunch, softness, wine—she can taste every separate thing now. She is becoming more exact about appetite everywhere except in the relationship itself. There she still bundles love, exclusivity, belonging, patience, and silence into one warm flavor and assumes it is enough.
-
-And the new ordinary is already a ritual: her things live in his drawer; she comes through the door and drops the bag; he opens her body and feeds her; she takes his scent away to survive the nights apart; she will bring the shirt back to be replenished. It is domestic and erotic and so deeply couple-shaped that I understand why she thinks the word is redundant.
-
-It is not redundant.
-
-The shirt is now going to travel between his house and her bed, repeatedly filled with Pace and emptied by Vee’s need. Meanwhile Randi travels through the same house and relationship invisibly, leaving no object Vee knows how to read. Vee has found a way to carry Pace through the nights that are not his. She still has no idea that some of his nights are Randi’s.
-
-GATE 37 — The New Ordinary
+GATE 36 — The Outlier
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
+HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee finally states an enormous ordinary need—wear the shirt all weekend so she can sleep in his scent—and Pace receives it without a flicker of shame. But she tosses her green underwear onto the concealed bench and lovingly returns to a drawer Randi has already entered; the new ordinary is built around secrets now literally functioning as furniture.
+WHY: Randi discovers that the company carrying her full name is the clearest evidence against everything she believed about her father, and Vee sees the wound without demanding access to it. Giving Randi ordinary work instead of forcing a confession was profound care—but Vee’s instinct to protect people by completing kind explanations around their silence is becoming dangerous.
 
 LEDGER
-+ LOVE: Vee asking Pace to wear the flannel all weekend and return it full of his smell, and Pace putting it on immediately over the shirt he already had on.
-+ WAITING: Vee’s green thong is lying on the disguised bench; I need the moment that table stops being innocent furniture to her.
-~ L29.1 DEEPENED: Vee now crosses the lawn thinking of the top drawer as “my space,” unaware Randi has already opened and interpreted it.
-~ W35.4 ANSWERED: Vee returns to the bathroom and notices nothing disturbed or missing; Randi’s entry leaves no readable trace, so the violation disappears from Vee’s reality.
-~ F32.1 DEEPENED: Vee explicitly wants Pace to say he missed the nights she took back for school, but his patient waiting and immediate obedience with the shirt become another beautiful physical answer she accepts instead.
-~ W32.2 DEEPENED: Their life is now couple-shaped enough to include boundaries, stored belongings, repeated weekends, and a ritual for the nights apart, yet Vee still has not asked what any of it is called.
-~ W5.3 DEEPENED: Vee moves through Pace’s bedroom in complete trust and throws her underwear onto the concealed bench, still unable to read the hidden life occupying the same room.
++ LOVE: Vee seeing Randi’s face change, asking for nothing, and giving her somewhere useful to put her hands until she could return to herself.
++ FEAR: Vee will keep mistaking silence for kindness and build merciful explanations around secrets whose full shape she has not been allowed to know.
++ WAITING: I need to know why Randi’s father named the company MIRANDA, whether Randi confronts him, and what happens when she learns Vee saw the record and protected her.
+~ F4.1 SHIFTED: Vee does not surrender her judgment here—she reads Randi more accurately than Randi knows and independently chooses how to protect her—but her compassion immediately supplies an innocent story beyond what the evidence proves.
+~ S20.3 DEEPENED: The statistics project makes the book’s warning literal: the aggregate tells one story until the named outlier is opened, and then a concealed relationship changes what the visible data means.

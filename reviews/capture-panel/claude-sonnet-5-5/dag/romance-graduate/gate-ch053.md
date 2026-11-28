@@ -1,37 +1,27 @@
-*capture-dag-v3-grounded · gate ch053 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 939fbe005321 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) · history ch001..ch050 · ledger no seed afef1d3cbae5 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch053 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 156c8e3f33b2 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch049 · history ch001..ch049 · ledger no seed 9ff90468bbcb · 2026-11-06*
 
 REACTION
 
-This is the best chapter in a stretch, and the reason is the thing I've been itching for: Randi's own mother, the laundered robin's-egg-blue underwear set beside her plate. That story is the first thing Randi has said to Vee that's true and costs her. The color climbing her neck, the glass rim under the nail, "She knew my color." Vee asks "How did they tell you?" and it goes straight through the polish. It also shows me who taught her to hide everything. And Vee, watching her friend bleed, doesn't wonder why Randi told it.
+It's a friends-at-brunch bridge, and it's warm and funny. Kayla at the locked dining hall doors is a gift. But it's the third quiet chapter in a row, and I'm counting.
 
-Then the frame flips, and Randi pulls the whole weekend out of her again. Vee tells the porch, the coat opening, and "with his mouth" outside in January. Randi's foot is out of her shoe against Vee's ankle, and she says "This is so good" to nobody. I knew where it was going. The bathroom stall is explicit and hot. But the heat comes from Randi's face arriving behind Vee's eyes at the top, and Vee insists "that had been about Pace. Obviously." That "obviously" is the whole book.
+What I noticed is that Vee edits again, now for a third audience. For Cassie the doorstep became a laundry accident. For Kayla and Meg it's "I flashed him on his front porch," a good story with the real story sanded off. She never had to say a word about the drive, the mirror, or the cruiser. Meg's maple-bacon apology gets her a laugh and a "big apology" verdict, and Vee just takes it. Every friend now holds a different cut of that weekend, and only I have the whole thing. I like that tension, but I'm waiting for the first friend who won't take the cut.
 
-"It's a good thing you got relief" is a great jolt. The reader and Vee both go cold at once. It's also funny and a little brutal. Randi didn't need to hear anything. She read her. Randi is the one person who sees Vee entirely, and Vee has no idea what it means that she was seen.
+The dread is the new part. She tells them flatly: "Wednesday night. He's taking us all to dinner. Everybody. Randi." Pace and Randi at one table, with the salt-edge question hanging unspoken, is the collision I've been promised. Vee being proud of "he's handling it" is the sweetest, most ironic line in the chapter. He's handling it more than she knows.
 
-The flinch at the neck kiss is a small, sharp gift. "Ticklish" is a lie I can taste. Randi is a woman who can't take being kissed gently where she's raw. And Vee keeps skipping the salt-taste story and tells herself she'll tell it Thursday. She won't. Not telling Randi is Vee's first secret from her, and she doesn't see it as one.
+I'm tired of the price-card habit, though. She reads the right side again, then spends "without arithmetic." It's the book telling me she's grown. The scene holds no heat and no turn. Wednesday had better pay all this off.
 
-Dr. Marsh's gift lecture is on the nose. The hau wants to go home, and I get it, gifts aren't free. Fine. But this book trusts me enough that it doesn't need the thesis. Mild annoyance, plus the restaurant and outfit inventory slowed the start.
-
-Wednesday is in the last paragraph, and I want it badly.
-
-GATE 51 — Covering
+GATE 50 — Across
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "Dr. Marsh was tall, of no age Vee could have sworn to, and built like a marathon" (the professor sketch and the lecture spelling out the book's theme)
-WHY: The robin's-egg-blue underwear story finally cracks Randi in front of me, and Vee in the stall coming to Randi's face while swearing it's about Pace is the book's engine, hot and exact. "It's a good thing you got relief" is a great jolt, and I'm desperate for Wednesday.
+CAPTURE: 6
+NEXT: 9
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "The menu was a single heavy card. Vee knew what things cost here, and read the right side of hers anyway, out of old habit, and put it down" (a repeat of the price-reading beat)
+WHY: Kayla is funny and the dinner announcement sets up the collision I've been waiting for. But it's a third quiet chapter, and Vee's cleaned-up retelling is the same move I've watched twice already.
 
 LEDGER
-+ LOVE: Randi's laundered robin's-egg-blue underwear story, "They're your color," and the glass rim under her nail, the truest thing she's told Vee.
-+ LOVE: "Things were really heated. It's a good thing you got relief." Randi reading Vee through a floor.
-+ SUSPICION: Randi's "ticklish" flinch at the neck kiss is a cover; gentleness at that spot undoes her.
-+ FEAR: Vee is now keeping her first real secret from Randi, the salt taste, and thinks she'll tell it Thursday.
-+ GRUDGE: Dr. Marsh's hau lecture states the book's theme about gifts out loud.
-+ SUSPICION: Randi's mother's shaming is where her face and the hiding were learned.
-~ S47.3 DEEPENED: Vee skipped the taste story again, relieved the chairs went up before she reached it.
-~ F47.4 SHIFTED: Vee now plans to tell Randi Thursday, but the relief she felt at being stopped suggests she may not.
-~ W47.5 SHIFTED: The Tuesday dinner happened and the taste question still didn't get asked.
-~ F31.4 DEEPENED: Vee again pictured Randi's face at the peak and told herself it was about Pace.
-~ G49.3 FADED: This chapter finally moved, with a real dinner and a real crack.
++ WAITING: Wednesday's dinner with Pace, Randi, Cassie, Kayla and Meg at one table, and how Randi and Pace hold their faces.
++ SUSPICION: Pace is choosing the place and the guest list, "Bring Cassie," "Bring Theo," so he may be managing the evening around Randi.
+~ F9.1 DEEPENED: Kayla and Meg now get a third cut of the weekend, so every friend holds a different edit.
+~ G49.3 DEEPENED: Third quiet bridge chapter in a row, with the price-card habit again.
+~ W47.5 SHIFTED: Tuesday's one-on-one with Randi now leads into Wednesday's group dinner, and the taste question still hasn't been asked.

@@ -1,37 +1,41 @@
-*capture-dag-v3-grounded · gate ch050 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha bb2635a8b1b0 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch047 · history ch001..ch047 · ledger no seed af620d8f63e0 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch050 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha cf3b0e619e49 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch046 · history ch001..ch046 · ledger no seed 5d10f9fc72f9 · 2026-11-06*
 
 **REACTION**
 
-Oh, he's clever. He's not going to say the word. He's going to throw a party. She stood in his doorway in December and asked "out there, what are we?", and five weeks later he answers it at the sink with his back to her: *I want to meet your people.* It's "believe what I do" again, except this time the doing is exactly the thing she asked for, a door opening onto the world. I'm moved, and I'm also braced. "Words are cheap, and you still won't spend them" was her best line, and he just found a way to pay her without spending them. I can't decide yet whether that's growth or a very elegant dodge. Maybe both.
+Okay. The blanket.
 
-What got me was the roster. The first thing she hears is *Randi*, because of course it is, she'd been talking about her for ten minutes. She lights up and builds a dinner for three with real napkins. Then he says "Bring Cassie," and the dinner falls apart in her hands. That bit is great interiority. She runs every restaurant in town and can't find a table where nobody has to be a good sport. Then there's "She'd watched somebody be fine about it before. She wasn't going to look at when." I loved that she won't look. Is it Cassie at Randi's kind of place? Is it herself, reading the prices first at every brunch? The book left it alone, and I'm grateful.
+I caught it the second she went back down the hall to "spread the cream cashmere square and smooth over the foot of the bed." Chapter 44 is still fresh. *Randi's cashmere blanket, the one for the chill that took her after.* Pace folded it and put it back where it lives. And Vee lays it out like a sacrament, comes on it twice, soaks it through ("the softest thing in the house taking the ruin of her"), then pulls it up to her chin and tells herself it's how he gives gifts: "no card, no notes, no moment where you had to say thank you." She's built a whole theory of his love out of another woman's blanket, and he said nothing, again, the same way he said nothing about the scarf or the stilettos. I actually put my phone down for a second. It's the cruelest piece of dramatic irony since she thanked the universe for the staged collision, and the book never points at it. It trusts me to remember chapter 1, and I did.
 
-Then Meg's boots, and "the heel came up out of the right one." That's the attention that made me fall for him back in chapter 10, and he's turned it on her whole life instead of her body. "Tables have ends. Somebody ends up at one" is the best line he's had in a while. "Bring Theo," with no flicker at all, settled something in me too. After the Rusty Nail I didn't think this book would let a man be that un-jealous without it costing someone.
+The heat is the best in the book. It's slow and specific, and it's *hers*. The pointing got me. "I point. You pick" was the game they played on her in chapter 3, and now she lies on the bed pointing at her own wrist, her nipple, lower, and he goes exactly where the finger says. Then the finger stops being steady, it stops being a command, and they both know it. That's the whole arc of Vee in one gesture. The sex isn't coy about anything: the noise, the wet, him looking up her body mid-act. And her shame doesn't get magically fixed. It's "the cringe and the heat one arrival, indivisible," and he's *drinking* it. That's what I came to this series for.
 
-The cost is what I'm staring at. He hasn't seen Randi since she came down his hall with the green in her hand, and now he's volunteering to stand in a room with her, in public, in front of Vee and Cassie. Cassie watched Randi text right before he walked into the coffee shop. And Brooke told Randi two days ago that she has to choose. I can see the room: Randi in the middle of everyone, Cassie at the edge with her arms crossed, Pace finally out among people. It's every lie in the book under one roof, and he's the one who said "let me handle it." I can't tell whether he's thinking about Vee's question or about the picture of the three of them in his kitchen. I think he honestly doesn't know either.
+Then the taste. Her tongue goes to it before her mind does ("curious, unforbidden, hers"), and *then* her mother's voice slams the lid. "Ugh — gross." And his "Okay," the wipe, the way he leaves her mouth alone until she comes back for it. That's grown-up tenderness and I loved it. But the coda is where my stomach dropped, in a good way. She's doing what she always does, building the tidy explanation (he forgot to wipe, this once). But her tongue keeps going back over her lip, *looking* for it. She's tasting a woman and liking it, and the book has her narrate around it the way Randi narrates around everything. And her plan is to take this exact thing to Randi on Tuesday, because "Randi would know what to make of it." Oh, honey. Randi would know *exactly*.
 
-It cost a little too. It's a quiet bridge right after the hottest chapter in the book, and the Tuesday dinner where Vee carries "the strange small thing" to Randi is still sitting out there. The paragraph that starts "He had been listening. Not the polite kind…" explains what the boots had already told me. But it's short and it moves, and it ends on a hook I want.
+What it cost me: the pleasure-princess/slave bit is cute once and then gets milked through the whole chapter ("Bad slave," the gladiator). And the breakfast is the cooking paragraph again, the blood oranges, the mushrooms with "shoulders on it," and I started skimming until the toast burned. The burnt toast was great, though. So was "I got mushrooms." He's finally a man who's lost his words for something besides grief.
 
-1 a.m. text: *he's throwing her a party so he doesn't have to say I love you. and randi's invited. and cassie. I need a drink.*
+1 a.m. text: *she came on randi's blanket and thinks it's a love gift. and now she's going to tell randi she liked the taste. I can't breathe.*
 
-GATE 48 — Back
+GATE 47 — Missed a Spot
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 1
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "He had been listening. Not the polite kind, where a man keeps his face pointed at you while he rests." The boots had already said it, and the book said it again.
-WHY: It's a short, quiet chapter, but it turns the bond. He answers "out there" with an action that's exactly what she asked for, and it opens a room where Randi, Cassie and Pace all have to stand in the same light. I want the Tuesday dinner, and now I want that party too.
+ALMOST-STOPPED: "If anyone in this house was a pleasure slave, it was not her; she — and she gave a little shimmy on the thought, and her breasts went along with it, and she giggled — she was a pleasure princess." That's where the hallway monologue went from charming to a bit I was being asked to find adorable.
+WHY: It's the hottest chapter in the book with her shame still wired in, and the pointing game turned around into her hand. Then the taste, the "Okay," and a coda that walks her straight toward Randi's table carrying the one thing she can't name. The blanket under all of it is a knife I'll be holding until someone tells her whose it is.
 
 LEDGER
-+ FEAR: The party puts Pace, Randi and Cassie in one room in front of Vee's whole world, and the staged collision finally gets seen by someone who was there for it
-+ SUSPICION: "I want to meet your people" is partly a way back to Randi. He hasn't seen her in two months, and now he has a reason she can't refuse
-+ LOVE: "Tables have ends. Somebody ends up at one." He builds the party around Cassie so nobody has to be a good sport
-+ LOVE: "Bring Theo," without a flicker, and Vee feeling something settle in her, warm side down
-+ LOVE: "She'd watched somebody be fine about it before. She wasn't going to look at when."
-+ WAITING: The party, and which place he picks
-~ S39.4 SHIFTED: He's no longer keeping her inside. He's walking straight into Randi's world on purpose
-~ F32.4 SHIFTED: The silence is answering "out there" with a deed. Still no word, but the door is opening
-~ F44.5 DEEPENED: The three-in-the-kitchen picture is getting a public dress rehearsal, with Vee doing the inviting
-~ W47.3 DEEPENED: Tuesday dinner was skipped for now, and "the strange small thing" is still riding toward Randi's table
-~ G1.7 DEEPENED: "He had been listening… he'd kept it. All of it." It explains the boots I'd already felt
++ FEAR: The cream cashmere is Randi's blanket. Vee laid it out, ruined it, and believes it was his silent gift to her. When she finds out, it lands right on top of the pointing game.
++ SUSPICION: Her tongue going to the taste first, "curious, unforbidden," is her want for a woman waking up. She's going to hand it to Randi on Tuesday as "the strange small thing."
++ WAITING: Tuesday dinner after anthro, and what Randi's face does when Vee tells her about the taste.
++ LOVE: "Okay." The wipe, and him leaving her mouth for her until she came and took it back.
++ LOVE: "I got mushrooms," and the burnt toast. The exact man, unsequenced by her.
++ SUSPICION: "He must have forgotten to wipe." He's been quietly managing her squeamishness every time for months, another silent kindness she never saw.
++ GRUDGE: The pleasure-princess conceit gets run into the ground, and the breakfast is the long cooking stretch again.
+~ L3.1 DEEPENED: Vee does the pointing now, and he goes where she points, until her finger stops being a command.
+~ S16.6 DEEPENED: Randi's blanket, soaked through under Vee. The two women keep turning into each other, now in his bed.
+~ S46.7 DEEPENED: He knows whose blanket that is too, and he said nothing, again.
+~ F31.5 DEEPENED: "Randi would know what to make of it. Randi always did." Vee's trust is aimed at exactly the wrong person.
+~ L14.2 DEEPENED: "Missed a spot." The breast to the cheek again, but this time with only the scrunchie, and she's the one who withdraws.
+~ F46.1 DEEPENED: Still no word, and she's too full to want it. The "I l—" from the doorway is fading.
+~ W46.6 DEEPENED: Randi is still alone with Brooke's ultimatum, and Vee is coming to her Tuesday with this.
+~ G37.4 DEEPENED: Another soft-landing morning with a long recipe in the middle, even though the sex earned it.

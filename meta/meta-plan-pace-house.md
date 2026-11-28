@@ -188,7 +188,7 @@ upholstery deliberately unspecified. Distinct from the sun porch's own couch (be
 two couches, two rooms, two registers: the porch's is the quilt-and-herbal-tea confessional,
 the den's is where Randi is received. A **blanket** lives on the back of a nearby chair
 ({{Nothing Underneath}}, {{Four}}) — the den's answer to the porch quilt and the bedroom's
-cashmere, and what Pace reaches for when the post-sex chill takes Randi. A **framed mirror**
+cashmere, and what Pace reaches for when the post-sex chill takes Randi ({{Colors}}: staged at the foot of the bed for the wax night, so the cashmere stays clean). A **framed mirror**
 `[PAGE]` on the wall past the end of the couch ({{Four}}) — new 2026-10-05. It is *not* the
 {{Two Towels}} mirror, which is on the **sun porch** (where he holds the burgundy cloth up
 beside Vee's face and she sees the two of them together); these are two framed mirrors in
@@ -204,7 +204,9 @@ fabric out and sets up here to cut, sew, and fit for a project (distinct from
 the woodshop); **The fitting plays here.** On the page (`scenes/a-round.md`, the fitting; `scenes/peekaboo.md`, the pickup day):
 - A **long work / cutting table** (the burgundy gown was cut and built here).
 - A low **fitting pedestal** she stands on — the maker's fit-to-a-body, the same knack as
-  the bench and the dress.
+  the bench and the dress. Hardly a step high ({{Colors}}).
+- **Carpet** `[PAGE]`: cheap gray wall-to-wall with brown flecks, the ugliest thing in the
+  house by daylight ({{Colors}}).
 - A **full-length mirror**, newly hung on the wall for the {{Peekaboo}}; the pedestal set
   in front of it.
 - The finished gown hung from the **lip of the window frame** for the reveal.

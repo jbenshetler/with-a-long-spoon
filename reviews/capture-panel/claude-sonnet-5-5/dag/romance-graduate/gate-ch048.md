@@ -1,32 +1,39 @@
-*capture-dag-v3-grounded · gate ch048 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 341e22a2d5c4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch045 · history ch001..ch045 · ledger no seed 0dc05ebeec12 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch048 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 819e1bd10401 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch044 · history ch001..ch044 · ledger no seed cf474154db14 · 2026-11-06*
 
 REACTION
 
-Well. She did it, and the book gave me the full explicit payoff. I've been waiting for heat since the Chili's chapters, and this is a lot of it.
+Oh, Vee. She's wearing a breakup as a plan, and the plan is a coat with nothing under it and stilettos, handed over by the one person who knows exactly what that does to Pace. Randi is steering her back into his arms, and she's doing it warmly, and it's the best and worst thing she could do.
 
-The mirror scene is the best part. She picks the wrong bra by habit, then catches herself ("Pace is getting neither"). "Last thing, only thing" about the shoes is funny. Stopping herself on purpose and calling it powerful is exactly the interiority-plus-heat I came for. The coat soaked through the lining, and her deciding it means she's sure instead of ashamed, is a real change from the floozie voice.
+The counseling scene is Randi at her most lethal. "Cornered" is a good reframe. It's also a lie by omission, because Randi knows the silence is the Daphne vow, and she doesn't say so. She tells Vee the fear is a liar and that Pace is "half-starved for the one he's got." I believe that's true. I'm just furious who is saying it. "Name it or lose me" is the exact fight, and Randi turns it into his wound instead of Vee's.
 
-The car scene is hot and dumb in the right way. The siren and the missing purse are a bit sitcom, though. I'd have trusted the drive without the cruiser.
+The heat is the shoes. Vee's nipples tightening at the straps and her instantly explaining it away as tonight's nerves is the old pattern, her body running ahead of her story. And the plum polish she kept up for a man who didn't call, her thumb rubbing the toe while Randi talks about Gstaad. Lovely.
 
-The doorstep is the payoff. "Vee, I l—" and she cuts him off. Oh, that stung. He was about to say it, I think, and she doesn't let him, because she's carrying the gesture instead of the word. The very thing she's been fighting for, and she steamrolls it. I'm furious and I love it. Nobody hears the sentence, and the chapter ends with pancakes, "I'm sorry," and "no room in her for wanting anything he hadn't given." That's the dread. The wall comes down for a minute and she lets the body answer in place of the word, and Randi scripted all of it. The door-open, jeans-around-the-knees sex is graceless, which is right.
+Then the kiss. Vee starts it, with both hands on Randi's face, and stays. After the double goodbye kisses all those chapters, this one is hers, in full, and the switch to Randi's head is the payoff I wanted. "Four months of being the one who leaned in." The idiotic laugh, the hand on her own mouth, the cold mug. I've waited for Randi to be undone, and she is, and it's lovely.
 
-Grudges: the narration explains her feelings a lot again. And Randi's whole inner storm from last chapter is nowhere here. Brooke's ultimatum just sits. I'm also uneasy that he said sorry and nothing was settled. Cassie's "Hmm" is perfect.
+Brooke's "You need to choose" lands as a threat from outside. Randi's lie about Gstaad being "perfect except the bedroom" is the one true thing she's said this week, and Vee thanked her for it.
 
-GATE 46 — Nothing Underneath
+Grudges: the flight opening is a little long. And "That's how she sounds at home" is the book pointing at the accent again.
+
+GATE 45 — My Friend Randi
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
-HEAT: 3
+NEXT: 10
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "The cruiser swung out and went past her, fast, its lights shrinking up the road" (the siren gag felt like a sitcom beat)
-WHY: The mirror, the coat opening, and "Vee, I l—" cut off by her own gesture are the explicit heat and the ache together. But the word still went unsaid, and I want to see whether it comes back.
+ALMOST-STOPPED: "Vee had been crying on her shoulder ten minutes ago. She looked at Randi's mouth." (the book nudging me again, though it's small)
+WHY: Vee kissing Randi first, and Randi coming undone alone in the foyer, is the turn I've waited all book for. Randi sending her to Pace in a coat and stilettos, with Brooke's ultimatum right behind, has me desperate for tonight's doorstep.
 
 LEDGER
-+ FEAR: "Vee, I l—" was cut off, and the gesture buried the word again, so nothing is actually settled
-+ LOVE: The mirror scene, stopping herself on purpose and finding it powerful, and the "last thing, only thing" shoes joke
-+ LOVE: Pace on his knees with the pancakes, "I missed you so much," his voice cracking
-+ WAITING: Whether Pace gets to finish "I love you," and what Randi does with Brooke's ultimatum
-~ F45.1 DEEPENED: He opened the door and the coat did the talking; his silence swallowed nothing this time, because she never let him speak
-~ W45.5 ANSWERED: He took her in at once and cried, but the word is still unsaid
-~ F32.3 DEEPENED: She is again letting an act stand in for the word
-~ F11.1 FADED: that crack is long past, absorbed into the bigger triangle
++ FEAR: Vee turns up at Pace's door in a coat and nothing else, in Randi's shoes, and his silence swallows the gesture again without a word
++ LOVE: Vee's hands on Randi's face and the kiss that was hers alone, and Randi alone in the foyer with the back of her hand on her mouth
++ GRUDGE: Randi coached Vee through "cornered" and knew the real reason for his silence, and said nothing
++ SUSPICION: The black stiletto straps are Randi's own heat leaking, the same way the knee-and-thumb fitting was
++ WAITING: Tonight at Pace's door: what he does with a bare woman in a coat who still hasn't heard the word
++ WAITING: Randi's answer to Brooke's "you need to choose"
+~ S2.3 DEEPENED: Brooke has now said it outright, she's seen how Vee looks at Randi and the house won't stay quiet
+~ F2.1 DEEPENED: Brooke has put the ultimatum on the table, and I fear it
+~ W43.5 ANSWERED: Term hasn't started but the Vee-and-Randi reunion happened, and she told her about the fight
+~ F9.1 DEEPENED: Vee skipped Cassie's empty room and went straight to Randi's
+~ F42.3 DEEPENED: Randi kept the lie going, offering only the sandwich-eaten-fast version of Gstaad
+~ F6.3 DEEPENED: Randi's want is now loud, and Vee started the kiss
+~ F41.1 CONFIRMED: Vee did go to Randi, and Randi's turning the breakup into a reunion script

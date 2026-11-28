@@ -1,34 +1,28 @@
-*capture-dag-v3-grounded · gate ch067 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 95b08a13285f · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch064 · history ch001..ch064 · ledger no seed 6e3ec299e83b · 2026-11-14*
+*capture-dag-v3-grounded · gate ch067 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c10b93dddd9c · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch063 · history ch001..ch063 · ledger no seed 9144acd641b9 · 2026-11-06*
 
 REACTION
 
-Finally, Randi's head, and it's a whole chapter of it. I've wanted this for twenty-odd chapters, and the book gave it to me as a tribunal, which is a smart way to do it. She's the one on the wrong side of the table, in the chair she set out herself, and every skill she has is useless because the form is correct.
+A short one, and a quiet one, and I'll say right away that I think it works. It picks up exactly where 63 stopped, in the doorway, and spends all of its length on the one question I wanted asked.
 
-The opening half is Vee, and it's good. The lime Lifesaver is a nice little reversal: Randi feeds her instead of being fed. The hug with Randi's head on her chest is lovely. Then Vee rehearses the "it was only a joke" line and calls her own wanting a "sex brain" threat to the friendship, and I want to shake her. "A girl needs a spanking!" going off in her like a bell, with Randi leaving with that gleam, is dramatic irony at full volume. Vee doesn't know where Randi is walking.
+Cassie finally asks it straight: "Is this what you want?" Not "what happened" or "what is she to you." She asks about wanting, so Vee can't hide behind any account of events. I liked watching Vee go looking for the answer and find a shape she can't make out. Then she grabs the oldest plank she has and says "You don't like her." Cassie steps over it without looking down. That's a real beat. Cassie isn't playing the old fight anymore, and Vee knows it. Vee running out of words is also new, because she never runs out.
 
-Then the Standards room, and I'm hooked. Kinsey's lie about the hand in the bra, which Randi lets stand because the truth would cost her the wanting, is the best beat. "The wanting was the real crime. Just not the one they would name." Yes. And the Pace memory, the man nothing stuck to, and her admitting she took the night fast and missed the slow part, is a quiet knife. The mixer confession finally tells me she meant to tell Vee, and flinched. "I almost believed it. She had believed every second of it." That's the payoff of my grudge about the cover, and it lands.
+The Cocoa Pebbles are the best thing in it. "Do you want some of my Cocoa Pebbles?" is Cassie giving her the one question small enough to answer. It's tender, it's funny, and it's also Cassie letting her off the hook the way she did with the skirt. I love her. I'm also getting worried that Cassie knows more than she'll say, and that someday she'll stop stepping over the plank.
 
-The ultimatum answered "No. Thank you. But no" is the choice I've been waiting on, and it's made. She loses only Thursdays, she tells herself. I don't buy that it's the whole bill. Brooke's unreadable look worries me.
+Complaints are small. The first paragraphs fuss with whether Cassie saw the hug, and that's a bit of throat-clearing. The "no floor" image has been used a lot by now. And this is the second chapter in a row that stays inside Vee's can't-name-it loop. But it's short, so it didn't wear on me. I'm not leaving. I want Saturday brunch, and I want Randi's head. She's been off the page for a long time and she's the one who has to move next.
 
-Complaints: the procedural detail runs long and the "machine" narration explains itself. Randi still frames everything as hiding. But it moves.
-
-GATE 65 — Inversion
+GATE 64 — Some of Mine
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "The pace was deliberate, the one speed a thing like this ever moved — a machine, a system, something older and bigger than Randi" (the procedure narrating its own meaning)
-WHY: Randi's own head at last, losing every skill to a correct form, and her admitting she meant to tell Vee at the mixer and flinched is what I've waited for. Choosing Vee over the house, and Brooke's unreadable look, have me wanting the next one.
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "She didn't know what Cassie had seen. That was the whole trouble of it." (the opening worry about what Cassie witnessed, circling before the question lands)
+WHY: Cassie's "Is this what you want?" and the Cocoa Pebbles are a small, exact scene, and Vee running out of words is a real crack. It's brief and heat-free, and I need Saturday brunch or Randi's own head to move things.
 
 LEDGER
-+ LOVE: Randi letting Kinsey's lie about the bra stand because the truth would expose the wanting, "The wanting was the real crime."
-+ LOVE: Randi admitting she meant to tell Vee at the mixer and lost her nerve, "She had believed every second of it."
-+ FEAR: Randi thinks she only loses Thursdays, but Brooke's unreadable look means the house isn't done.
-+ SUSPICION: Vee's "girl needs a spanking" laugh and Randi's private gleam suggest Randi will carry this into the Saturday brunch.
-+ WAITING: Saturday brunch, with Randi now having chosen Vee and Vee still unable to name it.
-~ W61.5 ANSWERED: Randi's head after the kiss finally arrived, and she wanted it as much as Vee did.
-~ F61.4 CONFIRMED: Brooke's ultimatum landed on the kiss, and Randi refused.
-~ W45.6 ANSWERED: Randi answered Brooke's "you need to choose" with "No."
-~ F2.1 CONFIRMED: Brooke found out about the guest, the nights and Pace, and put them on the record.
-~ S61.3 DEEPENED: Randi picked the mixer to tell Vee, so the staging was hers and her nerve failed.
++ LOVE: Cassie's "Do you want some of my Cocoa Pebbles?", handing Vee the one question small enough to answer.
++ LOVE: Cassie stepping over the old "you don't like her" plank without looking down.
++ FEAR: Cassie knows more than she says, and one day she'll stop letting Vee off the hook.
+~ W63.5 ANSWERED: Vee couldn't answer Cassie's plain question, and Cassie let it go.
+~ S49.2 DEEPENED: Cassie's silence and her "Is this what you want?" show she sees where this is heading.
+~ F9.1 DEEPENED: Vee deflected Cassie by attacking her and then accepted cereal in place of an answer.

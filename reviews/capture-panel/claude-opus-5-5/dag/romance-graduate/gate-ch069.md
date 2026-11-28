@@ -1,48 +1,50 @@
-*capture-dag-v3-grounded · gate ch069 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9ef4c202a790 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch066 · history ch001..ch066 · ledger no seed ea7829dca464 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch069 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 1da08e6ee6d5 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch064 · history ch001..ch064 · ledger no seed 30e433bef3fa · 2026-11-06*
 
 **REACTION**
 
-He gave her a key. He made the box with his hands, put it on a pillow of oyster silk, and said "You're more than a guest in my house. I've never given a key to anyone." I melted, I admit it. Then I noticed I was doing the thing I always do with this man, which is reading the sentence twice. *House.* Vee caught it too. She waited half a beat for *home*, didn't get it, and let it go "the way she was learning to let it go." She's good at that now, and it scares me. "I've never given a key to anyone" is one more exact true sentence from him. Randi never had a key, so it's probably true. And the silk: "she had the odd passing sense she had felt that silk against her skin somewhere before." Excuse me? The book doesn't drop a line like that by accident. My first thought was Randi. Something of hers, something Vee wore, sitting under the key. The hau, again.
+She told her. She told her *everything*.
 
-The mirror. He asks what she sees. She gives herself one line and spends the rest on him, down to the birthmark, and "something crossed his face." I don't know what that shadow was, and I want to.
+Chapter 60 ended with "She would not be telling her about this." I wrote it down as the first secret Vee ever kept from Randi on purpose, and I've been carrying it like a stone. One mimosa, one funny story about feet pics, and she hands over the whole painting. The walnut, the cantaloupe, the gesso, and then the phone. I was furious with her for about a paragraph. Then I got it. Her reason is that hiding the photo would *mean* something, so she shows it to prove nothing has changed. The only way she can prove she isn't in love with Randi is to act like she isn't, so she pushes her most private thing across the table. It's the worst logic in the book, completely believable, and so Vee. "That was the sex-pervert reason. A friend would just hand it over." Oh, honey.
 
-The blazon is gorgeous in places and too long overall. I loved "wine held up to a lamp" for the hair, the unadmired little toe, and the morning walk to the bathroom "not performing one second of it." That last one tilted the floor under her, and under me. Then came the anatomy lecture. "This is your pussy." "A peach with a bite out of it." It's explicit and it isn't coy, and her shame runs through every inch, so it's what I came for. But it's also a man narrating a woman's body to her like a docent, and by the inner lips I wanted him to stop talking and do something. Then he did the thing that saved it, the speech: "A beautiful body is just a fact… It's whose this one is." The gusto, the tenderness, the nerve. And "the flannel over her eyes had gone damp." That's the closest he has ever come to the word. It still isn't the word, and I believed every bit of it anyway.
+The outfit opening wrecked me in a quiet way. Black pants "sober as a church pew," a charcoal crewneck to the collarbone, pearls, cuffs buttoned, the coat done up to the collar. She dressed like she was meeting someone's parents, armored against her best friend. Randi reads it in one second: "Aren't you serious." Then: "You look like you're about to inherit something." The armor does nothing. Randi's foot is at her crotch in sheer nylon inside ten minutes.
 
-"Go ahead." Oh, that was hot. The empty space where his hands should be, her searching left and right blind "for a savior," and then her hand going on its own and fluttering "not knowing where to land." Finding out that you can't spank yourself any more than you can tickle yourself. One hand rough at her breast, "what she was when no one watched." Hearing his breath and building him a body in the dark. Then "What are you thinking about?" "You, you, you." It reads as true tonight. The book says the answer was the only thing in the room, and I'll give her that.
+And Randi is *terrifying* in this chapter, in the best way. "I did… I wasn't going to let you skip the pleasure over a moment of pain." So leaving out the back half was on purpose. I'd suspected it, and she admits it smiling. "Your pussy," said *helpfully*, made me cackle. "Into me." Randi's breath going out soft. "Was it a soft brush?" That's the brunch draw-out again, but now with Randi's toes in Vee's hands, and Vee's thumb stroking them without knowing since when. It's as hot as anything on the page, and nobody touches anybody above the table. Her thumbnail goes white in the pad of her finger at "Oops." The old tell is back, and Vee doesn't see it.
 
-Then, in the afterglow: "Would you tell me, when you touch yourself thinking of me?" "Yes," said "the way you say yes to something small," with her hand already on him. Honey. You touched yourself in a locked ladies' room off Prices Fork three weeks ago and it was Randi's mouth. You held your hand flat on your stomach for a whole night so Randi's name couldn't arrive. And now you've promised to report. That's chapter 6's "tell" made permanent. It's a standing contract, wrapped in "it makes me feel close to you." Either she lies to him every time it's Randi, or she tells him, and either way he finds out exactly who she thinks about. I don't think he asked by accident. I think he wants to know.
+Then the line that scares me most: "If it doesn't mean no anymore, beautiful, maybe you should tell him." She's coaching Vee to ask Pace for the taste. The taste is the thing Randi does off his mouth. Randi is laying the road to the three of them, and it sounds exactly like friendly advice.
 
-He also sucked her fingers clean. He took the taste himself, again, and still not into her mouth. The reach is still open.
+The bathroom. Yes, it's the chapter 51 stall again, the restaurant restroom climax, and I felt the template. But this time the cover is gone. There's no "about Pace, obviously." The reach that couldn't close in chapter 54 gets closed by *Randi's* mouth coming up from between her thighs, lipstick gone soft, not wiping anything. Then "what would Randi taste like" and her knees go. The book took four chapters to get the reach there, and it got there in a locked ladies' room off Prices Fork. Afterward she's washing her hands twice and pressing her hair flat with wet palms, and "She very nearly looked like a girl who had gone to the ladies' room." Perfect.
 
-What it cost: it's a cabin-getaway chapter, the softest landing yet. There's tikka masala with the full spice list recited ("garam masala, which was its own little crowd"), cider pairing, pastries, a lake with no rain. He's a carpenter, cook and poet in one weekend, and even the cabin "looked like something he might have made." That's the merit-badge man at full strength. Eight more days skipped. Randi isn't so much as a thought, there's nothing about her "sorority thing" or the bad girl or "starting now," and the neck injury is just gone. I'm in a bubble, and I can feel the book keeping the bubble sealed on purpose.
+Then she comes back to Randi bent over *her phone*, left alone with it for however long that took, with the screen lit under her chin. Randi turns it off with her thumb and slides it back. Glassy eyes, no smile. Vee reads it as disappointment, as if she'd done something a friend doesn't do. I read it as a woman in love looking at a picture of the girl she loves spread open for someone else's brush, while that girl was down the hall coming on her own fingers. The book doesn't tell me which, and that's right. But I also want to know what Randi's thumb did on that phone while Vee was gone. She had both hands on it. I don't trust that side-button press at all.
 
-1 a.m. text: *he gave her a KEY in a box he MADE. then blindfolded her, described her whole body, said "go ahead" and made her touch herself while he watched. she screamed "you you you." then he asks "will you tell me every time you touch yourself thinking of me" and she says yes without thinking. SHE THINKS OF RANDI. oh no.*
+The goodbye is the refusal from Tuesday again. Then "Let me say goodbye right," both hands, the whole kiss from the beginning, and Vee's fists closing on Randi's coat. Randi's breath isn't steady, and Vee decides it's *worry*. And "You have a boyfriend," to a fogged windshield. "Starting now." I believe her as much as she does.
 
-GATE 67 — Grace
+What it cost: the painting gets retold beat for beat, and I read chapter 60 a week ago in book time. I know it's how we watch Randi receive it, the same way the coat lining worked, but I skimmed the cantaloupe again. The bathroom climax repeats chapter 51's structure. "The only thing at this table that had changed was Vee" over-explains her rationalizing a little. None of it got me close to quitting.
+
+1 a.m. text: *she swore she'd never tell randi about the painting. she told her AND SHOWED HER THE PHOTO. randi's foot was in her crotch. randi said "if it doesn't mean no anymore, tell him." then vee came in the bathroom imagining RANDI's mouth wet with her. and randi was alone with the phone the whole time. what did she DO with it.*
+
+GATE 65 — Gesso
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 7
+CAPTURE: 9
+NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "garam masala, which was its own little crowd, cinnamon and cardamom and clove, cumin, coriander, black pepper; and turmeric over that" — the recipe recited again, on a porch, in a chapter already this soft.
-WHY: "Go ahead" and "you, you, you" are explicit, shame-wired and hers, and the "whose this one is" speech plus a key in a handmade box turned the bond. But it's a sealed-off getaway with a long blazon and no Randi, and the hook I want is the one he buried in the afterglow, the promise to tell.
+ALMOST-STOPPED: "And then cashew, and parsley again, and cantaloupe." That's the painting retold course by course, a chapter I'd already read once, and I was skimming toward Randi's face.
+WHY: The secret Vee swore to keep goes across the table in one mimosa, with the photo too. Then the reach finally closes, in fantasy, on Randi's mouth. Randi's glassy eyes over the phone and her "tell him" advice have me scared and turning the page. The retelling and the second restaurant-bathroom climax cost a little, but this is both things at full volume.
 
 LEDGER
-+ FEAR: "Would you tell me, when you touch yourself thinking of me?" She said yes without listening. Now every time it's Randi, she has to lie to him or confess, and he'll know which
-+ SUSPICION: The oyster silk under the key, which she "had felt against her skin somewhere before." It's something of Randi's
-+ SUSPICION: "I've never given a key to anyone" and "my house," not "home." Another exact true sentence. And something crossed his face at the mirror that I can't read
-+ LOVE: "Go ahead," his hands not coming, her blind hand fluttering for somewhere to land, and "you, you, you"
-+ LOVE: "It's whose this one is," and the flannel over her eyes going damp
-+ LOVE: The key in a box he made, already warm from his hands
-+ GRUDGE: The cabin getaway is the softest landing yet, with the tikka recipe recited, a cabin that "looked like something he might have made," and a blazon that runs past its peak into a docent's lecture
-+ GRUDGE: Eight more days skipped. No Randi, no sorority thing, no "starting now," and the neck injury just vanished
-~ L6.1 DEEPENED: "Tell me" is now a standing contract about her own hand, signed in the afterglow
-~ W44.6 DEEPENED: "Whose this one is" is the nearest he's come to the word, and it still isn't the word
-~ F46.1 DEEPENED: "She was good, now, at letting it go." She waited for "home," it didn't come, and she let it go
-~ W54.1 DEEPENED: He sucked her fingers clean himself. The taste went to him, still not to her mouth
-~ G13.7 DEEPENED: Cook, carpenter and poet in one weekend
-~ G37.4 DEEPENED: Fourth soft-landing weekend, the warmest and most sealed off yet
-~ L10.1 DEEPENED: "Girls like that" came back mid-adoration, and neither the shame nor the being treasured won
-~ L23.6 DEEPENED: His flannel, cut into a blindfold, is the last thing between her and the light
-~ F66.6 SHIFTED: The want he wouldn't let her spend got spent here, on him, and she says it was him
-~ G66.4 DEEPENED: Another week gone off the page
++ FEAR: "If it doesn't mean no anymore, maybe you should tell him." Randi is steering Vee to ask Pace for the taste, and that road ends at the bench with three people on it
++ SUSPICION: Randi was alone with the unlocked phone and the photo for the whole bathroom trip. She sent it to herself, or to him
++ SUSPICION: The pre-med feet story is invented, built so her own foot under the table would read as a joke
++ LOVE: "Your pussy," Randi said helpfully. And "Feet pics."
++ LOVE: Pants sober as a church pew, pearls, cuffs buttoned, coat done to the collar. Vee armoring herself against her best friend, and it does nothing
++ LOVE: Randi's eyes over the phone, dark and glassy at the rims, no smile, and the smile coming up a moment behind
++ GRUDGE: The painting retold course by course, plus a second restaurant-bathroom climax on the chapter 51 template
++ WAITING: Whether Vee ever asks Pace to stop wiping his mouth, and whose idea she'll think it was
+~ F60.4 DISPROVED: She told Randi the whole painting and handed her the photo within an hour
+~ S59.1 CONFIRMED: "I knew how much you'd love it." She left the back half out on purpose
+~ W54.1 SHIFTED: The reach closed at last, in fantasy, on Randi's mouth, not his
+~ F1.3 DEEPENED: The thumbnail pressed white into her finger at "Oops," and Vee never saw it
+~ L20.1 DEEPENED: Randi's nyloned foot at the front of Vee's pants, and Vee's thumb stroking the toes without knowing since when
+~ F42.3 DEEPENED: Vee reads Randi's glassy eyes as disappointment in her. It's love, and she's looking right at it
+~ L63.1 DEEPENED: She refused the open kiss again, then went soft and grabbed Randi's coat when Randi started over "right"
+~ F51.3 DEEPENED: The private photo spent minutes alone in Randi's two hands. The hau is in her pocket now

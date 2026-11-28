@@ -1,32 +1,30 @@
-*capture-dag-v3-grounded · gate ch043 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch040 · ledger no seed 15c128a453f7 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch043 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d6bbb290a65b · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch039 · history ch001..ch039 · ledger no seed ba3022b76744 · 2026-11-06*
 
 REACTION
 
-Finally. She asks it out loud, in his doorway, with her coat buttoned and her hands in her pockets, and I wanted to cheer. The withheld kiss is the best beat in the chapter. She makes him arrive at the fact of it, and the book lets me watch him not understand. After five chapters of the ache circling, this is the first time she acts on it.
+This is a two-page chapter, so it's my first real test of whether short is a technique or a shortcut. I think it's a technique, and it lands.
 
-"Words are cheap. Believe what I do." is the line I knew was coming, and it still landed like a slap. It's the blurb's own sentence, spoken by a man who is not cruel and is therefore worse. "Do any of your friends have a relationship you'd rather have than this one?" is a masterpiece of a dodge. It's true, so she can't even win the point. And then her answer, "Words are cheap, and you still won't spend them on me," is her best line yet.
+It's one woman awake in a top bunk with a phone she can't use, and it hurts. The empty text field is the best image. She can't ask because no text message can hold the question, and she knows any answer would be small and warm and leave her exactly where she is. That's the whole book's ache, and it's finally gone physical.
 
-He folds his arms and holds the line "at cost." That's the detail I'll keep. He knows what he's refusing her. This is choice, not blindness, and I'm angry at him in a way I like. Then the hand reaching for her, "not the hand in place of the word," is the book finally refusing to let touch substitute. She leaves. I'm cheering and also heartbroken.
+The shirt beat is the turn. She takes it off. The shirt has been her proof for chapters, and she finally sees the heat in it is her own, "given back," and he's across town sleeping easy. Dropping it in a heap instead of setting it on the pillow is a real break, and the cold being worse but better than the lie is exact.
 
-I did notice something. "You're the most important person in my life" is a real answer, and she brushes past it fast. I wondered if she's being unfair, then decided no, because it's a thing and not a name.
+It does a lot of its own explaining. "He wasn't in it" and the big name/small name line are the third or fourth restatement of the same ache, and I'm tired of it. Zero heat too, apart from the bare skin in the cold, and no Randi, no scar, no plot. It's the third quiet-ish chapter in a row.
 
-Still no Randi, still the plot hasn't turned, but this is a scene, with a door slamming. The speech is long and a little self-explaining, though in dialogue it earns it. The beat I want next is where she drives to, and my bet is Randi, which is the worst possible answer.
+But the shift matters. She stopped reading the silence kindly, at least for one night. The earlier "forgiven" has failed, and I want to see what she does in daylight.
 
-GATE 41 — Believe Me
+GATE 40 — Bare
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
+CAPTURE: 7
+NEXT: 8
 HEAT: 1
-ROMANCE: 3
-ALMOST-STOPPED: "I want to know what we are." (the long speech laying out everything the book has already shown me)
-WHY: The withheld kiss, "Believe what I do," and her walking out are the confrontation the whole stretch has been building toward. It's finally a scene instead of an ache, and I need to know who she turns to.
+ROMANCE: 2
+ALMOST-STOPPED: "She had everything he did and not the one thing he wouldn't say, and there was no name in her for it, not the big one and not the small one" (the same ache, restated again)
+WHY: Taking off the shirt and seeing the warmth was her own is a real turn in a very short chapter, and the empty text field is perfect. But it's the same ache for the fourth time, and I need the plot to move.
 
 LEDGER
-~ W40.2 ANSWERED: In daylight she asked him straight, in his doorway, and he gave her "believe what I do."
-~ F38.1 CONFIRMED: He heard the question, took it seriously, and chose the dodge, holding the line at cost.
-~ W32.6 RESOLVED: She asked outright and he still wouldn't say the word.
-+ FEAR: She drives to Randi next, and Randi turns the breakup into the thing that finally pulls her fully in.
-+ LOVE: The withheld hello kiss, and him not understanding why.
-+ LOVE: "Words are cheap, and you still won't spend them on me."
-+ SUSPICION: His silence is a deliberate vow tied to the Randi plan or to his past, not just temperament.
-+ WAITING: Where Vee goes tonight, and whether Pace tells Randi or goes after her.
+~ F32.3 SHIFTED: Her kind reading of his silence finally failed, since the shirt no longer proves anything.
+~ W38.4 DEEPENED: The pile of repairs is overflowing now, and she lies awake with it.
+~ W32.6 DEEPENED: The word is still unsaid, and she can't even form the question to text.
+~ G39.2 DEEPENED: The "no name" ache is restated yet again, now in a two-page chapter.
++ LOVE: The empty text field, and the shirt dropped in a heap on the bunk instead of set back on the pillow.
++ WAITING: What Vee does in daylight now that the shirt has stopped working, and whether she finally asks him straight.

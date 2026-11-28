@@ -1,42 +1,36 @@
-*capture-dag-v3-grounded · gate ch043 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch040 · ledger no seed 7d8d7712927f · 2026-11-06*
+*capture-dag-v3-grounded · gate ch043 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d6bbb290a65b · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch039 · history ch001..ch039 · ledger no seed 65d909c2e876 · 2026-11-06*
 
 REACTION:
 
-THE BLURB. THE JACKET COPY WORD FOR WORD.
+Oh, god. My throat is entirely closed up.
 
-*"When she asks what she is to him out in the world, he tells her to believe what he does, and says nothing more."*
+Two pages. That was barely two pages, and it felt like someone reached into my chest, took hold of my heart, and just squeezed until there was nothing left to beat.
 
-I am sitting here with my knuckles pressed against my teeth, trying not to scream.
+This is the exact, agonizing flip side of chapter 37. In 37, the flannel was a holy relic—she gave it to him to wear so she could breathe him in all week, a talisman of total emotional sanctuary. And here, in the dead of winter, up on that terrible dorm bunk while Cassie breathes below her, the magic completely curdles. Because an object can’t love you back. A scent can’t name you. A man who gives you his warmth, his cooking, his hands, and his silence is still leaving you freezing in the dark.
 
-*"Words are cheap, and you still won't spend them on me."*
+The physical choreography of her despair in this chapter was so quiet and so devastatingly sharp:
+First, wearing it over her own shirt as a disguise for Cassie—trying to hide how pathetic and obsessed she feels.
+Then stripping them both off to put his flannel right against her bare skin, desperate for the hit, desperate to feel him close.
+And then the absolute, crushing horror of that realization: *“the heat in the shirt was her own, given back. He wasn't in it. He was across town in his own bed, gone down easy as he always went... and she was here holding a smell in the dark.”*
 
-WHAT A LINE. Oh, god, what an absolute, devastating, magnificent line! That hit him right between the eyes. You could see the exact second the air left his chest. Vivienne Thorne did not flinch. She left her overnight bag in the car, kept her winter coat buttoned to the throat, stood on the welcome mat, and refused to let his warm house, his simmering spiced chicken, his poured wine, or his incredible, reverent hands seduce her into compliance.
+THAT SENTENCE. Rivers, why would you do that to me?! That hit like a physical punch. It is the most lonely, hollow ache in the world—realizing that all the warmth you’re wrapping yourself in is just your own fever reflecting off empty cotton.
 
-The tragedy of this entire confrontation is that *both* of them are telling their absolute, unvarnished truth, and their truths cannot occupy the same room.
+And then peeling the shirt off and choosing the freezing air instead. Letting his shirt lie there dropped like trash. Choosing the bare, shivering cold because at least the cold doesn't lie to her! At least the cold doesn't pretend to be an embrace.
 
-Pace giving her the best he has: *"You're the most important person in my life."* And asking if any of her friends have a relationship she’d rather have. It’s so mathematically rational, so profoundly male, and so heartbreakingly tone-deaf to what a woman actually needs to survive in the world! To Pace, a name is a cage, a cheap label people slap on mediocre, unexamined couplings. But to Vee—a girl raised on Ohio casseroles, a mother terrified of floozies, and a small town that demands to know what category you belong to—the lack of a name reduces the most transcendent intimacy of her life to: *"he feeds me and we have a lot of sex."* God, that cut so deep.
+The blurb has come completely home: *“only every breath of him now and the silence at the center where the word should be.”*
 
-And then the ending. The sheer discipline of her walking out! When his arms folded, that stubborn, defensive wall going up—and then dropping the second he saw her tears, reaching out with those big carpenter's hands to soothe her... and Vee refusing to take the hand in place of the word.
+She is starving. He fed her body, he woke up her senses, but he is starving her heart. And the terrifying thing is—she has Saturday morning brunch with Randi coming up. She is going to walk into that velvet booth, raw, sleepless, frozen, and hollowed out by Pace’s silence. And Randi is going to sit there with her blue toenails and her honeyed mouth and offer to give it a name. I am terrified.
 
-She walked out into the freezing night. She left him standing there in a house he overheated just for her, with chicken on the stove and two glasses of wine poured.
-
-And tomorrow is Saturday.
-
-Tomorrow morning is brunch. She is driving back to the dorm tonight with no flannel, no boy, no label, and an open, bleeding wound in her chest. She is walking straight into Randi’s booth. I am holding my breath. Turn the page!
-
-GATE 41 — Believe Me
+GATE 40 — Bare
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The emotional confrontation was an absolute, devastating masterclass in dramatic payoff—Vee refusing to let Pace's physical tenderness substitute for a commitment and walking out into the cold was a breathtaking act of self-respect.
+WHY: Barely two pages, and it packed a devastating emotional wallop—Vee stripping off Pace's flannel because its warmth was only her own body heat reflecting back at her was absolute literary heartbreak.
 
 LEDGER
-+ LOVE: Vee's devastating comeback: "Words are cheap, and you still won't spend them on me."
-+ FEAR: Vee walking out on Pace on Friday night means she is going to arrive at Saturday brunch completely emotionally shattered, walking straight into Randi's waiting trap.
-~ [F38.1] CONFIRMED: Pace's refusal to give their relationship a name or speak the word "love" finally broke Vee, driving her to confront him and walk out into the cold.
-~ [F39.1] DEEPENED: Vee officially walked out on Pace over having no name for what they are, setting up Saturday brunch with Randi to be an absolute emotional detonation.
-~ [W39.3] ANSWERED: Vee demanded to know what they are and explicitly laid out the fear of being reduced to "just sex" and good food with the door shut.
-~ [L1.2] SHIFTED: Pace's patience hit its absolute limit—folding his arms and refusing to spend words on her when his physical devotion wasn't enough to satisfy her need for a label.
++ FEAR: Vee's despair over Pace's silence is going to make her completely collapse into Randi's arms at Saturday brunch, giving Randi the opening to take total emotional possession of her.
+~ F38.1 DEEPENED: Vee being unable to find comfort in Pace's flannel anymore proves his silence has turned his physical devotion into an agonizing, hollow ache.
+~ F39.1 DEEPENED: Sleepless and freezing with no name for what she is to Pace, Vee has nowhere left to take this gaping wound except straight to Randi.

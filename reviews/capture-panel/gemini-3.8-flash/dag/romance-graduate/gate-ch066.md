@@ -1,38 +1,40 @@
-*capture-dag-v3-grounded · gate ch066 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c10b93dddd9c · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch063 · history ch001..ch063 · ledger no seed 3fe5dbd6925d · 2026-11-06*
+*capture-dag-v3-grounded · gate ch066 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d7854b848dce · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch062 · history ch001..ch062 · ledger no seed 08536cd47f49 · 2026-11-06*
 
 REACTION
 
-I am sitting here with tears in my eyes and an absolute, hollow ache in my chest.
+*Cassie was standing right there.* Cassie saw them outside the dorm. My stomach just dropped straight through the floor.
 
-*Two pages.* Not even two full pages, and Helen Rivers just delivered one of the most quietly devastating, psychologically masterclass moments in this entire book. This right here is why I read. This is why all the mindless, trope-stuffed KU fluff in the world can never satisfy me when writing like this exists.
+I’ve been dreading Cassie catching on since November, but having it land *right now*—when Vee’s own internal architecture is already cracking in half—is an absolute psychological nightmare. Because Cassie isn’t Kayla or Meg; Cassie doesn’t buy the giggly, brushed-off college girl performance. Cassie saw Randi’s mouth on the hollow of Vee’s neck. Cassie saw Vee flinch and jump like she’d been struck by lightning. And the fact that Cassie’s voice carried *disbelief and worry* instead of her usual dry sarcasm? That tells you the visual was so blatantly intimate, so far past the line of normal friendship, that even Cassie couldn’t pretend it was just girls being girls.
 
-Cassie didn't ask "Did she kiss you?" Cassie didn't ask "Are you cheating on Pace?"
+And god, the sheer, suffocating interiority of this chapter. The way Helen Rivers writes the slow-motion car crash of a woman trying and failing to outrun her own desire is just breathtaking.
 
-*"Is this what you want?"*
+That opening paragraph—Sunday running into this manic, unfillable physical hunger with Pace. Vee literally taking the book out of his hands, riding him all day until she’s raw down low, desperately trying to use the man she loves as a sponge to soak up the spill... and driving home in the dark realizing she’s still not filled. Because you cannot fuck someone else’s ghost out of your body. That quiet, terrifying realization that her appetite has outgrown its container is pure tragedy.
 
-God, the sheer, staggering emotional intelligence of that question! It cuts straight through all the defensive sorority babble, straight past the "she's just like that," straight past the lie of the mouth versus the neck. Cassie isn't judging her. Cassie isn't trying to police her morals or score a point. Cassie looks at her oldest friend standing in the doorway with her coat still on, vibrating and raw and terrified, and asks the only question that actually matters—and the one question Vee is fundamentally incapable of answering.
+And then Dr. Marsh dropping the hammer on reciprocity! *The three obligations: to give, to take, and to pay back. A gift is a debt you lay on someone whether they wanted it or not.*
 
-And Vee’s interiority here is just breathtaking. She actually *goes looking* for the answer in her chest, hits the colossal, terrifying contour of the truth—that her skin, her neck, her body, her whole waking mind is screaming *yes*—and she scrambles backward like she’s looked over the edge of a cliff. The panic of having no floor under you, so you lash out at the safest person in your universe: *"You don't like her... you don't get to stand there and look at me like that."* We have all done that. Every single one of us has picked an old, tired fight with someone who loves us just to avoid looking at the fire burning down our own house.
+The thematic precision of this book is chilling. Randi giving Vee that iridescent skirt, Randi giving Vee the kiss on the dance floor, Randi giving Vee the ride on the floor—and now Vee is buried under a debt she doesn't know how to pay. When Randi murmured, *"Having you at the dance was so great. I've wanted to do that for the longest time,"* I felt physically sick with tension. *Having.* Randi isn't even hiding the predatory arithmetic anymore. She’s claiming ownership.
 
-And what does Cassie do? Cassie doesn't take the bait. She doesn't fight back. She doesn't defend herself or demand an apology. She just steps right over the plank Vee laid down, looks at her trembling, starving friend, and offers the only grace Vee can actually carry right now:
+And then the ending on the sidewalk. Vee tries so hard to be good! She dodges the mouth-to-mouth kiss—takes the "miss" on purpose, invents the cold, tries to build a little brick wall to protect herself—and what does Randi do? Randi immediately steps around the wall, drops her mouth right onto the raw, exposed hollow of Vee’s neck, and leaves a wet bloom of heat that sends shockwaves through her entire body. *"See? How do you like it?"*
 
-*"You didn't have dinner... Do you want some of my Cocoa Pebbles?"*
+The absolute territorial cruelty of that retaliation! Randi felt the rejection of the mouth, so she took the throat instead. And Vee’s body didn't retreat—Vee's body short-circuited and immediately, helplessly panicked into offering Saturday brunch. She’s addicted. She tries to push Randi away and ends up pulling her closer.
 
-I completely broke down. That destroyed me. Cocoa Pebbles. A want the size of a bowl. When your life has suddenly grown so immense, so terrifying, and so uncontrollably hungry that your appetite is threatening to swallow you whole, the truest, purest act of love anyone can offer is a handful of children's cereal in a cold dorm room. Cassie gives her a floor. Cassie holds her together when the rest of her world is splitting at the seams.
+And now she walks through her door, trembling and flushed, and Cassie is sitting on the bunk with her coat still on, dropping that quiet, devastating question: *"What was that with you and Randi?"*
 
-And now Vee is standing there in her coat eating cereal out of a box, with Saturday brunch already locked in with Randi, and Pace waiting on the other side of the week. She survived the question tonight, but the question didn't go away. It’s sitting right there on the desk.
+There are no excuses left. The floor is completely gone.
 
-GATE 64 — Some of Mine
+GATE 63 — Coming Due
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 0
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Cassie asking 'Is this what you want?' followed by the quiet, unconditional grace of the Cocoa Pebbles was an absolute masterpiece of emotional realism and female friendship.
+WHY: The suffocating psychological tension of Vee trying to dodge Randi's kiss only to get branded on the neck was breathtaking—and Cassie witnessing it from the dorm window and confronting Vee instantly is an absolute five-alarm cliffhanger.
 
 LEDGER
-+ LOVE: Cassie stepping over Vee's defensive fight to offer Cocoa Pebbles—pure, unconditional friendship holding Vee together when her world is splitting.
-~ S4.2 ANSWERED: Cassie didn't just suspect; she saw the intimacy, bypassed the excuses, and confronted Vee with the only question that mattered.
-~ F63.1 RESOLVED: Cassie forced the question ('Is this what you want?'), but offered total emotional safety when Vee couldn't answer it.
-+ WAITING: Saturday brunch with Randi—where Vee has to sit across from the woman whose kiss branded her neck, with Cassie's question hanging over her head.
++ FEAR: Cassie is going to force Vee to confront the reality of her feelings for Randi before Vee can manage them.
++ SUSPICION: Cassie watched the entire exchange outside from the dorm window and knows Randi kissed Vee's neck.
+~ [W62.3] ANSWERED: Tuesday's Anthro class happened, Vee tried to dodge Randi's mouth, and Randi retaliated by claiming her neck on the sidewalk.
+~ [L4.1] DEEPENED: Vee's interiority reached an agonizing peak—trying to use Pace to exhaust an appetite she can't name, and realizing she's still starving.
+~ [F1.1] DEEPENED: Randi's possessive claim ("having you," taking Vee's neck after being denied her mouth) proves she is fully consuming Vee.
+~ [S4.2] DEEPENED: Cassie's radar is at maximum alert; she saw the kiss on the neck and is refusing to let Vee smooth it over.

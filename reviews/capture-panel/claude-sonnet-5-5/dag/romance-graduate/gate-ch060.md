@@ -1,34 +1,29 @@
-*capture-dag-v3-grounded · gate ch060 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e5741d0c0863 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch057 · history ch001..ch057 · ledger no seed b134d5518784 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch060 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 71359d731fc6 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch056 · history ch001..ch056 · ledger no seed e5c765aef4af · 2026-11-06*
 
 REACTION
 
-The dread is paying off, and this chapter is mostly one small thing: a thumb stopping.
+This is a quiet one, and I'm giving it room because it's the first time the book hands Pace's loneliness to me whole. The hangover opening is warm and a little funny. The glass of water on a paper towel, the cinnamon raisin bread, the undershirt pulled over her head, and the kiss on her forehead "after he thought she was already gone." That last one got me. He did all the care and she only now finds out.
 
-Vee tells Randi about Sheri, and she tells it well. The ghost blonde doesn't exist, and she's giddy about it. Randi gets to be right, and she sits there "having it." Vee spends everything she has, and Randi improves each piece and hands it back. It's the usual warm brunch machinery.
+Then "My one friend. There isn't anyone else." That's the chapter. His explanation of why is exact: too young for the pack, too finished for the freshmen, and "either weren't safe or weren't welcoming." It's the family wound again from a new side, and Sheri's "hasn't been home since he was sixteen" snaps into place. Vee's hug, with her whole weight committed like Sheri's, is the right move, and he doesn't perform being comforted. I liked that.
 
-Then "She was enjoying herself." Randi's thumb stops on Vee's hand. "Huh." "And you liked it." Flat, with no music in it. That's the whole chapter. Vee blurts "No. Not my thing," too fast. She reads Randi's stillness as guard duty, which is exactly the wrong reading. I read it as Randi hearing that another woman looked at Vee like that and enjoyed her, and feeling something. It could be jealousy, or it could be want, or it could be a flicker of "she answered too fast." Vee flinches from the word *liked*, and so does the book. Her fast "No" is the first crack in her story. I liked it a lot.
+The dread is where my attention goes. Vee is sitting in the kitchen with Sheri liking her, saying "I don't have to be jealous," planning to hand Randi the win on Tuesday. She is feeling tender toward the man whose other lover she's been telling everything to. Meanwhile "women misunderstand it" is a line I read twice. He's a man who can't keep a friend without it going sideways, and I'm the one who knows about the Saturdays. Also Vee thinking Daphne was "the one friend" is just about right, and she still won't say the ugly word. Fine, she's twenty-one.
 
-The wax is the shock. Pace asks for her bare, Vee brings it to Randi as good news, and Randi sends her to Sondra with a glass of something first. It's the pipeline again, running in the open. I don't know whether Pace's ask was his or whether Randi has been feeding it through him, but the way Randi is arranging Friday morning down to "say my name in the first sentence" unsettles me. It's tender and managing at once, and Vee takes it as friendship.
+Complaints: the last third is Vee narrating his loneliness at length, including her freshman-dorm nostalgia, and I felt the book explaining its own subtext again. I wanted him to say it and her to stay quiet. No heat at all. Sixth chapter without a real turn in the plot, though this one deepens him. The taste thread didn't move, and Randi's absence is felt.
 
-The kiss gets more. "Opening the kiss," more of it, and it stays. Vee's mouth goes to her neck in passing and nobody mentions it. She's not looking over her shoulder, and she no longer brackets any of it as a goodbye. She also still hasn't told the taste story's other half, and I'm watching that.
-
-Complaints: Vee spends the chapter reciting Sheri again, and I've heard it. It's a short, lower-heat chapter. But the thumb earned it.
-
-GATE 58 — Between
+GATE 57 — Hangover
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 1
-ROMANCE: 2
-ALMOST-STOPPED: "Then the other part came up in her, and she went slower with it, because it wasn't hers to spend." (Sheri's story retold a third time)
-WHY: Randi's thumb stopping at "she was enjoying herself," then "And you liked it," and Vee's too-fast "No," is the best crack in a while. The wax appointment and the deepening kiss show the pipeline running out in the open.
+CAPTURE: 7
+NEXT: 8
+HEAT: 0
+ROMANCE: 3
+ALMOST-STOPPED: "She saw the campus empty around him one Thanksgiving, just for a second, and then set the image down" (the long Vee-narrated imagining of his lonely eighteen)
+WHY: "My one friend. There isn't anyone else." plus the forehead kiss he thought she'd slept through is real tenderness and fills in his wound. But Vee spells out his loneliness at length, there's no heat, and I want Tuesday with Randi.
 
 LEDGER
-+ SUSPICION: Randi's stalled thumb and flat "And you liked it" is jealousy or want. Vee read it as guard duty.
-+ SUSPICION: The wax is Randi's arranging, directly or through Pace, and Vee carries it to her as good news.
-+ WAITING: Friday's wax with Sondra, and who sees the result first.
-+ WAITING: Valentine's dance, with Sheri, Pace and Vee.
-~ S56.3 SHIFTED: Sheri gave Vee warmth and her own story; Vee used the giddy version with Randi and nothing dangerous came out.
-~ S57.3 SHIFTED: Vee still reads Sheri as safe, and Randi's reaction to the "gay" detail was stillness, not relief.
-~ W57.4 ANSWERED: Tuesday happened; Randi went still at Sheri's look at Vee.
-~ F31.4 DEEPENED: Vee's answer to being desired by a woman was a too-fast "No."
++ LOVE: Pace's glass of water on a paper towel and the forehead kiss "after he thought she was already gone."
++ LOVE: "Sheri's my friend. My one friend. There isn't anyone else." and Vee holding him with her whole weight, like Sheri did.
++ SUSPICION: "Women misunderstand it" hints at friendships with women that went wrong, and the reader knows the Randi triangle is exactly that.
++ WAITING: Tuesday, when Vee hands Randi the real Sheri and whether Randi reacts to the "gay" detail.
+~ S33.3 DEEPENED: "Weren't safe or weren't welcoming" and the missing holidays make the family wound concrete.
+~ S56.3 SHIFTED: Sheri told Vee her own story and Pace's father; no hint yet that she'll expose the triangle.
+~ G39.2 FADED: this chapter finally gave the silence a real, sad cause on the page.

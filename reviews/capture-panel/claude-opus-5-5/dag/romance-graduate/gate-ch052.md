@@ -1,40 +1,39 @@
-*capture-dag-v3-grounded · gate ch052 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 156c8e3f33b2 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch049 · history ch001..ch049 · ledger no seed 558a50401ac1 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch052 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 213059ecdcb4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch048 · history ch001..ch048 · ledger no seed 86a820aa69a2 · 2026-11-06*
 
 **REACTION**
 
-"'It's late. Is everything alright?'"
+She lied to Cassie. Cassie asked "Anything interesting happen this weekend?" to her book, and Vee said *we talked*. They didn't talk. She opened a coat on his doorstep and he went to his knees. "Like a tent with the pole pulled" is a lovely line covering for something that wasn't a conversation at all. Then the sweater: cranberry, wool, too-hot water, shrunk to doll size, the dye run into her good pants. I'd just read chapter 46's last page, where Cassie looked up at the coat, his sweats and Randi's going-out heels, said "Hmm," and went back to her book. Cassie already saw the outfit. Vee is building an alibi for something the outfit gave away two days ago. And Cassie's laugh, head back, "the rare full one she never spent on her own jokes," isn't her buying the story. That's Cassie hearing "Pace. Shrank your sweater." from a man who salts persimmons three grains at a time, and finding the lie funnier than the truth would have been. I adored that laugh. It's the warmest the two of them have been since the pool.
 
-That stopped me cold. That's not what he said. I read chapter 46 three days ago, in book time, and what he said in that doorway was "Vee, I l—", and she opened the coat right over it. Now, telling it at a sunny table to Kayla and Meg, she's given him a different line, polite and flat. She does his voice and everything, and the word he started is gone. She didn't just interrupt it on the porch. She's taken it out of the story. I don't think she even knows she did it. That's the scariest kind of crop: the one she makes in her own head first. Cassie got the doll-sized sweater, and now these two get "we talked all night." That's the second time "we talked" has stood in for a night with no talking in it, and both times it's the exact thing she wanted from him and didn't get. She's telling her friends the relationship she asked for.
+What gets me is that Vee does to Cassie exactly what she did to Randi after the bar: she edits. She told Randi a worse version and Pace the true one. Now she gives Cassie the sanitized one, with the t-shirt "about here on me" doing the work of being stark naked in a scrunchie. Everybody in this book gets a different cut of the photo. She cropped it for her mother, and now she's cropping for Cassie.
 
-Then Meg's period story and "make it right in their language," and the whole table files the coat as an *apology*, and Vee lets it. "It was a big fight." She's the one who apologized now, in the official version. I'm not sure that's wrong. She did start it. But she's sanding him smooth for an audience, and Wednesday that audience gets to meet him.
+Then the card. "My mother says thank you for the card." Vee's hand goes to her collar, there's "a hand cupped briefly at the back of her neck," and she says "Oh," small, and won't look at it. Wait, what card? When did Vee get close enough to Cassie's family for Cassie's mother to want to see her again? I don't remember that, so it either happened offstage or the book is planting it now. And Cassie "done with the subject the exact moment before it would have needed anything from either of them." Those two have a whole quiet language, and it's the one relationship in the book with no game under it. I'm starting to think Cassie is where the book is going to put Vee down when everything falls on her.
 
-Wednesday. Randi at the table, Cassie at the table, and Pace "handling it." Randi and Pace haven't stood in a room together since the coffee shop where they acted like strangers, and they haven't seen each other at all since she came down his hall holding the green. Now they get to do the stranger act again in front of Cassie, who watched Randi text him that first day. I'm dreading it the right way.
+Small pleasures: the brother-in-law in snowshoes, "the baby is a baby," the Play-Doh cookies. Cassie's deadpan has never been better. The flannel coming back is nice too. In chapter 40 it lay on the floor and smelled of nobody, and now it's "he'll just have to wear it for her this weekend," so that thread is mended. Her hand flat against the cinderblock, and the wall being "only a wall" now, is a good quiet ending.
 
-What I liked: Kayla's orange juice coming in a flute "which repaired her feelings completely." The split check, phones tapped one after another, "nobody letting anybody cover anybody." That's such a clean contrast to Randi's world, and to Vee's old habit of reading the prices first. She still reads them, but this time she does no arithmetic. That's growth I believed. Meg's "Okay. This is a place." Kayla narrating her own socks back as a crime scene was genuinely funny.
+What it cost: this is the second quiet chapter in a row. I feel it, and the chapter is half a recap of the breakfast I just read. Mushrooms, blood oranges, salted persimmons: I got the whole recipe again, now as dialogue. The Tuesday Randi dinner is still sitting out there, and the party isn't even mentioned. "The record stood exactly where Vee had left it, corrected by nobody" is the narrator nudging me about a lie I'd already caught. Still, it's short, the dialogue carries it, and the lie has teeth.
 
-What it cost: this is the third quiet chapter in a row, and it's a brunch, prices and mimosas and the recap of a night I already read, just with a new cast. I felt the template lock in, and I was skimming the bookstore-line chatter. And I'm still waiting on Tuesday with Randi and "the strange small thing." That keeps getting pushed back while the book runs a lap with Kayla. The doorway rewrite is what saved it. It's one line, and it's the best thing in the chapter.
+1 a.m. text: *she told cassie the sweater shrank in the wash. CASSIE SAW HER COME HOME IN HIS SWEATS AND STILETTOS. and cassie just laughed. I love cassie so much.*
 
-1 a.m. text: *she told her friends he opened the door and said "is everything alright." HE SAID I L—. she deleted it. and wednesday randi and pace are at the same table pretending they've never met.*
-
-GATE 50 — Across
+GATE 49 — Unpacking
 DECISION: CONTINUE
-CAPTURE: 6
-NEXT: 8
-HEAT: 1
-ROMANCE: 1
-ALMOST-STOPPED: "classes tomorrow, whose schedule was a war crime, whether the bookstore line would be worse today or Wednesday". That's the third quiet chapter in a row going slack, and I was skimming.
-WHY: It's another brunch and another recap, now with Kayla and Meg, and the pattern is wearing on me. But Vee overwriting "Vee, I l—" with "Is everything alright?" is a quiet knife. And a Wednesday dinner with Randi, Cassie and Pace at one table is the room this whole book has been building, so I want the next chapter more than I liked this one.
+CAPTURE: 7
+NEXT: 7
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: "And he does this thing with the oranges — blood oranges — he takes the whole peel off with a knife, around and down, in strips" — the breakfast I read one chapter ago, told back to me as dialogue.
+WHY: The sweater lie and Cassie's full laugh are the sharpest thing here. Vee is cropping her life for every person in it, and Cassie may be the one person who sees the whole picture and lets it stand. But it's the second quiet bridge in a row, with a recap in the middle, and I want Tuesday's dinner with Randi or the party next, not another room.
 
 LEDGER
-+ SUSPICION: Retelling the porch, she swapped "Vee, I l—" for "It's late. Is everything alright?" She's erasing the almost-word from her own record, maybe without knowing it
-+ LOVE: Kayla's orange juice in a flute, and the check split three ways with nobody covering anybody
-+ LOVE: Vee reading the prices out of habit and then doing no arithmetic at all
-+ FEAR: On Wednesday, Randi and Pace have to play strangers again at a table with Cassie on it, and this time it's two months after the drawer
-+ GRUDGE: Third quiet chapter in a row, and the brunch template is back with a new cast
-~ F49.2 DEEPENED: A third version now. Kayla and Meg get "we talked all night" and a courteous Pace in the doorway
-~ F46.1 DEEPENED: She's not just done needing the word. She's taken it out of the story
-~ F48.1 DEEPENED: The party is now a Wednesday dinner, two days off, with Randi and Cassie both invited
-~ W48.6 SHIFTED: It's Wednesday night, his treat, and he's picked the place. I still don't know where
-~ W47.3 DEEPENED: Tuesday with Randi still hasn't come, and the book spent the day before it with Kayla
-~ G9.7 DEEPENED: The brunch template again: sun porch, prices, mimosas, the confession, the toast
-~ L15.4 SHIFTED: She still reads the right side first, but the arithmetic is gone. Christmas money, and an occasion
++ SUSPICION: Cassie saw the sweats and Randi's heels Sunday night. She knows the sweater story is invented, and her laugh is her letting Vee keep it
++ FEAR: Vee now crops her life differently for every person: the truth to Pace, a worse version to Randi, the doll-sized sweater to Cassie, half a photo to her mother. When the party puts them all in one room, the versions will collide
++ LOVE: "Pace. Shrank your sweater." Cassie's rare full laugh, head back, at a lie she isn't buying
++ LOVE: "My mother says thank you for the card," Vee's hand going to her collar, and Cassie dropping it the exact moment before it would cost anything
++ WAITING: The card. What's between Vee and Cassie's family, and why it hits her that warm
++ GRUDGE: Second quiet chapter running, and the breakfast recipe gets recited back as dialogue
+~ L4.1 DEEPENED: The snowshoes, "the baby is a baby," Play-Doh cookies, and turning the whole chair around to give Vee her full attention
+~ F4.2 SHIFTED: Vee isn't losing Cassie. She's lying to her, gently, and Cassie's family is quietly claiming her
+~ S17.4 SHIFTED: The warmth isn't only Cassie's. Something "like a hand cupped at the back of her neck" went through Vee at the mention of Cassie's mother
+~ L23.6 DEEPENED: The flannel is back on, going faint, and he'll wear it for her again this weekend. Mended since it lay in a heap
+~ W47.3 DEEPENED: Tuesday dinner with Randi and "the strange small thing" still hasn't come
+~ W48.6 DEEPENED: The party wasn't even mentioned to Cassie
+~ G1.7 DEEPENED: "The record stood exactly where Vee had left it, corrected by nobody" points at a lie I'd already caught

@@ -1,24 +1,30 @@
-*capture-dag-v3-grounded · gate ch032 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0866878b4a64 · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch029 · history ch001..ch029 · ledger no seed 27e347d0286f · 2026-11-19*
+*capture-dag-v3-grounded · gate ch032 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9e4c9f23fce8 · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch028 · history ch001..ch028 · ledger no seed dd17797abbeb · 2026-11-19*
 
 REACTION
 
-Oh, *Vee*. Look at her.
+God, I love this book. I am sitting here grinning like an idiot and my heart is still hammering.
 
-If you had told me six weeks ago—back when she was apologizing to strangers on the sidewalk and hiding in cardigans—that she would be ordering Pace into his recliner on Halloween night, making him sit on his hands, and then walking down his hallway in nothing but four-inch heels and a blush, I wouldn't have believed you. And yet it feels completely, undeniably earned.
+First of all, *Pace playing terrible air guitar to "Thunderstruck" in his kitchen* while Vee spies on him through the window? After twenty-eight chapters of him being this quiet, exact, courtly man, watching him shake his head loose in his gym shorts and then immediately light up when she shows up an hour early—I’m done for. And Vee! Texting him first, yanking his gym shorts off, flashing him in the den just to make him chase her—she is so *alive* now.
 
-I loved how quiet and domestic the opening was, just her sitting at his table with her wine watching his back while he did the dishes, and the fact that she’d snuck that burgundy dress into her back seat on Friday even while she was pretending she wasn't packing a bag. Giving him the induction walk he missed in Berkeley was already lethal—watching him start to get up out of the chair and then force himself to stay put because she put one flat hand out—but *Costume Two*? Stepping out of the dress and walking back into that lamplight in nothing but the heels, pink all the way down, and not covering a single inch of herself?
+And then the bet. *Good god.*
 
-And Pace. *"The other is for the world. This is just for me."* He’s going to kill me. Nobody even touched anybody in this chapter and I’m sitting here breathless.
+The way he handled that—stopping the exact second she said *"Don't,"* showing her empty hands, and waiting until she said *"Yes. We find out"*—is why this book ruins other romances for me. And the spanking itself! Vee is kneeling on the bed in nothing but those black heels, bracing herself for Randi’s story—for counting out loud, for theatre, for humiliation—and instead Pace gives her quiet, gentle, soothing warmth, kissing her skin between every tap until she’s completely undone. *"Shame wants a witness, and in the small lit country of his bed there was no such thing as a witness, anywhere."* That line wrecked me.
 
-GATE 30 — Made-Up
+And then the aftercare. A glass of cold juice, her head in his lap, him stroking her hair and calling her *wonderful* until she falls asleep. And waking up to a whole pack of deep green scrunchies with white dots sitting on the bathroom counter—without a note, just because he remembered Monday morning!
+
+She’s using his deodorant and planning to bring an overnight bag next time. She’s eating spicy curry and drinking beer in his kitchen. She’s all the way in, and she still has no idea Randi exists.
+
+GATE 29 — We Find Out
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: A short, scorching chapter that pays off Vee’s entire arc of shedding her shame—watching her put Pace in that chair and walk out in nothing but four-inch heels and a blush had my heart hammering.
+WHY: From the hilarious joy of catching Pace playing air guitar to "Thunderstruck" to the scorching, deeply tender bet in the bedroom—and those green scrunchies on the bathroom counter the next morning—this chapter hit every single note I read for.
 
 LEDGER
-~ L3.1 DEEPENED: Walking out into the lamplight in nothing but four-inch heels and standing there blushing without covering an inch of herself.
-~ L1.1 DEEPENED: Staying put in the chair when she tells him to, letting the looking be the touch, and *"The other is for the world. This is just for me."*
+~ L1.1 DEEPENED: Terrible air guitar in his kitchen, pulling his hand back the instant she says *Don't*, bringing her juice afterward, and leaving a pack of green scrunchies on the counter.
+~ L3.1 DEEPENED: Texting first, yanking his shorts off, flashing him in the den, and finally letting go of her shame in bed.
+~ W26.1 ANSWERED: Pace turned Sunday’s swat into a quiet, tender, consensual bet in the bedroom, nothing like the theatre of Randi’s story.
+~ F4.2 DEEPENED: Vee is planning to bring an overnight bag next time, completely unaware of Randi.

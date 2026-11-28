@@ -1,39 +1,37 @@
-*capture-dag-v3-grounded · gate ch051 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 213059ecdcb4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch048 · history ch001..ch048 · ledger no seed 86a820aa69a2 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch051 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha bb2635a8b1b0 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch047 · history ch001..ch047 · ledger no seed af620d8f63e0 · 2026-11-06*
 
 **REACTION**
 
-She lied to Cassie. Cassie asked "Anything interesting happen this weekend?" to her book, and Vee said *we talked*. They didn't talk. She opened a coat on his doorstep and he went to his knees. "Like a tent with the pole pulled" is a lovely line covering for something that wasn't a conversation at all. Then the sweater: cranberry, wool, too-hot water, shrunk to doll size, the dye run into her good pants. I'd just read chapter 46's last page, where Cassie looked up at the coat, his sweats and Randi's going-out heels, said "Hmm," and went back to her book. Cassie already saw the outfit. Vee is building an alibi for something the outfit gave away two days ago. And Cassie's laugh, head back, "the rare full one she never spent on her own jokes," isn't her buying the story. That's Cassie hearing "Pace. Shrank your sweater." from a man who salts persimmons three grains at a time, and finding the lie funnier than the truth would have been. I adored that laugh. It's the warmest the two of them have been since the pool.
+Oh, he's clever. He's not going to say the word. He's going to throw a party. She stood in his doorway in December and asked "out there, what are we?", and five weeks later he answers it at the sink with his back to her: *I want to meet your people.* It's "believe what I do" again, except this time the doing is exactly the thing she asked for, a door opening onto the world. I'm moved, and I'm also braced. "Words are cheap, and you still won't spend them" was her best line, and he just found a way to pay her without spending them. I can't decide yet whether that's growth or a very elegant dodge. Maybe both.
 
-What gets me is that Vee does to Cassie exactly what she did to Randi after the bar: she edits. She told Randi a worse version and Pace the true one. Now she gives Cassie the sanitized one, with the t-shirt "about here on me" doing the work of being stark naked in a scrunchie. Everybody in this book gets a different cut of the photo. She cropped it for her mother, and now she's cropping for Cassie.
+What got me was the roster. The first thing she hears is *Randi*, because of course it is, she'd been talking about her for ten minutes. She lights up and builds a dinner for three with real napkins. Then he says "Bring Cassie," and the dinner falls apart in her hands. That bit is great interiority. She runs every restaurant in town and can't find a table where nobody has to be a good sport. Then there's "She'd watched somebody be fine about it before. She wasn't going to look at when." I loved that she won't look. Is it Cassie at Randi's kind of place? Is it herself, reading the prices first at every brunch? The book left it alone, and I'm grateful.
 
-Then the card. "My mother says thank you for the card." Vee's hand goes to her collar, there's "a hand cupped briefly at the back of her neck," and she says "Oh," small, and won't look at it. Wait, what card? When did Vee get close enough to Cassie's family for Cassie's mother to want to see her again? I don't remember that, so it either happened offstage or the book is planting it now. And Cassie "done with the subject the exact moment before it would have needed anything from either of them." Those two have a whole quiet language, and it's the one relationship in the book with no game under it. I'm starting to think Cassie is where the book is going to put Vee down when everything falls on her.
+Then Meg's boots, and "the heel came up out of the right one." That's the attention that made me fall for him back in chapter 10, and he's turned it on her whole life instead of her body. "Tables have ends. Somebody ends up at one" is the best line he's had in a while. "Bring Theo," with no flicker at all, settled something in me too. After the Rusty Nail I didn't think this book would let a man be that un-jealous without it costing someone.
 
-Small pleasures: the brother-in-law in snowshoes, "the baby is a baby," the Play-Doh cookies. Cassie's deadpan has never been better. The flannel coming back is nice too. In chapter 40 it lay on the floor and smelled of nobody, and now it's "he'll just have to wear it for her this weekend," so that thread is mended. Her hand flat against the cinderblock, and the wall being "only a wall" now, is a good quiet ending.
+The cost is what I'm staring at. He hasn't seen Randi since she came down his hall with the green in her hand, and now he's volunteering to stand in a room with her, in public, in front of Vee and Cassie. Cassie watched Randi text right before he walked into the coffee shop. And Brooke told Randi two days ago that she has to choose. I can see the room: Randi in the middle of everyone, Cassie at the edge with her arms crossed, Pace finally out among people. It's every lie in the book under one roof, and he's the one who said "let me handle it." I can't tell whether he's thinking about Vee's question or about the picture of the three of them in his kitchen. I think he honestly doesn't know either.
 
-What it cost: this is the second quiet chapter in a row. I feel it, and the chapter is half a recap of the breakfast I just read. Mushrooms, blood oranges, salted persimmons: I got the whole recipe again, now as dialogue. The Tuesday Randi dinner is still sitting out there, and the party isn't even mentioned. "The record stood exactly where Vee had left it, corrected by nobody" is the narrator nudging me about a lie I'd already caught. Still, it's short, the dialogue carries it, and the lie has teeth.
+It cost a little too. It's a quiet bridge right after the hottest chapter in the book, and the Tuesday dinner where Vee carries "the strange small thing" to Randi is still sitting out there. The paragraph that starts "He had been listening. Not the polite kind…" explains what the boots had already told me. But it's short and it moves, and it ends on a hook I want.
 
-1 a.m. text: *she told cassie the sweater shrank in the wash. CASSIE SAW HER COME HOME IN HIS SWEATS AND STILETTOS. and cassie just laughed. I love cassie so much.*
+1 a.m. text: *he's throwing her a party so he doesn't have to say I love you. and randi's invited. and cassie. I need a drink.*
 
-GATE 49 — Unpacking
+GATE 48 — Back
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 7
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "And he does this thing with the oranges — blood oranges — he takes the whole peel off with a knife, around and down, in strips" — the breakfast I read one chapter ago, told back to me as dialogue.
-WHY: The sweater lie and Cassie's full laugh are the sharpest thing here. Vee is cropping her life for every person in it, and Cassie may be the one person who sees the whole picture and lets it stand. But it's the second quiet bridge in a row, with a recap in the middle, and I want Tuesday's dinner with Randi or the party next, not another room.
+NEXT: 8
+HEAT: 1
+ROMANCE: 3
+ALMOST-STOPPED: "He had been listening. Not the polite kind, where a man keeps his face pointed at you while he rests." The boots had already said it, and the book said it again.
+WHY: It's a short, quiet chapter, but it turns the bond. He answers "out there" with an action that's exactly what she asked for, and it opens a room where Randi, Cassie and Pace all have to stand in the same light. I want the Tuesday dinner, and now I want that party too.
 
 LEDGER
-+ SUSPICION: Cassie saw the sweats and Randi's heels Sunday night. She knows the sweater story is invented, and her laugh is her letting Vee keep it
-+ FEAR: Vee now crops her life differently for every person: the truth to Pace, a worse version to Randi, the doll-sized sweater to Cassie, half a photo to her mother. When the party puts them all in one room, the versions will collide
-+ LOVE: "Pace. Shrank your sweater." Cassie's rare full laugh, head back, at a lie she isn't buying
-+ LOVE: "My mother says thank you for the card," Vee's hand going to her collar, and Cassie dropping it the exact moment before it would cost anything
-+ WAITING: The card. What's between Vee and Cassie's family, and why it hits her that warm
-+ GRUDGE: Second quiet chapter running, and the breakfast recipe gets recited back as dialogue
-~ L4.1 DEEPENED: The snowshoes, "the baby is a baby," Play-Doh cookies, and turning the whole chair around to give Vee her full attention
-~ F4.2 SHIFTED: Vee isn't losing Cassie. She's lying to her, gently, and Cassie's family is quietly claiming her
-~ S17.4 SHIFTED: The warmth isn't only Cassie's. Something "like a hand cupped at the back of her neck" went through Vee at the mention of Cassie's mother
-~ L23.6 DEEPENED: The flannel is back on, going faint, and he'll wear it for her again this weekend. Mended since it lay in a heap
-~ W47.3 DEEPENED: Tuesday dinner with Randi and "the strange small thing" still hasn't come
-~ W48.6 DEEPENED: The party wasn't even mentioned to Cassie
-~ G1.7 DEEPENED: "The record stood exactly where Vee had left it, corrected by nobody" points at a lie I'd already caught
++ FEAR: The party puts Pace, Randi and Cassie in one room in front of Vee's whole world, and the staged collision finally gets seen by someone who was there for it
++ SUSPICION: "I want to meet your people" is partly a way back to Randi. He hasn't seen her in two months, and now he has a reason she can't refuse
++ LOVE: "Tables have ends. Somebody ends up at one." He builds the party around Cassie so nobody has to be a good sport
++ LOVE: "Bring Theo," without a flicker, and Vee feeling something settle in her, warm side down
++ LOVE: "She'd watched somebody be fine about it before. She wasn't going to look at when."
++ WAITING: The party, and which place he picks
+~ S39.4 SHIFTED: He's no longer keeping her inside. He's walking straight into Randi's world on purpose
+~ F32.4 SHIFTED: The silence is answering "out there" with a deed. Still no word, but the door is opening
+~ F44.5 DEEPENED: The three-in-the-kitchen picture is getting a public dress rehearsal, with Vee doing the inviting
+~ W47.3 DEEPENED: Tuesday dinner was skipped for now, and "the strange small thing" is still riding toward Randi's table
+~ G1.7 DEEPENED: "He had been listening… he'd kept it. All of it." It explains the boots I'd already felt

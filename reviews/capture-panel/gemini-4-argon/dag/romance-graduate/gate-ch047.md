@@ -1,64 +1,63 @@
-*capture-dag-v3-grounded · gate ch047 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 819e1bd10401 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch044 · history ch001..ch044 · ledger no seed 14209110688f · 2026-11-06*
+*capture-dag-v3-grounded · gate ch047 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9a7b91c690c6 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch043 · history ch001..ch043 · ledger no seed e138e65bf7ac · 2026-11-06*
 
 REACTION
 
-OH MY GOD. THIS CHAPTER. I went from crying to gasping to grinning like an idiot to wanting to throw a brick through Brooke’s smiling face in the span of six pages!
+OH MY GOD. This chapter just tore my chest wide open and gave me every single missing piece of the puzzle at once.
 
-Let's start with Vee arriving back in Roanoke on Friday morning, January 15, after a whole month of silence (over a month—since December 11!). That opening on the plane and the drive back from the airport was so deeply felt: realizing she didn't "go home" for Christmas, she *visited*, and grieving the dead childhood version of herself while feeling the relief of having built her own life here. And then the muscle memory of the Friday drive out of Roanoke ambushing her behind the wheel before she can even get to her dorm! And when she walks into her dark dorm room with Cassie's side stripped bare and the vision of Sheri sitting on her chest, she does the exact thing she did after The Rusty Nail in Chapter 24: she walks straight across campus to Randi's sorority house in the morning, wrecked and unannounced.
+Wait—before I even get to the second half on New Year's Day (where I was literally crying along with Pace over his bowl of boiled chicken and broccoli), look at what we just learned in this third part of the New Year's Eve triptych!
+In Chapter 42, we saw Randi on New Year's Eve in Gstaad, imagining Vee happy in Ohio.
+In Chapter 43, we saw Vee on New Year's Eve in Ohio, imagining Randi in a fairytale in Gstaad and imagining Pace cooking fra diavolo for a tan blonde at his stove while she sits in his top sheet.
+And now in Chapter 44, where is Pace actually on New Year's Eve?! Sitting in a converted Carter-era double-wide trailer diner with **Sheri**, eating a single burger while five-foot-nothing Sheri inhales his double cheeseburger and chocolate shake, and then going home alone to get **so blind, blackout drunk on whiskey for the first time in his life that he pukes his guts out, bleaches and mops the bathroom in the middle of the night, and sleeps under Randi's cashmere blanket**!
 
-And what happens upstairs in Randi's bedroom is some of the richest, most layered scene work in the entire novel.
-First: THAT HUG.
-Vee burying her face in Randi's neck and breathing her in—*"Randi's body's own smell under the bitter orange, green at the edge, nothing sweet, and it steadied her, and she pulled another, and didn't want to stop"*—while Randi sweeps her brand-new Gstaad dresses right off the bed onto the floor without a glance!
-Second: Look at Randi's reaction when Vee sobs that Pace hasn't texted her a single word in over a month:
-*"'Not a word,' Randi said. It came out low and not quite to Vee, and for a moment her eyes were somewhere past Vee's shoulder. Some boy, then. Some boy had done this to her once, gone quiet and never called, and she had not forgotten it."*
-WAIT A SECOND. Vee thinks "some boy" once ghosted Randi in the past—when in reality Randi is reacting to the fact that **Pace hasn't called or texted Randi in two months either** (since November 17!), AND/OR Randi had no idea Vee and Pace had broken up on December 11! Randi thought Vee and Pace had been together all through December!
+Wait—and look at the timeline bomb that dropped when Pace sat in his recliner in the dark:
+*"He had not seen her since the November morning she came down his hall with Vee's green in her hand. She had not come out since, and she had not called. Six weeks of that told him what the morning had not."*
+HOLD ON.
+Randi has not been back to Pace's house OR called him once since Tuesday morning, November 17 (*Four*)!
+Stop and think about what that means!
+1. When Vee wastorturing herself in December (*Cropped*, *Under the Rug*, *Bare*, *Believe Me*) and over Christmas break (*Old Acquaintances*), we assumed Pace couldn't call Vee his girlfriend out loud in part because he was still actively sleeping with Randi! AND HE HASN'T EVEN SEEN RANDI IN SIX WEEKS! Ever since the morning Randi found Vee's top bathroom drawer and kept green panties and wept on his chest, Randi has completely ghosted him!
+2. Even more staggering: when Vee was at Saturday brunch with Randi after Thanksgiving, or texting Randi on New Year's Eve, Randi had already silently walked away from Pace weeks ago without telling either of them!
+3. And Pace—still clinging to his fantasy of the three of them in his kitchen on a morning after ("Vee at the table in his sheet with her hair loose and too much honey in her tea. Randi across from her with her coffee, feet up on the lacquered seat. The two of them laughing at something he had missed")—has now lost BOTH of them! Randi hasn't spoken to him since November 17, and Vee walked out his door on December 11!
 
-And then watch what Randi does once she realizes Pace and Vee have been in a month-long standoff over *"What am I to you?"*:
-Instead of using this breakup to take Pace back for herself, or using it to split Vee away from Pace, **Randi puts her entire brilliant brain into sending Vee back to Pace tonight!**
-Look at why:
-1. She hears that Pace told Vee *"You're the most important thing in my life"*—*"He said that. Those words."* Randi hears the truth of how much Pace loves Vee.
-2. When Vee says she's been torturing herself over Sheri (whom Vee describes as a tan blonde model!), Randi—who actually met five-foot-nothing bleached-roots Sheri at the dance hall in Chapter 44!—doesn't even have to fake her warmth when she dismantles Vee's 3 a.m. fear-monster.
-3. And yet, HOW does Randi tell Vee to fix it?!
-*"You take this into your own hands. You don't do it with words. Words are the whole war... You've got that good long coat... You just show up already being the answer."*
-HOLD EVERYTHING.
-In Chapter 41, Vee walked out of Pace's house on principle because she refused to accept *"the hand in place of the word."* She wanted a name for what they are out in the world! And now Randi—who herself cannot bear spoken declarations and lives entirely inside covert action—convinces Vee to **surrender the war for the word** and show up on Pace's doorstep tonight in **nothing but her long coat and a pair of bondage-style stiletto heels that lace halfway up her shins**!
-Look at those shoes Randi hands her: *"matte black bands laddering up over the foot and the ankle and on up the shin, open the whole way down the front... and not one was there to hold the shoe on."* And the second Vee's fingers touch the soft-napped straps while Randi's fingers are still hooked inside them, Vee's nipples draw up tight and aching! Vee tells herself it's because of tonight with Pace—right after she had to stare at the suitcase on the floor and press her hands into her thighs to stop herself from looking at Randi's bare, unpainted mouth! And notice that while listening to Randi's Gstaad story, Vee unconsciously strokes her own frosted-plum big toe—the exact place Randi stroked her foot in Chapter 20!
+And let's talk about **Sheri** at the diner first, because I adore this woman with my whole soul.
+First, we learn why Sheri and Pace spend Thanksgiving and New Year's Eve together: Sheri is gay ("There was somebody. Paige. Junior in the design school"), and she is *also* estranged from her family ("Couldn't get right with me not talking to my people. Kept picking at it... call your mama, Sheri, it's Christmas. Ironic. Isn't it"). And Pace answers: *"People who've never lost anything think grief is a choice."*
+Second, we find out that Pace actually brought Randi country dancing once before Thanksgiving, and Randi looked at Sheri "like I was one more of your harem applicants. Never did learn my name."
+Third, Sheri cuts through Pace's bullshit faster and harder than anyone in this entire book:
+*"'I want Vee. I miss her.' 'She's told you what you have to do. So say it.' 'I can't.' 'Then not saying it matters more to you than having her. And I'll tell you — from this seat, that feels pretty shitty.'"*
+YES, SHERI! Look at how she leaves him nowhere to hide! And when she asks him why he's so gone on Vee ("Yeah. The one with the big tits... So why. What's she got"), and this stoic math genius blushes hot and says: *"I'll cook her something and she won't just tell me it tastes good — she gets what it's for. The whole idea under it. The philosophy of it,"* and Sheri deadpans: *"The philosophy of your food. Lord almighty. Get over yourself."* I laughed right through my heartache.
 
-And how about Randi's edit of Gstaad?! We just read *Fairytale* in Chapter 42! We know John was faultless in bed and that Randi came, and that the problem was she felt nothing inside afterward! Yet to make Vee laugh—and to explain why she's dismissing a literal fairytale prince—Randi tells Vee he was a masterpiece *"Everywhere but the bedroom, and the bedroom's the room I actually live in"*!
+And then comes **Friday, January 1**.
+Watching Pace—the man of immaculate order, the man who cooks fra diavolo and chicken piccata and homemade water-buffalo mozzarella pizza with love—wake up hungover in a freezing house smelling of bleach, step around a crusted mop bucket in the hall, and boil two plastic freezer bags of plain, unseasoned chicken and broccoli ("prison food"!) because without Vee (or Randi) in his house, food is nothing but fuel he forces down his throat when his hands are shaking... Oh, that contrast broke me. Remember Vee in *Old Acquaintances* tortured by the vision of Pace at the stove blooming garlic and red pepper in oil for another woman over Christmas?! He hasn't cooked a single real meal! He's been eating boiled freezer-bag chicken and broccoli in a cold kitchen!
 
-AND THEN THE FOYER UNDER THE COMPOSITES.
-I literally stopped breathing when Vee put her hand on the front door latch, couldn't walk out with just a thank-you, and **turned around and went back**.
-*"She got her arms all the way around her and held on and said it into her hair, thank you, thank you, and then she took Randi's face in both hands and kissed her. She only knew she wasn't finished. So she stayed, and Randi's breath stopped against her mouth, and Randi's hands came up and shut on the back of her coat, and under all those framed faces Vee kissed her best friend until the thing in her chest had somewhere to go."*
-VEE INITIATED IT. Not the goodbye kiss-kiss ritual Randi started—Vee turned back from the door, took Randi's face in both hands (just like she took Pace's face in both hands in the burgundy dress in Chapter 19!), and kissed Randi on the mouth until Randi's breath stopped and her Kentucky accent came right up to the surface (*"Man had room in it to turn around, and back took a corner before it finished... That's how she sounds at home, Vee thought"*)!
+AND THEN WE GET THE TRUTH ABOUT THE PORCH SCENE IN *CROPPED* AND ABOUT DAPHNE.
+In Chapter 38, Vee tortured herself wondering if Pace had even understood her crackers-and-meal sentence (*"Maybe he understood and chose to say it like that. Maybe it had gone past him entirely"*).
+And here is Pace on New Year's Day:
+*"He had understood. She had made it plain... His hand had stopped on her shin. He had taken one breath, then another. He had wanted to answer her. The true answer had been there, whole and ready. He had felt the words rise. Then he had chosen the smaller truth. I love how good we are together. He had known, before he spoke, that it would not give her what she had given him. He had watched the answer reach her and fail. He had let it stand because it was safe, and because he was afraid, and because at the moment she had asked him to be brave he had been weak."*
 
-And getting Randi's POV on the other side of that shut door—putting the back of her hand to her own warm mouth like a fifteen-year-old, laughing an idiotic, breathless laugh out loud in the empty hall because after four months *that girl had come back from the door and held her face in both hands and kissed her*—was one of the most purely romantic, heart-soaring beats in the entire book!
+Wait—my suspicion in Chapter 41 was that he held the line because of his secret arrangement with Randi, and instead the truth is so much more human and devastating: **he is in love with Vee, he wanted to say it back to her on the porch, and he choked out of pure fear!**
+Because when he was a fifteen-year-old kid at college who didn't even know how a dining-hall meal plan worked, Daphne ("a girl with brown hair and glasses who laughed with her hand over her mouth") became his whole world, the only woman he ever told *I love you* to—and when she left him, *"There had been no one to tell that Daphne was gone. Daphne was the person he would have told."*
+Look at the mathematical superstition he built out of that trauma:
+*"With Daphne he had said it, and losing her had taken over his life. After her he had kept the words to himself, and loss had remained survivable. He had taught himself that the words were the difference."*
+He convinced himself that *saying "I love you" out loud* is what gives a woman the power to destroy your life when she leaves! So he thought if he never said the words to Vee, it wouldn't destroy him if she left—only to realize over his cold boiled chicken that *"He had hurt her because he was afraid of how much she could hurt him."*
 
-UNTIL BROOKE IN THE KITCHEN.
-Oh, my blood went ice-cold.
-Since Chapter 2, Brooke has been the smiling enforcer of the "acceptable world." And here, right when Randi is glowing and trembling with real, undefended happiness wanting twenty quiet minutes with a mug of matcha to hold onto Vee's kiss, Brooke ambushes her at the kitchen counter.
-*"You always say goodbye under the composites."*
-Brooke saw them! Or has been watching them all semester!
-And look at the filthy, hypocritical violence of what Brooke says, all wrapped in her syrupy chapter-president warmth:
-- First, she admits she sees how Vee looks at Randi (*"I've seen how that girl looks at you... If she looked at me like that—I might be tempted myself"*).Wait: even BROOKE can see that Vee is in love with / wildly attracted to Randi, while Vee herself still hasn't named it!
-- Second, Brooke says it's totally fine to *"Play all you want, privately, or for the boys"*—meaning performative bisexuality for frat boys or secret hookups behind closed doors is acceptable!
-- Third, the threat: *"The day he thinks it's true— You remember Lauren Pike. Nobody asked her to move out. You've got a position in this house, and you've got her. You need to choose."*
-Remember in Chapter 42 in Gstaad when Randi looked in the mirror and thought she wasn't brave enough to risk anything, that she had arranged her whole life so she would never have to be brave or choose?!
-Brooke just took away the middle ground. Randi can't keep kissing Vee in the foyer under the cover of "my friend Randi" anymore—she has been given an ultimatum by the sorority house that represents her mother's entire world: **her position in the house, or Vee.**
+And that ending, when he hears an engine on the highway, and his whole body lifts toward the gravel drive thinking for one crazy second that it's Vee's car turning in... and the truck drives right past without slowing, and **Pace bends over the kitchen table and sobs until he can no longer hear the truck**.
+We have never seen Pace cry. Not once in forty-four chapters. Seeing this rock of a man break down sobbing alone at his kitchen table over the sound of a passing truck on New Year's Day completely wrecked me.
 
-AND TONIGHT IS FRIDAY NIGHT.
-Vee is sleeping in her dorm right now, getting ready to put on nothing but those calf-high strappy stilettos and her long coat and drive out to Pace's house unannounced after thirty-five days of silence—where Pace has been eating boiled freezer-bag chicken and sobbing at his kitchen table! What is going to happen when Pace opens his front door tonight?! Give me Chapter 46 right now!
+Wait: that's three low-heat chapters in a row (42, 43, 44—the New Year's triptych for Randi, Vee, and Pace), and I didn't skim a single word because every single one of them delivered massive emotional payoffs we've been waiting forty chapters to see. Now all three of them are broken open on January 1, Pace has finally admitted to himself that he loves Vee and was a coward, Randi hasn't seen Pace in six weeks, and spring semester is about to start! Is Pace going to go after Vee, or are Vee and Randi going to walk into Tuesday night Anthropology first?! I need the next chapter right now!
 
-GATE 45 — My Friend Randi
+GATE 44 — The Usual
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 0
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This chapter had everything—Randi coaching Vee to show up at Pace's door tonight in nothing but her long coat and calf-high strapped stilettos, Vee turning back from the foyer door to take Randi's face in both hands and kiss her until Randi is touching her own lips like a fifteen-year-old, and then Brooke's chilling homophobia-in-velvet ultimatum ("You remember Lauren Pike... You've got a position in this house, and you've got her. You need to choose").
+WHY: Completing the New Year's triptych inside Pace's head was devastating—learning that Randi hasn't seen him in six weeks, watching Sheri call him out ("not saying it matters more to you than having her"), discovering that he understood Vee's crackers-and-meal confession and withheld "I love you" out of terror from losing Daphne, and watching him sob over his boiled freezer-bag chicken when a truck passes his driveway had me in tears.
 
 LEDGER
-+ LOVE: Vee turning back from the sorority front door, taking Randi's face in both hands, and kissing her until Randi's breath stops and her Kentucky accent comes all the way to the surface—and Randi touching the back of her hand to her own mouth like a fifteen-year-old after the door shuts.
-+ LOVE: Vee unconsciously rubbing her own frosted-plum big toe—right where Randi touched her in the shoe boutique—while listening to Randi's Gstaad story, right after having to press her hands into her thighs to stop staring at Randi's bare mouth.
-+ GRUDGE: Brooke for ambushing Randi in the kitchen right in the middle of her fifteen-year-old joy and delivering a smiling, homophobic ultimatum ("Play all you want, privately, or for the boys... The day he thinks it's true— You remember Lauren Pike... You need to choose").
-+ FEAR: Randi just talked Vee into surrendering her demand for spoken words ("You
+~ F1.2 CONFIRMED: Pace finally realizes on New Year's Eve—after six weeks of total silence from Randi since the morning she walked down his hall holding Vee's green panties—that her crying that morning wasn't "hormones" and that she may never come back.
+~ S41.3 DISPROVED: Pace didn't withhold the words from Vee because of his arrangement with Randi (Randi hasn't even seen or called him since November 17!); he withheld "I love you" because Daphne was the only woman he ever said it to, and after losing Daphne nearly destroyed him, he taught himself the superstition that keeping the words unspoken makes loss survivable.
++ LOVE: Sheri sliding the double cheeseburger and chocolate shake to herself, stealing Pace's fries, and flatly telling him across the diner table, "Then not saying it matters more to you than having her. And I'll tell you — from this seat, that feels pretty shitty."
++ LOVE: Pace blushing at the diner table as he tells Sheri that Vee understands "the philosophy of it" when he cooks for her, and Sheri deadpanning, "The philosophy of your food. Lord almighty. Get over yourself."
++ LOVE: The gut-wrenching contrast between Vee imagining Pace cooking fra diavolo for a tan blonde over Christmas while Pace is actually getting blackout, puking drunk alone on whiskey and eating boiled freezer bags of unseasoned chicken and broccoli ("prison food") in a cold kitchen.
++ LOVE: Pace's memory of Daphne ("There had been no one to tell that Daphne was gone. Daphne was the person he would have told") and his realization that he hurt Vee on the porch because he was afraid of how much she could hurt him, followed by him breaking down sobbing at the table when a truck on the highway drives past without turning into his lane.
++ WAITING: To see whether Pace finally goes after Vee to say the words out loud, and what happens when Vee and Randi reunite at the start of spring term now that Randi has secretly been away from Pace for six weeks.

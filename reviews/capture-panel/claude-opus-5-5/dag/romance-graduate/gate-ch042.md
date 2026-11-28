@@ -1,36 +1,44 @@
-*capture-dag-v3-grounded · gate ch042 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha d6bbb290a65b · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch039 · history ch001..ch039 · ledger no seed ff9bc85d4104 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch042 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha abb1b2754206 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch038 · history ch001..ch038 · ledger no seed 821cb7277667 · 2026-11-06*
 
 **REACTION**
 
-She took the shirt off.
+"Is this what we are now?"
 
-I've followed that flannel for thirty chapters. He handed it to her in the rain. She slept in it all week. She traded her panties for it. Then it smelled of "fabric softener and no one," then she washed it and handed it back to be filled, and he stood in his kitchen wearing two shirts. Tonight it fails her. "The heat in the shirt was her own, given back. He wasn't in it." That's the realest sentence about this relationship in the whole book. Everything she feels coming off him might be her own warmth reflected back. It's the four strokes in the pool from chapter 32 again, except now she can't swim away from it. Then she takes it off and the cold is "so much worse, and she did not put it back on." The shirt doesn't go back on the pillow. She leaves it in a heap, "where a dropped thing lands." That stung. For two books Vee has kept a few inches between herself and every bad feeling, and here she lies naked in the cold on purpose and stays in it. It's the cardigan arc run backwards: she's bare because covering herself stopped working, not because she's proud.
+She finally asked it. For thirty-eight chapters the jacket question has sat under every scene: what is she to him out in the world? Tonight it comes out of her too loud, at the wrong size for the room, "a daytime voice in a room built for murmuring." I loved that she couldn't make it come out light. She'd had it light a second ago, and then her body ran ahead of her again, toward a fight this time instead of toward heat. The conflict is real and it's grown-up, and nobody needed a catty blonde to start it. It's been building in the pile since the porch.
 
-And the phone. Her thumb over the empty field, and "the ones she thought of were all small, and would be answered small and warm, and would leave her exactly here." Yes. I've had that exact night. That's grown-up writing about a feeling most romance novels would settle with a text.
+Then he says "Okay. Where do you want to go tonight?" and it's devastating. She threw something ugly, and he caught it and handed her back a plain question, with nothing for the fight to catch on. "He was *actually thinking about it*. Somehow that was worse." Yes. That's the same grace that cost her more than a fight in chapter 37, and here it costs her again.
 
-It's a Friday, though. December 11. Fridays have been his since October, and she's in the dorm with Cassie asleep below her and Pace "across town." Why? Did she stay away on purpose? Is this the five nights again, or the start of her leaving? The book doesn't say, and that's the most interesting thing about the chapter. If she's started protecting herself from him, the ground just moved. And Cassie is three feet away, again, and Vee doesn't wake her, again. (Also, "across town"? He lives out past where 614 goes to gravel. It's a small thing, but I noticed.)
+Chili's was the best thing in the chapter, and it's the food wire one more time, which I've griped about. This time it runs backwards. The nachos lie there dead, "fine had been plenty," and then: "He had ruined it for her, was the thing. Not just this." That turned my stomach a little. It's not a cracker-and-meal speech, it's grief. He's spoiled ordinary life for her, and if this ends, she can't go back to fine. The billboard-and-painting line is a bit much, but "Not just this" earned it.
 
-The gripe is the same one, now on loop. "Only every breath of him now and the silence at the center where the word should be." That's practically the jacket copy. It's the sixth chapter in a row that names the missing word, and in this one the naming is the whole chapter. "Not the big one and not the small one" is chapter 39's last paragraph almost word for word. I GOT IT three chapters ago. What saves this chapter is that the shirt finally does something the narration doesn't.
+What I'd text at 1 a.m.: "You went cold on me after the Rusty Nail. It wasn't true. Some back room of her knew." She says it anyway, "because she needed the line of it to hold," and "the needing made her mean." I've been asking this book for heroines with an inner life, and here's one being knowingly unfair and the book letting her be. Then he says "You know what happened after the dance," quietly, and she collapses. And the title lands. She *forgives* him. She forgives him for a fight she picked and for a coldness she invented, and it "sat well in her." Under the rug. That's the pile from the laundry room growing a new layer, and she doesn't even know she's sweeping.
 
-I've never read a chapter this short, and I don't know what to make of it yet. Part of me liked it. It feels like one held breath, a single night with no padding, and there was no cooking stretch to skim. Part of me thinks it's a coda that got its own number because the book had nothing else to put next to it. I'm calling it a technique for now, on probation. Zero heat, again. Randi's head is gone for twenty-four chapters now. She isn't even a thought, on a night when Vee is coming apart for want of a name she doesn't know Randi is the reason for.
+Now Pace. The fork squared to the table edge, the eyes pulled to the screen, the flicker of irritation, and "I listen as hard as I know how and I still can't hear you." Put that next to the seventh-grade desk in the hall and the house in the woods, and the book is telegraphing that he isn't wired for rooms like that. Fine, I believe it. But I'm suspicious of how convenient it is. A man sleeping with a sorority girl on Mondays has another reason to keep the redhead off Main Street, and "we don't leave the house" is exactly true. Also, "a thing one of his students had said in office hours." He has students? Randi swore to Brooke he doesn't teach her section. I noticed.
 
-GATE 40 — Bare
+The sex is good and a little stock. I liked her wanting his control to break, and the word drowned at the top of her orgasm, "with his name in her mouth and not the other thing." That's lovely. But "took her like a man who'd run clean out of the strength to wait," "spent himself in her, shaking, undone, hers," and "her passion reaching up and pulling him over" read like the KU shelf. The breasts-as-comfort beat is chapter 33 again.
+
+Then the coda kills me in the wrong way. "It had no name. He'd given her all of it and not the name." I know, book. That's the laundry room, the porch, the shirt, and the drawer all over again. Some of it is new: she belongs to him, but he can't be proved, and what she has of him "stopped at [the bed's] edges." That's sharp, and it's the jacket in a line. But it's the fifth chapter in a row explaining the no-name, and I was skimming the last paragraph for a turn that never came.
+
+And Randi. Twenty-three chapters without her head, and it's a Friday, the anthro class is two nights a week, and none of it exists. Vee is spiraling over a name while the actual reason it doesn't exist is out of the room again.
+
+GATE 39 — Under the Rug
 DECISION: CONTINUE
-CAPTURE: 6
+CAPTURE: 7
 NEXT: 7
-HEAT: 0
-ROMANCE: 2
-ALMOST-STOPPED: "only every breath of him now and the silence at the center where the word should be." The book recited its own jacket at me for the sixth chapter running.
-WHY: "The heat in the shirt was her own, given back" is a real turn, and leaving the shirt in a heap breaks a thread I've loved since the rain. But the no-name ache is now the whole chapter instead of a beat in one. What pulls me on is the question the chapter won't answer: why is she in the dorm on a Friday?
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "It had no name. He'd given her all of it and not the name." That's the fifth time the book has narrated this exact ache, at the end of a chapter that had already shown it.
+WHY: She finally asked the jacket's question out loud, picked an unfair fight knowing it was unfair, and then forgave him for her own sin. That's real interiority with teeth, and "Not just this" over dead nachos hurt. But the coda re-explains the no-name, and Randi has vanished again, so I'm reading on half for the ache and half out of stubbornness.
 
 LEDGER
-+ SUSPICION: It's a Friday and she's in her own bed, not his. Something happened, or she has started keeping herself away from him
-+ FEAR: The shirt in a heap is where it starts. She'll pull back from him before she ever learns the real reason he can't say the word
-+ WAITING: Whether the two-page chapter is a technique or a shortcut. I'm counting this one as a held breath, on probation
-+ GRUDGE: "Across town," for a man who lives out past the gravel
-~ L23.6 SHIFTED: The shirt stopped working. Its warmth was her own, and she left it on the floor where a dropped thing lands
-~ F32.4 DEEPENED: The silence is all she has now. Every text she could send would get a small, warm answer that leaves her exactly where she is
-~ S23.3 DEEPENED: "The heat in the shirt was her own, given back." It's her closest guess yet that she built him, still aimed at the wrong person
-~ G39.5 DEEPENED: The no-name ache gets explained for the sixth chapter running, and this time it's the whole chapter
-~ F4.2 DEEPENED: Cassie asleep three feet below, and Vee comes apart without waking her, again
-~ W18.5 DEEPENED: Twenty-four chapters without Randi's head, and she isn't even a thought on the night Vee breaks over a word Randi is the reason for
++ LOVE: "The needing made her mean." She says the Rusty Nail line knowing it's false, and the book lets her be unfair
++ LOVE: "He had ruined it for her. Not just this." Fine is gone for her, and if this ends she can't go back to it
++ FEAR: She "forgave" him for a coldness she invented. The rug is the pile, and she's sweeping her own fault under it as his
++ SUSPICION: The noise and the fork-squaring are the book telling me he's wired differently, but "we don't leave the house" also keeps Vee out of sight of Randi's world
++ GRUDGE: The lying-awake coda explains the missing name yet again, and the sex slides into stock phrasing ("spent himself in her, shaking, undone, hers")
+~ F32.4 DEEPENED: She asked out loud, and he answered with a restaurant and "I'm listening now." Near the word, never the word
+~ F38.1 DEEPENED: A new layer on the pile, and this time it's something she's forgiven him for
+~ S23.3 DEEPENED: "Whether all that attention was showing her the truth or keeping her from it." She's circling the right question with the wrong suspect
+~ W32.8 DEEPENED: The "had she made him that good" doubt came back up in the dark, out loud this time
+~ G38.6 SHIFTED: The food speech ran backwards this time, and it earned it
+~ S2.2 DEEPENED: "One of his students… in office hours." He teaches somebody, and Randi swore he didn't teach her section
+~ W18.5 DEEPENED: Twenty-three chapters without Randi's head, and on a Friday she isn't even a thought

@@ -1,67 +1,57 @@
-*capture-dag-v3-grounded · gate ch035 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8c16d5e3ff83 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch032 · history ch001..ch032 · ledger no seed a2c6935486da · 2026-11-06*
+*capture-dag-v3-grounded · gate ch035 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0a371aa0512c · dated · memory grounded: facts ck-ch030@consensus (audited, 6 non-fact sentence(s) dropped, 0 trimmed) + raw ch031..ch031 · history ch001..ch031 · ledger no seed 4315eb35dc59 · 2026-11-19*
 
 REACTION
 
-I am simultaneously melting into a puddle on the floor AND clutching my chest in sheer terror. How does this book manage to make every single romantic beat between Pace and Vee 100% genuine, tender, and devastatingly real—and *at the exact same time* load it with enough dramatic irony to blow up a city block?!
+Oh, my heart is in my throat. Look at the jacket blurb coming to life right in front of our eyes: *"He gives her everything but a word for what they are... When she asks what she is to him out in the world, he tells her to believe what he does, and says nothing more."*
 
-Let's start with that opening in bed! Vee coming apart on top of him inside the red curtain of her hair ("Above Him"!), and then Pace rolling his body square across hers and resting his cheek on the lower slope of her breast just to look up at her face. And Vee thinking:
-*He's all mine.*
-And then asking him, so pleased and playful:
-*"Who does this to you when I'm not around?"*
-*"Sometimes I take care of it myself. Thinking of you."*
-Notice the word **"Sometimes"**! Even when he's lying to her by omission, Pace's compulsion for exactness makes him say *sometimes* instead of *always*! And then what comes next made my stomach drop right through the mattress:
-*"Would a picture help?"*
-*"Only if you promise you'll never share me with anyone."*
-*"Never. I'd never share your photograph."*
+There are four scenes in this chapter across five days, and the emotional arc that runs through them is so quiet and so devastatingly exact that I felt every beat of it under my ribs.
 
-WAIT A SECOND.
-First of all, the phrasing: *"Never. I'd never share your photograph."* He specifies *your photograph*—because he has been sharing *her* (her stories, her body, her scent, what she looks like in his bed) with Randi from day one! Or wait: does he actually mean he won't show the photograph to Randi, OR is Randi going to see that naked pinup photo on his phone, OR is the irony that Vee makes him swear never to share a *picture* of her while having no idea he's planning to share *her actual self* with Randi?!
-And yet the photography scene itself was so achingly sweet and hot! I loved that Vee didn't want to be photographed candid and wrecked—she went into the bathroom, brushed her hair, put on her poppy-red lipstick, and came out "a girl who had decided to be looked at." And the way Pace poses her on her side like a classic calendar pinup, kissing every joint after his hands set it in place (shoulder, hip, knee), tilting the lampshade so the glare slides off her skin, and giving her back an image of herself through his eyes where she can finally think *she looked beautiful*... And then she hits send, watches it go to *Delivered*, looks up to find him hard again just from looking at her, and grabs him in her hand: *"Again."* Three times in one evening!
+First: Friday night after a whole week apart because Pace was at a seminar in Boston! Him swinging the door wide before she even reaches it, lifting her clean off the ground under the arms and spinning her with the porch light wheeling behind his head, and them tearing their coats off right inside the door without even making the hall! And the detail that she's eating like a field hand at his table now—salmon with dill sauce, warm tomatoes, chicken piccata—and yet her bras have gone in a hook because she's trading cafeteria pizza and fries for real food and burning calories in his bed!
 
-And the kitchen scene afterward!
-Look at the tiny callback that made me want to cry:
-*"He fed her tastes off the spoon while it went, and blew across every one before he let it near her mouth, as he had since the tomatoes."*
-Ever since the night she got greedy and burned the side of her bare breast with a hot baked tomato (Chapter 32), he blows on every single spoonful before he lets it near her mouth! And he doesn't even ask her how the sauce tastes—he just watches her face, reads her expression, and adjusts the lemon and salt. And when she takes her first real bite of the chicken piccata and makes a helpless sound with her eyes shut, she opens them to find him watching her with the exact reverence he told her in bed he masturbates to!
+AND THEN SHE TALKS TO HIM ABOUT RANDI WHILE HE COOKS THE SALMON.
+I was holding my breath so hard my lungs hurt. Listen to Vee innocently summarizing the entire conspiracy right to Pace's back while he flips the fish:
+- *"You remember Randi? From the froyo day... I walked right into her outside the dining hall, beginning of the semester... And then the next morning, she comes and sits right down with me."*
+- *"Cassie, who's also in stats with me, isn't a fan, but Cassie doesn't like sororities on principle."* (Cassie knows!!)
+- *"She's got the funniest stories about the boys she goes out with. Honestly, she's so pretty, and she still can't find what she wants."* (Wait—what is going through Pace's head hearing that Randi has been telling Vee stories about all the "boys she goes out with"?! Does Pace know Randi has been feeding Vee fake stories about exes and Radford mixers, or does he realize it right there at the stove?!)
+- *"And she's got this little accent. You hardly hear it. She must have lived in Europe when she was little."* (Pace knows she's from Kentucky!)
+- And then the kiss: *"Oh, and she does this funny goodbye kiss she must have picked up there... No, on the mouth. And then she comes back and does it again. This kiss-kiss. It's French, I guess."*
 
-Then comes the Thanksgiving conversation, and TWO huge things drop back-to-back:
-1. *"But your parents. Do you go back to them?"*
-*"I don't go back."*
-The ease completely leaves his face, his voice goes "level and exact," and Vee immediately senses she's touched something she isn't meant to touch and lets the quiet be kind. That connects directly to the door shutting in Chapter 13, his father at the chemical plant and his mother staying home in Chapter 22, leaving for college at fifteen because staying home was scarier, and that long scar high on the inside of his thigh! Whatever happened to Peter in that house before he turned fifteen, he cut them off completely and never went back.
-2. *"Sheri's coming over. We cycle together. She'll bring a pie and pretend she made it."*
-Vee gets a tiny flicker of jealousy over another woman at his table on Thanksgiving, and when Pace says *"She's alone,"* Vee immediately relaxes: *"Of course. The two of them at one table, neither with anywhere else to be."*
-WAIT A MINUTE. Where is RANDI for Thanksgiving?! Presumably flying home to her egg-whites-and-tofu mother (and rich family)! And Vee is flying home to Ohio!Wait—when is Thanksgiving?! Today is Friday, November 13, so Thanksgiving is two weeks away (Thursday, November 26). Why did Pace tell Vee about Sheri coming over for Thanksgiving—and what happens between now and Thanksgiving?!
+AND LOOK AT PACE'S REACTION WHEN VEE LICKS HER LOWER LIP (the exact lower lip where Randi left the pastry glaze five days ago!):
+*"His grin spread, and then it left, and under it was the look she knew from his bed, and that look was no joke."*
+And when Vee walks over to kiss him at the stove and slides her hand down the front of his jeans, **HE IS ROCK HARD** just from hearing Vee say that Randi kisses her on the mouth and comes back a second time! And he puts his hand over her breast through his shirt and says: *"I'll pretend it was that kind of French. After you feed me."*
+Wait—he's not pretending! He *knows* it's that kind of kiss! And after dinner he takes her again on the couch, unhurried, turning that image over in his head the whole time the salmon cooked!
 
-AND THEN FRIDAY MORNING IN THE BATHROOM.
-When Vee reached for the green scrunchies by the tap and her fingers closed on nothing—the counter wiped completely bare, only his razor squared to the edge—my heart plummeted right along with hers. For one second I thought: *Oh God, he cleared her stuff off the counter either because he's a neat freak OR because Randi is coming over tonight (Friday the 13th!) and he had to hide Vee's things in a drawer!*
-And then she opens the **top drawer**.
-*"It had been his... None of that was in it now. It held her form of green scrunchies, and her loose pins gathered into a little dish, and her face cream and her foundation stood upright, and a clear run of drawer liner with room to spare, room for more of her, laid out like something prepared and waiting."*
-And in the second drawer below it, all of his own things—blades, comb, ordered ranks—crammed in too tight together so she could have the top drawer, "the easy one. The one your hand goes to first."
-*"There was no note. There was never a note. She stood with a hand on each open drawer. He hadn't told her it didn't matter. He'd gone and made her a place instead."*
+And then late that night in bed, while he sleeps flat on his back with his birthmark bare, Vee admits it to herself: *She loved him.* And she already starts rationalizing his silence: *"He felt it in everything he did and said it in nothing, and she found, tonight, that she could live clear inside the everything-he-did and not go hungry for the saying."* And she whispers his real name—*"Peter"*—to him while he's asleep so he can't hear it! Because deep down she already knows she isn't safe saying it while he's awake!
 
-I am tearing up AND screaming at the same time!
-Because look at how both things are true at once:
-On the one hand, this is the most pure, heart-meltingly Pace gesture imaginable—after seeing her eyes in the mirror on Saturday morning when he looked at her cluttered counter, he didn't use words; he literally compressed his own ordered life into the bottom drawer and gave her the top drawer of his bathroom with a little dish for her bobby pins and room for more of her! It completely answers her Saturday-morning worry ("Did he mind?") and makes her feel like she has a permanent home in his house.
-ON THE OTHER HAND:
-1. By moving the scrunchy tower and all of Vee's makeup off the counter and into the top drawer, the counter is once again bare except for his razor! Wait—did he do it purely for neatness and to give Vee a real home in his bathroom, OR did it also conveniently clear the counter, OR wait: what happens the next time Randi is in that bathroom and opens the top drawer for a comb or a razor or tissue and finds **Vee's green scrunchies, bobby-pin dish, face cream, and foundation** occupying Pace's top drawer?!
-2. And look at the line: *"There was no note. There was never a note."* Even at peak romance, the jacket blurb is humming right underneath: he gives her every action in the world—the dress, the food, the top drawer—and never a single word or note!
+Which brings us straight to Saturday morning in the bathroom.
+Vee finally brought her overnight bag! And her brush, her loose bobby pins, a fallen green scrunchy, her open face cream, her beige makeup sponge, and her foundation bottles have completely colonized his bare, wiped counter where nothing ever sits but his squared-off razor.
+When Pace comes in behind her, wraps his arms around her, and kisses her neck, it's so tender her throat pulls tight—and then his eyes open in the mirror and drop to the counter:
+*"She watched them move, in the mirror, off her face and down to the counter, to the brush and the pins and the bottles and the spill of her, and hold there a second, taking it in."*
+And he says *nothing*. Smiles his private smile, kisses her shoulder, and leaves it completely unnamed. Wait—why did his eyes hold on the counter for a second?! Was he thinking about the fact that *Randi* is going to walk into this bathroom and see another woman's makeup and brushes spilled across his counter (or that he's going to have to make Vee pack it up before Randi comes over)?! Or does he actually love seeing her mess there, or mind it?! Vee can't tell—*"He hadn't said. He never said."* And that tiny splinter stays under her skin from Saturday all the way to Tuesday!
 
-I have to know what happens next. Is Randi coming over this weekend, or is Vee about to tell Randi at brunch about the naked photo and the top drawer?!
+Because look at what happens on Monday night at 11 p.m. when Vee comes back to the dorm glowing ("You're doing the streetlight thing again... You're a public utility"—God, I love Cassie) and tells Cassie about burning the side of her bare breast with a hot baked tomato at his table ("Not enough on") and how he keeps the house warm for her now.
+Cassie listens with no expression and says: *"You don't come home school nights."* (Just like the chapter title: *Not in Your Bed*!)
+And then Cassie asks the flat, simple question: *"Do you love him."*
+In Pace's dark bedroom on Friday night, Vee was 100% sure she loved him and told herself she didn't need him to say a word. Out loud in front of Cassie, her voice goes small—*"Maybe. I think so. It's all so fast"*—and when she takes that *"maybe"* into the swimming pool on Tuesday afternoon, look at what the rhythm of the laps strips away:
+*"Do you love him was a pressure under her ribs with a dread riding it... and the thing about Pace turned over once in the quiet and she could not tell, for about four strokes, whether the man she was turning over was Pace or was somebody she had built out of wanting him — whether he was that good or she had made him that good, out of wanting, out of two months of being looked at like that."*
 
-GATE 33 — Above Him
+What a piece of writing that Tuesday lap-swim is. The butterfly man and the flip-turn woman arranging themselves around Lane 3 without a word; swimming a workout like the second verse of a hymn; her body, which has opinions all day long, having none at all underwater where it only works; and the water taking the words off her dread one at a time until she can walk up the hill in the dark thinking about a sandwich.
+
+Wait: she stayed at Pace's on Friday night AND Sunday night ("came in past eleven on Monday with the night still on her"). Where was Randi this whole weekend?! Did Vee not even have brunch with Randi on Sunday, or did Pace not see Randi at all since coming back from Boston?! And did Vee leave any of her things on Pace's bathroom counter, or is Randi about to walk into Pace's house?! I need the next chapter right now.
+
+GATE 32 — Not in Your Bed
 DECISION: CONTINUE
 CAPTURE: 10
-NEXT: 10
-HEAT: 3
+NEXT: 9
+HEAT: 2
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This chapter had me aching with both tenderness and dread—from Vee making Pace swear he'll "never share me with anyone" before sending him a naked pinup photo, to him blowing on every spoonful of lemon-caper sauce so it doesn't burn her, the chilling "I don't go back" about his parents, and that devastatingly romantic (and ticking-time-bomb!) reveal of the top bathroom drawer.
+WHY: This chapter wove dramatic irony and emotional ache together seamlessly—watching Vee innocently tell Pace about Randi's "European" accent and two-stage mouth kiss while he gets rock hard at the stove, her whispering "Peter" only once he's asleep, the silent beat over her makeup scattered across his bathroom counter, and that gorgeous Tuesday lap-swim where the dread underneath "Do you love him" rises to the surface.
 
 LEDGER
-+ LOVE: Pace's quiet, unhurried care posing Vee like a classic calendar pinup—kissing her shoulder, hip, and knee everywhere his hands set her, adjusting the lampshade glare, and handing her back a picture where she can finally see herself as beautiful.
-+ LOVE: Pace blowing across every tasting spoonful of lemon-caper sauce before letting it near Vee's mouth, "as he had since the tomatoes."
-+ LOVE: Pace cramming all his own neatly ordered bathroom things into the lower drawer so Vee can have the top drawer—complete with a little dish for her loose bobby pins and clear drawer liner waiting for more of her.
-+ FEAR: Vee making Pace promise "you'll never share me with anyone" before sending him her naked pinup photo—either Randi is going to see that photo on his phone, or the dramatic irony of "Never. I'd never share your photograph" is going to cut Vee in half when she learns he's been sharing *her* with Randi all along.
-+ FEAR: Randi opening the top drawer in Pace's bathroom—or hearing Vee brag at brunch that Pace cleared out his own top drawer for her scrunchies and makeup—is going to detonate whatever control Randi has left.
-~ S13.4 DEEPENED: When Vee asks if he goes back to his parents for Thanksgiving, the ease leaves Pace's face and he says in a careful, level voice, "I don't go back"—confirming a total estrangement tied to his childhood and thigh scar.
-~ F29.6 SHIFTED: Pace moved Vee's scrunchies, bobby pins, and makeup off the open counter and into his own top bathroom drawer—which hides them from a casual glance at the sink, but turns the top drawer (and Vee's inevitable brunch debrief!) into an even bigger landmine for Randi.
-~ F32.6 SHIFTED: Pace answered Vee's silent "Did he mind?" in the most swoon-worthy way possible—by giving her his top drawer—yet as Vee herself notes ("There was no note. There was never a note"), it deepens her reliance on reading his silent actions in the absence of any spoken word for what they are.
++ LOVE: Vee innocently telling Pace at the stove about her "new friend" Randi's European accent, boy stories, and "French" two-stage kiss on the mouth—and finding Pace rock hard against her hand a second later ("I'll pretend it was that kind of French").
++ LOVE: Vee whispering "Peter" only after Pace is dead asleep beside her, already convincing herself she can live inside "everything-he-did and not go hungry for the saying."
++ LOVE: Cassie calling glowing Vee "a public utility" and wryly clocking how a hot baked tomato burned the side of Vee's breast ("There's only one way *that* burn happens. Not enough on").
++ LOVE: The Tuesday afternoon lap-swim—how swimming takes the words off her dread ("Do you love him" / "Did he mind?") one stroke at a time until only a bearable shape is left.
++ FEAR: Pace's one-second pause looking at Vee's makeup and brushes spilled across his bare bathroom counter—and his total silence about what they are—is already planting the dread in Vee that made her say "maybe" to Cassie.
+~ F29.6 DEEPENED: Vee finally brought her overnight bag and spilled her brush, pins, foundation, and green scrunchies all over Pace's immaculate bathroom counter—and when Pace saw it in the mirror, his eyes held on the mess for a full second before he smiled and said nothing at all.

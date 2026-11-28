@@ -1,52 +1,47 @@
-*capture-dag-v3-grounded · gate ch035 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8c16d5e3ff83 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch032 · history ch001..ch032 · ledger no seed f44b690232c8 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch035 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 833975fab4c0 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch031 · history ch001..ch031 · ledger no seed 82fcef142e04 · 2026-11-06*
 
 REACTION:
 
-I am undone. Completely, hopelessly undone. My hand was pressed flat against my throat by the end of this chapter, and I actually had tears prickling behind my eyes.
+Oh, god. My chest. My actual, physical chest hurts right now.
 
-The emotional arc Helen Rivers is pulling off here is so rich, so psychologically exact, and so devastatingly earned. After the manic high of the spanking confession and the swim-lane reckoning, this entire chapter felt like settling into a warm bath—and then realizing the water is rising over your mouth.
+Talk about the calm before the mother of all storms. This chapter felt like watching someone blissfully, radiantly arranging flowers inside a glass house while a Category 5 hurricane is visible on the horizon, spinning closer by the second.
 
-First of all: that pinup photo sequence. GOOD LORD. The sheer, tender, breathtaking eroticism of it. Pace didn't just snap a dirty picture on his phone; he literally curated a portrait of her glory, posing her with kisses at every joint—the point of the shoulder, the rise of the hip, the knee—treating her lavish, athletic body like high art. And Vee, who has spent twenty-one years shrinking under her mother's church-basement shame, actively putting her face on, looking at the image on her screen, and finally, truly believing she is beautiful. The bravery of hitting *Send*! Giving him that image to keep, under the sacred promise: *"Never. I'd never share your photograph."*
+First of all, the sheer domestic sweetness of the opening—Pace catching her under the arms, lifting her clean off the porch boards, and swinging her around before the coats even hit the floor—was devastating because she is *so* in love. She finally said the word in her own chest: *She loved him.* And the tragic arithmetic of her justifying his silence: *“He felt it in everything he did and said it in nothing, and she found, tonight, that she could live clear inside the everything-he-did and not go hungry for the saying.”* That line broke my heart. The blurb of this entire book is literally: *“He gives her everything but a word for what they are.”* She is convincing herself she doesn't need the word, when the lack of that word is the exact space where Randi lives.
 
-My stomach plummeted straight through the floor.
+AND THEN THE KITCHEN SCENE.
 
-Because on the surface, it’s the sweetest, most profound act of intimacy and trust imaginable. But in the background? In the horrifying machinery of this book? Randi exists. The pointing game exists. Pace has already kept secrets from Randi, but they are lovers who share everything about Vee. If that picture ever crosses the boundary to Randi—or if Vee ever finds out Randi and Pace are a unit—that photo isn't just an intimate keepsake; it's a loaded weapon aimed at Vee’s heart. Rivers makes the trust feel so profound that the dramatic irony feels almost physically agonizing.
+I was cringing so hard my shoulders were up by my ears. I wanted to reach through the page, grab Vee by her flannel shirt, and clap my hand over her mouth.
 
-And then the cooking. The chicken piccata, the lemon zest falling like rain, him pouring the good Chilean sauvignon blanc straight into the sizzling pan, blowing across every single spoonful before feeding it to her mouth... It is pure domestic worship. But then Vee steps directly onto the landmine: *"Are you going home? But your parents. Do you go back to them?"*
+Vee casually sipping Greek wine, sitting on the stool, just chattering away about Randi while Pace turns the salmon:
+*"You remember Randi? From the froyo day... She's a new friend... We chat, you know, girl stuff... And she's got this little accent... and she does this funny goodbye kiss she must have picked up there... No, on the mouth... This kiss-kiss. It's French, I guess."*
 
-*"I don't go back."*
+I STOPPED BREATHING.
 
-The room froze solid. The level, exact chill that dropped over Pace’s face was chilling. He didn't snap, he didn't argue, he just locked the door and took away the handle. Vee felt the boundary instantly and had the grace to step back. And the reveal about Sheri! "She's alone." Vee having that tiny, fiercely realistic flicker of jealousy, only to immediately understand that Pace gathers the strays and the solitary people to his table. But we know what Sheri told Pace on the bikes: *“If that's not already complicated, it will be. But I bet it's worth it.”*
+The dramatic irony is so suffocating it’s almost unbearable! Pace standing there with the spatula, having to mime cheek kisses to play along, and then freezing when she says *on the mouth*! He knows Randi. He knows Randi isn't French. He knows Randi is from Kentucky. He knows *exactly* what Randi’s mouth does. And Vee is standing there laughing, rubbing her own lips, thinking it's adorable European cosmopolitan flair, totally oblivious that she just told her lover that his other lover is kissing her on the mouth! The absolute poker face Pace had to maintain in that kitchen—and the way his eyes went dark and hard with that look she recognizes from the bed—was chilling. He’s putting it all together. He knows the trap is closing, or worse, he’s getting turned on by how completely Randi has hooked her.
 
-AND THEN THE DRAWER.
+And then the counter in the bathroom. God, that was such a quiet, brilliant beat of psychological reality. Vee finally bringing her overnight bag, her foundation and beige sponge and scrunchies colonizing his neat, masculine, bachelor order—and him standing behind her, wrapping his arms around her, looking at the mess in the mirror, and saying *nothing*. She wonders: *Had he minded? He hadn't said. He never said.* His silence is his armor and his weapon.
 
-OH MY GOD. THE DRAWER.
+And Cassie! Cassie is the unsung hero of this book. Sitting in her beanbag, hitting Vee with the cold, unvarnished truth: *"You don't come home school nights... Do you love him?"* Cassie forcing Vee to face the sheer velocity of this relationship. Vee admitting to Cassie it's "maybe" because saying it out loud makes the terrifying speed of it real.
 
-I sobbed. I actually gasped out loud at the sink.
+And that swimming sequence at the end was pure literature. The quiet, rhythmic discipline of the pool—breathe every third, the black line on the bottom—letting the words fall away until she hits that terrifying, four-stroke realization: *“whether the man she was turning over was Pace or was somebody she had built out of wanting him—whether he was that good or she had made him that good, out of wanting.”*
 
-The sheer, terrifying panic when she saw the counter wiped clean—that awful, sickening dread of the guest who realized she took up too much space, thinking she was a burden, that he’d minded her sprawl after all—followed by opening that top drawer.
+THAT IS THE QUESTION. Did she build him out of her own desperate hunger to be seen, or is he real? She doesn't know that he and Randi literally designed the persona to fit her exact specifications.
 
-Seeing her scrunchies and pins laid out in a dish, her cream standing tall, clean liner waiting for *more of her*, while his entire ordered bachelor life was crammed into the tight lower drawer so she could have the one your hand reaches for first...
+The pieces are all on the board now. Vee just told Pace about Randi kissing her. Randi just verbally edged Vee at brunch. Cassie knows Vee is basically living there. The collision is right in front of us, and my hands are literally shaking.
 
-*He hadn't told her it didn't matter. He'd gone and made her a place instead.*
-
-That sentence broke me. It is the purest definition of love without words. He gives her everything but a name. He gives her a home, he gives her his table, he gives her the top drawer, he gives her his body—and the tragic arithmetic of it is that she is moving into his house, inch by inch, drawer by drawer, completely oblivious to the fact that the foundation was laid on a bet with another woman.
-
-I am so deeply in love with Peter. I am so terrified for Vivienne. Turn the page right now.
-
-GATE 33 — Above Him
+GATE 32 — School Nights
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The pinup photo sequence was breathtakingly tender, but the quiet emotional knockout of Pace cramming his own life into the lower drawer to give Vee the top one destroyed me completely.
+WHY: The sheer, suffocating dramatic irony of Vee casually telling Pace about Randi's "French" goodbye kisses on the mouth over salmon—coupled with her breathtaking swim-lane reckoning over whether she built him out of her own hunger—was an absolute masterclass.
 
 LEDGER
-+ LOVE: Pace clearing his own life into the lower drawer to give Vee the top drawer and making a permanent place for her sprawl without a single word.
-+ FEAR: The naked pinup photo Vee sent to Pace's phone under the promise of secrecy is going to become a catastrophic instrument of betrayal if Randi ever sees it or hears about it.
-+ SUSPICION: Pace's complete, chilling estrangement from his parents ("I don't go back") is tied to them sending him to college at fifteen and abandoning him to Daphne.
-~ F5.1 DEEPENED: Vee hitting "Send" on the pinup photo and moving her things into his top drawer cements her complete, undefended surrender, making the pointing game an absolute emotional death blow.
-~ L1.2 DEEPENED: Pace's actions over words reaching its absolute peak—instead of telling her she wasn't a burden, he quietly gave her the best drawer in his house.
-~ S16.2 SHIFTED: The parent estrangement is confirmed ("I don't go back"), solidifying that Pace's isolation began long before Randi or Vee entered the picture.
++ FEAR: Pace now knows Randi is kissing Vee on the mouth, and he's going to use that knowledge to push them both toward the bedroom.
++ LOVE: Vee’s internal reckoning in the lap pool—stripping away all the chatter to wonder if she built Pace out of her own starving need to be loved.
++ LOVE: Cassie’s flat, grounded interrogation—clocking the empty bed on school nights and forcing Vee to confront the word "love."
+~ F5.1 DEEPENED: Vee officially admitted in her own chest that she loves him, making the inevitable pointing-game revelation completely catastrophic.
+~ F17.2 DEEPENED: Vee literally described Randi's mouth-to-mouth kisses to Pace over dinner, cementing how deeply and dangerously normalized the physical intimacy between the two women has become.
+~ S1.3 SHIFTED: Pace now knows Randi has crossed the physical line with Vee outside his presence, meaning the secret threesome dynamic is actively escalating without Vee's consent.

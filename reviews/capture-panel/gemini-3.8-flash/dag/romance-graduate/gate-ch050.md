@@ -1,33 +1,34 @@
-*capture-dag-v3-grounded · gate ch050 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha bb2635a8b1b0 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch047 · history ch001..ch047 · ledger no seed 577b29eca564 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch050 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha cf3b0e619e49 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch046 · history ch001..ch046 · ledger no seed 625a13a57380 · 2026-11-06*
 
 REACTION
 
-My chest is so tight I can barely breathe. On the surface, this chapter is the absolute sweetest, most breathtakingly romantic thing in the world. Vee sitting naked at his table while he washes up, and Pace—quiet, unbothered, steady Pace—saying, *"I want to meet your people."* And then revealing that he hasn't just tolerated her endless chatter all autumn; he literally stored every single scrap of her life in his head. The fact that he remembered Meg’s boots were a half-size too big from an offhand sentence on a hike in *October*? And quoting her own joke about Kayla talking the paint off a wall right back to her? That is pure, top-tier romance heroin. It dismantles her completely because no man has ever listened to her like that.
+Oh my god. *Oh my god.* I am sweating. My heart is beating so fast I can feel it in my throat. This chapter was an absolute, unhinged, scorching-hot masterclass—and simultaneously the most suffocating psychological time bomb this series has ever set ticking.
 
-AND THEN THE ABSOLUTE, TERRIFYING HORROR CRASHES IN.
+First of all, Vee stepping into her full, unashamed power as a "pleasure princess" was EVERYTHING I have been starving for. The playful arrogance of her padding around his house in literally nothing but a scrunchie, the sheer domestic luxury of him setting the bread machine before dawn so she’d wake up inside the smell of it, her leaning over to brush her bare breast against his cheek at the sink—it was delicious, joyful, unbridled female pleasure. And watching Pace, the absolute titan of rigid control and arithmetic precision, completely unravel—burning the toast because she put her foot on a chair, stumbling over his boots in his hurry to strip—was worth every single second of the angst we suffered over break.
 
-Pace is engineering a massive group gathering with *all* of Vee's worlds colliding. He doesn't just want Randi and Cassie at a three-person dinner where things might get awkward or intense; he wants the whole sprawling crowd—Kayla, Meg, Danny, Theo, Cassie... and Randi.
+And then the bedroom scene. Sweet mother of god. Rivers writes cunnilingus like nobody else on earth. The "tiling," the unhurried journey from her wrists down to the soles of her feet, his tongue curling and scooping and making those raw, uncensored, greedy noises—it’s so filthy and so profoundly reverent at the exact same time. The way Pace drinks her like a starving man while holding her open, refusing to look away or let her hide behind her lifelong shame, is pure romance wrapped in scorching erotica.
 
-Do they realize what is about to happen?!
+BUT THEN. *THE KISS.*
 
-First of all: *Pace and Randi in a public room in front of Vee and Cassie.* Randi has spent months pretending Pace is just some random guy she barely knows, the tutor from the coffee shop. Meanwhile, Cassie has a brain like a steel trap. If Randi and Pace are in the same room, with their history, their shared glances, their intimate shorthand—or worse, if somebody who knows Pace walks up, or if Randi's mask slips for one microsecond—Cassie is going to sniff it out in two seconds flat.
+My stomach plummeted straight through the floor. The second Pace carried her own slickness up to her mouth and she had that instinctive, gut-level, Ohio-bred recoil—"Ugh—gross... That's—no. Wrong"—I practically screamed out loud. Pace’s quiet, immediate respect—wiping his mouth, backing off without an ounce of petulance or punishment, letting her come to him—was incredible. BUT THE HORROR OF WHAT SHE DOESN'T KNOW.
 
-Second of all: *Brooke's ultimatum.* Brooke literally *just* told Randi under the composites that having an open, scandalous entanglement with a girl would get her booted from Standards like Lauren Pike. If Randi shows up at a loud, sprawling college hangout where Vee is beaming and touching her arm, while Pace is standing right there watching his two lovers interact in the open air... my god, the tension is going to be suffocating.
+She thinks the cream cashmere blanket is just a sweet, nameless gift he left for her. IT IS RANDI'S BLANKET. The blanket Randi wraps herself in after being spanked on the bench. Vee literally laid it out like a bridal bed and soaked it with her own release! And now—the absolute coup de grâce—she is planning to take the kissing-her-after-eating-her-out thing straight to Randi on Tuesday after Anthro.
 
-And third: Vee's sweet, protective instinct about Pace's sensory overload! She remembered Chili's and how the noise paralyzed him, so she asked him to pick the venue so he won't be trapped. She loves him so much. She is completely, totally, utterly his. And she is walking straight into the epicenter of an atomic blast. "Let me handle it," he says. Pace is choosing the ground. Pace is setting the board. He's bringing the secret into the daylight, and neither Vee nor Randi has any idea what kind of ambush is coming. I am screaming.
+She thinks she’s going to confide a funny, slightly taboo little bedroom detail to her best friend over dinner. She has NO IDEA that Randi knows *exactly* how Pace kisses after head, because Randi has been on both ends of Pace’s mouth! If Vee asks Randi, "Does your guy ever kiss you right after he goes down on you?" or describes the taste... Randi’s brain is going to detonate. The dramatic irony is so thick you could carve it with a steak knife. I am terrified, I am panting, and I need chapter 48 immediately.
 
-GATE 48 — Back
+GATE 47 — Missed a Spot
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 0
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Pace remembering the half-size-too-big boots from October destroyed me with tenderness, but the sheer, suffocating dread of him orchestrating a gathering where all of Vee's worlds—and Randi—collide is masterclass psychological suspense.
+WHY: The transition from glorious, playful erotic worship to that suffocating psychological time bomb at the end—Vee soaking Randi's blanket and planning to confide Pace's post-oral kiss to Randi—is absolute literary genius.
 
 LEDGER
-+ LOVE: Pace keeping every offhand sentence Vee ever uttered on a mental shelf—remembering Meg's boots slipping from October.
-+ FEAR: Pace gathering Vee's entire social circle—including Randi and Cassie—in one room is going to completely detonate the secret.
-+ WAITING: The group gathering Pace is planning, where Randi has to sit across from Pace and Vee in front of Cassie.
-~ [F5.1] DEEPENED: Vee being so overwhelmed by Pace remembering her friends cements how entirely, defenselessly in love with him she is, making the impending truth fatal.
-~ [W47.3] SHIFTED: The next confrontation isn't just Tuesday's Anthro debrief; it's now building directly toward the massive group outing Pace is planning.
++ LOVE: Vee claiming her status as a "pleasure princess"—reveling in being kept, fed, and brought off first without a shred of maternal guilt.
++ SUSPICION: Vee telling Randi about Pace kissing her with her own slickness on his mouth is going to blow the entire secret wide open, because Randi knows Pace's bedroom habits down to the millimeter.
++ WAITING: Tuesday's Anthro class and dinner—Vee debriefing the coat and the "gross" kiss to Randi while Randi stares at the woman she is desperately in love with.
+~ [F1.1] DEEPENED: Vee being entirely at home in Pace's bed, wrapping herself in Randi's cashmere blanket without knowing it, makes Randi's position infinitely more agonizing and dangerous.
+~ [F5.1] DEEPENED: Vee completely surrendering to being a "pleasure princess" and reveling in his devotion makes the pointing-game secret an absolute lethal threat to her soul.
+~ [F17.2] DEEPENED: Vee's emerging curiosity about tasting her own salt on Pace's lips is going to bridge straight into her physical dynamic with Randi.

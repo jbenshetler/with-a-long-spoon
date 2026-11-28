@@ -1,32 +1,28 @@
-*capture-dag-v3-grounded · gate ch063 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 05d75bcab161 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) · history ch001..ch060 · ledger no seed 218ecbf6b310 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch063 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8fc308144c27 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch059 · history ch001..ch059 · ledger no seed cc5ecd918184 · 2026-11-06*
 
 REACTION
 
-Oh, there it is. The kiss. Vee kissing Randi at the sorority house was a goodbye gone long, but this is a full-on, tongue-and-hands, public, moaning kiss on a dance floor. It's explicit, charged, and bodily. The dancing build-up is great: Randi's hands guiding her hips wider, lifting her arms, the skirt climbing, "your panties are showing," and the shame and heat running on one wire again. The held inch before the kiss is the best writing in the chapter.
+This is a long, explicit, inventive set piece, and I enjoyed the hell out of it. The body-paint scene is new. The fruit fed between brushstrokes, the grapevine growing up her arm, and the breast she turns into his face ("Oops") all made me grin. "Fresh canvas… gesso" is a great dirty-funny reveal. Pride instead of shame at the photo is a real step for her.
 
-And then the gut-punch: "You really did a great job putting on a show. I almost believed it." Randi, who I know is coming apart, covers by calling it a bit. Vee takes it because it's the only thing held out to her. That's cruel and exactly right. Randi is managing, and she's using the alibi again, same as "for us" and "it's work." I want to shake her.
+And the book knows exactly what it's doing with the dread. He paints her with her own wetness, then kisses her everywhere *except* her mouth until the end, when she searches for a trace and "the uncertainty disappear[s] into the wave." The taste thread is in her mouth again, and she still isn't asking whose it was. Pace deliberately cleans her off the skin and wipes his own mouth. I think he's learning how to work it. Then the ending: the photo is hers alone, and she decides Randi will never see it and she won't tell her. That's a big shift. It's Vee's first deliberate secret from Randi, and it comes right after Randi sent her to the wax. I love it, and I'm a little afraid, because "Not that she'd ever show her" is exactly what I expect to be broken.
 
-The setup matters too. Randi handed her the skirt she knew would climb. She picked the ground: the "Wanna go to a party" ask, the hand-picked outfit, the Harrison show. Last chapter's wax and "barely stings" now look like part of one arrangement. And the Love bracelet "requires tools" is a very pointed bit of jewelry.
+Small grumbles: the opening shower and panties run long, the "pleasure princess" callback is cute but repeated, and "terrible" for the scar was odd. Her kissing the scar with no story is a nice small move. And "You're always beautiful" again, which Randi flinches at. I notice it every time.
 
-Vee's mother's "floozie" chime is back, which is a small groan. The outfit inventory and the long Randi-appearance catalogue ran long, and I skimmed. The Brooke bit was interesting: she didn't mention the crying, and she said "I can see." Brooke is watching, and I'm nervous about the ultimatum.
-
-The ending, "no version of the night in which she could ask," is the dread I read for.
-
-GATE 61 — On Her Floor
+GATE 60 — Still Life
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
+NEXT: 9
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "Her hair was off her neck entirely, drawn back into a French braid so tight and precise it didn't read as braided so much as inlaid" (the long appearance catalogue before the party)
-WHY: The dance-floor kiss is hot and finally mutual, and Randi's "I almost believed it" is the cruelest cover yet. Vee is wide open with nowhere to put it, and I need Randi's side now.
+ROMANCE: 2
+ALMOST-STOPPED: "The drive back from the salon took seven minutes. Vee spent six of them sitting very straight." (the shower and panties lead-in before the real scene)
+WHY: The painting scene is hot, funny, and inventive, and the unasked taste question still hangs over it. Vee deciding the photo is hers alone and Randi won't see it is the first real secret between them.
 
 LEDGER
-+ LOVE: The held inch before the kiss, and Vee kissing back with her whole body, no longer a goodbye.
-+ GRUDGE: Randi's "I almost believed it" turns the kiss into a bit again, and Vee swallows it.
-+ SUSPICION: Randi staged the evening, the skirt, the Harrison show, the plus-one, and the Brooke "I chose" is a bigger statement than Vee hears.
-+ FEAR: Brooke's "I can see" means the house is watching, and the ultimatum is about to land on this kiss.
-+ WAITING: Randi's own head after the kiss, and whether Vee ever asks.
-~ F6.3 DEEPENED: Randi's want broke out in a full kiss in public, then she covered it as a show.
-~ S58.1 CONFIRMED: Randi's stillness was want, and she acted on it, then hid it.
-~ F45.1 FADED: that scene is long past.
++ LOVE: The body-paint scene, with the walnut-parsley-grape kisses, the fruit, and "Oops" with the orange smear on his face.
++ LOVE: Vee kissing the scar and asking it nothing, going past it.
++ SUSPICION: Pace avoiding her mouth until the end and wiping his own mouth is deliberate, so he is managing the taste thing as well.
++ WAITING: Saturday with Randi, the skirt and the mixer, and whether the hidden photo stays hidden.
++ FEAR: Vee's first secret from Randi will make Randi push harder to see it.
+~ S54.3 DEEPENED: Searching for a trace on his mouth again, and she still lets the thought go.
+~ W59.4 ANSWERED: Pace found her bare, and it was a lavish scene; Randi hasn't heard yet.
+~ W54.2 DEEPENED: She searched his kiss for the taste again and let it go.

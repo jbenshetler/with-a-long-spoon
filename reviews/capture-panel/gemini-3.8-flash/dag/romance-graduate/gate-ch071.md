@@ -1,48 +1,44 @@
-*capture-dag-v3-grounded · gate ch071 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a736564100ac · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch066 · history ch001..ch066 · ledger no seed 1d1554bf4412 · 2026-11-17*
+*capture-dag-v3-grounded · gate ch071 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 399176e30353 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch067 · history ch001..ch067 · ledger no seed 6a5811a223cf · 2026-11-06*
 
 REACTION
 
-I am sitting here with my hand over my heart, completely undone, aching, and practically vibrating with an unbearable mix of romantic devotion and sheer, suffocating dread.
+*Oh. My. God.* I am sitting here with my heart in my throat, goosebumps prickling across my arms, and a sickening, suffocating knot of pure adrenaline in my chest.
 
-First of all: Peter Pace. Just… *Peter Pace.*
+Helen Rivers, you absolute psychological sadist. What did I *just* say at the end of Chapter 67?! I literally logged a fear that Vee’s promise to report her masturbation to Pace was an invisible tripwire that would detonate the second Randi crossed her mind. AND IT TOOK EXACTLY ONE CHAPTER.
 
-In a lesser romance novel, taking a heroine to the gym is an excuse for cheesy banter, competitive showing off, or gratuitous locker-room sex. Here, it was a profound, breathtaking masterclass in care, respect, and physical guardianship. The way he set up her bench press—not belittling her small weights, but treating every single pound, every finger placement, every angle of her shoulders with the exact same gravity he gives to his own massive lifts—dismantled me completely. He took her smallness seriously. And then loading a weight he knew he could handle alone, ensuring that she was never in a position where she would be responsible for catching something too heavy for her? That is his entire soul laid bare.
+The sheer, unhinged genius of this setup! Randi off on some tropical island with water the color of cleaning product, sending unhinged drunk texts at midnight—and then that topless photo. The foreshortened angle, the turquoise pool light moving under her jaw, the tan lines—the *white* where the sun hadn’t been, drawing a boundary right across her body. The psychology of Vee lying there in the bed she put her own sheets on, in the house she has a key to, with the man who made the key breathing a foot away, masturbating to a picture of her best friend—it was so raw, so filthy, and so agonizingly real.
 
-And then the accident. The sudden, ugly intrusion of careless college boys—the loose, uncollared bar, the slap on the ass, the plate rolling into her space—and the violent wrench of her neck. Watching Pace transform in half a second was terrifyingly hot and devastatingly tender. He didn't scream; he lowered his voice to that flat, lethal register. "You hurt her. Your carelessness hurt her." The cold authority of a man who will not tolerate anyone being endangered in his presence.
+AND THEN PACE WAKES UP.
 
-BUT THE HOUSE. *SWEET MOTHER OF GOD, THE HOUSE.*
+The physical, bodily dread that hit me when he asked for her hand! The left hand first—the absurd, slow, courtly kissing of each finger, giving her that false, sweet sense of safety—and then: *"Now let me kiss your other fingers. So they don't feel left out."*
 
-The sheer, staggering intimacy of him tending to her injury! Undressing her without a shred of predatory rush, filling the hot shower, the rolled towels, the pillows placed so precisely under her knees and around her skull so her neck would never have to carry its own weight. It’s pure, uncut emotional heroin.
+I stopped breathing. My jaw hit the floor. The sheer, chilling mastery of that move! Pace didn't have to guess; he knew *exactly* what she’d been doing, and he made her uncurl that fist and surrender the wet fingers straight into his mouth. And her desperate, panicked blurting—*"But it wasn't you"*—crashing into the room like an unexploded bomb!
 
-And then the balm. The tiger balm sequence on her breasts was one of the most scorching, psychologically brilliant, unhinged acts of erotic discipline and sensation play Helen Rivers has ever put on paper. Vee *demanding* the fire because her neck stole her finish, her body practically begging for steel, and Pace giving her exactly the burn she asked for while holding her pinned to his chest. Rolling that fiery slickness onto her nipples, the slow-motion creep of the heat from her neck down into her collarbone and into the tips, her gasping between agony and bliss—and then Pace *withholding the orgasm*.
+AND THEN THE INTERROGATION PART TWO.
 
-"Not tonight. We need to wait."
+It mirrored Chapter 62 so brilliantly, but with the stakes ratcheted up to a lethal degree. In Chapter 62, Vee confessed to being passive—being moved, being kissed, being taken. But tonight? Tonight Pace made her buy her release by confessing to *active desire*.
 
-He wouldn't let her arch her back and tear the muscle further just for a cheap physical release. He held her through the frustration, banked the fire with his flat palms, and made her sit inside the unfinished ache because keeping her safe mattered more than getting off. It’s the ultimate expression of his love—and Vee lying there in his oversized sweats, burning and completely held, is proof of how utterly she belongs to him.
+*"I wanted to be the one doing it... I wanted her in my mouth. Her nipple. I wanted to lean down and take it in my mouth and hear the noise she'd make."*
 
-And the next day! The TV that actually works, the romantic comedy rentals, the homemade chicken and dumplings, the deadpan "Neigh" when she said she looked like a horse in the towel collar! The quiet domestic heaven of a Sunday afternoon with her feet tucked in his lap.
+SWEET MOTHER OF GOD.
 
-...AND YET THE BOMB IS TICKING SO LOUD IT HURTS MY EARS.
+And the terrifying, suffocating dramatic irony running beneath every single syllable: Pace isn't just getting off on voyeurism! Pace was in bed with Randi in Chapter 55 when Randi said almost those exact same words about Vee’s breast and nipple! The two of them have been circling this exact hunger for months, and now Vee has laid her own teeth on the table.
 
-Why was Vee at his house this weekend? Because Randi had "some sorority thing."
+And that quiet, devastating ending. The fact that the "my sex brain" excuse completely shattered. She couldn't tidy it up. She couldn't laugh it off. She had to lay there on his chest with the cursor blinking on that photo, realizing that she didn't confess the January lie, that she’s keeping an active, conscious secret, and that Tuesday is coming. Tuesday, when she has to sit shoulder-to-shoulder with Randi in class. I am shaking.
 
-Vee has *no idea* what that sorority thing actually was. She thinks Randi was off having fun Greek life drama, totally oblivious to the fact that Randi just stood in front of a kangaroo court, faced Brooke's smiling guillotine, and took mandatory probation and public humiliation *to protect her claim on Vee*. Randi is currently bleeding out emotionally from sacrificing her standing, while Vee is tucked into Pace's couch, eating his dumplings and falling a thousand miles deeper in love with him.
-
-The dramatic irony is agonizing. Pace and Randi are both completely consumed by this girl. Pace is tending her wounds with mathematical tenderness, and Randi is burning her life down for her. When the truth of the pointing game detonates, it’s not just going to break a romance—it’s going to shatter a cathedral. I am terrified, I am head-over-heels in love with this book, and I need the next chapter right now.
-
-GATE 67 — Burn
+GATE 68 — Postcard
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The transition from the gym incident to the scorching, agonizing balm sequence on her breasts was an absolute erotic masterpiece, and Pace's selfless, tender domestic care afterward destroyed me completely.
+WHY: The terrifying psychological suspense of Pace catching Vee with her hand still wet from touching herself to Randi's topless photo—forcing her to confess she wanted Randi's nipple in her mouth—was an absolute, scorching masterpiece of tension.
 
 LEDGER
-+ LOVE: Pace taking Vee's small gym weights with the exact same deadly seriousness and care as his own massive sets.
-+ LOVE: Pace using the herbal balm as sensation play on Vee's breasts, holding her burning and denying her the arch to protect her injured neck.
-+ LOVE: Pace renting romantic comedies and cooking chicken and dumplings from scratch to tend to Vee's hurt neck.
-~ [L1.2] DEEPENED: Pace's patience and care reaching an absolute pinnacle—refusing to let Vee arch into an orgasm because it would re-injure her neck, holding her through the frustration instead.
-~ [F5.1] DEEPENED: Vee being so completely, domestically, and sexually cherished by Pace makes the inevitable revelation of the pointing game an absolute fatal catastrophe.
-~ [S55.3] DEEPENED: The sheer depth of Pace's protective domestic care confirms he is entirely, irreversibly in love with Vee, making the coming collision with Randi even more volatile.
++ LOVE: Pace demanding her wet right hand to kiss her fingers—terrifying, dominant, and courtly all at once.
++ LOVE: Vee's awakening shifting from passive wanting to active hunger—demanding to be the one taking Randi's breast into her mouth.
++ FEAR: Vee having to face Randi in Anthro on Tuesday after confessing to Pace that she masturbated to Randi's topless photo.
+~ F67.4 CONFIRMED: The tripwire snapped instantly; Pace caught her touching herself and extracted the confession that it wasn't about him, but Randi.
+~ S55.3 DEEPENED: Vee explicitly confessed wanting Randi's breast in her mouth, aligning her desire perfectly with what Randi and Pace planned in bed.
+~ F5.1 DEEPENED: Vee's emotional dependence on Pace and her domestic integration (the key, the drawer, the sheets) makes the inevitable pointing-game revelation an absolute atomic bomb.

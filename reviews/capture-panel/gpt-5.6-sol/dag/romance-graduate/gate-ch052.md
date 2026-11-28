@@ -1,30 +1,31 @@
-*capture-dag-v3-grounded · gate ch052 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 156c8e3f33b2 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch049 · history ch001..ch049 · ledger no seed d99e74b94d21 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch052 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 213059ecdcb4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch048 · history ch001..ch048 · ledger no seed 20f0f9b3e2db · 2026-11-06*
 
-REACTION — Oh, she changed his first attempted “I love you” into “It’s late. Is everything alright?” That hurt worse than the sweater.
+REACTION — Oh, Vee did not merely avoid telling Cassie what happened. She invented an entire respectable weekend and handed it to the cleanest witness she has.
 
-This is the second time Vee has told the reconciliation, and the lie is getting cleaner. With Cassie she invented laundry because Cassie might have looked too hard at what “we talked” meant. With Kayla and Meg she can tell the erotic truth—the coat, the heels, the flash on the porch—because the spectacle itself keeps anyone from asking what Pace was saying when she opened it. She has turned the exact moment he tried to give her the word into generic courtesy, then turned sex into the successful answer to a fight about whether sex and care were being used in place of words. “It worked” is doing terrifying work here.
+“We talked.” No, you did not. Pace tried to say the first syllable of what mattered, and Vee stopped him with her coat. Then she built a ruined sweater, dyed pants, laundry, and a long T-shirt to explain why she came home in his clothes. The lie is so sweet and domestic and funny that Cassie actually throws her head back laughing—and I felt sick underneath my own affection for them. Randi taught Vee to replace words with a sexual performance, and now Vee has converted that performance into a conversation. The concealment is no longer only Pace and Randi’s. Vee has started protecting the arrangement from the person most likely to see it clearly.
 
-And of course they validate it. Meg’s story is sweet and ordinary: she behaved badly, then apologized in a language Danny would enjoy. But Vee did not behave badly by asking what she was to Pace. Her naked arrival was not an apology owed to him, no matter how lovingly Randi framed it. Watching that false equivalence settle comfortably over waffles made me want to reach across the table and shake her. “Sometimes you have to make it right in their language” is exactly the story Vee needs in order to recast asking for a declaration as her offense and the sexual performance as repair.
+And Pace shrinking the sweater is such a revealing invention. She cannot tell Cassie, *I went to him naked because Randi told me to, he began to say something, I stopped him, and we never returned to it.* So she invents an accident that leaves her naked through nobody’s choice, then lets Pace’s domestic incompetence take the blame. It makes the weekend harmless, couple-shaped, and ordinary. Even the burned toast gets cleaned up: not Vee deliberately using her naked body to break his concentration, just a funny consequence of the laundry mishap. She has edited every act of appetite out of her own happiness and called the edited version talking.
 
-I still loved this breakfast. I loved Vee checking whether the cost was okay before sweeping Kayla and Meg into her new taste for abundance. I loved Kayla being completely Kayla, and Meg’s dry little “This is a place.” Most of all, I loved the check getting split. Vee wanted to make the morning generous, but nobody let generosity become debt or social ranking; they all paid, argued about the tip together, and left equally inside the occasion. After Randi’s expensive shoes and all the costs Vee has quietly absorbed trying to enter brighter rooms, that felt wonderfully clean.
+That hurt especially because Cassie gives her exactly the kind of attention she keeps seeking elsewhere: turns the whole chair, offers the whole front of herself, and waits. No steering, no interpretation, no pretty answer already prepared. Vee could have told her anything. Instead she tells the lie because Cassie’s clear attention is precisely what the truth cannot survive.
 
-And there is something gorgeous in Vee having “the middle of it all.” She isn’t abandoning the ordinary world for Pace’s house. She is bringing her appetite back to her people, finding a place they all enjoy, and letting herself be the bright organizing force. I want that for her so badly.
+Then Cassie’s mother thanking Vee for the card nearly broke me. That tiny exchange contains more uncomplicated belonging than all the spectacular choosing Vee has spent months chasing. Cassie hears the real size of Vee’s response and stops one beat before making her perform it. I love her so much. And I loved Vee being happy to return to the cramped room, the weak shower, the hot radiator, the draft—ordinary life has not become contemptible just because Pace showed her abundance. She can still recognize home when it asks nothing of her.
 
-But Wednesday is now bearing down on me. Kayla is planning hair. Meg is calling Pace “your man.” Vee is delighted to say he is handling everything, and every friend at this table now believes the rupture was repaired through talking and a grand sexual apology. Pace is about to meet them while carrying the actual unfinished declaration—and Randi is about to walk into a gathering where she is supposedly meeting him properly. The cover story is no longer private. It has been served warm to everyone who might otherwise recognize the truth.
+But the flannel coming back at the end frightened me. It already failed once as an answer, and now that Vee believes the relationship has been repaired, she is ready to recharge it with Pace’s scent and resume counting down to Friday. She tells herself he is “hers again” when he still has not completed the sentence, still has not disclosed Randi, and has just invited the hidden relationship into a room with Cassie. Vee has unpacked physically and repacked the entire truth.
 
-GATE 50 — Across
+GATE 49 — Unpacking
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 1
-ROMANCE: 2
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee’s easy breakfast with Kayla and Meg made me love the ordinary life she is carrying back into Pace’s abundance. But she has now replaced Pace’s interrupted declaration with invented courtesy and persuaded another set of witnesses that sex successfully resolved the fight; I need Wednesday’s supposedly first meeting immediately.
+WHY: Vee inventing a domestic laundry disaster so Cassie will believe she and Pace “talked” made the reconciliation feel more dangerous than the rupture. Cassie offers her unsteered attention and quiet belonging, but Vee is now actively protecting the wordless arrangement from her clearest witness, and I need to see what happens when that witness enters the room Pace is building.
 
 LEDGER
-+ GRUDGE: Vee rewrites Pace’s “Vee, I l—” as the generic “It’s late. Is everything alright?”, erasing his attempted declaration so the naked reveal can remain the whole truth of the reunion.
-+ LOVE: Kayla and Meg refuse to let Vee buy their belonging; they split the expensive breakfast three ways and deliberate the tip together, leaving everyone equally inside the occasion.
-~ F36.2 DEEPENED: Vee is now repeating the manufactured story beyond Cassie, preserving the erotic truth because it distracts from the relational lie and teaching her friends that the silence was repaired.
-~ F39.2 DEEPENED: “It worked” turns sex into the accepted resolution of a fight caused by substituting sex and care for words, and Meg’s analogy lets Vee recast her legitimate question as an injury she owed Pace an apology for.
-~ W5.3 DEEPENED: Wednesday’s gathering is fixed, and Kayla and Meg already understand Pace as Vee’s man while Randi is still scheduled to enter as someone he has barely met.
-~ W44.3 DEEPENED: Pace’s attempted declaration has not merely remained unfinished; Vee has edited it out of the story she now tells her people, while the dinner moves forward with Randi still undisclosed.
+~ F9.1 DEEPENED: Cassie is physically back beside Vee and gives her complete, unsteered attention, but Vee now keeps her at a more dangerous distance by inventing an entire harmless domestic account of the reunion.
+~ L7.1 DEEPENED: Cassie turns her whole chair toward Vee, waits without steering, then hears the true size of Vee’s reaction to her mother’s invitation and ends the subject before belonging becomes a performance.
+~ F36.2 DEEPENED: Vee no longer merely builds merciful explanations around someone else’s silence; she manufactures a laundry accident and calls the wordless sexual reunion a conversation.
+~ F39.2 DEEPENED: Sex has not only drowned the relational question again; Vee now reports the drowned question to Cassie as something she and Pace successfully talked through.
+~ W44.3 DEEPENED: Pace’s declaration remains unfinished and Randi remains undisclosed, while Vee has begun telling other people both absences were resolved.
+~ L37.1 SHIFTED: The flannel that could no longer comfort Vee before the rupture has become a cherished weekly ritual again, even though Pace still has not given it the words she once learned scent could not replace.
+~ L48.1 DEEPENED: The cramped dorm room, weak shower, radiator, draft, and Cassie’s ordinary presence remain a home Vee can love after Pace’s abundance; she has not lost her appetite for the life outside his house.

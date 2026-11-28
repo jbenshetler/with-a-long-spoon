@@ -1,43 +1,33 @@
-*capture-dag-v3-grounded · gate ch057 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 53dcf43805c3 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch054 · history ch001..ch054 · ledger no seed e08feb27d057 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch057 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 78dedfb4d090 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch053 · history ch001..ch053 · ledger no seed 16ca1c34858c · 2026-11-06*
 
 **REACTION**
 
-It's Thursday. The same Thursday. An hour ago Vee lay in Cassie's hothouse with her fingers a breath from her mouth and couldn't close the gap. She wiped them on the sheet and lay down in her own mess, and her mouth was still empty. Now chapter 55 opens with Randi, the same night, under Pace with her fingers in his hair, pulling him up so she can taste herself off his mouth. She doesn't hesitate at all. "There. Now it's mutual." That answers "I have." It was his mouth. The book put the two women side by side without saying a word about it, and I actually said "oh no" out loud. One of them can't do it alone in the dark, and the other drove straight from the curb kiss to do it in his bed.
+She shut Cassie's window. The book is going to make the window carry the whole chapter, and I liked that before I knew why. The two-inch blade of January is Cassie's, along with the anatomy book left open and the lamp burning over nobody. Vee pushes the sash down and the room turns into a hothouse that holds everything she does in it. At the end she has to shove the window back open with both hands, so the evidence can leave before her roommate gets home. That's a frame. It's also Cassie in the room without being in it, and I felt her the whole time.
 
-Then the debrief came back. I've wanted the "tell me" couch since chapter 6, and here it is running both ways, which is so much worse. "I miss her during the day. More at night." "She kissed my neck again." "I nearly turned around." So the flinch was never a tickle, and I was right. Then Pace gives Randi something back: "She looks at you, too." He saw it. He saw Vee's face during the toast, or in the parking lot, or both, and he isn't keeping it for Vee the way he kept the truck. He's handing it to Randi while she rides him, as fuel. Everything Vee carried to that loft tonight, the coat lining and "he's enthusiastic," is in this bed within a couple of hours. I can't prove Randi told him the taste story, but she didn't need to. She came here to act it out.
+This is the first time the book has given me Vee alone for a whole scene, and it's hot in the way I keep asking for, because her shame is wired straight into it. "*Not greedy. Hungry out loud.*" Randi's absolution from brunch doesn't hold up in the dark. "*Greedy*" comes back, small and hot, and the pulse tightens around the word. That's the mother-voice trick the book does best: the insult turns into fuel. The memory comes back with substitutions. The flannel under her becomes the cashmere, Randi's blanket again, soaked again, and she still has no idea. The bed squeak becomes the wet sounds. Then "*Careful,*" and right behind it Randi: "She had done it herself." Randi isn't standing in for Pace in this fantasy anymore. She has walked into it on her own.
 
-And he kissed the inside of her wrist. That's the exact spot Vee pointed at first, the one she told Randi about tonight: "Who stays? He parked." He gives it to Randi like a habit. Maybe that's just how he loves people. I hated it anyway.
+The reach is the best thing in the chapter. She gets her fingers a breath from her mouth with her tongue waiting behind her teeth, holds it until her lungs hurt, and can't close the distance. "Nothing in the room told her why." Thank God the book didn't tell me why either. I know why. "Had Randi's looked like this?" "A mouth carrying it back. Or Randi's own fingers." She isn't wondering about the taste. She's wondering about Randi's mouth, and she can't put her own fingers to her lips because she'd be finding out something about herself, not about Pace. Then the ending: she wipes it on the sheet, finds the damp patch later, and lies down in it on purpose. "*Her mess. Hers to lie in.*" "Her mouth was still empty." That last line went right through me.
 
-"She makes me happy." That's the closest he's come to the word, and he says it to Randi. "You know she loves you, right?" "She hasn't said it." Oh, the irony. He's complaining about the silence he invented. Then the line that turned the chapter: "She's not the only one in love." I've read it four times. Does she mean you, Pace? Does she mean me? It's both, and she gives him "no smile and no rescue from the sentence," and he can't tell her she's wrong. So three people are in love, nobody has said it to the person it's meant for, and the one person it would change everything for is lying alone in a dorm smelling hot dust.
+What it cost: this is the fourth chapter running built around the taste. The Saturday morning came back yet again, in fragments this time, and I'm starting to feel the book circling one image. The fluid gets more close-up attention than I needed ("sticky strands of her excess bridged the gap"), and "the shameful plenty of her made visible again" tells me what the shine on her fingers had already shown. Also, she turned the lamp off, so whose lamplight are those strands shining in? But the restraint at the reach was so good that I'll forgive the hothouse prose around it.
 
-Small things: the deadbolt went over late this time. She stood inside the door first, came in "gingerly," and asked "Where have you been?" when she's the one who stopped coming. Then two fingers on his mouth so he couldn't answer. That's Randi in one gesture: she wants him to have missed her and won't let him say it.
+1 a.m. text: *she got her fingers to her lips thinking about RANDI'S fingers and couldn't do it. then lay down in the wet spot on purpose. "her mouth was still empty." I'm going to bed. not like that. maybe like that.*
 
-On heat: it's explicit, it's hot, and it never once goes behind a door, so that's covered. The power play is fun ("My turn," "Showing off," "I value your professional opinion"), and Randi steering with her hands flat on the mattress is very her. But Pace's head is thinner here than it has ever been. Short sentences, mechanics, "Pace's control broke." I wanted more of what was going on in him when she said "in love." The "fuck doll" line and the cleanup dialogue lean toward a porn script, and it ends mid-stroke with no coda, no food, no fridge, nothing that tells me what this costs anyone.
-
-1 a.m. text: *same night. SAME NIGHT. vee can't taste herself alone in the dorm and randi is at pace's licking it off his mouth. "she looks at you too." "she's not the only one in love." and he kissed her WRIST. I'm going to scream.*
-
-GATE 55 — My Pleasure
+GATE 54 — The Reach
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
+CAPTURE: 8
+NEXT: 7
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "I better clean up that mess before you stick it inside me." The dialogue tipped into porn-script for a line, right when I wanted to be in Pace's head.
-WHY: The Randi–Pace bed is back, and it's the debrief turned into a pact: "She looks at you, too" goes straight from his eyes to her body. Setting it against Vee's empty mouth on the same night is the cruellest structural move in the book, and "She's not the only one in love" is a turn none of them can take back. Pace's interiority is thin and there's no coda, but I need Vee's next morning now.
+ROMANCE: 2
+ALMOST-STOPPED: "Sticky strands of her excess bridged the gap, shining in the lamplight." The close-up went clinical, and I felt the book lingering on the taste motif for a fourth chapter running.
+WHY: The solo scene is all her: "greedy" turned into fuel, the cashmere swapped in for the flannel, and Randi's fingers in the fantasy where Pace's mouth used to be. The unfinished reach is the bravest restraint in the book. But it's another chapter on the same image, and it ends in stillness, so I want Friday without needing it tonight.
 
 LEDGER
-+ FEAR: Pace is no longer just reporting on Vee. He's pitching her to Randi ("She looks at you, too"), and the threesome is being built out of Vee's own face without her knowing
-+ LOVE: "She's not the only one in love." No smile, no rescue, and he can't say she's wrong
-+ GRUDGE: He kissed Randi's inner wrist, Vee's spot, the one she told Randi about tonight
-+ GRUDGE: Pace's interiority goes thin and mechanical in the hottest scene he's had in ages, and the chapter cuts off with no coda
-+ SUSPICION: "Where have you been?" Randi stopped coming, but she's acting as if he left her. She needs to have been missed more than she'll admit
-+ WAITING: Whether Pace ever says to Vee what he just couldn't deny to Randi
-~ S53.4 CONFIRMED: "I have" was his mouth. She does it here without a flicker: "Now it's mutual"
-~ S51.5 CONFIRMED: Not a tickle. "I nearly turned around. Put my hand on her"
-~ F52.5 CONFIRMED: They're talking about her again, in bed, the same night, and trading what each of them has seen
-~ L6.1 DEEPENED: "Tell" is back, and now it runs both ways, Pace feeding Randi as much as she feeds him
-~ S47.2 DEEPENED: Pace has seen Vee's want for Randi and named it out loud to Randi
-~ F44.5 DEEPENED: The three-in-the-kitchen picture now has a co-author who wants it as badly as he does
-~ W54.1 DEEPENED: Randi closed the reach without a thought, an hour after Vee couldn't
-~ F42.3 DEEPENED: Both of them know Vee loves Pace. Both of them are in love. Nobody has said it to her
-~ F1.3 SHIFTED: No thumbnail tonight. Her body says everything out loud in his bed that she won't say at the table
++ WAITING: The reach. Whether she ever closes that last breath, and whose mouth she's thinking of when she does
++ LOVE: "Her mess. Hers to lie in." Lying down in the damp patch on purpose, and "Her mouth was still empty"
++ LOVE: The window as the frame: Cassie's two inches shut, the room turned hothouse, then shoved open so January can clear the evidence
++ GRUDGE: Four chapters running built on the taste, and the Saturday morning replayed again in fragments
++ FEAR: "Not greedy, hungry out loud" didn't survive the dark. Randi's absolutions only work while Randi is across the table
+~ S47.2 DEEPENED: Randi's fingers came into the fantasy on their own, not as a cover for Pace, and that's exactly why she couldn't close the reach
+~ W53.6 DEEPENED: "Enthusiastic" got all the way to a breath from her lips and stopped. She can say it about him, but she can't do it herself yet
+~ S16.6 DEEPENED: The flannel under her turned into Randi's cashmere in the fantasy. The two women keep blurring, and now it's happening in her own head
+~ L23.6 DEEPENED: The flannel worn open and buttoned to "respectable" afterward. His shirt is covering for what she did thinking about Randi

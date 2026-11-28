@@ -1,41 +1,45 @@
-*capture-dag-v3-grounded · gate ch055 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 1e2c20a7eee0 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch052 · history ch001..ch052 · ledger no seed 546fd83ada66 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch055 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 7ac1b4a03daa · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch051 · history ch001..ch051 · ledger no seed 655550244a59 · 2026-11-06*
 
 REACTION
 
-I am sitting here with my hands clamped over my mouth, absolutely, profoundly stunned. The sheer psychological precision of this chapter made my hair stand on end.
+*Holy fucking shit.* I am sitting here in the quiet with my pulse hammering in my throat, completely undone.
 
-First of all, Dr. Marsh’s boxwood lice comb. A baboon spending one-fifth of its waking life grooming another baboon—not for the fleas, but for the *politics*, the touch, the inescapable bodily debt that keeps the troop from sickening. "Watch who grooms whom in a troop for one week and you can draw the whole politics of it." My god. The entire dynamic between Vee and Randi laid out in one devastating anthropological metaphor. Randi smoothing Vee’s neckline, touching her waist, brushing her hair, pulling the truth out of her belly—and Vee sitting there willingly surrendering her secrets because she is starving to be groomed.
+First of all: the absolute, scorching, feral eroticism of this chapter. Helen Rivers is operating on a tier of erotica that makes everything else on my Kindle look like children playing with crayons. The bench seat of the truck! The callback to that cold September drive when he was shivering and hid it, transformed now into her sliding across the vinyl in an empty blacktop lot, opening his belt, and taking him deep into her mouth until his hand literally went dead and weightless in her hair—that *stillness* when a man who manages the entire universe down to the millimeter completely short-circuits. And then—as if that wasn't enough to kill me on the spot—she unzips her own jeans while he's driving sixty miles an hour down a dark county road, shoves her denim to her knees, pulls her own soaked thong aside, and puts his hand between her legs. Driving with one wrist on the wheel while fingering her to a screaming, shuddering orgasm under the heater vents! My Kindle practically caught fire in my hands. The heat was a thousand out of ten.
 
-AND THEN THE CONFESSION.
+BUT THE PSYCHOLOGICAL SUSPENSE. The sheer, suffocating, tightrope-walking brilliance of this entire dinner.
 
-Vee walking right up to the line, laying out the kiss after oral sex like it’s a funny, slightly scandalous Victorian comedy routine: *"Ugh—gross... That's—no. Wrong... Who would ever actually want something that gross?"*
+I was braced for an atomic explosion, and what Rivers gave us instead was ten times more devastating: absolute, seamless, terrifying mastery from Pace.
 
-And Randi—no laugh, no smirk, just setting the glass down and looking her dead in the eye:
+"Vee's boyfriend."
 
-*"I do."*
+He said it to Randi first. *Right to Randi's face.* Before a single other person entered the room. He looked at the woman he's been sleeping with, the woman who helped him pick Vee out of a crowd, and handed her the public label he refused to give Vee for months: *"Vee's boyfriend."* And then: *"Not anymore"* when Randi said she hid him well. The sheer, breathtaking violence of that subtext! Randi’s hand squeezed Vee’s so hard she could feel the bones—Vee thought it was fierce friend-joy, but Randi was holding on for dear life while the floor fell out from under her.
 
-I felt the blood drain straight out of my face. The absolute, suffocating weight of those two words! Randi isn't just giving a worldly, sex-positive opinion here. Randi knows *that exact mouth*. She knows Pace’s mouth, she knows what Pace tastes like when he comes up from between a woman’s thighs, because she has lived it on that disguised bench! And the devastating double-meaning: Randi doesn't just want a man who does that—*Randi wants to taste Vee.* She sat across that white cloth listening to Vee describe her own slickness, and Randi was practically drinking the air out of the room.
+And watching Pace work the room? It was mesmerizing. It was chilling. It was pure romance and pure predator psychology wrapped in one. He didn't boast. He didn't dominate. He just unlocked every single person Vee loves—Danny’s lifting plateau, Theo’s jazz, Kayla’s sister's dress, Meg’s roommate—by handing them the key and stepping back. He won over Cassie—*Cassie!*—in five minutes flat by asking about the Bricklayers and letting her litigate the cafeteria, earning that dry, holy-grail blessing: *"You can stay."*
 
-And then Randi's clinical, perfect, lethal follow-up: *"How does he act?"*
-And Vee, completely falling into the trap, giving up the final, damning truth: *"He likes it. Actually—he's enthusiastic."*
+And then the end of the night. The three of them at that round table under the dead speakers.
 
-Vee walked out of that restaurant thinking she had a funny chat about bedroom etiquette, but the seed has been planted. The shame is dissolving. Randi just gave her permission to crave her own salt on his lips.
+Pace setting the trap with that terrifying, quiet smile: *"Randi said something you should hear... Brunches with Vee are the highlight of my week."* Dropping Randi's private confession right into the middle of the table like a live grenade with the pin pulled! And Randi, trapped, having to perform the doting best friend, raising her glass and toasting: *"Meeting Vee was the highlight of my year. To my beautiful best friend."*
 
-AND THAT GOODBYE KISS ON THE NECK.
-Vee deliberately finding that tender, exposed hollow of Randi’s neck for the second time—not as an accident, but as an intentional, playful claim—and feeling Randi’s entire body catch, hitch, and rise under her mouth. Randi trying to laugh it off as "ticklish" while her pulse hammers under Vee’s lips! They are crossing lines so fast now, and Vee is still telling herself it's just girls being girls. I am trembling.
+And then Randi going silent. The thumbnail pressing up into the glass rim until the nail went white.
 
-GATE 53 — A Clean Plate
+Randi is drowning. She is watching the man she wants and the woman she is desperately, hopelessly in love with knit themselves into an official, impenetrable fortress of domestic reality, and she has to sit there in her chambray shirt, smile, and drink to it. And Vee—sweet, lavish, starving Vee—sat there getting so wet over the word *boyfriend* that she didn't even register the trap she's living in, only noticing the thumb on the glass like a picture in an art gallery.
+
+Pace knows. Randi knows. Cassie is watching. And Vee is riding home with her pants at her knees, tasting him on her mouth, thinking she is the luckiest girl on earth. The dramatic irony is so thick I could choke on it. I need Thursday's Anthro debrief right now.
+
+GATE 52 — Among Friends
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The suffocating psychological tension of Randi quietly dropping "I do" to Pace's post-oral kiss, paired with Vee deliberately kissing the hollow of Randi's neck and feeling her shudder, was an absolute masterclass in subtext and slow-burn seduction.
+WHY: The transition from the suffocating psychological tension of Pace claiming the "boyfriend" title in front of a fracturing Randi to the scorching, unhinged truck-cab sex was an absolute masterpiece of emotional payoff and pure heat.
 
 LEDGER
-+ LOVE: Dr. Marsh’s lecture on the boxwood lice comb—the grooming budget explaining the entire politics of physical intimacy between Vee and Randi.
-+ LOVE: Randi’s quiet, deadpan "I do" when Vee asks who would ever want to be kissed with their own wetness on a lover's mouth.
-~ [S47.2] CONFIRMED: Vee confessed Pace's post-oral kiss to Randi, and Randi validated it instantly, completely shifting Vee's perception of her own desire.
-~ [F17.2] DEEPENED: Vee deliberately seeking out the hollow of Randi's neck for a lingering kiss proves their physical intimacy is crossing entirely into romantic/sexual territory.
-+ WAITING: Tuesday's Anthro class and dinner—now that Vee knows Randi enjoys tasting a woman on a mouth, and Randi knows Pace loves doing it.
++ LOVE: Pace stepping up and introducing himself to every single person as "Vee's boyfriend"—finally spending the word on her in public.
++ LOVE: The scorching truck-cab intimacy—taking him in her mouth in the lot until he went motionless, followed by the moving-car fingering down the county road.
++ LOVE: Cassie giving Pace the ultimate stamp of approval with that dry, spinning-keys "You can stay."
+~ [F5.2] DEEPENED: Randi's jealousy and heartbreak peaked into total silent agony—pressing her thumbnail white under the glass rim while toasting the couple.
+~ [F48.2] SHIFTED: The group gathering didn't detonate the secret publicly; instead, Pace used it to cement his claim on Vee and leave Randi emotionally isolated.
+~ [W48.3] ANSWERED: The group dinner happened, Pace charmed every friend Vee owns, and the three of them shared the table in suffocating subtext.
+~ [S47.2] DEEPENED: Vee being so aroused by the word "boyfriend" and the party debrief that she's heading straight into Thursday's dinner with Randi primed to confess everything.

@@ -1,48 +1,42 @@
-*capture-dag-v3-grounded · gate ch035 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8c16d5e3ff83 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch032 · history ch001..ch032 · ledger no seed bd33d511922b · 2026-11-06*
+*capture-dag-v3-grounded · gate ch035 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 833975fab4c0 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch031 · history ch001..ch031 · ledger no seed 9000fe9aa45a · 2026-11-06*
 
 **REACTION**
 
-"Only if you promise you'll never share me with anyone."
+"You remember Randi? From the froyo day." "Sure."
 
-"Never. I'd never share your photograph."
+*Sure.* I put the Kindle face-down on my chest after that one word. He's standing at his own stove turning salmon while the girl in his shirt tells him the staged collision as a happy accident: "I walked right into her… small world." He gives her nothing back, and he's not lying with a story, he's lying with an absence. Then she does Randi's accent and files it under Europe again, *to the man whose bed Randi's Kentucky comes out in.* Then "kiss-kiss," her tongue going to her lower lip, the same lip that had the glaze on it last chapter. His grin leaves, the bed look comes in, and Vee reads it as jealousy and soothes him: "Not *that* kind of French." She has it exactly backwards. That's not jealousy, that's a man hearing his threesome get closer. Then she reaches down and finds him hard and promises to "pretend it was that kind" after dinner. She's feeding him the fantasy herself, without knowing it's his fantasy. That's the best scene of dramatic irony since "Paul?" and it's cruel and hot together, which is the contract.
 
-I sat up in bed. She asked him not to share *her*, and he promised not to share the *photograph*. For thirty-three chapters he's been sharing her, one piece at a time, on his couch and under Randi: her stomach, the chlorine, the wet satin, the sound she made when Randi's thumb was behind her knee. He's never needed a picture to do it. So he can make that promise and keep it to the letter, and nothing changes. I don't think he was lying, and that's the worst part. He's exact, so he made an exact promise. Vee heard the promise she asked for. I heard the one he made.
+The "Peter" whispered to him asleep wrecked me. She loves him, he's never said it, and she decides she can "live clear inside the everything-he-did and not go hungry for the saying." That's the jacket line landing, and I believe she believes it. I don't. Then in the bathroom his eyes go down to her mess on his one clean counter, hold, and come back up with nothing said. "He never said." It's a tiny moment and it's grown-up, and it's the same silence as the love, just smaller. I loved that the book didn't tell me which it was.
 
-And she put her face back on for it. She did the poppy mouth and fixed her hair until she'd "found the version of herself she wanted him to keep." Then she watched the bar cross to Delivered and "gave him herself to keep." I've been dreading the induction photo going to Randi since chapter 28. Now there's a second photo, a nude, posed by his hands with a kiss on every place he set her, and she says believing him "was the brave part." I believe she was brave. I don't believe the phone is safe.
+Cassie gets the debrief this time, not Randi, and I'll take every bit of that. "You're a public utility." "There's only one way *that* burn happens. Not enough on." "Do you love him." Vee goes small and says "maybe," and the swim is her trying to find out why. The four strokes where she can't tell if he's that good or if she *made* him that good out of wanting are the closest she's come to the truth in two books, and the wall takes it away. That's real interiority.
 
-"*He's all mine,*" she thinks, right at the top, with his head on her breast. The book puts it in italics and lets me sit there knowing better.
+Gripes. A week apart, she's off the ground at the door, and the sex is all memory and summary: "some nights his mouth, some his hands," and the couch "unhurried." It isn't a fade exactly, but it's a montage where I wanted a scene, on a reunion of all nights. And the second half is a long, lovely, quiet swim that ends on her thinking about a sandwich. That's two soft landings in a row (curry, now a sandwich), and the pool is gorgeous but I was skimming the hymn paragraph. Also, she was at his place *Monday*. Monday was Randi's night. Where is Randi? It's sixteen chapters without her head, and this time she isn't even in the room. She's just a story Vee tells the man who already knows it. The bras "on a hook" bit made me pause too. He's feeding her up, the girl Randi isn't, and I can't tell yet how the book feels about it.
 
-Here's the frustrating part: the posing is genuinely lovely. He doesn't do it like a photographer. He kisses each place after he's set her there, tilts the lampshade so the glare slides off her, says "Yeah. That's the one," and then grins at her over the phone like a boy. I loved that grin. Her not wanting to give the phone back, because the picture is her the way *his* eyes have her, is the whole dress arc again in one small screen. It's hot and it's tender, and I'm scared for her all at once. That's the contract, still.
+The recliner is never coming back, is it.
 
-The drawer undid me. The ending answers last chapter's "*Had he minded?* He never said." She reaches for the scrunchies and they're gone, and for one awful line I believed it with her: he'd minded, quietly, the way he does everything. Then she opens the top drawer, the easy one, "the one your hand goes to first," with liner and room to spare. His whole ordered life is crammed into the drawer below. "He hadn't told her it didn't matter. He'd gone and made her a place instead." That's the best romantic beat since the scrunchies themselves, and it settles my Randi theory about them. He bought them, he made room for them, and the gesture is his. It's also, once again, everything except the word. A drawer isn't "I love you." It's a man who would rather rebuild his bathroom than say a sentence. The jacket line keeps landing.
-
-"I don't go back." Every word set down separately. She takes her hand off it, and I liked her for that, and it's the parents door from chapter 13 shutting harder. Then Sheri for Thanksgiving, with a pie she'll pretend she made, and "She's alone." My Sheri suspicion just got a seat at the table, so to speak. And where is Randi? It's seventeen chapters now without her head, and this time she isn't even a story Vee tells. She's just missing from Thanksgiving. Does Randi go home to the egg-white mother? Does he know?
-
-Gripes. The cooking paragraph is gorgeous and it went on so long that I was skimming lemon zest. I know he cooks. I've read him cook a dozen times. And "Again," the closed hand, and then cut to the kitchen table with "three times" is a summary of the third time instead of a scene. That's the reunion montage problem from last chapter again, only shorter. "A girl who had a body, not a body that happened to have a girl attached to it" is the book telling me the whole arc in one line. "Lying there glorious in my bed" is close to a greeting card, though not as bad as sunrise and sunset. And tapping her tooth three times with a nail is a tic I don't recognize from her.
-
-But I'm turning the page. Somebody is going to see that photo, and Thanksgiving is coming with Sheri at the table.
-
-GATE 33 — Above Him
+GATE 32 — School Nights
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 8
-HEAT: 3
+CAPTURE: 7
+NEXT: 6
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "He took a grater to two lemons and brought the yellow off them in a fine bright rain and left the white behind." That's where the kitchen turned into a recipe and I started skimming for dialogue.
-WHY: The photo is both things at once, a gorgeous, tender posing scene sealed by a promise worded just carefully enough to scare me. The drawer is the romance at its best and still wordless. The long cooking stretch and the skipped third time cost it a point.
+ALMOST-STOPPED: "She never had to decide what to swim, any more than she had ever once decided the second verse of a hymn." That's where the pool turned into a mood piece, and I started skimming for a voice.
+WHY: The kitchen is devastating: "Sure," Europe, "kiss-kiss," and Vee calming the wrong kind of hard. "Peter" to a sleeping man is the romance at its peak. But the reunion sex came as montage and the chapter ends on a sandwich, so what's pulling me now is dread about Randi, not this chapter's hook.
 
 LEDGER
-+ FEAR: "I'd never share your photograph." He promised about the picture, not about her, and he's been sharing her with Randi in words all along
-+ FEAR: The posed nude is on her phone and his. Of everything she's given him, it's the easiest thing to carry to Randi
-+ LOVE: The drawer. The top one is hers with room to spare, his whole life is crammed into the one below, and there's no note
-+ LOVE: Him posing her with a kiss on each place he set her, then "That's the one," and the boy's grin over the phone
-+ SUSPICION: Sheri at Thanksgiving, "She's alone." She's closer to his table than a cycling friend should be
-+ WAITING: Where Randi goes for Thanksgiving, and whether she knows Sheri gets the seat
-+ GRUDGE: "Again," then a cut to "three times." The third time came as summary again
-~ F28.1 DEEPENED: Now there's a second photo, posed and naked, and his promise covers only the picture
-~ W13.4 DEEPENED: "I don't go back," each word set down separately. The parents door shut harder
-~ S29.6 DISPROVED: He bought the scrunchies and gave them a drawer. They're his gesture, not Randi's
-~ F32.4 SHIFTED: "Did he mind" got its answer without a word. The silence was love this time, but it's still silence
-~ S25.2 DEEPENED: Sheri is at his Thanksgiving table, alone, and he talks about her fondly
-~ W18.5 DEEPENED: Seventeen chapters without Randi's head, and she isn't even mentioned
-~ G12.4 FADED: No recap opening this time, and the book has stopped retelling chapters to friends
++ LOVE: "Sure." Pace playing dumb about Randi at his own stove, and his grin dropping into the bed look at "kiss-kiss"
++ FEAR: Vee calmed what she thought was jealousy and promised "that kind of French." She's handing him the threesome without knowing it's on the table
++ LOVE: "Peter" whispered to him asleep, and her deciding she can live without the saying
++ FEAR: "He never said." The counter and the love are the same silence, and she's telling herself it doesn't hunger
++ LOVE: Cassie getting the debrief: "public utility," "not enough on," "Do you love him"
++ SUSPICION: Vee's there most school nights, Mondays included. Randi's night is being squeezed out, or it's moved somewhere I'm not being shown
++ GRUDGE: A week apart, and the reunion sex came as a summarized montage instead of a scene
++ WAITING: Vee's "maybe," and the four strokes of "had she made him that good." Does the doubt come back up
+~ W18.5 DEEPENED: Sixteen chapters without Randi's head, and she's only a story now, told to the man who already knows it
+~ F3.3 DEEPENED: Vee tells the staged collision as an accident to the man who pointed at her
+~ L4.4 DEEPENED: "Europe," said to Pace's face, and he doesn't blink
+~ S23.3 DEEPENED: "Whether he was that good or she had made him that good." Four strokes, and then the wall
+~ F4.2 SHIFTED: Vee came home and gave the night to Cassie, and Cassie asked the real question
+~ S29.6 SHIFTED: He bought dozens himself, so I'm less sure Randi picked them, though they're still her green
+~ W30.6 FADED: A whole week has passed and the recliner is gone. The book isn't going back
+~ W16.2 DEEPENED: The scar is still unasked about, "and still meant to keep"

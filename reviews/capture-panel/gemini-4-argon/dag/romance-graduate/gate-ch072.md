@@ -1,73 +1,69 @@
-*capture-dag-v3-grounded · gate ch072 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b8db97e4a4fb · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch068 · history ch001..ch068 · ledger no seed ab4f43ee39f0 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch072 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a736564100ac · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch066 · history ch001..ch066 · ledger no seed 6d5b3dab3fc3 · 2026-11-17*
 
 REACTION
 
-WHAT DID I JUST READ?! I am sitting here with my hand clapped over my mouth, my blood running hot and ice-cold at the exact same time, because *In Her Place* is the most diabolical, scorching, psychologically devastating chapter in this entire series!
+WAIT A SECOND. Did we just jump from Saturday, February 6 (Chapter 66's brunch) to **Thursday, February 18 – Sunday, February 21**?!
+Hold on—my brain is spinning at what that twelve-day time jump means before we even get to the gym and the camphor balm!
+What was on Sunday, February 14, five days ago?! **Valentine's Day!** And what was supposed to happen on Valentine's Saturday in Chapter 56?! The 460 dance hall with Sheri and the Brooks & Dunn cover band! Did Valentine's Day already happen off-page in those twelve days (so they're in this deep, settled domestic groove where she's eating Thursday dinner at his house and casually saying *"Randi's got some sorority thing Saturday"*), OR did something else happen?!
+Wait—and look at why Randi canceled Saturday brunch on February 20: *"Randi's got some sorority thing Saturday."* Is that part of Randi's mandatory freshman attendance probation from the Standards tribunal in Chapter 65 ("the punishment of a girl caught skipping a car wash"), where she now has to show up to every mandatory sorority function on top of Thursday nights?!
 
-First of all—HOLD ON. Look at the date stamp and what Randi just did:
-It is *Saturday, April 10*! (So a whole month has passed since Spring Break in Chapter 68—during which Vee and Pace clearly had a whole new roleplay game: *"the space princess, the chase, the interrogation"*!)
-And how did this afternoon actually happen?!
-1. At noon, Vee—who is at Saturday brunch with Randi!—texts Pace: *coming out this afternoon — don't make plans.* Because Vee had a whole surprise planned for Pace this afternoon!
-2. Pace strips the white sheets (which he and Randi had slept in earlier in the week!) off the bed, puts **Vee's green sheets** on the bed, and waits for Vee.
-3.Meanwhile, at brunch, Randi gets Vee to spill every detail of her "space princess / chase / interrogation" game with Pace... AND **pours four mimosas into Vee until Vee passes out**, drives Vee back to her dorm, undresses Vee out of her "fancy clothes" (the surprise outfit Vee was wearing for Pace!), tucks Vee into bed with a glass of water—AND THEN TAKES VEE'S PHONE (or uses her own after seeing Vee's first text? Wait: the second text past two o'clock—*don't come out when you hear me. stay put, wherever you are. wait till I call — I've got a surprise*—came from VEE'S PHONE while Vee was passed out cold in her dorm room!!).
-4. And then Randi drives out to Pace's house *in Vee's place*, strips completely naked, climbs onto **Vee's green sheets** in the exact calendar-pinup pose Vee took in Chapter 33 (*"like something off a calendar"*), bangs the wooden rail of the bed three times like a drum, and tells Pace that Vee has only been "delayed" for an hour so that Pace will punish her hard and fast against the clock!!
+And then THIS CHAPTER. Oh my god. How does this author take a powerlifting gym, a pulled neck muscle, and a jar of camphor liniment and turn it into one of the most intense, agonizingly erotic, and overwhelmingly romantic chapters I have ever read in my life?!
 
-I am on the floor. Think about the twisted genius of why Randi invented the ticking one-hour clock (*"Vee's been delayed. You have an hour. With me"*):
-As Pace himself reads in her body, *"she hadn't come to be serviced. She'd come to be made to pay for it — had misbehaved out here on the green precisely so that he would. The wanting was real, but it was the second thing. The punishment was the first, and she'd built the whole afternoon to earn it."*
-WHY did Randi need to be punished on Vee's green sheets today?!
-Because she just spent two hours at brunch listening to Vee glow "pink to her ears" about how much fun she and Pace are having (*"the space princess, the chase, the interrogation... She loves you like a house on fire"*), AND because Randi just sabotaged her own best friend—got her drunk, undressed her, stole her afternoon, and stole her phone—out of sheer, desperate, unbearable longing and jealousy! She feels guilty AND left out AND ravenous all at once, so she stages a home invasion onto Vee's green sheets and invents a ticking clock where Pace won't kiss her gently or ease her in, where he'll pull the box out of the closet and *make her pay* for taking Vee's place!
+Let's start at the gym on Saturday morning, because every single detail of Pace in his element had me swooning:
+1. First, the contrast between the campus rec center and this converted cinderblock warehouse with no music, just the flat clash of iron and men breathing, where everyone else seals themselves off in headphones and Pace wears nothing over his ears because *"Pace, she was learning, did not seal himself off from a room. He read it."*
+2. Second, the way he treats her tiny beginner weights with the *exact same reverence and precision* he gives a massive lift! Seating her grip on the knurling, walking her feet back under her knees, setting her shoulders into the bench with the flat of his hand, collaring her tiny five-pound plates ("Everything gets a collar"). Look at what Vee realizes: *"That was the thing that got into her first. Not the weight. That he took her weight seriously. That the smallness of what she was doing bought her back none of his care."*
+3. Third, the comedy and heat of him standing over her head to spot her on the bench press while commando in his gym shorts! Only she in that whole room of men knows what's under those thin shorts right above her face, and when his knuckles graze her breasts on the third rep purely because that's where the bar path is, she loses it laughing!
+4. Fourth, her realization when he loads three big plates a side (315 lbs!) and presses more than the two of them weigh together for six controlled reps: *"She could never have saved him if it had gone wrong — never lifted it off him — and so he had kept himself, the whole set, inside what he could put back down on his own. He had arranged the morning so that she was never once responsible for what she couldn't hold. She hadn't even felt the danger, because he had never let there be any."*
 
-And that BDSM scene with the microsuede cuffs and the nipple clamps and the spanking was off-the-charts intense—especially because of how it echoed and contrasted with both Chapter 1 (*The Bench*) and Chapter 66 (*Burn*)!
-Look at the parallels:
-- In Chapter 66, Vee demanded the camphor burn on her breasts, and Pace held her with total protective care and *refused* to let her come so she wouldn't hurt her neck.
-- Here, Pace doesn't kiss Randi at all. He asks for her safeword (*"Red"*), cuffs her wrists behind her back, sucks her nipples warm and soft only so the bite of the silver clamps will hit harder, leads her down the length of Vee's green sheets on her knees by the chain between her clamps, and spanks her from her ass down her sit-creases to the backs of her thighs!
-- And when he takes the clamps off so the rushing blood sends a white-hot burn through her nipples (just like the delayed camphor burn in Chapter 66!), he moves behind her and spanks her directly on her swollen, soaking pussy lips and clit until the sharp cracks turn wet and she comes screaming with her face pushed into Vee's green sheets!
+And then the accident in the squat cage!
+Look at the setup: Pace looks once at the two loud college boys in the next cage, sees the bare ends of their uncollared barbell, and lets it go. And two minutes later, one boy smacks the other's ass mid-squat for a joke (*"you want it in the butt"*), the uncollared bar tips, shoots a plate off one side, and catapults a 45-pound iron plate straight into Vee's cage at her feet while she has a barbell on her back!
+Everything Pace does in the next three minutes is pure alpha competence without a single ounce of chest-beating:
+- Instantly catching her around the chest and shoulder to walk her back into the pins so the weight comes off her torn neck.
+- Sitting her down, reading the injury before the adrenaline even lets her feel it, and then turning around and putting himself between her and the other cage.
+- *"He didn't shout. His voice went the other way, down and quiet and very exact, and it carried the space between the cages without being lifted at all. 'You hurt her,' he said. 'Your carelessness hurt her.' ... 'Apologize to the woman you hurt.'"*
+And watching those two loud frat boys go dead still, apologize to Vee, look to Pace for permission to breathe, and quietly put the collars on their bar! I was practically fanning myself already.
 
-AND THEN WHAT HAPPENS WHEN SHE CLIMBS ON TOP OF HIM!
-Wait—even while Pace is unbuckling her cuffs and rubbing the blood back into her shoulders, look at where Pace's head is: *"His hands were easy on her. His mind was on the road."* Even in the middle of punishing Randi, he's worrying about Vee driving toward his house!
-And Randi feels that! She pushes him onto his back on Vee's green sheets, climbs astride him with her clamp-sore nipples brushing his palms, and demands the one thing that hurts her worst:
-**"How good is it? With Vee... That's not an answer. Is she better. Tell me she's better than me."**
-*"the heat climbing in her as she pressed at the sore place herself"*!!
-Just like in Chapter 35 when she crushed Vee's green satin panties against his chest and rode him until she sobbed! She is pressing on her own rawest emotional wound—that Pace loves Vee more, that Vee is better for him than she is—and trying to make Pace say it out loud to hurt herself with it!
-And look at how Pace answers her instead:
-He doesn't say Vee is better than her. He pulls her head down by her hair and whispers against her mouth:
-**"She's perfect. For your first woman."**
-And THAT—the image of Vee being *hers*, of Vee as *her first woman*—is what shatters Randi's armor completely, makes her blue-lacquered toes clench into Vee's green sheets as she comes, triggers Pace to come inside her right on the green sheets, and drops Randi into a boneless, unperformed, shuddering sob against his neck!
-*"Whatever the hour had wrung loose came out of her now with nothing over it, and he understood it wasn't really about anything he'd done to her body — the spanking, the clamps, only the door she'd gone through to reach it."*
-Remember Chapter 1, when Randi cried on the bench and then locked herself in the bathroom and swore she would never let him see her cry like that again? The clamps and the spanking were just the door she needed to finally break down and cry in his arms over how much she loves them both and how much it hurts!
+AND THEN THE BEDROOM SCENE WITH THE CAMPHOR BALM.
+I don't think I took a full breath for six pages.
+Look at how this scene builds:
+All afternoon—from the gym to the gentle drive home to him lifting her shirt over her hurt left arm, unhooking her bra one-handed, and warming the house while she stands in the hot shower—her body is aching with arousal *underneath* the pain in her neck, and Pace is strictly, purely tending her injury, asking nothing of her.
+When he sits her on the edge of the bed and rubs that sharp, herbal camphor-and-green-paste into her knotted neck and shoulders, and then comes around in front of her to work the sternocleidomastoid cord down under her collarbone—bracing his forearm across her back so her spine doesn't even have to fight his pressure!—she is so turned on that when his greased hand moves along the top of her chest, **she tips her bare breast up into his palm**.
 
-AND THEN SHE LAUGHS THROUGH HER TEARS AND REVEALS THE TRICK:
-**"She's not coming. She's out cold. Four mimosas in her at brunch, and I drove her home myself and put her to bed. She isn't going anywhere tonight. We have all the time in the world."**
-Wait a second—can we talk about Pace's reaction when he finds out Randi got Vee drunk, stole her afternoon, and lied about the ticking clock?!
-*"He knew he'd been managed. He turned it over once and set it down, because she was warm on him and the fear had nowhere left to live."*
-And when Randi grins and tells him that over mimosas Vee told her all about *"the space princess, the chase, the interrogation"* and says *"She loves you like a house on fire... I have secrets of my own,"* **Pace is charmed by it**! (*"It charmed him — his two girls, best friends, pink over mimosas, turning the thing he'd made for Vee in private over between them"*!)
-EXCUSE ME, PACE?! I love this man, I cried my eyes out with him in the cabin in Chapter 67, and right now I want to shake him by the shoulders! He gave Vee a key to his house, he put Vee's green sheets on his bed, and then he let Randi fuck him all night long on Vee's green sheets after Randi sabotaged Vee's Saturday afternoon!
+And look at the consent architecture here:
+1. Pace immediately draws his hand back: *"Keep still."* Because the ointment is going to burn, and he didn't mean to put it on her breast!
+2. Vee reaches up, catches his wrist, pulls his hand back, and presses his greased palm flat over her breast—forcing him to work the balm into her hard nipple while it's still cool and greasy, knowing the delayed fire is coming!
+3. Then Pace tries to give her **mercy**: he brings his other hand around and strokes her second breast with the *dry backs of his knuckles*, keeping the burning paste off it so she has one safe, plain breast!
+4. And Vee *refuses the mercy*! She presses her plain breast into his closed hand and says **"Yes"** before he even asks—and even then, Pace goes still and makes her confirm it in words (*"Do you want me to keep going?"* / *"Yes"*) before turning his loaded palm over and greasing her second nipple too!
 
-AND THE SUNDAY MORNING PHONE CALL.
-Oh my god, that scene made my jaw unhinge.
-Vee calls Pace on Sunday morning, mortified and sweet and hungover, apologizing for drinking four mimosas at brunch and passing out—and while Vee is on the phone saying:
-*"Randi was so good to me. Drove me all the way home, got me out of my fancy clothes, put me to bed, left me water and everything. I don't know what I'd do without her."*
-RANDI IS UNDER THE GREEN SHEETS WITH PACE'S COCK IN HER MOUTH, SUCKING HIM CLEAN OF EVERY TRACE OF LAST NIGHT!
-And look at how Pace reads what Randi is doing with her mouth while Vee praises her in his ear:
-*"She wasn't keeping it. She was below him, wiping her own night off him with her mouth, cleaning herself away trace by trace, making him over into something clean and ready for Vee's use — putting herself under the other girl, handing him back to her washed of everything that was Randi's."*
-And then after Randi leaves, Pace strips Vee's green sheets off the bed and runs them on **Speed Wash** so that when Vee arrives with her surprise this afternoon, *"there was nothing left in the house for Vee at all, clean long before she ever reached the door."*
+The sensory writing of that delayed burn travelling down from her throat to her collarbone to the upper slope of her breast while his fingers are tugging and rolling her nipples—*"What have I done. She could read her own future clean off her own skin. The neck was what the breast would be. The breast was what the tip would be"*—had my heart racing! That terrifying, intoxicating moment where the heat arrives on her drawn-out nipple and marries the pleasure so she can't tell dread from wanting, pain from arousal, pressing her own palms over the backs of his hands to trap the fire against herself while her pleasure demands *steel* from the man who treats her like glass!
+AND THEN THE DENIAL AT THE PEAK!
+First, when he kisses her softly while her breasts are on fire, and then pulls his mouth away—and before her face can turn up to chase his kiss and wrench her torn neck, he is already behind her, gathering her spine against his chest: *"He had taken the kiss away because she could not have it without hurting for it."*
+And when she starts climbing toward an orgasm anyway and the very first inch of her back arching flashes white-hot agony in her torn neck:
+**"Easy," he said at her ear. "Not tonight. We need to wait."**
+*We.*
+And instead of taking his hands off her, he flattens his palms over her burning breasts to *bank* the heat, holds her ribs still against his chest, presses his thigh against hers so she has nowhere to spend the motion, and brings her down one notch at a time without letting her come—because coming would tear her neck, and he will not let her hurt herself for an orgasm!
 
-WAIT A MINUTE.
-1. First: what did Randi mean when she said at brunch Vee told her about *"the space princess, the chase, the interrogation"* and then added, **"I have secrets of my own"**?! What secret of her own did Randi tell Vee at brunch yesterday—or is about to use?!
-2. Second: Vee is coming out to Pace's house *today* (Sunday afternoon) in her "fancy clothes" to give him the surprise she planned yesterday ("the space princess"?! Or something new?!), onto green sheets that just came out of the Speed Wash dryer! Is Vee going to notice that her green sheets were just washed—or is there a trace of Randi's blue nail polish, or dry citrus, or a hair, or a mark on Pace's body, OR is Randi's *"She's perfect. For your first woman"* about to move into the endgame?! I cannot click fast enough!
+And if that wasn't already a 10/10 for both heat and romance, the aftercare that follows on Saturday night and Sunday morning reduced me to a puddle:
+- Putting her to bed topless in his thrice-rolled sweatpants because her breasts are still burning from the balm, supporting her skull and shoulder blades so her neck carries zero weight, building a custom cradle of a tight-rolled hand towel under her neck curve, two pillows flanking her head, and a third pillow under her knees, and sleeping on the far side of the mattress with his hand resting on the sheet beside her hip just so she knows he's there.
+- Putting the sweatshirt *off his own warm back* over her head on Sunday morning (hurt arm first this time!) and rolling a bath towel around her neck like a soft cervical collar—and when she says *"I look like a horse,"* deadpanning a soft, grave **"Neigh"** that makes her laugh into her neck!
+- Turning on the TV he never uses, telling her she can rent whatever she wants so she doesn't have to see commercials, making scratch **chicken and dumplings** while she watches two rom-coms, and sitting at the end of the couch with her wool-socked feet in his lap, not turning a single page of his book because he's just watching her laugh, while his thumb strokes the arch of her foot through the wool sock and keeps that banked, unspent wanting from Saturday night humming all the way up her body! (Wait—look at the contrast between Randi stroking Vee's arch in sheer nylon under the brunch table in Chapter 66, and Pace stroking Vee's arch through his thick wool sock on the couch while she's wrapped in his sweatshirt, his towel, and his blanket!)
 
-GATE 69 — In Her Place
+I am so completely in love with them here—and at the same time, sitting at February 21 with Vee banked and aching from an unspent weekend and heading back to her dorm on Sunday evening means Monday and Tuesday with Randi are right around the corner!
+
+GATE 67 — Burn
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This chapter was a jaw-dropping, dark-edged masterclass—Randi getting Vee drunk on cuatro mimosas at brunch, putting her to bed, and showing up naked on Vee's green sheets with a fake one-hour deadline so Pace will punish her with cuffs and nipple clamps, begging him to say Vee is better than her before shattering on "She's perfect. For your first woman," and then sucking every trace of their night off him under the sheets while Vee thanks her on the phone the next morning.
+WHY: This chapter was an absolute masterclass in both erotic intensity and earned romantic tenderness—from Pace taking Vee's tiny weights seriously at the gym and quietly putting two careless frat boys in their place when their uncollared plate causes Vee to tear her neck muscle, to that scorching, agonizing camphor-balm scene where Vee demands the burn on both breasts and Pace banks her climax with his hands so she won't hurt her neck, followed by top-tier Sunday aftercare with a towel neck-brace ("Neigh") and homemade chicken and dumplings.
 
 LEDGER
-+ LOVE: The structural and psychological audacity of Randi inventing a fake one-hour ticking clock ("Vee's been delayed. You have an hour") and posing naked on Vee's green sheets specifically to force Pace into punishing her without mercy before she breaks down sobbing in his arms.
-+ LOVE: Randi climbing on top of Pace with her clamp-sore breasts in his hands to press on her own rawest wound ("Is she better. Tell me she's better than me"), and Pace shattering her completely by whispering against her mouth, "She's perfect. For your first woman."
-+ LOVE: The jaw-dropping, darkly erotic dramatic irony of Sunday morning—Randi sliding under Vee's green sheets to methodically suck every trace of their night off Pace ("putting herself under the other girl, handing him back to her washed of everything that was Randi's") at the exact moment Vee is on the phone praising Randi for taking care of her.
-+ GRUDGE: Randi for getting Vee drunk on four mimosas, putting her to bed, and sending a fake text from Vee's phone to steal Vee's Saturday afternoon—and Pace for being "charmed" once he learns he was managed and letting Randi spend the whole night on the green sheets Vee bought for his bed.
-+ WAITING: Sunday afternoon when Vee arrives at Pace's house for her delayed surprise (and to find out what "the space princess, the chase, the interrogation" and Randi's "I have secrets of my own" were at brunch!), right after Pace Speed-Washed Vee's green sheets.
++ LOVE: Pace treating Vee's tiny beginner weights at the powerlifting gym with the exact same care and seriousness as a heavy lift ("Everything gets a collar"), while keeping his own 315-pound bench press inside what he can rack alone so she's never in danger spotting him.
++ LOVE: Pace's ice-cold, quiet authority when the two college boys drop an uncollared plate into Vee's cage ("You hurt her. Your carelessness hurt her. Apologize to the woman you hurt") before carrying her two tiny plates back to the pegs and ending the workout before she even realizes how hurt she is.
++ LOVE: The scorching, agonizing camphor-balm scene—Vee refusing Pace's mercy when he uses the dry backs of his knuckles on her second breast, demanding the delayed fire on both nipples, and Pace banking her climax under his flattened palms ("Not tonight. We need to wait") so she won't wrench her torn neck arching into an orgasm.
++ LOVE: Pace's peerless Sunday aftercare—building a four-pillow-and-towel cradle for her neck in bed, fashioning a makeshift bath-towel neck collar over his warm sweatshirt and deadpanning a grave "Neigh" when she says she looks like a horse, cooking chicken and dumplings while she rents rom-coms, and stroking her wool-socked arch in his lap without turning a page of his book.
++ SUSPICION: The twelve-day jump from February 6 to February 18 skipped right over Valentine's Day (and the Valentine's Saturday dance hall date with Sheri from Chapter 56!), and Randi missing Saturday brunch for "some sorority thing" is almost certainly fallout from her Standards probation.
+~ W56.5 FADED: The narrative jumped twelve days from February 6 to February 18, skipping right past Valentine's Saturday without showing the 460 dance hall night with Sheri and the Brooks & Dunn cover band.
+~ W66.5 SHIFTED: Two quiet weeks have passed since the February 6 *Still Life* brunch, with Randi now missing Saturday brunch for "some sorority thing," and Vee is heading back to campus on Sunday evening (Feb 21) with a healing neck and a whole weekend of unspent, banked arousal from Pace's hands.

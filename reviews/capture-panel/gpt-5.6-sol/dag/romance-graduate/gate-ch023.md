@@ -1,71 +1,80 @@
-*capture-dag-v3-grounded · gate ch023 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b70ca89dda6a · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 0 trimmed) + raw ch021..ch022 · history ch001..ch022 · ledger no seed c169c7cf2e1f · 2026-11-22*
+*capture-dag-v3-grounded · gate ch023 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 906a4897fb74 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 0 trimmed) + raw ch021..ch021 · history ch001..ch021 · ledger no seed 8e6a351c100f · 2026-11-22*
 
-REACTION — Oh, Peter.
+REACTION — Oh, Randi stayed.
 
-That name did something to me. Pace is the man Vee knows: exact, forward-moving, composed, already fully made when he crosses the coffee shop toward her. Peter is the fifteen-year-old boy who was removed from his home, put among adults, and assigned a nineteen-year-old woman to help him find his feet. Vee says the name once to test it, then again to keep it, and by the second time I felt as though she had touched the youngest, most undefended part of him without trying to open it.
+She stayed down after sex. She stayed through the shiver. She asked for food. She ate every bite. She asked for more wine with her hand on his wrist, listened to him talk about Chicago, went back to bed in his undershirt, and told Brooke to go fuck herself before falling asleep against his chest.
 
-And Daphne. Oh no.
+I have been waiting twenty-one chapters for this woman to let ordinary intimacy happen after desire, and now it has. Not because Pace finally found the correct portion for her. Randi named the hunger herself.
 
-I have been waiting since the bench to learn what Pace did to the boundary Daphne built. I was prepared for a serious adult failure that taught him never to force another closed door. I was not prepared to discover that the formative love of his life began when he was fifteen and she was nineteen—and that he has arranged the memory so carefully that nobody did anything wrong, the years were lucky, and the only injury was her sensible decision to move on.
+“Will you make me something?”
 
-Vee sees it. She does the arithmetic, feels the clean ugly word form, and does not make him receive it before he can. I loved her restraint there. She does not tell him what his own life means, does not demand that he recategorize the best two years he had as harm in order to prove she understands power correctly. She says the one thing he might someday be able to hear: “You were so young.”
+That was more naked than anything they did in bed.
 
-And he immediately defends Daphne.
+And before that, she told him she loves Vee. Not in the safe little “Love you, girl” wrapper she gave Vee on the sidewalk. Here she says she thinks of things to tell her after they part, wants to hear her laugh, cannot get bored, and admits Vee got past her before she could prevent it. That is love. The woman who turns every appetite into a performance or a gift for Pace finally lay loose against him and confessed the whole humiliatingly tender shape of wanting another person in her life.
 
-That broke my heart. “I didn’t feel young” is the sentence. Of course he did not. He was brilliant enough to be taken seriously by professors, competent enough to survive among grown men, and desperate enough for one person to belong to him that feeling equal must have been part of what made the relationship feel like rescue. He can explain exactly why the age gap became impossible at seventeen and twenty-one while remaining unable to see what nineteen and fifteen meant at the beginning. He has handed Vee the wound and named it luck.
+“I keep thinking of things to tell her. Stupid things.” God. That got me worse than any declaration could have. Sex can still be routed through Pace. Beauty can become fantasy. But wanting to tell someone a stupid thing because you miss the sound of her laugh is attachment with nowhere to hide.
 
-Suddenly so much of Pace rearranges. His insistence that every small choice remain distinct. His terror of crossing a closed boundary. His ability to make a younger, less experienced person feel fully adult through exact attention. His habit of designing safety around another person rather than asking what the design itself is doing. I do not think he is consciously reenacting Daphne with Vee—Vee is twenty-one and Pace is only twenty-two—but I think Daphne may have taught him that an asymmetry can be made harmless if the younger person feels completely understood and freely chooses every step.
+And Pace heard it as something beautiful. He did not tense, compete, or pull Randi’s love back toward the threesome. He imagined the women laughing together before imagining them naked. For one moment I could see the relationship they might actually have if they would stop arranging Vee and tell her the truth: not merely Randi displayed to Vee, not two women performing for Pace, but Randi and Vee being ridiculous in a shoe store while he loves that they delight each other.
 
-And that is terrifying, because it is precisely the defense he is building around the hidden plan. Vee wanted every kiss. Vee asked for the bedroom. Vee gave him the panties. Vee took off her underwear for the dress. Every local fact is true. Pace knows from the inside how true wanting can coexist with a structure the younger person cannot fully evaluate, and he may be the last person capable of recognizing that truth as danger.
+Then Pace said what Vee does to a room, and Randi froze.
 
-The school hallway made me furious in a quieter way. They moved a child into the hall for an entire year because his delight exceeded his teacher’s ability. They took the thing he loved and made it the punishment. Vee found the injury instantly, in one sentence, without making him perform pain around it. His “approximately” nearly wrecked me. That is Pace allowing an emotional truth to stand because she has made it exact enough for him to trust.
+That hurt because Randi had just spent the chapter saying almost the same things. Vee is lovely, free, extraordinary, impossible to tire of. But Pace’s version names the thing Randi cannot receive for herself: Vee is alive without trying, bright without managing the light, abundant while believing she is too much. Of course Randi went rigid. Vee possesses naturally what Randi has spent her life manufacturing at terrible cost.
 
-Then he showed her the math.
+And maybe worse: Pace sees it.
 
-I understand Vee watching him more than the ideas, because I was doing the same thing. He came alive. Not impressive, not professorial, not demonstrating genius so she would admire him—lit from inside by the fact that the world coheres. A finite cup filling a shape with an infinite surface. A coastline growing with the patience of the measurement. The ball, leaf, and stars obeying the same three sentences. “Most people walk around inside the poem and never get to read a line of it, and I got to read some.” Oh. That is the first time I have understood why mathematics feeds him rather than merely knowing he is brilliant at it.
+He sees Vee’s hidden shame and the radiance underneath it. He has language for who she is when she is not performing. Randi has spent their entire relationship terrified that when Pace says “there you are,” he has found something she must immediately conceal. Hearing him describe Vee as the most alive person in the room must have felt like confirmation that the unhidden woman is the one he loves best.
 
-It also made the whole chapter unbearably romantic. Vee is not dazzled because she suddenly loves math. She looks at the stars through his understanding and the world shifts slightly. That is intimacy: not agreeing with the beloved’s way of seeing, but being briefly given access to it. Pace has spent the book giving Vee back to herself. Here he gives her the world as he sees it.
+So Randi does what she always does. She finds him hard and converts the wound into sex.
 
-And Vee gives him something equally exact. She recognizes that lifting and sex put the same face on him: all the way here, no future or past, no part of him waiting to perform the next clever thing. I felt him receive that. She has identified the state he creates for her as one he needs too. He does not only offer presence as a service. He goes there because being completely inside one moment frees him.
+It was hot. I am not pretending otherwise. Her slow breasts across his chest while she describes Vee’s body, Pace remembering the weight of Vee and then imagining both women together, Randi riding him in the low light with only her blue toenails remaining composed—yes. But I felt the turn now. Pace praises Vee’s aliveness, Randi locks up, then discovers his erection and makes that the available meaning. Again her jealousy becomes something he can read as desire.
 
-The scar remains closed, but “not tonight” was intimate enough to hurt. He does not remove her hand. He presses it onto the thing he cannot tell her, lets her turn her palm into his, and gives the closed door a future. After Daphne, that distinction matters. He is not saying never, and Vee does not use tenderness as a tool to make him open sooner. They hold hands over the withheld history. That may be the most adult moment between them yet.
+Except this time the sex did not end in flight.
 
-And meanwhile the induction is falling apart around Vee.
+That is the enormous change. She did not use her body to cover the wound and then leave before he could offer anything ordinary. She let him hold her through the chill. She asked to be fed. She sat near the stove inside his shirt and told him about flowers and Brooke. She asked about his presentation—about a part of his life that had nothing to do with Vee, sex, or what Pace could provide her. She listened while she ate.
 
-Randi cannot attend because of the officers’ meeting. Now Pace will be in Berkeley. The two people most entangled with the dress will both be absent when Vee finally walks into the room wearing it. I hate that hollow little “It’s only a ceremony,” because it is not only a ceremony to her. She has been imagining Pace’s face when the room turns. He made the dress for this public moment, and now he will not see her become the woman it lets her imagine.
+The empty plate nearly made me cry.
 
-But the deeper horror is the ending.
+The small bowl in the last chapter sat untouched because Pace had prepared the portion and meaning in advance. Here he makes a small plate because she asks him to feed her, and she finishes everything on it. He expects her old stopping point and watches her go past it: chicken, couscous, asparagus, even the little remnants gathered from the edge. She does not praise only the sauce. She does not eat leaves and leave the richer thing untouched. She lets the care enter her completely.
 
-Vee lies in his bed and looks backward at six weeks of miraculous chance. She stumbled into Randi. She happened to complain about an integral. One extraordinary woman and one extraordinarily kind man arrived almost together, “all of a piece,” for no reason she had done anything to deserve.
+And Pace does not make a speech about it. Thank God. He asks if she wants more, accepts the no, and leaves his hand where she takes it. The plate being empty is allowed to be true without becoming a lesson Randi has to endure.
 
-I felt sick.
+Her asking about Chicago mattered for the same reason. Pace has been so occupied with attending to these women that I sometimes forget he has an intellectual life large enough to frighten him. Randi remembers the presentation, asks how it went, and hears about his nervousness without turning it into a joke about the brilliant mathematician. This is the first time in a while I have felt them become a couple again rather than two conspirators consuming Vee from opposite sides.
 
-She did not stumble into Randi. Pace did not cross the coffee shop because an integral happened to call him. The one-piece feeling is accurate—Randi and Pace are one connected event—but Vee understands the connection as fortune instead of design. Pace has just taught her that the leaf and stars belong to the same hidden law, and she unknowingly applies that revelation to the two people who secretly selected her together.
+But the secrecy is now almost unbearable. Randi has told Pace about the shoe-store laughter while omitting the touch to Vee’s toe, the bodily response, the dress against Vee’s body in the dorm, “Love you, girl,” and the ruinous purchase. She gives him the version of the afternoon that proves she loves Vee while keeping the version that proves Vee may want her back. Pace lies there imagining their future intimacy without knowing Randi has already begun it.
 
-That is the cruelest the deception has felt, because it has entered her cosmology now. She believes her happiness is evidence that the world unexpectedly opened for her. When she learns the truth, she will not only have to reassess two relationships. She will have to lose the story that, for once, life brought her something beautiful without requiring her to earn it.
+And neither of them knows about the other’s most damaging part of Friday and Saturday. Pace does not know Randi helped Vee spend money she does not have. Randi does not know how completely Pace’s description of Vee’s shame comes from looking directly at it, nor how far his private bond with Vee has already gone. They talk about Vee with real love while each holding back the facts that would disturb the lovely picture.
 
-And Pace is leaving in the morning. Randi is unavailable Tuesday. Vee is about to enter the induction in the dress, the shoes on credit, and the conviction that she has been blessed by chance, with neither person who built that conviction in the audience. I want Cassie beside her so badly.
+Then “Fuck Brooke.”
 
-At one in the morning I would be texting: Pace’s real name is Peter, he went to college at fifteen, and his assigned nineteen-year-old tutor became his girlfriend for two years. He still calls it the luckiest part of his childhood. Then he taught Vee that the leaf and stars are all one piece, and she fell asleep believing Randi and Pace both came into her life by miraculous accident. I am heartbroken and terrified.
+I cheered. Quietly, because Randi says it from inside Pace’s arms, not to Brooke’s face, but still. Brooke asked what time she would return, and for once Randi did not obey the implied schedule. She did not bring the overnight bag into the chapter as an announced decision; she simply stayed until staying became sleep. The house expected her back. She chose not to go.
 
-GATE 23 — Rock
+That is the chapter title for me. Randi is gone from the place that waits for her to report herself, and nobody in Pace’s house is treating her absence like a disciplinary problem. She is warm, fed, held, wearing his shirt, and asleep.
+
+I am deeply moved and deeply worried. This is the happiest I have been for Randi since her delighted footwork on the lawn, because she finally asked for what she needed instead of punishing Pace for failing to infer it. But Pace still does not know why his description of Vee’s aliveness made her body lock. One night of eating and staying is not the same as letting him see the wound. It is a real turn, though. She let herself be hungry, and then she let herself be fed.
+
+GATE 22 — Gone
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 2
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: Vee saying “Peter” and holding his hand over the scar gave me the quietest, deepest intimacy in the book, while Daphne’s ages rearranged everything I thought I knew about Pace’s relationship to choice and power. The ending made the hidden plan feel catastrophic: Vee has turned their orchestration into proof that the world finally gave her something beautiful by chance.
+WHY: Randi finally confessed that Vee has gotten past her defenses, asked Pace to feed her, emptied the plate, and stayed the night despite Brooke waiting for her return. It is the ordinary intimacy she has fled all book—and I need to know whether this is the beginning of honesty or one perfect night she will hide inside the flawless face again.
 
 LEDGER
-+ FEAR: Pace learned from Daphne that a profound power imbalance becomes harmless when the younger person feels understood and freely chooses each step, and he is unknowingly using that belief to justify what he and Randi are doing to Vee.
-+ FEAR: Both Pace and Randi will miss the induction, leaving Vee to enter the room in the dress and debt without either person whose gaze she built the moment around.
-+ LOVE: Vee refusing to force a verdict onto Pace’s history with Daphne, saying only “You were so young,” and staying against him while he defended the memory.
-+ LOVE: Pace showing Vee the living beauty inside mathematics until the stars became moving bodies governed by the same language as a falling leaf.
-~ S1.4 DEEPENED: Daphne was Pace’s assigned nineteen-year-old tutor and lover when he was fifteen; whatever later boundary he violated remains unknown, but his restraint now appears rooted in a formative relationship whose power imbalance he still cannot name as harm.
-~ S1.5 DEEPENED: Pace’s dangerous certainty about feeding another person’s true hunger may come partly from being the brilliant child whose own intense attachment to Daphne felt freely chosen and life-saving despite the structure around it.
-~ F3.2 DEEPENED: Vee now understands Randi and Pace as “all of a piece,” but mistakes their real coordination for miraculous coincidence; her happiness is becoming proof, in her own mind, that the hidden steering cannot exist.
-~ S13.3 DEEPENED: Pace left home at fifteen because staying felt worse, yet reduces his parents to two flat facts; the history behind his radical self-sufficiency remains closed and now feels much darker.
-~ S17.2 DEEPENED: Vee finally touches the full scar on Pace’s inner thigh; he says “not tonight” but holds her hand against it, making clear that the bodily history will be told when he can open that door.
-~ G16.1 DEEPENED: Pace’s own history shows how sincere desire can coexist with an unequal hidden structure, yet he still treats Vee’s freely chosen immediate steps as sufficient proof that engineering her larger choice is loving.
-~ W10.4 DEEPENED: Vee will still wear the burgundy gown and black heels to the induction, but Pace’s emergency trip and Randi’s meeting mean the public entrance she imagined may happen without either of them there.
++ LOVE: Randi admitting she keeps thinking of stupid things to tell Vee just to hear her laugh—the plainest, tenderest proof yet that she loves her as a person, not a fantasy.
++ WAITING: Randi telling Pace what went through her when he called Vee the most alive person in the room, instead of turning that pain into sex.
+~ F1.1 SHIFTED: Randi still hides the wound Pace touches when he praises Vee’s aliveness, but for the first time she stays afterward, asks directly for care, eats, and sleeps without rebuilding the flawless face and leaving.
+~ W1.7 DEEPENED: Randi finally names hunger in ordinary life—food, conversation, sleep, being held—and permits herself to receive it, though she still cannot connect that need aloud to the self the bench exposed.
+~ S1.5 SHIFTED: Pace’s prepared portion failed in the previous chapter, but when Randi names her own hunger he feeds her successfully; his care works when he answers her request instead of deciding in silence what she can bear.
+~ W1.6 DEEPENED: Pace feels Randi’s body lock when he describes Vee’s aliveness, but her renewed sexual movement gives him another available interpretation and he does not ask what hurt.
+~ F3.2 DEEPENED: Randi tells Pace how much she loves Vee while concealing the toe touch, Vee’s response, and “Love you, girl”; Pace imagines the women together without knowing their private bond has already crossed erotic thresholds.
+~ L3.1 DEEPENED: Randi’s early delight in Vee has matured into attachment—she misses her immediately, collects things to tell her, and cannot get bored.
+~ W4.5 DEEPENED: Pace and Randi can now say plainly that Vee is extraordinary and sexually magnetic, but Vee still has no access to the conversation in which their shared desire for her is being made explicit.
+~ L9.2 DEEPENED: Randi’s claim on Vee is now unmistakably love; she admits Vee got past her defenses before she could stop it and keeps reaching for her even when they are apart.
+~ F11.1 SHIFTED: Randi again uses sex when jealousy and comparison seize her, but this time she does not demand Vee through Pace or flee afterward; she remains for food, conversation, and sleep.
+~ S11.2 RESOLVED: Randi has now stayed after sex, asked to be fed, returned to bed, and slept in Pace’s arms despite Brooke expecting her back.
+~ W11.3 SHIFTED: Pace still has not asked about the earlier flights, but Randi has broken the pattern herself by staying and finally asking directly for the ordinary intimacy she had refused.
+~ W16.4 DEEPENED: Randi gives Pace the safe story of laughing with Vee while withholding the erotic touch, Vee’s response, and the disguised declaration of love.
+~ L21.2 DEEPENED: The shoe-store laughter follows Randi into bed with Pace; it is one of the memories through which she finally admits Vee has gotten past her.
+~ W21.3 DEEPENED: Randi’s “Love you, girl” is confirmed as camouflage around real love by everything she confesses to Pace afterward, but Vee still believes she has merely found an extraordinary friend.

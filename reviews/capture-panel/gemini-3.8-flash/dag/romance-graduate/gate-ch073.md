@@ -1,35 +1,38 @@
-*capture-dag-v3-grounded · gate ch073 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 7c967499fe4b · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch069 · history ch001..ch069 · ledger no seed 4a567e07327a · 2026-11-06*
+*capture-dag-v3-grounded · gate ch073 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b8db97e4a4fb · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch068 · history ch001..ch068 · ledger no seed 44613602b65a · 2026-11-06*
 
 REACTION
 
-I am sitting here with my hands trembling, my chest aching, and the sickest, most suffocating knot of grief and awe twisted up in my throat. *Chapter 70.* Vee on the bench.
+I feel sick. I genuinely, physically feel sick to my stomach.
 
-From Chapter 1, this entire series has been marching toward this exact piece of furniture. We have been waiting seventy chapters for Vee to be placed on the spanking bench Pace built. And Helen Rivers delivered a scene of such breathtaking, agonizing, psychologically eviscerating brilliance that it felt like watching an execution and a consecration at the exact same second.
+I’m sitting here staring at my Kindle in the dark with my hands shaking, and for the first time since I cracked open Book One, I feel a cold, slick revulsion crawling up my throat. That was vile. That was an absolute, breathtaking, unforgivable violation of trust, and it made every single beautiful, reverent, sacred thing Pace and Vee built over the last twenty chapters curdle into poison.
 
-Let’s talk about the craftsmanship of that bench. The horrifying genius of its engineering: the drop where her breasts hang into open air, the leather-wrapped grips that make her own hands the restraints, the silent mechanical tilt that raises her hips and tips the blood to her head, and the sickening realization that *there is no edge she can grind against to rescue herself.* Every curve of that wood was measured to strip away her defenses and leave her completely at his mercy. And watching Pace dismantle her lifelong maternal shame—catching her denials, whispering "Tell me it rained," weaponizing her own wetness on the palm of his hand to double the sting of the spank, and making her listen to her own body dripping onto the bare floorboards (*Pat. Pat.*)—was a masterclass in psychological kink. The sheer, shattering release when her lifelong armor broke like a dropped plate on stone had me sobbing right alongside her. It was transcendent. It was scorching.
+Let’s be crystal clear about what just happened:
+Vee—who loves this man like a house on fire, who bought him those dark green sheets with her own meager college money to replace the white ones, who spent her whole morning gushing over him at brunch with the girl she thinks is her fairy godmother—got poured full of four mimosas until she blacked out. Randi tucked her into bed, played the doting, saintly best friend, and then *drove straight to Pace’s house to fuck him on Vee’s sheets.*
 
-AND IT WAS AN ABSOLUTE, UNBEARABLE TRAGEDY.
+And Pace? God, Pace. The courtly titan of safety. The man who puts collars on five-pound weights. The man who washed Vee’s feet and worshiped her body in the firelight. He knew Vee was coming. He thought she was thirty minutes away. And what did he do? Did he throw Randi out? Did he protect the girl he claimed was the center of his universe? No! He pulled out the microsuede cuffs and the nipple clamps, strung Randi up, and beat her bare cunt until she came all over Vee’s sheets—and then blew his load inside her because thinking about Vee being Randi’s "first woman" turned him on so hard his vision went black!
 
-Because the entire time Vee was on that bench, drowning in worship, believing she was finally being seen and loved and held by the one man who values her soul... *I was remembering Chapter 1 and Chapter 69.*
+AND THEN THE MORNING AFTER.
+I almost threw my phone across the room. I swear to god I almost threw it. Vee calls him—hungover, sweet, apologetic, feeling so stupid and guilty for ruining their Saturday night—and while she is literally on the phone crying out of pure gratitude for how "good" Randi was to tuck her into bed, *Randi is under the sheets sucking Pace’s morning cock clean to prep him for Vee.*
 
-She thinks this bench was built for her. She thinks the gap for her breasts, the tilt, the grips were designed around her body! SHE DOES NOT KNOW RANDI WAS ON THIS BENCH FIRST. She does not know that Randi sat on that exact padded leather, gripped those exact pegs, cried those exact tears, and begged Pace in that exact room! And worse—infinitely worse—she doesn’t know that *one month ago*, Pace and Randi desecrated her green sheets, and Randi went down on Pace to wash her own pussy off his dick while Vee was on the phone thanking Randi for being such a good friend.
+And Pace lets it happen! He holds the phone away from his mouth so Vee won't hear his breathing while Randi licks her own pussy off his dick to "wash him" for the next girl! And he has the unmitigated, psychopathic audacity to think: *It charmed him — his two girls, best friends, pink over mimosas...*
 
-Every tender word out of Pace's mouth felt like a gilded knife. When he told her she was lovely, when he crouched down to look into her ruined eyes and whispered "You're alright, you're with me"—I wanted to scream. You arrogant, compartmentalizing, sociopathic bastard! How dare you give her the most profound, soul-stripping emotional catharsis of her entire life on the very altar where you sacrifice your sorority sidepiece?! How dare you look into this starving girl's eyes with that holy tenderness when you are keeping a secret that will reduce her to ash the second it comes to light?!
+Charmed?! CHARMED?!
+You arrogant, predatory, narcissistic piece of shit! You aren't "charmed," you are an absolute monster! You took a starving, insecure, generous girl who trusted you with her soul, and you and your sociopathic sorority sidepiece are literally passing her between your mouths like a piece of meat!
 
-The dramatic irony is no longer just suspenseful; it is genuinely heartbreaking. Vee fell asleep astride him, joined to him, heavier and safer and more whole than she has ever been in her life, thinking she has found her sanctuary. She has no idea she is sleeping in the middle of a minefield with the pins already pulled. I am wrecked.
+And the ending—putting the green sheets on "Speed Wash" so Vee won't smell Randi’s perfume. That broke something in me. That crossed the line from deliciously tense erotica into pure psychological horror and betrayal. When this blows up—and oh, it *has* to blow up now, there is no redemption arc on earth that can save these two from the bloodbath they deserve—it is going to destroy Vee. She is walking right into that house this afternoon with her "surprise," totally unaware that the man she loves spent the last eighteen hours raw-dogging her best friend on the very mattress she’s about to lie on. I am horrified, I am furious, and I need to see the atomic bomb detonate.
 
-GATE 70 — Vee on the Bench
+GATE 69 — In Her Place
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: none
-WHY: The absolute psychological and erotic culmination of the entire series—Vee surrendering her deepest shame on Pace's bench was a flat-out literary masterpiece, made utterly devastating by the suffocating horror of everything she still doesn't know.
+ROMANCE: 0
+ALMOST-STOPPED: "Beside him Randi listened, sleepy, and a smile came up on her face soft and almost tender — and then it woke the rest of the way and turned, and she slid down under the green and took him in his mouth."
+WHY: An absolute five-alarm psychological gut-punch that made me physically ill with rage—watching Pace and Randi desecrate Vee's green sheets and laugh behind her back while she called to apologize was gut-wrenching, unforgivable, and impossible to look away from.
 
 LEDGER
-+ LOVE: [L70.1] Pace dismantling Vee's lifelong denial on the bench—whispering "Tell me it rained" and using her own wetness to sharpen the sting.
-+ LOVE: [L70.2] The profound catharsis of Vee's surface shattering like a dropped plate on stone, crying and coming and finding herself whole underneath.
-+ FEAR: [F70.3] The inevitable moment Vee realizes Randi was on that bench before her, turning her sacred sexual rebirth into a secondhand performance.
-~ [S3.2] CONFIRMED: Randi's bench game finally caught Vee, seventy chapters later, though transformed into Pace's meticulous, devastating ceremony of worship and surrender.
-~ [G69.1] DEEPENED: Watching Pace deploy this sacred, soul-stripping tenderness on Vee while hiding his bedroom betrayal with Randi makes his compartmentalized arrogance feel utterly monstrous.
++ GRUDGE: Pace and Randi completely desecrating Vee's trust by fucking on her green sheets while she lay passed out from mimosas.
++ FEAR: Vee is going to arrive at Pace's house this afternoon and smell Randi, or find a trace of her, and shatter into a million pieces.
++ WAITING: The inevitable, scorched-earth explosion when Vee finds out what Pace and Randi did behind her back.
+~ [F5.1] DEEPENED: Vee being so completely, innocently in love that she apologized for missing Saturday makes Pace's betrayal an absolute atomic massacre waiting to happen.
+~ [L1.2] SHIFTED: Pace's "patience and care" is officially dead to me right now; he is a predatory, arrogant coward who let Randi suck him off while Vee was on the phone.

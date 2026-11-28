@@ -1,29 +1,31 @@
-*capture-dag-v3-grounded · gate ch040 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6b5caaa161cd · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch037 · history ch001..ch037 · ledger no seed 3edc59081208 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch040 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch036 · history ch001..ch036 · ledger no seed 22ad4b05a0dc · 2026-11-06*
 
 REACTION
 
-Oh, that stings, and it's the first chapter in a while where the plot actually moved. The "I love you" that Vee can't say comes out as a built sentence about crackers and a meal. Pace's answer is "I love how good we are together," and then "what your body does." She says gratitude and he hears sex, and the book never stops to tell me so, which I appreciate. The two held breaths are the best touch in the chapter. He heard it, started two answers, and put both down. He's not oblivious, he's choosing. That's worse than the blindness I'd been giving him credit for. The kiss held a beat too long is him managing her.
+Okay, this is a pure-glow chapter, and I enjoyed it more than I expected. But it's the second one in a row without a turn, so I'm watching.
 
-Her dryer-room reckoning is exactly right: "the words went through him first." She can't ask, because asking is saying it. The pile of small repairs she doesn't look at is the blurb's dread made physical. I'm furious for her. I'm also a little irritated that she shelves it so fast again. Fine, but I want the shelf to overflow.
+The opening is good. Vee called the five nights off herself, and the line that hurt was that she wanted him to fight for them, and he never does. That's the "he never said" disease again. He opens the door and waits, and she reads that as grace. It may be grace. It's also the same silence the blurb warned about.
 
-The cafeteria opener is a recap-heavy bridge. The crop in the photo her mother carried is a good detail, the parents seeing only the top half of a girl who's mostly bottom-half secrets. Cassie's "that you can't say, or that you don't want to?" is quietly the best line there. Dad pricing the dress, fine, but it runs long.
+The undressing is the hottest part. She's towing him by his shirt, the jeans stuck at her hips, the sock hopping, him not helping and enjoying every second. It's funny and charged at once. "She'd have burned the house down for him." Her body publishing the five-night number in one embarrassing rush is good too. The green satin she's wearing made me think of the panties in his drawer, which she doesn't know about. Then the thong lands on the long table in his bedroom, "she never looked to see where it went." The bench is under that table, and that's the dramatic irony doing its job. Nobody will remember the bench but me.
 
-Heat is basically nil, and I'd have wanted one touch of it, but the ache substituted. Still no Randi at all, and I don't care as much as I did, because this chapter finally scratched at the wall. The ending summarizes its own meaning a little ("the sentence retired into her body"), and I'd have trusted me to get it.
+The pizza is long. I skimmed some of the cooking, again, though "cotton candy and a bowl of cut strawberries" is a nice line.
 
-GATE 38 — Cropped
+The shirt is the real beat. She washed it and it stopped smelling like him, so she asks him to wear it all weekend and give it back full of him. It's tender, a bit pathetic, and a little frightening, because her whole sense of him is now smell and shirts and a drawer, and none of it is a word. His open face in return is lovely. He still doesn't say it.
+
+Randi isn't here, and neither is any fallout from MIRANDA or the photo. Nothing moves. I want the plot to start pushing.
+
+GATE 37 — The New Ordinary
 DECISION: CONTINUE
-CAPTURE: 8
-NEXT: 9
-HEAT: 0
+CAPTURE: 7
+NEXT: 7
+HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "He'd think it was weird. In some ways weird is worse than wrong." (the long father-pricing monologue at the cafeteria)
-WHY: Her careful "crackers and a meal" sentence meeting his "I love how good we are together," with his two held breaths in between, is the turn I've wanted. No heat, but the ache earned it, and Vee finally feels the crack.
+ALMOST-STOPPED: "He turned a round of dough out of the bread machine onto the floured white laminate and worked it under the heels of his hands" (the long pizza walkthrough)
+WHY: The stuck-jeans undressing is funny and hot, and the washed shirt is a tender, aching ask. But it's another glow chapter with no turn, and the cooking passage is a skim.
 
 LEDGER
-+ FEAR: Pace heard the love in her sentence and chose to answer with sex-talk, so the silence is deliberate, not blindness.
-+ LOVE: The two held breaths and the half-started answers in his hand on her shin.
-+ LOVE: Cassie asking "is it that you can't say, or that you don't want to?"
-+ WAITING: Vee's pile of small repairs overflowing, and whether she ever asks him straight.
-~ F37.3 DEEPENED: She wanted him to fight for the nights, and now she can't even say the word, so she reads his silence as a rule.
-~ F32.3 DEEPENED: Her kind reading of his silence finally shows a seam in the dryer room, though she shelves it.
-~ W32.6 DEEPENED: She tried to prompt the word with a gratitude sentence, and he answered with "how good we are together."
++ LOVE: The washed flannel, "I need you to wear it for me," and him wearing two shirts in his kitchen because she asked.
++ LOVE: The jeans stuck at her hips and her towing him by the shirt, funny and hot with him not helping.
++ FEAR: Vee called the five nights off herself and wanted him to fight for them, but he never asks, and she's reading that as grace until it breaks.
++ SUSPICION: The thong landing on the long table in the bedroom is a setup, and the bench under it will matter soon.
+~ W30.3 DEEPENED: Another glow chapter with no turn, so the stall is real and I need a plot move.

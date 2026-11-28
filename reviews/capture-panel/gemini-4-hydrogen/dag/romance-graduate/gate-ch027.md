@@ -1,31 +1,29 @@
-*capture-dag-v3-grounded · gate ch027 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha dcc461157f8d · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch023 · history ch001..ch023 · ledger no seed 78b0d3bfe423 · 2026-11-19*
+*capture-dag-v3-grounded · gate ch027 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f3eb99daebe · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch022 · history ch001..ch022 · ledger no seed 6d224d45a71e · 2026-11-19*
 
 REACTION
 
-I am losing my mind over this chapter. The sheer, quiet, suffocating *irony* of Randi dressing Vee up like a prize—putting her in Randi’s own cognac heels and Randi’s own silk scarf—to send her back to *Pace* is lethal.
+Oh, *Vee*. Watching her sabotage herself like that hurt so much, especially after how good the beginning of the night was.
 
-First of all, the morning-after realism of Vee waking up in Pace’s shirt, realizing her mascara is relocated onto her cheekbone, and marching across campus in bare legs in October with an apple because she’s *going to fix this*—I love her so much. Even when she’s walking straight into the lion’s den, she’s so alive. And Brooke at the front door dropping *"Oh — you're the stats friend"* like the sorority house already has a dossier on her? Chills.
+The dance lesson on the concrete pad with the battered boom box was pure magic. Pace telling her to stop being jelly, to push back against his shoulder so she can actually feel his lead, to close the space between them so he *can't* step on her feet—it’s the exact physical translation of everything they’ve been doing in bed and in his kitchen. And when it finally clicks for her and she stops counting and just lets his hand at her shoulder blade move her, I was grinning like an idiot.
 
-Then they get up to Randi’s room, and the whole scene is a masterclass in tension. On the surface, Randi is being the ultimate best friend: she listens to Vee’s whole agonizing confession about The Rusty Nail, validates her, reframes her jealousy as proof that she’s *in* this, and gives her genuinely brilliant advice (*"You don't go in there sorry... You go in there sure"*). And Vee just melts into it, completely trusting her.
+And then they walk into The Rusty Nail, and it all goes sideways so fast. It’s not even Pace’s fault—the guy is literally just well-liked because he’s decent and taught people to dance—and yet the second that blonde drops her little poison pill (*"He's so good about getting a girl home safe at the end of the night"*), Vee’s mother’s voice comes roaring right back. All that progress she’s made, and one catty woman at a bar is enough to make her feel like a fool who "spread her legs like a slut." Watching her throw Pace’s own decency in his face, and watching the good mood just drain out of him before he sets his untouched beer down and walks out into the cold, was brutal.
 
-And *then* Randi tells her to take her shirt off.
+Thank god for that bartender at the end, though. *"Wasn't him they were jealous of, honey."* Vee needed to hear that, even if it meant sitting there in the harsh closing-time lights realizing she’d just punished a good man for being exactly who she wanted him to be.
 
-The erotic charge of Randi kneeling on the carpet under Vee’s long skirt to buckle those heels—her cool hands bracing high on the back of Vee’s thigh, her thumb pressing into the soft hollow behind her knee—had me holding my breath. Vee’s skin literally *"came up singing,"* and she’s still so innocent about it, just chalking it up to dress-up and being tended to. Even when Randi jokes about Vee being her *"shoe whore"* and ties that silk scarf around her bare throat (*"Tension. It has to hold its shape"*), Vee is just glowing in the mirror, completely unaware that she’s being styled by Pace’s other lover.
+And then she goes home, puts on his shirt—washed now, smelling like fabric softener instead of him—lies awake all night, and decides the person she needs to go to in the morning is *Randi*.
 
-And that goodbye kiss in the foyer! Vee doesn’t even brace anymore. She just meets Randi’s mouth, takes the lingering second press, and thinks, *It was only what they did.* Meanwhile Randi’s Kentucky accent is slipping out all over *bath* and *sleep*, and Vee is still inventing a Swiss boarding school and a European grandmother in her head to explain it away.
+Oh, honey. No. Going to Randi to ask how to fix a fight with Pace? Randi, who is already quietly bleeding over how much Pace likes you? I am terrified and I cannot turn the page fast enough.
 
-Tomorrow night, Vee is going to walk into Pace’s house wearing Randi’s shoes and Randi’s scarf. I cannot wait to see Pace’s face when he opens that door.
-
-GATE 24 — broken-in
+GATE 23 — Lesson
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 10
-HEAT: 2
+NEXT: 9
+HEAT: 1
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: The erotic tension of Randi kneeling under Vee’s skirt to buckle those heels—combined with the delicious, agonizing irony that she’s styling Vee in her own shoes and scarf to send her back to Pace—has me completely hooked for tomorrow night.
+WHY: Watching Pace teach her to dance on that empty concrete pad was pure magic, which made watching her blow it all up at the bar—and then decide to go to *Randi* to fix it—completely agonizing in the best way.
 
 LEDGER
-~ [F4.2] DEEPENED: Vee just let Randi dress her in her own shoes and scarf and kissed her back in the foyer without even bracing; she is so deeply, innocently in love with both of them that the truth is going to be devastating.
-~ [W23.1] ANSWERED: Vee went to Randi for help, and instead of sabotaging her, Randi reframed the whole fight, told her to wait until Saturday night, and styled her to win Pace back.
-+ WAITING: Tomorrow night—Vee walking into Pace’s house wearing Randi’s cognac heels and silk scarf, and how Pace reacts when he sees them on her.
+~ F20.1 DEEPENED: Spending money meant for other things on a late-night cab just to avoid waking Cassie up and explaining herself.
++ WAITING: Vee showing up at Randi's to ask how to fix things with Pace—and what Randi is going to do with that.
++ FEAR: Vee's mother's voice is still sitting right under the surface, waiting to make her sabotage the best thing she's ever had the second she feels insecure.

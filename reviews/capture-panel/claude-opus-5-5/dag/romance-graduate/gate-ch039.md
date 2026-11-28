@@ -1,35 +1,43 @@
-*capture-dag-v3-grounded · gate ch039 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch036 · history ch001..ch036 · ledger no seed ba5052874569 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch039 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a03ea01d3f8f · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch035 · history ch001..ch035 · ledger no seed 4dcd987b8bf2 · 2026-11-06*
 
 **REACTION**
 
-She washed the shirt. In chapter 23 it smelled of "fabric softener and no one," and that was grief. Now she's washed it on purpose, because it had gone to nothing, and she hands it to him and says *wear it for me, give it back Sunday so it smells like you again.* That's the most naked thing she's said to him in two books, and she has her clothes on when she says it. He reads it as her giving it back and you see the hurt start in his face. Then he gets it, and the rare smile comes, and he pulls the flannel on over the shirt he's already wearing and stands in his kitchen in two shirts because she told him to. I teared up a little, same as her. It's lovely. It's also, once again, everything except the word. "That was the whole of his answer, as it always was." I know, book. You've told me. You just told me again.
+Okay. I need a minute with this one, because I can't tell whether I just watched the book change gears or lose the plot.
 
-The hallway undressing is the best sex writing in a while, and it's funny. The jeans "had been sensible in the car and were the enemy now." She hops one-legged with the denim inside out. She's standing in his hall in green satin and white cotton socks while he leans there enjoying himself, and he holds the bra so she has to unwind herself out of it "like something off a spool." Then "her body having just published the number she'd gone to such trouble to keep private." That's the shame-and-heat wire again, and it's specific to her: five nights of careful story about studying, given away by her own throat. I believed every bit of it. She still wanted him to fight for the nights, and he gave her "of course" instead, and his grace "cost her more than a fight would have." That's the jacket line with real hurt in it, and it's the most honest thing in the chapter.
+Last night I closed the book on the drawer standing out an inch, the untouched coffee, and Randi coming apart in his bed holding Vee's panties. I wanted Vee's Monday, the stats class with Randi tucking her hair back and whispering "still full of you." What I got was a group project on pandemic loans. For about a page and a half I really thought I'd picked up the wrong book. When "Cassie wanted PPP" arrived, my thumb was hovering over the library return button. I've been grumbling since chapter 27 that the stats lectures were the theme announcement. Now the theme has a slide deck and a 25% weight. "Here they argued with data, not with analogies." Really? The book is winking at me about its own analogies in the chapter literally called "The Outlier."
 
-The thong. It lands green "on the long, unusually proportioned table that stood in the middle of his bedroom," and she never looks. Two chapters ago Randi stood in that bedroom with Vee's *other* green satin balled in her fist. Now Vee's new green lands on top of the bench, and the book has to step outside Vee's head to show me, because Vee can't see it. That's the narrator nudging me with an elbow, and I felt the nudge. Also, wasn't the bench against the wall in chapter 25? Now it's in the middle of the room. Maybe it got moved. Maybe it's a slip. I noticed either way.
+Cassie's dad got laid off in 2020, and Randi's dad took several loans. The one point off by itself in the white turns out to be MIRANDA. That's a lot of coincidence for a book that's been so careful. It's the bar blonde all over again: the plot handed to the characters by a device instead of grown out of them.
 
-Here's my real problem. Last time Randi's face went white over MIRANDA and Vee kept it to herself. Before that, Randi went through Vee's drawer and left Pace's coffee untouched. Not one breath of any of it here. Vee walks into the bathroom and loves "her space," and the drawer Randi opened an inch gets nothing. No thought of Randi at all, no Monday, no anthro night class, no group project. It's the come-home chapter: door, kiss, clothes on the floor, two orgasms, he cooks, she tastes everything, tender gesture, soft landing. That's curry, then the sandwich, and now pizza and a shirt. The cooking stretch went on again, romas and buffalo mozzarella and the cornmeal on the stone, and I skimmed. "Cotton candy and a bowl of cut strawberries" is the "mouth asleep" speech she already gave Randi. It's beautifully done, and I've read it four times now.
+Here's what kept me reading anyway. It's the first time in thirty-six chapters that Vee knows something about Randi that Randi doesn't know she knows. Randi has been collecting Vee piece by piece since the library steps: the wet satin, the thumb behind the knee, "he checked," the uncropped photo. Now Vee gets one piece of Randi, and she doesn't take it. "She did the one useful thing there was, which was to give Randi somewhere to put her hands." She slides the laptop over, hands Randi the busywork, and never says the name. That's the opposite of everything Randi has done to her, and Vee doesn't even know there's an opposite. I loved her for it, and it hurt. "Randi had no idea she'd been looked at." That's the bench in a glass room. The woman who can't stand being seen gets seen at her worst, by the one person kind enough to pretend she wasn't.
 
-Twenty-one chapters without Randi's head, and this time she isn't even a thought in Vee's. The book keeps letting her drop out at exactly the moments she's most dangerous. I loved this chapter while I was in it. I don't feel pulled out of it, though. It closes warm and complete, and what I want next is the story it skipped.
+And MIRANDA. Pace gave Vee "Peter" by the fire, as a gift. Vee gets "Miranda" off a government page, as a wound. I noticed the rhyme and I liked it, though the book was nice enough not to point at it.
 
-GATE 37 — The New Ordinary
+"Cheating bastards." It's plural, and the book makes a little fuss about the plural. Is that the father and the mother? The egg-white mother with "a knife in it"? Suddenly the Mercedes, the loafers bought without checking the price, and the never-opened wine list all have a smell. Randi has been paying for Vee's whole education in glamour with that money. And Vee, still filing Randi under Swiss schools, now has a rich daddy who cheated, and she's casting Randi as the innocent daughter "dealt a rotten thing." Maybe. I'm not sure Randi didn't know. The ragged way it came out makes me think she didn't, but she was "aiming the whole picture" at her own county. She wanted to prove him good. That's a girl who needed him to be good.
+
+Also, Cassie and Randi are now on opposite sides of an actual argument with Vee in the middle chair, "loved them both." That's the triangle again, with Cassie as the third corner instead of Pace. I hadn't seen that coming. It's sharp, I'll give the book that.
+
+Gripes: zero heat right after the hottest chapter in the book, and the professor drone at the top was throat-clearing. "Not that she let herself think about it much," and then she thinks about it for a whole paragraph of explanation. And twenty chapters without Randi's head, in the one scene where I'd have paid anything to be in it. I'm not quitting. But this needs to turn out to be about Randi's wound, and not an op-ed wearing her clothes.
+
+GATE 36 — The Outlier
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 6
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "He grated the cheese over it himself, a pale wet ball of it he unwrapped from paper." The pizza stretch is where I realized I was in the cooking paragraph again and started skimming for Randi.
-WHY: The undressing is funny and hot, and the shirt is the best wordless love beat since the drawer. But it's the reunion template again, ending on a warm coda, and it ignores everything chapters 35 and 36 left burning. The only thing pulling me forward is dread, plus a green thong on the bench.
+CAPTURE: 5
+NEXT: 7
+HEAT: 0
+ROMANCE: 2
+ALMOST-STOPPED: "Cassie wanted PPP." That's where the book stopped being about bodies and started being about a policy paper, the morning after the drawer.
+WHY: The device is clunky and convenient, and it skipped everything Chapter 35 left burning. But Vee seeing Randi at her worst and handing her somewhere to put her hands is the first time the gaze has run the other way, and I want to know what that costs everybody.
 
 LEDGER
-+ LOVE: "I need you to wear it for me." The washed flannel, and him pulling it on over his own shirt, two shirts in his own kitchen
-+ LOVE: The hallway undressing: jeans inside out, white socks, the bra unwound off her like a spool, and her laughing at him
-+ SUSPICION: Vee's green thong landed on the bench, the same green Randi held in her fist, and the narrator made sure I saw what Vee didn't
-+ GRUDGE: The come-home template again: kiss in the door, clothes down the hall, two orgasms, a long cooking stretch, a tasting speech, a tender coda. That's the third soft landing in a row
-+ GRUDGE: The bench was against the wall in chapter 25, and now it's "in the middle of his bedroom"
-~ F32.4 DEEPENED: She wanted him to fight for the five nights, and his easy "of course" cost her more than a fight would have. The silence is starting to hunger
-~ L23.6 DEEPENED: The shirt that smelled of "no one" got washed on purpose and handed back to be filled
-~ W29.8 DEEPENED: The bench is out in the open again, with green satin lying on it
-~ W18.5 DEEPENED: Twenty-one chapters without Randi's head, and this time she isn't even in Vee's
-~ F35.1 DEEPENED: Vee loves "her space" in the drawer Randi opened, and has no idea anyone else has been in it
-~ W36.6 DEEPENED: Nothing about MIRANDA or Randi's face. The book just dropped it
++ GRUDGE: A PPP group project and a too-convenient outlier, landing right after the drawer cliffhanger. The plot was delivered by device, like the bar blonde
++ LOVE: Vee giving Randi "somewhere to put her hands," never saying the name, and keeping the secret as a kindness
++ SUSPICION: "Cheating bastards," plural. Randi's whole glamour runs on her family's dirty money, and her mother is in it too
++ SUSPICION: Randi aimed the project at her own county to prove her father good. She needed him clean, so maybe some part of her already wondered
++ FEAR: The presentation goes up in front of the class with MIRANDA's county as Cassie's star example, and Randi gets exposed in public, or she quietly sabotages the slides
++ WAITING: Whether Randi ever finds out Vee saw, and what it does to a woman who can't stand being seen
++ LOVE: "Miranda" found on a government page, the bad-luck twin to "Peter" by the fire
+~ G27.5 DEEPENED: The outlier lecture became a literal outlier, with a wink about "data, not analogies"
+~ W35.6 DEEPENED: The book skipped Vee's side of "still full of you" entirely
+~ F35.1 DEEPENED: Not a word about the drawer. Randi just shows up bright and normal, which is scarier
+~ W18.5 DEEPENED: Twenty chapters without Randi's head, in the scene where her face went white
+~ F4.2 SHIFTED: Cassie and Randi are now on opposite sides of an actual argument, with Vee in the middle chair
+~ L4.4 SHIFTED: Vee finally knows something real about Randi, and it's not Kentucky. She still has her filed as a victim of glamour

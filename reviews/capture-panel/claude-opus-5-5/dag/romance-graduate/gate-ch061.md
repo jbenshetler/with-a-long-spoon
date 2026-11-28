@@ -1,39 +1,46 @@
-*capture-dag-v3-grounded · gate ch061 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e14961640f4a · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch058 · history ch001..ch058 · ledger no seed 1f06b1ef6410 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch061 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e5741d0c0863 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch057 · history ch001..ch057 · ledger no seed 06e9ec9d7562 · 2026-11-06*
 
 **REACTION**
 
-"Barely stings."
+"And you liked it."
 
-That's the title, and Randi's two words come back to bite. I laughed when Vee said "*Fuck—*" out loud in that little bright room. Then I stopped laughing at "Roll over for me, hon." Randi has had this done. She has a woman she sends people to by name. She knew it's "all the one service." She sat in that loft with Vee's fingers in her hand, said "barely stings" and "most expensive thing in the room," and left out the back completely. So what was that? It might be the kind lie of a friend who didn't want to scare her. But this is a woman who presses glass rims under her own nails, so maybe she really thinks this barely stings. Or she knew exactly how far past Vee's lines this would go, and wanted Vee to go there without a chance to stop. I don't know, and I hate that I can't rule out the third one. "Randi was always one road further along. It was restful, being told." Honey, nothing about being told by Randi should feel restful.
+That line is flat, with "none of the evening's music in it at all," and it's the first time in fifty-eight chapters that Randi has asked Vee a question she was afraid of. Every other question at every other table has been a lever: *did you take it all, how much could he see, how does he act.* This one wasn't a lever. Her thumb stopped mid-knuckle on "enjoying herself," and Vee felt it under her skin before she saw it. Then came "No." Too fast. Then "Not my thing," patched on smaller. I laughed out loud, and it wasn't a nice laugh. Honey, you laughed a month of jealousy out of your body on a taproom floor because a woman looked at your legs like dessert. Then you sat here and told your best friend it was "the best thing that's happened to my legs in a Virginia January." Now it's "not my thing," and the answer came out "all by itself."
 
-Getting Sunday's kitchen in flashback helps. I was annoyed last chapter that the request happened off the page, and now I have the scene: "I'd like you waxed. By the weekend. Bare… Will you?" Then "He never told her why." That line opens my waxing suspicion right back up. He asks for the thing and leaves her to fill in the reason, and she always fills it in with yes. Thursday night Randi said "I want her to know exactly what she does to me." Sunday he asks for this. Friday it's Randi's waxer, "say my name in the first sentence." The hau is under Vee's skin now, literally.
+What wrecked me is that Randi didn't move. She didn't reach and didn't laugh. Vee read the stillness as Randi standing guard against a rival, and felt warm and looked-after. "She's not a threat," she says gently, to the one person at that table who heard it as the cruelest sentence of the night. Randi isn't worried about Sheri taking Pace. She's worried about Sheri being the first woman Vee let enjoy her out loud, and she isn't Sheri. "I know she isn't, gorgeous." Vee was handing Randi the win and handed her a wound by accident. I'm going to think about that for a while.
 
-The best thing in the chapter is "Don't move," the flat hand on her thigh. Her body knows that grammar from the man who means it, and here it comes from someone who wants nothing from her: "here was the shape of it with everything true scooped out of the middle." It "open[ed] a hole in her a mile across where the right hand should have been." That's the book doing what I came for. Her arousal, her shame and her longing all run on one wire, and it's honest about how wrong the setting is. Her mother's "the kind of girl who" shows up with no fuel attached this time. Then the roll-over stretch has "no wanting in this one. Nothing lit." That's the bravest part. It lets the scene be humiliating and nothing else, and doesn't turn it into a turn-on. She holds still "on her own now, nobody had to tell her," and that line scared me a little. She's getting very good at holding still.
+Then the kiss. The jacket said she'd tell herself it was nothing "when the goodbye kiss outlasts the goodbye," and here it is, almost word for word. Vee turns her face up first with her eyes already closed, waiting on the hand at her jaw. Randi opens the kiss "and this time it stayed." The neck kiss is "in passing," and "neither of them said a word about it." Nobody pretends to be ticklish anymore. Nobody covers. They're just not saying it. That's a turn, and the book did it in four lines without explaining it to me. Thank you.
 
-Then she's alone and touches herself, and "the sound she made was not one of pain." She walks out past the girl who came to be looked at, as the girl who came to be touched. That's a lovely close and a cleaner ache.
+The waxing has my suspicion radar screaming. "He asked me for something. Sunday. In the kitchen." I was *in* that kitchen on Sunday and it never happened on the page. The book is handing me an offstage request, and I hate that a little as craft. But look at where it goes. Randi knows a woman on Draper Street by name, says "tell them I sent you," and lines up the whole week behind her eyes. Thursday night in his bed Randi said she wanted Vee to "know exactly what she does to me," and three days later Pace asks Vee to get her body changed. Whose idea was bare? Is Vee being made to match? Is Randi going to be in Vee's body without being in the room, the same way she's in the shoes, the scarf and the blanket? The hau wants to go home. And "Barely stings"? I don't believe Randi about pain. She presses glass rims under her nails for fun.
 
-What it cost: the Tuesday loft is reprinted almost word for word, the fish eaten to the middle, the fork, "a hand laid over Vee's, warm, brief, sure." I read it four days ago. That isn't a return, it's copy-paste. The opening taxonomy of the two girls on the couch, with "understood which one she was," tells me a bit more than it shows. And "Sondra had found her sore spot on the first try" made me wince for the wrong reason.
+Small things: Randi ate to the middle of the fillet and laid her fork across it. Vee pushed a gnocchi to the edge and left it there, and she *never* leaves food. Something in her isn't fully hungry tonight. And that last line: "The other part she didn't write down. She had that one cold." Randi's name in the first sentence? The kiss? It's both, and I love that it's both.
 
-1 a.m. text: *randi said "barely stings." randi did NOT mention "roll over, hon." also "don't move," from the wrong hand, gave her a hole a mile wide where pace's should be. I need the weekend.*
+What it cost: this is the third telling of the Sheri night in three chapters. Two colors of hair, round face, the doorway hug, the porch coffee and the landlord's lock again, all of it. It's brunch template number whatever: coat lining-to-the-wall, wine, the confession, the curb kiss, "Thursday, gorgeous, walk fast." I skimmed the first page. The "No" saved it.
 
-GATE 59 — Barely Stings
+1 a.m. text: *randi asked "and you liked it" in a dead voice and vee said NO too fast and then comforted her for being WORRIED ABOUT SHERI. then the goodbye kiss just… stayed. and pace wants her waxed and randi has a girl. whose idea was that.*
+
+GATE 58 — Between
 DECISION: CONTINUE
 CAPTURE: 8
 NEXT: 8
 HEAT: 2
-ROMANCE: 2
-ALMOST-STOPPED: "'Oh, you're going to *love* it,' she'd said. 'God, the first time. Don't let anybody but Sondra touch you —'" That's Tuesday's dialogue reprinted word for word, one chapter after I read it.
-WHY: "The wrong hand" is one of the smartest things the book has done with her body: a stranger's "Don't move" opening a hole where Pace should be. And Randi's omission of the back half sits in my stomach like a stone. The recap cost a point, but now I need the weekend, his hand finding her, and whatever Randi gets told about it.
+ROMANCE: 3
+ALMOST-STOPPED: "The hair: two colors, dark at the roots and going light at the ends, permed where it came down over her collar." That's Sheri described to me for the third chapter running, and I was skimming.
+WHY: The Sheri recap and the brunch shape are tired. But "And you liked it" / "No," followed by Vee comforting Randi for the wrong fear, is the sharpest misreading in the book, and the kiss that stays is the jacket's line coming true on the page. The offstage waxing request smells like Randi's hand, and Friday is a date I want to see.
 
 LEDGER
-+ SUSPICION: Randi left out the back on purpose. She knew it's "all the one service" and let Vee find out face-down, either as a kindness she misjudged or as a test of how far Vee will go without being asked
-+ LOVE: "Don't move," the wrong hand, and "a hole in her a mile across where the right hand should have been"
-+ LOVE: Alone on the table, her own hand on the smoothness, "the sound she made was not one of pain"
-+ FEAR: Vee holds still now "on her own, nobody had to tell her." The yes comes before the question every time, and someone is going to use that
-+ GRUDGE: The Tuesday loft dialogue reprinted almost verbatim one chapter later
-+ WAITING: The weekend. His hand finding what she did for him, and whether he says why he asked
-~ G58.5 FORGIVEN: The Sunday kitchen came back on the page, "Will you?" and all
-~ S58.1 DEEPENED: "He never told her why." He asks with no reason, and it's Randi's woman who did it, with Randi's name said first
-~ F58.2 DEEPENED: Randi's taste is in Vee's skin now. "Barely stings" was Randi's map, and the map was missing half the country
-~ L10.1 SHIFTED: "The kind of girl who" came in her mother's register with no heat attached. For once it didn't turn into fuel
-~ F1.3 DEEPENED: A woman who presses glass under her nails calls this "barely stings." Her sense of pain is being handed to Vee as advice
++ SUSPICION: The waxing request is Randi's want routed through Pace. She told him Thursday she wants Vee to know what she does to her, he asked Sunday, and Randi has the woman, the street and the script ready
++ FEAR: Friday at Sondra's puts Randi's taste into Vee's skin. It's another Randi gift worn on Vee's body, and it will "pull home" when the truth comes out
++ LOVE: Randi's thumb going still on Vee's knuckles at "enjoying herself," and "And you liked it" with no music in it
++ LOVE: The goodbye kiss that "stayed," with Vee's face turned up first, eyes closed, waiting on the hand
++ GRUDGE: Pace's waxing request happened on a Sunday I read, offstage, and arrived secondhand as a plot delivery
++ GRUDGE: The Sheri night told for the third chapter in a row
++ WAITING: "The other part she didn't write down. She had that one cold." Whether it's Randi's name or the kiss, and what she does with it
+~ W57.6 ANSWERED: She handed Randi the win and saved the look for last, and the look landed on Randi like a blow
+~ S56.3 DEEPENED: "No. Not my thing," too fast, about a look that made her laugh out a month of fear
+~ S47.2 DEEPENED: She lifts her face for the kiss first, and the neck kiss goes uncovered on both sides
+~ S51.5 DEEPENED: No "ticklish" this time. The neck kiss happened, and neither of them said a word
+~ F51.3 DEEPENED: Randi's waxer, said in Randi's name, on Vee's body. The hau is moving into her skin
+~ F1.3 SHIFTED: No nail under a rim. Her thumb just stopped on Vee's hand, and that's the tell now
+~ W3.7 DEEPENED: Randi ate to the middle of the fish and laid down the fork. Vee pushed a gnocchi aside and left it, the first food she's ever left
+~ G9.7 DEEPENED: Same loft, same coat on the hook, same wine, same curb kiss
+~ F42.3 DEEPENED: Vee reads Randi's stillness as guarding her against Sheri. She's misreading the love sitting right across from her

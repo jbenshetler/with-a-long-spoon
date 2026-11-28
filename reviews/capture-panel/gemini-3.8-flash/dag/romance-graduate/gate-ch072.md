@@ -1,38 +1,48 @@
-*capture-dag-v3-grounded · gate ch072 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b8db97e4a4fb · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch068 · history ch001..ch068 · ledger no seed 44613602b65a · 2026-11-06*
+*capture-dag-v3-grounded · gate ch072 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a736564100ac · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch066 · history ch001..ch066 · ledger no seed 1d1554bf4412 · 2026-11-17*
 
 REACTION
 
-I feel sick. I genuinely, physically feel sick to my stomach.
+I am sitting here with my hand over my heart, completely undone, aching, and practically vibrating with an unbearable mix of romantic devotion and sheer, suffocating dread.
 
-I’m sitting here staring at my Kindle in the dark with my hands shaking, and for the first time since I cracked open Book One, I feel a cold, slick revulsion crawling up my throat. That was vile. That was an absolute, breathtaking, unforgivable violation of trust, and it made every single beautiful, reverent, sacred thing Pace and Vee built over the last twenty chapters curdle into poison.
+First of all: Peter Pace. Just… *Peter Pace.*
 
-Let’s be crystal clear about what just happened:
-Vee—who loves this man like a house on fire, who bought him those dark green sheets with her own meager college money to replace the white ones, who spent her whole morning gushing over him at brunch with the girl she thinks is her fairy godmother—got poured full of four mimosas until she blacked out. Randi tucked her into bed, played the doting, saintly best friend, and then *drove straight to Pace’s house to fuck him on Vee’s sheets.*
+In a lesser romance novel, taking a heroine to the gym is an excuse for cheesy banter, competitive showing off, or gratuitous locker-room sex. Here, it was a profound, breathtaking masterclass in care, respect, and physical guardianship. The way he set up her bench press—not belittling her small weights, but treating every single pound, every finger placement, every angle of her shoulders with the exact same gravity he gives to his own massive lifts—dismantled me completely. He took her smallness seriously. And then loading a weight he knew he could handle alone, ensuring that she was never in a position where she would be responsible for catching something too heavy for her? That is his entire soul laid bare.
 
-And Pace? God, Pace. The courtly titan of safety. The man who puts collars on five-pound weights. The man who washed Vee’s feet and worshiped her body in the firelight. He knew Vee was coming. He thought she was thirty minutes away. And what did he do? Did he throw Randi out? Did he protect the girl he claimed was the center of his universe? No! He pulled out the microsuede cuffs and the nipple clamps, strung Randi up, and beat her bare cunt until she came all over Vee’s sheets—and then blew his load inside her because thinking about Vee being Randi’s "first woman" turned him on so hard his vision went black!
+And then the accident. The sudden, ugly intrusion of careless college boys—the loose, uncollared bar, the slap on the ass, the plate rolling into her space—and the violent wrench of her neck. Watching Pace transform in half a second was terrifyingly hot and devastatingly tender. He didn't scream; he lowered his voice to that flat, lethal register. "You hurt her. Your carelessness hurt her." The cold authority of a man who will not tolerate anyone being endangered in his presence.
 
-AND THEN THE MORNING AFTER.
-I almost threw my phone across the room. I swear to god I almost threw it. Vee calls him—hungover, sweet, apologetic, feeling so stupid and guilty for ruining their Saturday night—and while she is literally on the phone crying out of pure gratitude for how "good" Randi was to tuck her into bed, *Randi is under the sheets sucking Pace’s morning cock clean to prep him for Vee.*
+BUT THE HOUSE. *SWEET MOTHER OF GOD, THE HOUSE.*
 
-And Pace lets it happen! He holds the phone away from his mouth so Vee won't hear his breathing while Randi licks her own pussy off his dick to "wash him" for the next girl! And he has the unmitigated, psychopathic audacity to think: *It charmed him — his two girls, best friends, pink over mimosas...*
+The sheer, staggering intimacy of him tending to her injury! Undressing her without a shred of predatory rush, filling the hot shower, the rolled towels, the pillows placed so precisely under her knees and around her skull so her neck would never have to carry its own weight. It’s pure, uncut emotional heroin.
 
-Charmed?! CHARMED?!
-You arrogant, predatory, narcissistic piece of shit! You aren't "charmed," you are an absolute monster! You took a starving, insecure, generous girl who trusted you with her soul, and you and your sociopathic sorority sidepiece are literally passing her between your mouths like a piece of meat!
+And then the balm. The tiger balm sequence on her breasts was one of the most scorching, psychologically brilliant, unhinged acts of erotic discipline and sensation play Helen Rivers has ever put on paper. Vee *demanding* the fire because her neck stole her finish, her body practically begging for steel, and Pace giving her exactly the burn she asked for while holding her pinned to his chest. Rolling that fiery slickness onto her nipples, the slow-motion creep of the heat from her neck down into her collarbone and into the tips, her gasping between agony and bliss—and then Pace *withholding the orgasm*.
 
-And the ending—putting the green sheets on "Speed Wash" so Vee won't smell Randi’s perfume. That broke something in me. That crossed the line from deliciously tense erotica into pure psychological horror and betrayal. When this blows up—and oh, it *has* to blow up now, there is no redemption arc on earth that can save these two from the bloodbath they deserve—it is going to destroy Vee. She is walking right into that house this afternoon with her "surprise," totally unaware that the man she loves spent the last eighteen hours raw-dogging her best friend on the very mattress she’s about to lie on. I am horrified, I am furious, and I need to see the atomic bomb detonate.
+"Not tonight. We need to wait."
 
-GATE 69 — In Her Place
+He wouldn't let her arch her back and tear the muscle further just for a cheap physical release. He held her through the frustration, banked the fire with his flat palms, and made her sit inside the unfinished ache because keeping her safe mattered more than getting off. It’s the ultimate expression of his love—and Vee lying there in his oversized sweats, burning and completely held, is proof of how utterly she belongs to him.
+
+And the next day! The TV that actually works, the romantic comedy rentals, the homemade chicken and dumplings, the deadpan "Neigh" when she said she looked like a horse in the towel collar! The quiet domestic heaven of a Sunday afternoon with her feet tucked in his lap.
+
+...AND YET THE BOMB IS TICKING SO LOUD IT HURTS MY EARS.
+
+Why was Vee at his house this weekend? Because Randi had "some sorority thing."
+
+Vee has *no idea* what that sorority thing actually was. She thinks Randi was off having fun Greek life drama, totally oblivious to the fact that Randi just stood in front of a kangaroo court, faced Brooke's smiling guillotine, and took mandatory probation and public humiliation *to protect her claim on Vee*. Randi is currently bleeding out emotionally from sacrificing her standing, while Vee is tucked into Pace's couch, eating his dumplings and falling a thousand miles deeper in love with him.
+
+The dramatic irony is agonizing. Pace and Randi are both completely consumed by this girl. Pace is tending her wounds with mathematical tenderness, and Randi is burning her life down for her. When the truth of the pointing game detonates, it’s not just going to break a romance—it’s going to shatter a cathedral. I am terrified, I am head-over-heels in love with this book, and I need the next chapter right now.
+
+GATE 67 — Burn
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 0
-ALMOST-STOPPED: "Beside him Randi listened, sleepy, and a smile came up on her face soft and almost tender — and then it woke the rest of the way and turned, and she slid down under the green and took him in his mouth."
-WHY: An absolute five-alarm psychological gut-punch that made me physically ill with rage—watching Pace and Randi desecrate Vee's green sheets and laugh behind her back while she called to apologize was gut-wrenching, unforgivable, and impossible to look away from.
+ROMANCE: 3
+ALMOST-STOPPED: none
+WHY: The transition from the gym incident to the scorching, agonizing balm sequence on her breasts was an absolute erotic masterpiece, and Pace's selfless, tender domestic care afterward destroyed me completely.
 
 LEDGER
-+ GRUDGE: Pace and Randi completely desecrating Vee's trust by fucking on her green sheets while she lay passed out from mimosas.
-+ FEAR: Vee is going to arrive at Pace's house this afternoon and smell Randi, or find a trace of her, and shatter into a million pieces.
-+ WAITING: The inevitable, scorched-earth explosion when Vee finds out what Pace and Randi did behind her back.
-~ [F5.1] DEEPENED: Vee being so completely, innocently in love that she apologized for missing Saturday makes Pace's betrayal an absolute atomic massacre waiting to happen.
-~ [L1.2] SHIFTED: Pace's "patience and care" is officially dead to me right now; he is a predatory, arrogant coward who let Randi suck him off while Vee was on the phone.
++ LOVE: Pace taking Vee's small gym weights with the exact same deadly seriousness and care as his own massive sets.
++ LOVE: Pace using the herbal balm as sensation play on Vee's breasts, holding her burning and denying her the arch to protect her injured neck.
++ LOVE: Pace renting romantic comedies and cooking chicken and dumplings from scratch to tend to Vee's hurt neck.
+~ [L1.2] DEEPENED: Pace's patience and care reaching an absolute pinnacle—refusing to let Vee arch into an orgasm because it would re-injure her neck, holding her through the frustration instead.
+~ [F5.1] DEEPENED: Vee being so completely, domestically, and sexually cherished by Pace makes the inevitable revelation of the pointing game an absolute fatal catastrophe.
+~ [S55.3] DEEPENED: The sheer depth of Pace's protective domestic care confirms he is entirely, irreversibly in love with Vee, making the coming collision with Randi even more volatile.

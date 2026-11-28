@@ -1,50 +1,51 @@
-*capture-dag-v3-grounded · gate ch073 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 7c967499fe4b · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch069 · history ch001..ch069 · ledger no seed bdea2b9237c7 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch073 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b8db97e4a4fb · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch068 · history ch001..ch068 · ledger no seed b1353f55e097 · 2026-11-06*
 
 **REACTION**
 
-She's on the bench.
+"*don't come out when you hear me. stay put, wherever you are. wait till I call — I've got a surprise.*"
 
-Chapter 1 was Randi on this bench, begging, then crying, then locking herself in the bathroom and deciding to hide whatever he'd found. Sixty-nine chapters later Vee lies down on it, sure he built it for her. "Form follows function… and the function was her." I put the phone face-down on my chest. It wasn't built to her, honey. The last woman on it was here a month ago, in clamps, on your green sheets. Chapter 69 was called "In Her Place," with Randi lying in Vee's spot. This chapter is the same move turned around, Vee in Randi's spot, and Vee never finds out. The book doesn't point at it once. That's the cruelest structure it has managed, and it's buried in the hottest chapter it has given me.
+I knew who sent that before he did. Vee doesn't write like that. Vee writes *what am I supposed to do with the flower*. "Stay put, wherever you are" is a woman making sure he can't come down the hall and catch her at the door. And when Vee calls in the morning she repeats the first text almost word for word, "Don't make plans," so that one was really hers. The second one wasn't. Randi had Vee's phone. She had it in both hands in the booth at Prices Fork in chapter 65 too, and I've been waiting for that phone to matter. Then there's the bolt going home behind her. How did she get through a locked door at a house where he has "never given a key to anyone"? Vee's key was in Vee's bag, and Vee was passed out in the dorm. The book doesn't say it. I'm saying it.
 
-The heat is the most I've had from this series. The best thing in it isn't the spanking, it's the grips. Nothing ties her down. He closes her fingers around the wood and lets go, and "her grip was the restraint." Then the turn: her hands aren't only holding her there, they're bracing so she can grind harder and take the swat. "There was no rope in the world she could have laid the blame on." That's the whole book in one image. Her shame is wired into every beat and then turned into fuel, the way I came here for. "That's a lot of work for no." "All the way down on 'no'." The way he keeps whatever depth she wins and won't give it back is the bench's "not yet" from chapter 1 made into a physics. "Tell me it rained" made me laugh out loud in bed.
+Then "I drove her home myself and put her to bed… got me out of my fancy clothes." I had to stop. Four mimosas, a girl who doesn't remember getting home, and the woman who's in love with her undressing her while she's out cold and then driving to her boyfriend's house wearing her afternoon. Vee calls it the kindest thing anyone's done for her. "I don't know what I'd do without her." I felt sick, and the book wants me to feel exactly that. I don't think the mimosas were Vee's idea of a pace.
 
-What got under my ribs more than any of that was him crouching down so she could see his face. "You still with me?" "Yes." A kiss on the forehead, then back behind her. And at the end she won't be put to bed and tended. She climbs on top of him and watches the patience go out of his face. I wanted that, the one thing he hands her that isn't controlled.
+The sex is the most explicit thing in the series. I won't pretend it didn't work on me: the clamps, the chain as a rein, the spanking walked down toward the one untouched place and then not finished, and the clamps coming off as a second burn right as his hand lands between her legs. It's chapter 1 at full volume. But this time Pace reads the whole bench: "she hadn't come to be serviced. She'd come to be made to pay." When she sobs afterward he gets it: "it wasn't really about anything he'd done to her body." Sixty-eight chapters of him misreading her crying, and now he finally reads it, and what he does with it is hold her while watching the clock. And "She's perfect. For your first woman." That's what makes Randi come. He's not hiding the threesome picture anymore. He's handing it to her as a gift, mid-stroke, and she comes apart on Vee's green sheets with her blue toenails dug into them. That line was devastating, and the image is the best in the chapter.
 
-Randi isn't anywhere in this chapter, and that scares me more than if she were. Vee spends the whole week wanting, "with no one else anywhere in the wanting." The tell-me rule from the cabin has flipped: now she can't text him because it's him she's thinking about. That's sweet, or it's the book clearing the room. Randi said "I have secrets of my own" with Pace inside her four weeks ago. Vee went out there to "make it up to him" the morning after, and that visit never happened on the page. Neither did the Speed Wash, or anything in April. Another month gone.
+The morning is the coldest scene in the book. Randi's under the sheet cleaning him off for Vee while Vee, hungover, thanks Randi for being so good to her. Pace holds the phone away from his mouth and *lets it happen*. Then Speed Wash, so Vee's sheets go through the machine twice in one day. The man who collars a five-pound plate washes away every trace of a betrayal. Grown-up? Very. Romantic? I don't know who to root for anymore, and I suspect that's the point.
 
-What cost it is the length. It's gorgeous, and it's also the same loop ten times over: deny, "Brave," "There," she gets caught, she comes or doesn't. By "the tacky one told her how long she had been here," I could feel how long I'd been here too. The wet-finger, dry-finger trade runs three rounds past where I got it. "Pat. Pat." is the clinical close-up thing again. I've complained about fluid shining in the lamplight since chapter 54, and this time it's a drip with sound effects. The dropped-plate paragraph about her "whole careful architecture" explains a climax I'd already felt in my teeth. And she "did not remember a table"? She has slept in that room for months. Her green thong landed on it in chapter 37.
+What cost it: a month vanished again. March 6 to April 10, and apparently the "space princess, the chase, the interrogation" all happened off the page and I only hear about them secondhand. That's the third skipped stretch in a row. Pace's head is flat in the setup ("a girl he cherished, and to sex with her he really liked" reads like a form letter). And the cleanup paragraph explains Randi's mouth three ways ("making him over into something clean and ready for Vee's use… putting herself under the other girl…") when the phone call had already said it. "He did like her. He always had" was nice, though. So was "I'm here. With you. Now."
 
-But I'm not leaving after this. I'm going to sleep on it, same as she does.
+The white sheets were "his and Randi's… not aired." So she's been sleeping over again, in the month I didn't get to see.
 
-*1 a.m. text: she's ON THE BENCH. the one randi was on in chapter 1. she thinks he built it for her. nothing tied her down, she held on herself. "that's a lot of work for no." I need a cold shower and also I'm scared.*
+1 a.m. text: *randi got vee drunk, put her to bed, TOOK HER PHONE and texted pace as her. then lay on vee's green sheets naked. clamps. "she's perfect for your first woman." then in the morning vee calls to thank randi for taking care of her WHILE RANDI IS UNDER THE SHEET. he washed the sheets. twice. I need to lie down in the dark.*
 
-GATE 70 — Vee on the Bench
+GATE 69 — In Her Place
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 7
+NEXT: 9
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "And the tacky one told her how long she had been here." It told me too: I was on the fourth lap of the same deny-and-get-caught loop and had started skimming.
-WHY: This is the payoff I've been afraid of since chapter 9. It's explicit and smart and completely hers, with her grip as the only restraint and her "no" turned into the thing she lifts for. Him crouching to check on her turns the bond. But it runs long, ends warm and asleep with no hook, and quietly skips a whole month and Randi, so I'm pulled on by dread more than by the ending.
+ROMANCE: 2
+ALMOST-STOPPED: "Over mimosas she told me everything. The whole game — the space princess, the chase, the—" That's where I realized a whole month of Vee's games happened offstage and I was being handed the summary by the woman who stole it.
+WHY: It's the bench from chapter 1 at full volume, and Randi literally takes Vee's place. The phone, the passed-out girl, "perfect for your first woman," and the morning call make this the cruellest and hottest chapter in the book. The skipped month and Pace's thin setup cost it a point. Vee is driving out to the clean sheets right now, and I can't stop.
 
 LEDGER
-+ FEAR: The bench was built for Randi, and Vee has decided "the function was her." When she finds out who lay on it first, this night falls on top of the pointing game
-+ LOVE: Her own grip as the only restraint, and her hands bracing her into it, "no rope in the world she could have laid the blame on"
-+ LOVE: Him crouching down to her face in the ring: "You still with me?" "Yes." The forehead kiss, then back to work
-+ LOVE: "That's a lot of work for no," and him keeping every inch she wins
-+ LOVE: She refuses to be tended afterward, climbs on him, and watches his patience go
-+ GRUDGE: The deny-and-get-caught loop runs maybe four rounds too many, and "Pat. Pat." is the fluid close-up turned into sound effects
-+ GRUDGE: She "did not remember a table" in a bedroom she's slept in for months, where her thong landed on it in chapter 37
-+ SUSPICION: Randi missing from Vee's whole week of wanting isn't growth. The book is clearing the room before it puts three people in it
-+ WAITING: Randi's "secrets of my own," and whether the bench comes up between her and Pace now that Vee has been on it
-~ W29.8 RESOLVED: The top came off and Vee was on the bench, the whole chapter long
-~ F9.5 RESOLVED: She found out what's in that bedroom by lying down on it
-~ S26.2 CONFIRMED: He offered her the bench the way he offered it to Randi, built and readied, with her safeword asked first
-~ F59.4 SHIFTED: Her holding still turned into holding on, her grip as the restraint, and he used it to give
-~ L10.1 DEEPENED: "Floozie," "girls like that," and her mother's kitchen, all turned into fuel, then shattered "like a dropped plate"
-~ G66.4 DEEPENED: April 10 to May 3, gone, including the make-up visit after the Speed Wash
-~ F69.6 FADED: Vee's visit to the scrubbed house never made it onto the page
-~ G37.5 DEEPENED: The bench has moved from the wall, to the middle of the room, to somewhere she doesn't remember at all
-~ G1.7 DEEPENED: The "whole careful architecture" paragraph explains a climax I'd already felt
-~ G54.4 DEEPENED: The wet gets a close-up again, a drip on a thread, then a sound
-~ S1.4 DEEPENED: He reads every flicker of her body and still has no idea she thinks the bench was built for her
++ SUSPICION: The second text came from Vee's phone. Randi had it while Vee was passed out, and she got in through a locked door with Vee's key
++ FEAR: Vee was out cold and Randi undressed her and put her to bed. Something happened in that dorm room that Vee will never remember, and she's grateful for it
++ SUSPICION: The four mimosas weren't Vee's pace. Randi kept them coming so the hour would be hers
++ LOVE: The blue toenails clenching into the green Vee chose for his bed
++ LOVE: "I'm here. With you. Now." His one plain kindness to her, with no lie in it
++ FEAR: Speed Wash. The house is scrubbed of every trace, and Vee walks in to make it up to him
++ GRUDGE: Another month skipped, and the space princess, the chase and the interrogation all happened off the page, reported secondhand by Randi
++ GRUDGE: Pace's setup interiority is form-letter flat ("a girl he cherished… sex he really liked"), and the cleanup paragraph explains Randi's mouth three times
+~ S65.2 CONFIRMED: She used the phone, if not that day then this one. Vee's phone sent the surprise
+~ F55.1 DEEPENED: "She's perfect. For your first woman." He's handing Randi the threesome mid-stroke now
+~ S6.2 SHIFTED: He finally reads her crying right ("not about anything he'd done to her body") and holds her while watching the clock
+~ W25.6 SHIFTED: He knows now what the bench costs her. He gave her the punishment she built the afternoon to earn
+~ S13.1 CONFIRMED: The white sheets were "his and Randi's," slept in and not aired. She's been back in that bed all month
+~ F3.3 DEEPENED: "Randi was so good to me. I don't know what I'd do without her," said while Randi was under the sheet
+~ F42.3 DEEPENED: Randi's want came "uncovered" in his bed, and still to everyone but Vee
+~ L6.1 DEEPENED: The debrief now runs from Vee to Randi to Pace, over mimosas, in Vee's own words
+~ F1.3 DEEPENED: She built a whole afternoon to be hurt, then sobbed with no say in it
+~ G66.4 DEEPENED: March 6 to April 10, gone
+~ W68.8 ANSWERED: The photo and "I wanted to be the one doing it" went to Randi's bed as "your first woman"
+~ W68.7 FADED: A month later, no word on whether she ever answered "wish you were here"
+~ S67.3 DEEPENED: "Never given a key to anyone," and Randi bolted the door from inside anyway

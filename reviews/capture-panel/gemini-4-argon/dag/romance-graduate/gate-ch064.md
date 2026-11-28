@@ -1,87 +1,78 @@
-*capture-dag-v3-grounded · gate ch064 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6f238dfdbe85 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch061 · history ch001..ch061 · ledger no seed 93493095815d · 2026-11-06*
+*capture-dag-v3-grounded · gate ch064 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 05d75bcab161 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) · history ch001..ch060 · ledger no seed dd359a0786f3 · 2026-11-06*
 
 REACTION
 
-OH MY GOD. This chapter is an absolute psychological and erotic masterpiece—I am sitting here with goosebumps all the way up my arms, my heart racing, and my jaw on the floor at how every single layer of this three-way game just collided in Pace's bed at one in the morning!
+I AM SHAKING. Literally holding my Kindle with both hands and staring at the wall because it finally, finally happened—sixty-one chapters of slow-burn, plausible-deniability "French" goodbye kisses and bathroom-stall orgasms and whispered neck kisses just detonated in the middle of a crowded sorority mixer, and then Randi pulled the pin and handed the whole thing back as a *bit*!!
 
-First of all, let's talk about that opening scene in Vee's dark dorm room!
-She walks home from the party still wet and ringing from Randi's mouth, takes off Randi's iridescent skirt, and goes to peel off her soaked green satin thong—which is literally stuck to her skin from how wet Randi made her on the dance floor!—and her fingertip slides across her newly waxed, bare skin and stops dead:
-*"the thought of what Randi would make of this, the new smoothness, what Randi's mouth would do to it if it ever got down there and found her bare as this, made this way, an offering with the wrong name on it. Her hips tilted toward the idea before the idea had finished being one."*
-AN OFFERING WITH THE WRONG NAME ON IT!
-Look at that phrase! Yesterday afternoon she got waxed bare for Pace, last night Pace painted a cherry on her bare mons, and tonight she touches her own smooth skin in the dark and realizes her body wants *Randi's* mouth to go down there and find it!
-And her panic reaction! Grabbing the brand-new word Pace gave her at the roadhouse on Wednesday night—*I have a boyfriend*—like a stair rail in the dark, putting Randi's tiny iridescent skirt *right back on* over her half-peeled, Randi-soaked thong ("she wanted it there and wouldn't ask herself why"), and driving eighty miles an hour down the dark county road at midnight to use Pace's body to exorcise Randi out of her head!
+Hold on, we have to walk through how diabolical and breathtaking this entire chapter was from top to bottom, because every single detail was set up like a Swiss watch:
 
-And when she gets to Pace's door and walks him backward into the dark house with her hand down his boxers—OH MY GOD, the emotional violence and raw honesty of that first round of sex!
-*"she was not trying to have him. She was trying to get free of something, and her body went about it like a fight... Not once, on any other night she'd come to him wild, had she needed him to drive someone else out of her head. She came with her face turned into his neck so she wouldn't have to see him see her."*
-And it doesn't even work! She comes once with her face hidden in his neck, and the picture of Randi on the dance floor is *still there*, so she rides him furiously a second time until he comes, and ends up raw inside at the end of the chapter ("the kind you got from not stopping when you should have")!
-AND PACE CLOCKS IT IMMEDIATELY.
-*"What was that? ... That wasn't you wound up — I know that one. That was angry, Vee. Did something happen at the mixer?"*
-Because Pace knows every shift of her body in the dark! And I loved the detail of *why* she finally confesses that it was Randi she kissed: when she tries to float the safe half-truth ("For Harrison... We kissed") and hears Pace repeat *"Harrison,"* she can't bear the thought of leaving a false hurt inside Pace's chest that she kissed another guy, so the truth tears right out of her:
-*"Not him. God, not— it was Randi. I kissed Randi... Or she kissed me— and I kissed her back... It didn't stay a joke."*
+First, the timeline and the setup! Notice that the opening scene at Chi Latte ("Wanna go to a party with me?") is actually a flashback to earlier in the week when Randi set up Saturday night—remember in Chapter 58 when Vee said she had Friday afternoon free for the wax and Randi's eyes went over Vee's shoulder and came back *"with the whole week arranged in them"*?! And then in Randi's closet, when Vee says nothing will fit her because they're built different, Randi goes *"straight down the rail without hunting — she knew right where it was"* and pulls out the tiny, stretchy iridescent skirt!
+WAIT A SECOND. Think about what Randi knew when she handed Vee that scrap of iridescent skirt:
+1. She knew that by Saturday night, Vee would be freshly waxed *completely bare, front and back*, by Sondra!
+2. She knew that on Vee's tall, lush hourglass frame ("a foot of leg on her, and an ass she hasn't got at all," as Cassie immediately clocks!), that tiny skirt was going to ride straight up over her ass on the dance floor!
+3. And look at Cassie on the lower bunk: *"No Pace tonight?" "He gets me tomorrow. Tonight I'm Randi's date."* And Cassie's eyebrow goes up a half-inch and stays there! Cassie doesn't even argue her anti-sorority stance tonight because she is watching Vee walk out the door in a micro-skirt as "Randi's date"!
 
-AND THEN ROUND TWO BEGINS.
-Stop and think about the sheer dramatic irony of what happens the second Vee whispers *"It didn't stay a joke"*:
-Pace—who hasn't slipped out of her once—**goes rock-hard inside her**.
-Why? Vee thinks it's just "a man who'd heard *two girls* and wanted the rest — the ordinary greed of that, nothing she couldn't handle."
-NO! Pace has been waiting since *Chapter 3* (and specifically since Thursday night in Chapter 55, when Randi rode him and said *"I want her to know exactly what she does to me"*!) for this exact moment! And look at the move he uses to extract the whole truth from Vee:
-In Chapter 55, forty-eight hours ago, Pace spanned Randi's waist with his hands, lifted her off him, and lowered her onto his cock *one slow inch at a time* ("My turn"). Now, he cups Vee's ass in his hands, lifts her all the way up to the tip of his cock, and holds her suspended there:
-**"Tell me the real story, and I'll give you what you want."**
+Second: THE CARTIER LOVE BRACELET!
+*"Because, gorgeous — the bracelet is called Love... It's a real commitment. Taking it off requires tools."*
+We have been looking at that plain heavy white-gold band locked around Randi's wrist since Chapter 1 (*The Bench*), when Randi's hand went to it in the bathroom mirror and on the bench-table! We saw her touch it in Chapter 25 and Chapter 51! Wait—who locked that Cartier Love bracelet onto Randi's wrist with the tiny screwdriver?! Was it Pace?! No, Pace wouldn't buy a branded Cartier Love bracelet—he builds white-oak furniture and sews silk by hand! Was it her parents/mother, or John, or is there another story behind who locked that band onto her wrist?!
 
-I was barely breathing through that entire inch-by-inch interrogation! Every time Vee tries to tidy the story or hide behind the "bit" (*We danced bigger / She moved me around / The skirt rode up some / I don't know, probably*), Pace's hands stall her or lift her all the way off him until she's clenching on emptiness, forcing her to turn around and look at what she actually wanted and did!
-Look at the truths he makes her buy her own pleasure back with, one stroke at a time:
-1. *"I went as her date... She said guys you have to manage all night, and me she just gets to have."* (And Pace buries himself to the root in her for that!)
-2. *"She took my hands and ran them up my sides and lifted them over my head and held them there, so I couldn't hold the skirt down, and my thighs were — open. To all of them. And I didn't— I didn't try that hard to get my hands back."* (And she hears the wet sound between their bodies and can't tell how much of that wetness is Pace's and how much is *still Randi's* from the dance floor!)
-3. *"They could see all of me. And I wanted it... Soaked. God, yes, I was soaked."*
-4. And then when she gets to the kiss itself, he stops trading inches and runs her straight up to the edge of her climax and *holds her there shaking over the drop* with a slow shallow rock ("You finish when you've finished") until she pays the final, terrifying coin—not what happened, but what it meant to her:
-**"I wanted it. I wanted the kiss. I wanted her mouth on me. It was so hot, Pace, it was so — I've never—"**
-And he drives her right over the edge while she still tastes Randi's salt and lime on her tongue under his mouth ("Her whole weight was down on him now, the man, solid and hers, and the woman was still in her mouth, and she could not have told, even now, which of them she'd been chasing at the end")!
+Third: BROOKE AT THE MIXER!
+Oh my god, the ice water that ran down my spine when Brooke came out of the crowd in gold lamé and a butterscotch tan and hugged Vee!
+Remember Chapter 45 (*My Friend Randi*), when Brooke caught Randi right after Vee kissed her in the foyer and gave her that chilling velvet ultimatum:
+*"Play all you want, privately, or for the boys. The minute it stops looking like play... You remember Lauren Pike... You've got a position in this house, and you've got her. You need to choose."*
+AND WHAT DOES RANDI DO AT THE MIXER WHEN BROOKE RECITES EVERY TIME VEE HAS BEEN WITH RANDI SINCE FALL?!
+Randi puts her arm right around Vee's waist in front of Brooke and says:
+**"I chose."**
+**"I can see," said Brooke.**
+WAIT A MINUTE! Vee—sweet, oblivious Vee!—thinks Brooke is just a warm, kind house president who remembers her cardigan, and when Vee asks *"What did you choose?"*, Randi covers by saying a beat late: *"You. As my date."*
+NO! Randi was answering Brooke's Chapter 45 ultimatum (*"You need to choose"*) to Brooke's face by bringing Vee to the house mixer as her plus-one and putting her arm around Vee's waist!
+Wait—OR is Randi doing BOTH at once?! Look at what Brooke said in Chapter 45: *"Play all you want, privately, or for the boys."*
+By bringing Vee to a co-ed mixer, dressing Vee in a skirt that rides up over her ass, and then staging their first real, scorching, tongue-in-mouth kiss *right in front of Harrison and the whole room as a show "for the boys"*, Randi is defying Brooke ("I chose") WHILE ALSO using Brooke's exact loophole ("or for the boys") as her alibi to both the sorority house AND to Vee!!
 
-AND THEN THE AFTERMATH IN THE LAMPLIGHT.
-Hold on, because the conversation after they come had me screaming at the page!
-First: Pace asks in his plain, flat voice, *"Anything else you want to tell me? About Randi."*
-And Vee thinks about the dozens of lingering mouth kisses (Wait—didn't she already tell Pace in Chapter 32 at the stove that Randi kisses her on the mouth twice, "French" style?! Yes, she told him about the quick "French" kiss-kiss back in November, NOT how since January the kisses have opened up, stayed, and moved to Randi's neck, OR how five minutes before driving here she had her own hand on her bare wax fantasizing about Randi's mouth between her legs!).
-And for the first time in their entire relationship, Vee looks at Pace and tells him a direct, conscious lie:
-**"No. Nothing."**
-And then immediately remembers that Pace was standing *three steps away by the truck in the roadhouse parking lot* on Wednesday night when Randi kissed her on the mouth twice! (Which we know from Chapter 55 Pace 100% saw: *"She looks at you, too"*!) And instead of just feeling guilty that he caught her lying, she feels *"inside it, small and bright, a thrill she could not account for"*!
+And let's talk about the dance floor and that kiss, because my heart was pounding out of my chest!
+First, the way Randi gets Vee onto the floor after two margaritas and deliberately stops her from holding her skirt hem down: spinning in behind her, putting both hands on Vee's hips to make her move wider and looser, and then sliding her hands up Vee's ribs to her wrists and *holding Vee's arms up in the air* while grinding her hips against Vee's ass from behind! Vee literally can't reach down to pull the iridescent skirt back over her green satin thong because Randi has her wrists pinned overhead in the middle of the crowd!
+And when the song ends and Randi reels her in and whispers against her ear, *"Your panties are showing,"* look at what happens to Vee:
+First the flash of her mother's word (*floozie*) and the heat of shame that the whole room just saw her bare ass (freshly waxed bare by Sondra yesterday!) in a green thong—and then, right underneath the shame, **the exhibitionist thrill of being seen** ("something turned the heat over into the other thing... found out twice over: once to the room, and once, worse, to herself")!
 
-Second: Pace asks her the Chapter 3 question straight to her face:
-**"Do you want to sleep with a woman, Vee?"**
-And just like she blurted out *"No. No. Not my thing"* to Randi on Tuesday night in Chapter 58, Vee panics at the edge of the drop, blurts out *"I'm not gay,"* and when Pace calmly says *"I didn't say gay,"* she swings her whole weight onto him to deflect:
-**"You're the one who wants this. You want to hear it. You want me to want— you want Randi."**
+And THEN Randi seizes that exact moment of flushed, helpless arousal:
+*"There's Harrison. Let's put on a show — make him wish he were me."*
+I stopped breathing from the second Randi laid her palm flat on Vee's ass through the thin skirt and took a slow handful of it, to the moment she drew Vee's head down by her hair and *held her one breath short of her mouth*.
+Look at Vee's interiority in that suspended inch:
+*"the perfume beneath it that Vee had been quietly cataloguing for months without admitting she was keeping the file... and there was a suspended moment in which nothing in the world was happening except that she was about to be kissed by Randi and wanted it more than she had let herself want anything."*
+Every single barrier in Vee's mind—every "it's just French," "because of Pace," "not my thing"—just burned to ash in one sentence!
+And when their mouths finally open and meet:
+- Vee moaning low and helpless into Randi's mouth!
+- Randi's hand fisted in Vee's hair while her other hand kneads Vee's ass through the skirt!
+- Vee crushing her full breasts against Randi's smaller, hard-nippled breasts (what Randi just confessed to Pace on Thursday night in Chapter 55: *"Her breast in my hand... And her nipple in my mouth"*!) and pressing her hips into Randi's, soaking her green thong *for Randi*!
+- Randi's tongue touching hers—*"not a demand, a please"*—tasting of salt and lime and Randi, while Vee realizes:
+**"She wanted Randi's hands under the skirt. She wanted Randi's mouth lower, Randi somewhere they could never be in this room — a want so far past the size of its excuse that it frightened her even as she sank further into it."**
+SHE KNOWS NOW. There is no un-knowing that! She wants Randi's hands under her skirt and Randi's mouth between her legs!
 
-STOP EVERYTHING. READ THE NEXT THREE LINES TEN TIMES:
-*Something crossed his face — a flicker, the smallest thing — and then he answered her.*
-*"You keep saying her name." Gentle, no edge in it anywhere. "Not me." He drew her in, his mouth at her hair. "It's all right. I don't mind."*
-*He'd defended himself. In every argument they'd ever had he left her the whole of the room... And this once, over this, he hadn't: he'd explained himself, needed her to know she had it wrong, and it mattered to him that much. It was the sweetest thing she had ever seen him do, and it settled over her like a warm blanket.*
+AND THEN THE ENDING OF THE CHAPTER.
+Look at Randi when she finally pulls back: for one beat, Randi is genuinely wrecked too—*"Randi came back from it a moment behind. She didn't speak — only looked at Vee, and drew a breath, and shook her head, blinking."*
+Why did Randi put the mask back on and deliver that cruel, surgical retreat:
+**"You really did a great job putting on a show. I almost believed it."**
+BECAUSE IN CHAPTER 58, ON TUESDAY NIGHT, VEE PANICKED OVER SHERI AND TOLD RANDI: **"No. No. Not my thing."**
+Randi is in love with Vee (Chapter 42 & 55), she told Pace on Thursday night *"I want her to know exactly what she does to me,"* she just kissed Vee with everything she had until they were both shaking, and because she is terrified of being rejected or humiliated like she was with the lawn boy's robin's-egg blue panties at her mother's table—and because Vee told her four days ago that women are *"Not my thing"*—Randi slams the trapdoor shut first ("You really did a great job putting on a show. I almost believed it") so Vee is left standing in the middle of the party, soaking wet, hands unsteady, tasting Randi on her mouth, desperate to kiss her again and completely locked out of asking!
 
-OH. MY. GOD.
-My blood just ran ice cold!
-Vee accidentally hit the bullseye in the dark—*"you want Randi"*—and a flicker crossed Pace's face because HE HAS BEEN SLEEPING WITH RANDI ALL ALONG AND WAS LITERALLY INSIDE RANDI IN THIS EXACT BED FORTY-EIGHT HOURS AGO!
-And why did Pace break his lifelong pattern of never defending himself in an argument to say *"You keep saying her name. Not me"*?!
-Vee thinks it's "the sweetest thing she had ever seen him do"—that he's defending his fidelity to her because it matters so much to him that she knows he doesn't want Randi!
-NO!! He defended himself because she just came within a hair's breadth of blowing the cover off the entire conspiracy! And notice how he did it without technically telling a spoken lie according to his own warped code (*"You keep saying her name. Not me"*—because tonight, in this room, Vee *was* the one who said Randi's name while Pace asked "Do you want to sleep with a woman"!), while using that exact technical truth to deceive her into believing he has zero interest in Randi!
-AND THEN HE TUCKS RANDI'S CREAM CASHMERE BLANKET UP AROUND HER!
+Wait: what happens for the rest of Saturday night when they leave the mixer?! Does Vee go back to Randi's room to return the iridescent skirt and the borrowed heels?! AND tomorrow is Sunday—when Vee goes back to Pace's house with Randi's taste on her mouth and this newly awakened, terrifying want roaring through her body! I have to keep reading right now!
 
-And look at the ending as Vee lies awake under Randi's cashmere blanket against her boyfriend's sleeping chest, sore and raw inside from trying to fuck Randi out of her head:
-She thinks *"She'd gotten away with it"*—when she has gotten away with *nothing*, when Pace now knows she came hard confessing *"I wanted her mouth on me"* and is going to tell Randi, AND her own mind is already racing past Sunday and Monday straight to Tuesday night Anthropology (ignoring Monday morning Stats because Tuesday night is when she and Randi are alone for dinner!), thinking about Randi's mouth "doing what it had done, and then about it doing the things it hadn't gotten to."
-*"What is wrong with me?" she thought.*
-
-Nothing is wrong with you, Vee!! You are in love with your boyfriend AND you want your best friend's mouth between your legs, and the two of them built this room around you together! What happens when Pace reports tonight to Randi—or when Tuesday arrives?! I cannot stop reading!
-
-GATE 62 — Boyfriend
+GATE 61 — On Her Floor
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: This chapter was a jaw-dropping collision of all three threads—Vee touching her newly bare wax and wanting Randi's mouth on it ("an offering with the wrong name on it"), fleeing to Pace's house at midnight in Randi's skirt to try to fuck Randi out of her head, Pace holding her suspended on his cock to make her buy every inch with the truth until she comes screaming "I wanted her mouth on me," and that chilling moment where she accuses him of wanting Randi and misreads his defensive deflection ("You keep saying her name. Not me") as the sweetest thing he's ever done.
+WHY: Sixty-one chapters of slow-burn tension between Vee and Randi just exploded on the mixer dance floor—from Randi telling Brooke "I chose" and pinning Vee's wrists overhead until her skirt rides up over her thong, to that heart-stopping kiss ("for Harrison") where Vee finally admits to herself that she wants Randi's hands under her skirt and Randi's mouth between her legs, right before Randi locks her out with "You really did a great job putting on a show. I almost believed it."
 
 LEDGER
-+ LOVE: Vee touching her newly waxed bare skin in the dark dorm room and feeling her hips tilt toward the image of Randi's mouth finding it—"an offering with the wrong name on it"—before grabbing the word *boyfriend* like a stair rail.
-+ LOVE: Pace immediately clocking the difference between Vee coming to him horny versus trying to exorcise someone else ("That wasn't you wound up — I know that one. That was angry, Vee"), and Vee confessing it was Randi because she can't bear to leave the false hurt of "Harrison" in his chest.
-+ LOVE: The scorching inch-by-inch interrogation where Pace holds Vee suspended at the top of his cock—refusing every tidied version until she confesses "I wanted the kiss. I wanted her mouth on me"—while she still tastes Randi's salt and lime under his mouth.
-+ LOVE: The ice-cold dramatic irony of Vee deflecting with "You want Randi," seeing a tiny flicker cross Pace's face before he breaks his rule to defend himself ("You keep saying her name. Not me"), and misreading his cover-up as "the sweetest thing she had ever seen him do" while he tucks Randi's cashmere blanket around her.
-+ GRUDGE: Pace for using a technical truth ("You keep saying her name. Not me") to let Vee believe she's crazy for thinking he wants Randi, when he was literally inside Randi in that exact bed forty-eight hours ago.
-+ WAITING: What happens when Pace tells Randi that Vee showed up at 1 a.m. in Randi's skirt and came hard confessing "I wanted her mouth on me"—and how Vee survives seeing Randi on Tuesday after lying awake in Pace's arms thinking about Randi's mouth.
-~ W61.7 ANSWERED: Instead of returning the skirt to Randi after the mixer, Vee walked back to her dorm, touched her newly bare skin while picturing Randi's mouth on it, pulled Randi's skirt right back on over her soaked thong, and drove to Pace's house at midnight to confess the kiss in the middle of sex.
++ LOVE: Cassie doing the instant geometry on Randi's iridescent skirt ("You've got a foot of leg on her, and an ass she hasn't got at all. That hem's not going to stay put") and raising one silent eyebrow an inch when Vee says "Tonight I'm Randi's date."
++ LOVE: Randi sliding her arm around Vee's waist right in front of Brooke's smiling interrogation and saying flatly, "I chose"—answering Brooke's Chapter 45 ultimatum to her face while Vee innocently thinks she just means picking a mixer plus-one.
++ LOVE: Randi pinning Vee's wrists high in the air while grinding behind her on the dance floor so Vee can't pull the riding skirt hem down, then whispering "Your panties are showing" into her ear while Vee discovers the illicit thrill of exhibitionism underneath her shame.
++ LOVE: The scorching, suspended inch before the kiss where Vee realizes she has been secretly cataloguing Randi's perfume all fall, followed by the open-mouthed kiss where Vee finally admits she wants Randi's hands under her skirt and Randi's mouth between her legs.
++ LOVE: The devastating psychological whiplash of Randi coming back from the kiss blinking and breathless, only to protect herself (after Vee's Tuesday "Not my thing") by whispering, "You really did a great job putting on a show. I almost believed it."
++ SUSPICION: The Cartier Love bracelet locked on Randi's wrist ("Taking it off requires tools")—which she has touched at every moment of vulnerability since Chapter 1—has a dark backstory tied to whoever locked it on her.
++ WAITING: What happens after the mixer when Vee has to give Randi back the borrowed skirt and shoes—and what happens tomorrow (Sunday) when Vee brings the story of kissing Randi straight back to Pace's house.
+~ F55.6 CONFIRMED: Randi made good on her Thursday-night promise to Pace ("I want her to know exactly what she does to me") by dressing Vee in a tiny skirt, holding her arms up on the dance floor until her thong showed, and kissing her senseless in front of the room before leaving Vee aching and unsteady with "I almost believed it."
+~ W60.7 SHIFTED: We got the skirt and the mixer—and instead of Friday night's body-paint photo coming up, Randi completely hijacked Vee's Saturday by kissing her on the dance floor under the guise of teasing a boy and leaving Vee wide open and desperate for her.

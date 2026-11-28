@@ -1,31 +1,27 @@
-*capture-dag-v3-grounded · gate ch034 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0a371aa0512c · dated · memory grounded: facts ck-ch030@consensus (audited, 6 non-fact sentence(s) dropped, 0 trimmed) + raw ch031..ch031 · history ch001..ch031 · ledger no seed 165eb97eab86 · 2026-11-19*
+*capture-dag-v3-grounded · gate ch034 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8090ff35ac88 · dated · memory grounded: facts ck-ch030@consensus (audited, 6 non-fact sentence(s) dropped, 0 trimmed) · history ch001..ch030 · ledger no seed 3c41b00af593 · 2026-11-19*
 
 REACTION
 
-Oh, *Vee*. Watching her finally let herself say it—even if it’s only in her own chest, and then whispered as *"Peter"* to his sleeping back—just broke my heart a little bit.
+*"Sticky fingers?"*
 
-The whole Friday night opening was so warm and lived-in. Him swinging her off her feet inside the front door after a week apart, the salmon and warm tomatoes, the fact that he always takes his time with her first, and then coming back for her on the couch an hour later—it’s easy to see why she’s completely gone for him. And yet, the whole chapter is humming with all the things they *aren't* saying.
+I actually gasped out loud. My heart stopped right alongside Vee’s, because for two agonizing seconds I thought Randi had just dropped the polite-friend act entirely and called her out in the middle of a sunny brunch porch. And the worst part—the *best* part, the part that’s going to keep me up tonight—is that Randi knew *exactly* what she was doing. Even with the glazed pastries sitting right there as plausible deniability, that tiny, pleased corner of her mouth staying up for the rest of the meal said everything.
 
-The moment at the stove made me gasp. Vee is just chatting away, wine in hand, telling him about her "new friend" Randi and her cute little "French" goodbye kisses on the mouth—and Pace goes from playfully miming cheek kisses to *that* look from his bed the second he hears it’s on the mouth. He’s visibly turned on by the thought of Randi kissing her, and Vee just laughs and grabs him through his shirt, completely oblivious to the fact that she’s feeding his fantasy.
+Randi is surgical. All it took was one casual *"Vanilla"* to get Vee spilling every single detail of Friday night—the pantsing, the bet, Pace checking inside her, stripping down to nothing but those heels. Watching Vee get progressively wetter right there at the table, pressing her thighs together under the tablecloth while Randi leaned in like a cat with a mouse, was scorching. And then Randi casually drops that Radford mixer story—whether it actually happened or she just spun it up on the spot to push Vee over the edge—and sends Vee straight into a hard-lit bathroom stall, soaked and desperate.
 
-And then Saturday morning in the bathroom! Her whole kit—brushes, pins, open face cream—taking over his pristine, wiped-down counter. He wraps around her, looks at the mess in the mirror, and says nothing, just smiles his private smile and kisses her shoulder. It’s sweet, *except* she’s still carrying that little knot of worry out of the room with her (*Did he mind?*) because he never actually says.
+What wrecked me, though, wasn't even the heat of the stall scene. It was the fact that Vee didn't stop herself because of her mother's voice this time. She stopped because *Randi’s face* arrived behind her eyes, fond and clear, and she couldn't bear to be looked at like that while her hand was inside herself.
 
-Thank god for Cassie. *"You don't come home school nights."* *"Do you love him."* She’s the only person in Vee’s life holding up a mirror, and watching Vee go small and say *"Maybe"* when she literally just admitted it to herself on Friday night was so real. She’s terrified of how fast it’s moving, especially when he hasn't given her a single word to stand on.
+And then they walk out into the cold, and Randi looks her in the eye and calls her *"my best friend in the whole world,"* and Vee just melts into it. That final beat—Vee standing on the sidewalk alone after the Mercedes pulls away, licking her lower lip and tasting the sugar and butter of the pastry Randi took *one bite* of—is lethal.
 
-I loved ending in the pool, too. Returning to those lanes and that quiet, rhythmic burn—and that brief, razor-sharp flash of doubt mid-lap, wondering whether he’s really that good or if she just built him that good out of wanting him—was gorgeous.
-
-GATE 32 — Not in Your Bed
+GATE 31 — One Bite
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
-HEAT: 2
-ROMANCE: 3
+HEAT: 3
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Watching Vee finally admit to herself that she loves him—while Pace gets visibly turned on hearing about Randi’s "French" goodbye kisses—is devastatingly good. Cassie’s quiet reality check and Vee’s four-stroke flash of doubt in the pool keep the emotional stakes razor-sharp.
+WHY: Scorching heat and unbearable psychological tension, all built out of a brunch table, a bathroom stall, and a single glazed pastry. That *"Sticky fingers?"* drop—and Vee tasting Randi’s pastry on her own lip at the curb—has me completely hooked.
 
 LEDGER
-+ FEAR: Vee is falling completely in love with Pace ("Peter") while he still hasn't said a word, leaving her guessing about everything from her makeup on his counter to whether she's building him up in her head.
-~ L3.1 DEEPENED: Watching Vee claim her space in his bed, whisper *Peter* in the dark, and then use the pool to strip her head back down to quiet truth.
-~ L4.1 DEEPENED: Cassie’s *"You don't come home school nights"* and *"Do you love him"*—she's the only one holding up a mirror to how fast Vee is disappearing into this.
-~ F4.2 DEEPENED: Vee just admitted to herself that she loves him, which means the truth about Randi and Pace is going to break her heart, not just her pride.
-+ WAITING: For Pace to do something with that look he got at the stove when Vee told him Randi kisses her on the mouth.
+~ F4.2 DEEPENED: Randi just called Vee her *"best friend in the whole world"* right after winding her up to the edge in a public bathroom—the fallout when the truth comes out is going to be nuclear.
+~ W27.1 SHIFTED: Vee is still trying to pretend it’s just friendship, but Randi’s face is what stopped her in the bathroom stall, and she’s tasting Randi’s pastry glaze on her lip at the end.
++ SUSPICION: Whether Randi’s Radford mixer story was even real, or if she invented it on the spot just to push Vee into that bathroom.

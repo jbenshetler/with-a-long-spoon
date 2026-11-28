@@ -1,26 +1,32 @@
-*capture-dag-v3-grounded · gate ch049 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha cf3b0e619e49 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch046 · history ch001..ch046 · ledger no seed 69a8bd5928cb · 2026-11-06*
+*capture-dag-v3-grounded · gate ch049 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 341e22a2d5c4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch045 · history ch001..ch045 · ledger no seed 0dc05ebeec12 · 2026-11-06*
 
 REACTION
 
-Oh, this is a gift. A chapter of pure, joyful, explicit heat, and Vee being funny and unashamed inside it. The "pleasure princess" flip is the best thing she's done in her own head. She starts in "pleasure slave," catches herself counting what he does for her, and rewrites it. The toast-burning bit is lovely too, and the pointing and "Bad slave" are hot and silly at once. The long oral sequence is the most sustained sex in a while, and it's specific and tender.
+Well. She did it, and the book gave me the full explicit payoff. I've been waiting for heat since the Chili's chapters, and this is a lot of it.
 
-Then the turn. She tastes herself on his mouth, her tongue goes first, and her mother's voice shuts it down: "Ugh — gross. That's — no. Wrong." The best part is that Pace stops, asks nothing, and gentles. And then Vee talks herself into "he forgot to wipe." I'm not buying it. She also wonders how many times, and how carefully, and "had there always been—" and then drops it. I know what Randi has been doing on Saturdays and Fridays, and I know what a faint salt edge on his mouth could mean. The reader's knowledge cuts hard here. Vee is about to give the thing to Randi. "Randi would know what to make of it." That's the pipeline, ready to feed the wrong person again.
+The mirror scene is the best part. She picks the wrong bra by habit, then catches herself ("Pace is getting neither"). "Last thing, only thing" about the shoes is funny. Stopping herself on purpose and calling it powerful is exactly the interiority-plus-heat I came for. The coat soaked through the lining, and her deciding it means she's sure instead of ashamed, is a real change from the floozie voice.
 
-My complaints are small. The kitchen walkthrough is long (the blood orange, the mushrooms) and I skimmed some of it. The "Why does he like it so much?" beat is a little on the nose. But the charge never dropped.
+The car scene is hot and dumb in the right way. The siren and the missing purse are a bit sitcom, though. I'd have trusted the drive without the cruiser.
 
-GATE 47 — Missed a Spot
+The doorstep is the payoff. "Vee, I l—" and she cuts him off. Oh, that stung. He was about to say it, I think, and she doesn't let him, because she's carrying the gesture instead of the word. The very thing she's been fighting for, and she steamrolls it. I'm furious and I love it. Nobody hears the sentence, and the chapter ends with pancakes, "I'm sorry," and "no room in her for wanting anything he hadn't given." That's the dread. The wall comes down for a minute and she lets the body answer in place of the word, and Randi scripted all of it. The door-open, jeans-around-the-knees sex is graceless, which is right.
+
+Grudges: the narration explains her feelings a lot again. And Randi's whole inner storm from last chapter is nowhere here. Brooke's ultimatum just sits. I'm also uneasy that he said sorry and nothing was settled. Cassie's "Hmm" is perfect.
+
+GATE 46 — Nothing Underneath
 DECISION: CONTINUE
 CAPTURE: 9
 NEXT: 9
 HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "The blood oranges he did the way he did everything." (the long food-prep walkthrough)
-WHY: Hot, funny, tender sex, and then a real crack when she tastes herself and the shame voice slams the door. "Forgot to wipe" is her kindest lie yet, and the unfinished question that sinks under it is what I'm reading toward.
+ROMANCE: 3
+ALMOST-STOPPED: "The cruiser swung out and went past her, fast, its lights shrinking up the road" (the siren gag felt like a sitcom beat)
+WHY: The mirror, the coat opening, and "Vee, I l—" cut off by her own gesture are the explicit heat and the ache together. But the word still went unsaid, and I want to see whether it comes back.
 
 LEDGER
-+ LOVE: "Pleasure princess": Vee flipping slave into princess while counting everything he does for her.
-+ LOVE: Pace stopping, not pushing, and kissing her like nothing happened after "gross."
-+ SUSPICION: The salt edge on Pace's mouth is Randi's taste, and Vee's "had there always been—" is the first thread toward the truth.
-+ FEAR: Vee will take the strange small thing to Randi on Tuesday, and Randi will have to explain it away.
-+ WAITING: Tuesday's dinner with Randi, and what Vee asks her about the taste.
-~ F46.1 SHIFTED: He said her name warmly, and the word is still unsaid, but she's stopped waiting on it for now.
++ FEAR: "Vee, I l—" was cut off, and the gesture buried the word again, so nothing is actually settled
++ LOVE: The mirror scene, stopping herself on purpose and finding it powerful, and the "last thing, only thing" shoes joke
++ LOVE: Pace on his knees with the pancakes, "I missed you so much," his voice cracking
++ WAITING: Whether Pace gets to finish "I love you," and what Randi does with Brooke's ultimatum
+~ F45.1 DEEPENED: He opened the door and the coat did the talking; his silence swallowed nothing this time, because she never let him speak
+~ W45.5 ANSWERED: He took her in at once and cried, but the word is still unsaid
+~ F32.3 DEEPENED: She is again letting an act stand in for the word
+~ F11.1 FADED: that crack is long past, absorbed into the bigger triangle

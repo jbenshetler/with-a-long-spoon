@@ -1,50 +1,46 @@
-*capture-dag-v3-grounded · gate ch063 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 05d75bcab161 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) · history ch001..ch060 · ledger no seed e6c781423362 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch063 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8fc308144c27 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch059 · history ch001..ch059 · ledger no seed c13ecbe43be3 · 2026-11-06*
 
 **REACTION**
 
-"I chose."
+He asked for bare so he could paint her. That's the reason he never gave her. Okay. I spent two chapters sure the waxing was Randi's idea routed through Pace's mouth, and the book answered with a canvas. Sondra's room was Vee being handled with nothing behind it. This chapter is the same body getting handled with everything behind it: "Keep still," the same two words, from the right hand at last. Last chapter left a hole a mile wide where his hand should have been, and this chapter fills it one brushstroke at a time. That's real structure and I felt it in my chest.
 
-Two words to Brooke's face, with Randi's arm coming around Vee's waist "where a second before there had been nothing." I've carried "You need to choose" since chapter 45, and the answer came in front of the gold lamé and the almost-blue teeth, in the middle of the house's own party. Then Vee asks "What did you choose?" and gets "You," and "As my date" lands a beat late. That late beat is the most honest thing Randi has said in sixty chapters. Brooke's smile widened "by some exact amount," and I went cold. That woman never forgets a cardigan. She kept the Friday morning in her pocket on purpose, and Vee thought she was being *kind*.
+The scar. "Not this time." She puts her mouth on it once, asks it nothing, and keeps going. And he lets her. Twice before he moved her hand off it. After last week's "weren't safe," that one soft kiss carried more than any confession could, and the book didn't stop to make it a moment. I loved that so much.
 
-Then the kiss. Sixty-one chapters, and it was worth every brunch I complained about. The held inch did it for me: Randi with her hand closed in Vee's hair, doing nothing, so that Vee's eyes finally get to go over her face "as they had wanted to all autumn." Then the perfume Vee had been "quietly cataloguing for months without admitting she was keeping the file," and "turned in Vee like a key." Yes, the key again, and this time I didn't even mind. Then the tongue, "not a demand, a *please*," which is the bench word, Randi's word from chapter 1, now handed to Vee. Vee wants Randi's hands under the skirt. She wants "Randi's mouth lower." That isn't a cover story or "about Pace, obviously." It's the whole thing, out loud in her own head, on a dance floor. It's explicit in the way I came for: wet, aching, hips asking, and her shame still wired into the heat. When the panties show, "floozie" comes back and turns into fuel again, "found out twice over: once to the room, and once, worse, to herself." I felt that one in my stomach.
+The brush rule got me: "Still meant the brush. Moving meant the brush going away." It's the bench's *not yet* from chapter 1, played as a game instead of a punishment. She has to stop holding still the hard way, guarded and rigid, and just give her weight to the bed. I've been scared of "she holds still on her own, nobody had to tell her." This is that same stillness, offered to the one man who should get it, and it's what makes her come. Then the gesso. He paints her with her own wetness. Her worst shame, "the shameful plenty of her," literally becomes the ground the picture sits on. Then the reach comes back: no kiss followed that color, and she wonders what it would taste like. Later, when she kisses him, there's a trace she can't separate from everything else, and she lets it go. That isn't her closing the reach, but it's the gap getting narrower. And "no shame came" over the photo, with no mother's voice anywhere. That's the arc.
 
-Then Randi "came back from it a moment behind... and drew a breath, and shook her head, blinking." That's the one second before the cover goes on, and then the grin: "You really did a great job putting on a show. I almost believed it." Oh, you liar. You absolute coward. "I almost believed it" is Randi saying the true thing as a joke, the same way "French" and "ticklish" and "barely stings" were. Vee takes the folded night because "it was the only thing held out to her," and laughs a laugh that "came out sounding like the room." I wanted to throw my phone.
+Small ones: "Oops. Sorry." with the breast, chapter 14 again, and him *wearing* the orange smear on his cheek. The cherry pit put warm into his palm, the way he picked hers up off the rock in chapter 10. And "Subtle," hoarse, in Vee's mouth. That's Randi's word, from Randi's bed, a week ago. Vee doesn't know. I did, and it chilled me.
 
-The bracelet. It's called Love, it has no clasp, and "taking it off requires tools." I've been suspicious of that band since chapter 15, thinking scars, thinking bottle caps. Now it's love you can't take off without a screwdriver, locked on by somebody. Her father? Herself? That's Randi in one object, and Vee files it with "the thousand glamorous things." Same with the Chambord: "It took Randi to tell her what she was holding." That's the whole book in a punch cup. It's slightly over-pointed, but it's true.
+Then the ending. He never asked for a copy. "So nobody on earth had seen it but her." She tries to hear Randi's hoarse voice over this one and *can't*. "She would not be telling her about this." It's the first thing she's ever kept from Randi on purpose, not because chairs got stacked. She tells herself it's because it's "too much." I think she can't stand to find out what Randi's face would do with it. And what is "the skirt, the mixer"? Randi has a plan for tomorrow and I'm not told what. Brooke said choose.
 
-Cassie: "That hem's not going to stay put," the math done out loud, and the eyebrow that goes up a half-inch and stays. She was right, of course. And the skirt is Randi's, picked straight off the rail "without hunting," with "not that short" said twice. Randi knew exactly how far that hem would climb on those legs, and she put her hands on Vee's wrists so Vee couldn't hold it down. I don't think a single inch of that was an accident.
+What it cost: the painting runs long. The lift-and-return rule plays out maybe ten times, and by the cantaloupes I was skimming for the next fruit. It's also a body-paint-and-food-play fantasy that sits closer to the KU shelf than this book usually lets itself go. Pace being a painter on top of everything else is the merit-badge man again. And "He had taken every part of her the world called too much... made abundance the whole point" tells me what the photo had just shown me.
 
-What cost it: the foyer portrait of Randi goes on far too long. The braid "inlaid," "lacquer and geometry," "a dancer's body said in a single sentence" is the prose posing. The second boy, Harrison, gets the exact description of the first boy (tall, beer, half-known face). There's also a continuity wobble: Friday night Vee was already thinking about "the skirt, the mixer," and here the invitation happens Saturday morning. And the kiss paragraphs get one or two sentences too purple ("Time had quit behaving"). None of that mattered while I was in it.
+1 a.m. text: *he made her wax so he could PAINT her. a fruit still life. with her own wetness as primer. she kissed his scar and he LET her. and then: "she would not be telling randi about this." first secret ever. also she said "subtle." RANDI'S WORD.*
 
-And Pace is the off-page knife. "He gets me Friday. He gets me Sunday." Sunday is tomorrow. Vee walks into that house with Randi's taste still in her and a body that "had not been told." And Monday... does Randi drive to Pace and tell him about the show she almost believed?
-
-1 a.m. text: *THEY KISSED. full tongue on the dance floor, randi's hand on her ass, and then randi says "I almost believed it." also she told brooke "I chose." also the bracelet is LOCKED ON. I am lying on the floor.*
-
-GATE 61 — On Her Floor
+GATE 60 — Still Life
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
+CAPTURE: 9
+NEXT: 8
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "a thing of lacquer and geometry, gleaming like something machined." That's the foyer portrait of Randi running long, the prose showing off while I wanted to get to the party.
-WHY: The kiss the whole series has been circling finally lands, explicit and frightening and completely Vee's, and it's wrapped in Randi's "I chose" to Brooke and her cowardly "I almost believed it." Both want and denial are on the page at full volume. Sunday at Pace's is next, and I'm already reading.
+ALMOST-STOPPED: "He had taken every part of her the world called too much—the breasts that entered a room ahead of her, the hips that clothes could not make modest, the wetness she could not contain—and made abundance the whole point." The picture had already said it, and the book said it again.
+WHY: It's the most explicit chapter in the book, and every stroke is wired to her shame and then gets past it, with the right hand answering Sondra's wrong one. The scar kiss is the bond turning without a word. The painting game runs long and smells a bit like a trope, but that last line, keeping this from Randi, plus a mystery mixer tomorrow, means I'm reading on.
 
 LEDGER
-+ FEAR: Brooke's smile widened "by some exact amount." Randi just chose Vee in front of her, and the file is about to open
-+ FEAR: Vee walks into Pace's house tomorrow with Randi's taste on her, and Randi takes "the show" to Pace's bed by Monday
-+ LOVE: Randi coming back from the kiss "a moment behind," shaking her head, blinking, in the one second before the grin went up
-+ LOVE: The Love bracelet. No clasp, and "taking it off requires tools"
-+ SUSPICION: Randi picked that skirt knowing exactly how far it would climb on Vee, and took her wrists so Vee couldn't hold the hem down
-+ SUSPICION: Somebody locked the Love bracelet onto Randi, and she can't take it off herself
-+ GRUDGE: Friday night Vee already knew "the skirt, the mixer," but the invitation happens Saturday morning. Also, Harrison is the first boy over again, same tall beer and half-known face
-+ WAITING: Whether Vee tells Pace about the kiss on Sunday, or keeps it the way she kept the painting
-~ F45.1 DISPROVED: "I chose," to Brooke's face, with her arm around Vee's waist
-~ W46.6 RESOLVED: Randi answered Brooke's ultimatum in public, at the party
-~ W60.6 ANSWERED: The mixer was Randi's plan, with a boy across the room as the excuse for the kiss
-~ S47.2 CONFIRMED: Vee wanted Randi's hands under the skirt and her mouth lower. No cover story this time, in her own head
-~ S15.2 SHIFTED: There's no scar, just a Love bracelet that's locked on and needs tools to get off
-~ L10.1 DEEPENED: "What kind of floozie" on the dance floor, and the shame turned straight into heat again
-~ F31.5 DEEPENED: "I almost believed it." Randi turns the realest moment of the book into a bit, right to Vee's face
-~ F42.3 DEEPENED: Randi kissed her and then called it a show. The silence now has a tongue in it
-~ S16.6 DEEPENED: Randi's skirt, Randi's shoes, and the green thong that's been in Randi's fist
-~ L4.1 DEEPENED: "That hem's not going to stay put," and the eyebrow that went up and stayed
++ LOVE: She kissed the scar once, asked it nothing, and he let her. "Not this time"
++ LOVE: "Still meant the brush. Moving meant the brush going away." The bench's not-yet turned into a game, and her giving up the guarding is what lets her come
++ LOVE: The cherry pit put warm into his palm, and him wearing the orange smear on his face the whole time
++ FEAR: "She would not be telling her about this." It's the first thing she has deliberately kept from Randi, and it's the photo Randi's voice couldn't reach. When Randi notices the gap, it will land hard
++ SUSPICION: "Subtle" in Vee's mouth is Randi's word from Pace's bed. The two women are speaking each other's lines now
++ WAITING: Tomorrow is Randi's, "the skirt, the mixer." What Randi has planned, and whether it has to do with Brooke's "choose"
++ GRUDGE: The brush-lift rule repeats so many times that I skimmed the middle fruits, and Pace adds painter to his merit badges
+~ W59.6 ANSWERED: His hand found it, and the why was a canvas. He wanted her bare to paint her
+~ S58.1 SHIFTED: The waxing was his own idea, for the painting. Only the waxer was Randi's
+~ L59.2 RESOLVED: The right hand finally said "Keep still," and filled the hole the wrong one opened
+~ F59.4 SHIFTED: Holding still turned into a surrender to the right person, and the right person used it to give, not take
+~ W16.2 DEEPENED: She kissed it and he didn't stop her. It's still unasked, but no longer refused
+~ W54.1 SHIFTED: She wondered about the taste openly, got a trace off his mouth she couldn't separate out, and let it dissolve
+~ L10.1 DEEPENED: "No shame came. Pride did." No mother's voice at all over the photo
+~ L14.2 DEEPENED: "Oops. Sorry." The breast to his face again, this time with paint, and he keeps the print
+~ L33.4 DEEPENED: He took the photo, handed the phone back, and never asked for a copy
+~ G1.7 DEEPENED: The "abundance the whole point" paragraph explains the photo I'd just looked at
+~ G13.7 DEEPENED: Painter, too

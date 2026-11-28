@@ -1,42 +1,37 @@
-*capture-dag-v3-grounded · gate ch023 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b70ca89dda6a · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 0 trimmed) + raw ch021..ch022 · history ch001..ch022 · ledger no seed f891b676ba2e · 2026-11-22*
+*capture-dag-v3-grounded · gate ch023 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 906a4897fb74 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 0 trimmed) + raw ch021..ch021 · history ch001..ch021 · ledger no seed 1d7f33424ede · 2026-11-22*
 
-REACTION — I feel like I have been hit by a freight train. A slow, quiet, devastating freight train.
+REACTION — Oh, the absolute, chilling mastery of this book. I have goosebumps all over my arms.
 
-This chapter didn’t have a single drop of sweat or friction, and it gutted me more thoroughly than almost anything else in this book.
+After the sheer, sickening free-fall of Chapter 19—where Randi was freezing him out, turning her back, refusing to eat the stew, and fucking him with her eyes closed like a chore—to walk into this house on Saturday night and find her warm, melting, laughing against his chest, and *asking him to feed her* felt like walking into an entirely different world. But it’s not an accident. It’s not just a good mood. It is the most terrifyingly brilliant psychological pivot I have ever seen.
 
-*Peter.*
+Because she spent Saturday afternoon with Vee.
 
-His real name is Peter. And he is twenty-two years old.
+Randi isn’t retreating anymore; she has fully, completely succumbed to the girl. Listening to her gush about Vee to Pace—how she couldn't stop laughing, how Vee got past her defenses before she could help it, how she keeps thinking of things to tell her just to hear that unrestrained, head-back laugh—it was so tender and so completely undone. Randi, who has spent twenty-one years curating every single calorie, syllable, and social smile, has fallen helplessly in love with a girl who wears canoes on her feet and blushes scarlet in the middle of a shoe aisle. And when she said, *"I keep waiting to get bored of her — I get bored of everybody — and it doesn't come,"* my heart squeezed. Randi is terrified, and she's euphoric.
 
-All this time, because of his courtly composure, his thick-knuckled powerlifter frame, his doctorate, and his terrifyingly patient erotic control, I had slotted him in as this mature, twenty-six or twenty-seven-year-old man who held all the cards. But he was fifteen. He was a fifteen-year-old kid in a seventh-grade hall doing long division because his teacher couldn't handle him, sent off to a college dormitory full of adult men before his body had even finished growing. He started powerlifting because he was a child trying not to be preyed upon in a dorm. And Daphne—oh god, Daphne from Chapter 1. The one who "built a door, once, and he had not respected it." She was nineteen to his fifteen. A tutor assigned to help the child find his feet. Vee clocked the "clean ugly grown-up word" and swallowed it down because she loved him too much to shatter his defense of it, but holy hell. Pace isn't some sinister, untouchable mastermind. He is a traumatized prodigy who constructed an entire fortress of hyper-competence, courtly manners, error-correcting codes, and physical mass just to survive being a displaced child. He learned to control every single variable in a room so the world would never put him in the hallway or break him open again.
+And then the erotic triangulation! The way Randi uses Vee’s body to bridge the chasm between herself and Pace. Dragging her breasts across his chest, showing him with her own skin the weight of what Vee keeps hidden under the cardigans, turning Vee into a shared, worshiped fantasy between them—it was scorching, filthy, and so deeply psychological. It brought Pace right back to her. But then Pace dropped that line: *"She comes in and the whole thing goes brighter. Like somebody found the lamp."*
 
-And the math. The way he explained it to her—the Gabriel's horn you can fill with paint but never paint the outside of, the coastline problem, the three sentences of Newton that bind the thrown ball, the falling leaf, and the stars together into one single piece. It was so breathtakingly romantic. He wasn't showing off; he was finally showing someone the poem he lives inside of, handing her the light. And Vee receiving it, trading her casseroles and church basements, pressing her hand over his inner-thigh scar, saying his real name into the dark... the intimacy between them has become so vast, so profound, so terrifyingly *real*.
+And Randi went still.
 
-And that is why the ending made me want to throw up.
+That tiny, held breath. Randi felt that needle prick of jealousy—the realization that Pace doesn't just want Vee’s body, he is completely captivated by her spirit. But look at what Randi does with it now! In Chapter 19, that jealousy made her shut down and freeze him out. Tonight? She doesn't pull away. She leans *in*. She shifts her hips down, takes him back inside her, and rides him until the room comes apart. She is refusing to be displaced.
 
-Pace has to fly to Berkeley. He won't be at the induction. Vee is going to walk into that room alone in the gown he cut to her skin, wearing the shoes she put on an emergency credit card because "it's what the dress is owed."
+And the ending in the kitchen! The contrast to Chapter 19 was so deliberate it made my breath hitch. Last time, she pushed the chicken stew away, let it grow cold skin, and drank bitter greens and vinegar. Tonight? She pulls on his white undershirt, curls her bare feet up on the chair, asks him to feed her, eats every single scrap off her plate, and tells him to pour more wine. She is letting herself be fed again. She is claiming her domestic place in his house.
 
-And then she lies there in his bed, wrapped around his sleeping body, and she puts the pieces together in her own mind. She looks back over the six weeks: bumping into Randi outside the dining hall, Randi sitting next to her in stats, Pace crossing the coffee shop to help her with an integral.
+And that final line: *"Fuck Brooke."*
 
-*"One piece, he'd said, about the leaf and the stars. It felt like that. It had come to her all of a piece, the one and then the other, in six weeks, for no reason she had done anything to deserve. She had never been so fortunate, or so happy."*
+Brooke, who represents the entire gilded cage, the sorority panopticon, the world where Randi has to perform perfection on an empty stomach. Randi is throwing off the armor. Between Pace’s devotion and Vee’s uncurated, vibrant warmth, Randi is choosing this dangerous, intoxicating bubble over her pristine life. She thinks she can have them both. She thinks they can fold Vee into this bed and keep the warmth forever. They are both so completely, utterly in love with Vivienne Thorne, and the arrogance of their shared fantasy is going to burn everything down.
 
-I felt an actual chill go down my neck. She thinks it’s fate. She thinks the universe brought her a glamorous best friend and a devoted, brilliant lover out of pure, unearned grace. She has no idea that the leaf, the ball, the stars, Randi, Pace, and the coffee shop are all *one piece* because it was a game designed in this very bed before she ever drew a breath near them.
-
-The tragic dramatic irony is suffocating. She has surrendered her heart, her pride, her shame, and his real name to this boy. The fall is going to destroy them both.
-
-GATE 23 — Rock
+GATE 22 — Gone
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 1
+HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The revelation of Pace’s childhood isolation and his history with Daphne completely re-anchored his character in profound vulnerability, while Vee connecting her semester into "one piece" is a ticking time bomb of dramatic irony.
+WHY: The stunning reversal from Chapter 19's cold estrangement into deep, domestic intimacy fueled by their mutual obsession with Vee was psychologically flawless and deeply charged.
 
 LEDGER
-+ LOVE: Pace's real name, his prodigy past, and his description of mathematics as the poem the world is written in.
-+ LOVE: Vee silently protecting Pace's memory of Daphne by refusing to say the ugly word out loud.
-+ FEAR: Pace being out of town in Berkeley leaves Vee entirely vulnerable to whatever happens around the induction.
-~ S3.2 DEEPENED: Pace's obsessive need for control and courtly pacing stems from being a fifteen-year-old child thrown into college and exploited by Daphne, making his blindness to the danger of this game an extension of his own protective armor.
-~ F7.2 DEEPENED: Vee feeling that her entire semester is "all one piece" of miraculous good fortune proves she is at the absolute peak of the pedestal right before the floor drops out.
-~ F16.1 DEEPENED: Vee learning his real name and his deepest childhood wounds will make finding out he kept Randi a secret feel like a total, soul-crushing violation.
++ LOVE: Randi finally admitting out loud that she cannot get bored of Vee and letting her polished mask crack.
++ FEAR: Randi and Pace's renewed intimacy is built entirely on their shared eroticization of Vee, which will make Vee feel even more grotesquely objectified when she finds out.
+~ S6.1 DEEPENED: Randi isn't just rivaling Pace for Vee's intimacy; she has completely surrendered to wanting Vee for herself, real and unprotected.
+~ F11.1 SHIFTED: Randi's panic didn't blow the triangle apart; instead, loving Vee has brought her back to Pace's bed and table, uniting them in the game just as the stakes peak.
+~ F19.1 SHIFTED: The chasm between Randi and Pace temporarily closed because they are now fully aligned in their mutual intoxication with Vee.

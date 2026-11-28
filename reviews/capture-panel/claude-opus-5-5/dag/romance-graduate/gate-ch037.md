@@ -1,46 +1,44 @@
-*capture-dag-v3-grounded · gate ch037 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b29cb00cede3 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch034 · history ch001..ch034 · ledger no seed 68b9dce8006a · 2026-11-06*
+*capture-dag-v3-grounded · gate ch037 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4ec3d9ade6b1 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch033 · history ch001..ch033 · ledger no seed 7758c748bf79 · 2026-11-06*
 
 **REACTION**
 
-The drawer. I'm starting at the end because I can't stop thinking about it. "Vee's drawer stood out from the cabinet an inch." He pushes it shut with two fingers and blames the house settling in the autumn cold. No, Pace. She heard the second drawer and was gone "longer than it took to find a shirt." She went through the bedroom, found the green satin under his undershirts, and on her way back she opened the drawer you built for Vee. She looked at the room with space to spare, the pins in their little dish, all of it. Then she came into the kitchen with her face washed and her eyes liquid and fucked you holding Vee's panties against your chest, without a word, eyes on the wall, making a sound you'd never heard from her. Afterward she cried and called it hormones. The man who reads every breath she takes decides the grief is that she's never given him anything to keep. That's close, and still wrong. She found two keepsakes, a drawer and a pair of folded panties. Vee gets a place in his house. Randi gets a coffee poured black, and she leaves it untouched on the counter. I texted "THE COFFEE" to nobody.
+"It doesn't," Randi said, low and not quite even.
 
-Then I went back to the beginning and realized what else I'd been handed. The pointing game, from his side, finally. "He had already chosen; the pointing was only to find out whether they had chosen the same." So it wasn't Randi's pick. It was never only hers. He saw the copper in Vee's hair, pictured both of them on his pillows, got hard on the quad with Randi's hand in his, and then let Randi believe her face had picked. "That part was all you." He tells her the true answer and leaves out the truest part. Since chapter 1 I've suspected Randi was outsourcing the bench. Now I think Pace was outsourcing the wanting, letting her carry the choice so it would feel like a gift to her. That's colder and smarter than anything I'd guessed.
+That's the line I'd text at 1 a.m. Eighteen chapters without Randi's head, and the book finally gave me her face doing something she couldn't stop. Her eyes went bright and unfocused, she gave one small shake of the head, and there was a catch in her breath. What set it off wasn't the sex or the spanking or the photo. It was "Like he wants *me*. With the body attached." That's the thing Randi has never had and maybe never let anyone try to give her. Since the bench she's been a perfect surface, and Pace looked straight through it and she went back behind the mirror. Now the girl she picked off the library steps is sitting across from her describing the exact thing she couldn't take. Vee files it as "a Saturday of hers could do that to a woman like Randi" and goes warm with pride. I wanted to reach into the booth and shake her.
 
-The couch scene is the hottest thing in the book, and the heat comes out of the argument. "I'm doing it for *you*." "I didn't ask who it was for." "It's *work*." "Sounds grueling." Then he says, kindly, "You don't have to do it for me," and that sentence makes her come. She's been allowed to want Vee for herself and her body takes the permission before she can refuse it. Then "God, I want her," into the wood, and "For us," a second too late. She's facing away so he can't see her face and she forgets the mirror. That's the bench night again, with her trying to hide and him seeing everything. "Tell me" is back, and this time it's Pace pulling it out of her with his hands, which flips chapter 6 completely. I loved it and it made me queasy, which is the deal with this book.
+Then the photo. Oh, Vee. I've been dreading that picture traveling to Randi since the induction, and I had it wrong all three times. Pace never had to break his promise. "I'd never share your photograph," and he hasn't. *She* did. She had the cropped one ready "since the morning after," which means part of her always meant to show somebody. Then Randi slides the phone back with "You don't have to show me." That's the same move as "You don't have to tell me" in chapter 15, the door closed softly to make her push it open, and it works perfectly. "You only gave him *half*?" Then "I gave him *all* of it," and the phone goes into Randi's hand. Every fear I logged about Pace carrying her to Randi was the wrong fear. Vee is her own courier, every single time.
 
-"It isn't you I'm checking on." Oof. He's being good about Vee's consent, and I believed "or I'm done." But Randi said "don't ask me in that voice" because she wanted it to be her he was checking on, and he told her straight that it wasn't. Then on the blanket she says "You see more of me than anybody ever has… some nights it frightens me." It's the closest she's come to saying the bathroom mirror out loud, and he answers "Then I'll be careful with you." It's lovely and he means it, and he still has no idea what he's being careful of.
+"Showing him your toes, eh?" And then under the table, a bare foot with sky-blue nails stroking her leg, twice, deliberate as a fingertip. Randi isn't debriefing for Pace anymore. She's courting. The feet have been her thread since the boutique, and now it's her bare foot on Vee's leg in the dark. Vee looks down, sees a shoe on its side, looks up, and Randi just keeps talking. Vee doesn't even register it as a question. Then she leans up the last half-inch into the goodbye kiss, takes a second for herself, "decided it was what she wanted, and didn't bother about it again." The bond turned in this chapter and Vee walked straight over the turn.
 
-And "told her she'd come to class still full of you." Wait, she said that to Vee's face? Full of *him*, presumably, the boyfriend. That's Randi playing chicken in a lecture hall, and I want Vee's side of that moment badly. Nineteen chapters without Randi's head, but this was the closest the book has let me get. Pace's eyes are so exact on her that I could feel her from the outside: her hand on the arm of the couch, the "shrug that was not one of hers," her hand pulling his arm tighter and then tighter again, twice in one night.
+And the night class. Tuesday and Thursday, seven to eight-twenty. Those are school nights, the ones Vee's been spending at Pace's. Randi said "Done" immediately and "Just us" came out rough. Randi didn't steer that one; Vee handed it over herself, which is worse. Randi now gets Vee two weeknights, and I don't think Pace knows.
 
-Gripes, small ones. The three-times recap at the top is the montage habit again, though this time it's setting the stakes for "four," so I'll allow it. "Some women cried after… it meant nothing, or nothing bad" made me want to throw something at him, and that's character, not craft. But "She had pressed Vee between them this morning, and it had excited her as much as it fired him now. Whatever it had been, she had come through it" closes the scene down a beat too neatly, even as Pace's misreading. And the fourth orgasm hurting is good, but "a sound into her back he did not recognize" is the second unrecognized sound in one chapter. I noticed.
+"You're just finally hungry out loud." The jacket line landed, and I'll admit it's lovely. It's an absolution, and it's also exactly what Randi can't say about herself. "Does he have a brother?" made me laugh and wince, because he's her lover, not her fantasy.
 
-He folded the panties in thirds, spot centered, the way Vee did. This book is going to wreck me.
+Gripes, and they're real. This is the brunch for the seventh or eighth time: hostess, mimosas touching rims, the prices column, Randi's attention, the confession, the curb kiss, "See you soon, gorgeous." I can recite it now, which is the KU feeling I came here to get away from. The sex in this chapter is a montage *told aloud*. "Two, three. And then there's mornings… and afternoons." The reunion-montage problem from 32 and 33 now comes as dialogue. Some of it is hot because of where it's said (the sheets in both hands, "fast then slow then some way I don't have a word for"), but it's still summary. "Leaned in over the soup that wouldn't come," when she ordered the Benedict? That's a slip, and it pulled me out. The yolk-running paragraph is the book nudging me with the food-as-sex wire again. And the sleep and the quiet and the playlist stretch went on long enough that I started looking for Randi's face.
 
-GATE 35 — Four
+But Randi's face is what I got. That's what I've been waiting for since chapter 18, so I'm paying the formula tax again.
+
+GATE 34 — All the Time
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 3
+CAPTURE: 8
+NEXT: 8
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "Whatever it had been, she had come through it." The narration closes the door on Randi's crying right after it opened, even if that's Pace's misreading.
-WHY: The explicit sex and the reveal are the same scene: "You don't have to do it for me" is what makes her come, and "God, I want her" gets out before "for us" can stop it. Then the green satin, the untouched coffee, and Vee's drawer standing open an inch. Randi has been through the house, and I need the next chapter tonight.
+ALMOST-STOPPED: "Vee read the right-hand column first — the prices, always the prices first." That's where I felt the brunch template lock in one more time.
+WHY: It's the same brunch, but Randi cracks on the page for the first time in eighteen chapters, the nude goes into her hand by Vee's own choice, and a bare blue-toed foot under the table means Randi is courting her now, not reporting on her. The Tuesday/Thursday class has me worried about what happens to Pace's school nights.
 
 LEDGER
-+ FEAR: Randi went through Vee's drawer after the panties. She knows exactly how much room Pace has made for Vee, and she'll do something with it
-+ SUSPICION: Pace chose Vee first and let Randi think her face made the pick. "That part was all you" is a true sentence holding a lie
-+ GRUDGE: He reads every muscle in Randi and settles on "hormones," then on a grief about keepsakes. He pushes the drawer shut and blames the weather
-+ LOVE: "You don't have to do it for me," said kindly, and her coming on it before she could argue
-+ LOVE: "Then I'll be careful with you," and her pulling his arm tighter, then tighter again
-+ WAITING: Vee's side of Monday stats, with Randi tucking her hair back and whispering "still full of you"
-+ GRUDGE: "It isn't you I'm checking on." He's right about Vee, and it lands on Randi like a slap
-~ S1.2 SHIFTED: Pace already wanted Vee before Randi chose her. The outsourcing ran both ways
-~ S3.4 CONFIRMED: "He had already chosen." Vee was for him from the first sight of her on the quad
-~ L6.1 DEEPENED: "Tell me" came back, but now Pace pulls it out of her with his hands, and the telling turns into her confession
-~ W15.6 DEEPENED: "God, I want her," said into the wood, then "for us" a second late
-~ S34.2 CONFIRMED: She wants Vee for herself. Calling the kissing "work" for the threesome didn't survive one kind sentence
-~ S6.2 DEEPENED: He misreads her crying again, this time as hormones and as wanting something of hers kept
-~ F16.1 SHIFTED: The panties finally reached Randi's bed, but she found them herself and fucked him holding them
-~ S17.3 CONFIRMED: Randi knows exactly where the green panties went. She dug them out of his drawer
-~ W3.7 DEEPENED: Untouched black coffee, ruined eggs, and him going hungry. Randi still won't take what he pours her
-~ W18.5 DEEPENED: Nineteen chapters without Randi's head, but Pace's eyes got me closer to her than ever
-~ F2.3 DEEPENED: "You see more of me than anybody… some nights it frightens me." The bench mirror, almost said out loud
++ LOVE: "It doesn't." Randi's eyes going bright and unfocused at "he wants me, with the body attached," the first crack she couldn't smooth over
++ SUSPICION: Randi's bare foot under the table is her own move, not Pace's game. She's courting Vee for herself now
++ FEAR: The Tuesday/Thursday night class hands Randi two of the school nights Vee's been giving Pace, and "Just us" came out rough
++ WAITING: Whether Randi tells Pace she's seen the uncropped photo, and what he does with the fact that Vee showed it
++ LOVE: Vee leaning up the last half-inch into the goodbye kiss and deciding it's what she wants
++ GRUDGE: The sex came as montage again, this time told aloud over brunch, plus "the soup that wouldn't come" when she ordered Benedict
+~ F33.2 CONFIRMED: The posed nude reached Randi, but Vee carried it herself, uncropped
+~ F33.1 SHIFTED: He kept his word to the letter. She was the one who shared it
+~ F28.1 SHIFTED: It wasn't the induction photo that traveled. The nude did, from Vee's own hand
+~ G9.7 DEEPENED: Another brunch with the same template: rims, prices, confession, curb kiss, "gorgeous"
+~ W18.5 DEEPENED: Eighteen chapters without Randi's head, but her face finally broke where I could see it
+~ W31.7 DEEPENED: The blue-toed foot under the table is a door, and Vee didn't even see it was one
+~ L20.1 DEEPENED: Randi's feet again, bare this time, on Vee's leg
+~ F31.5 DEEPENED: "Still couldn't get over being the one Randi picked." The pointing game is going to hit her right there

@@ -1,39 +1,36 @@
-*capture-dag-v3-grounded · gate ch047 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 819e1bd10401 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch044 · history ch001..ch044 · ledger no seed cf474154db14 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch047 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 9a7b91c690c6 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch043 · history ch001..ch043 · ledger no seed 71861699de3b · 2026-11-06*
 
 REACTION
 
-Oh, Vee. She's wearing a breakup as a plan, and the plan is a coat with nothing under it and stilettos, handed over by the one person who knows exactly what that does to Pace. Randi is steering her back into his arms, and she's doing it warmly, and it's the best and worst thing she could do.
+Pace's head, finally. And it's the chapter where the book stops letting him hide behind "I'm just not a words man." He says it flat out: he knows he loves her. He's choosing the silence. He made the decision because Daphne wrecked him, and he believes the words are the difference. That's the confession I've been waiting on for fifteen chapters, and it comes as pure interior, to nobody. Of course it does. He can tell Sheri "I can't," and the reader gets the reason, and Vee gets nothing. The dramatic irony is cruel and I love it.
 
-The counseling scene is Randi at her most lethal. "Cornered" is a good reframe. It's also a lie by omission, because Randi knows the silence is the Daphne vow, and she doesn't say so. She tells Vee the fear is a liar and that Pace is "half-starved for the one he's got." I believe that's true. I'm just furious who is saying it. "Name it or lose me" is the exact fight, and Randi turns it into his wound instead of Vee's.
+The diner is warm and funny. Sheri is the best secondary character in the book. "The philosophy of your food. Lord almighty. Get over yourself" made me laugh out loud. And "from this seat, that feels pretty shitty" is the line he needed. Her grief speech about Paige and the family she doesn't call also tells me who she is without a flashback.
 
-The heat is the shoes. Vee's nipples tightening at the straps and her instantly explaining it away as tonight's nerves is the old pattern, her body running ahead of her story. And the plum polish she kept up for a man who didn't call, her thumb rubbing the toe while Randi talks about Gstaad. Lovely.
+Then the whiskey. A man who never drinks alone, going through photos, sliding down to a girl with brown hair and glasses. Daphne, and the book finally gives her a face. I want that story. The three-at-a-table fantasy, Vee in his sheet, Randi with her feet on the chair, laughing, nobody hurrying: that's the plan turning into something he actually wants, and he doesn't know Vee is the only one who doesn't know. He misses Randi too. "He would not take it from her." Ugh. He's tender to both, blind to both.
 
-Then the kiss. Vee starts it, with both hands on Randi's face, and stays. After the double goodbye kisses all those chapters, this one is hers, in full, and the switch to Randi's head is the payoff I wanted. "Four months of being the one who leaned in." The idiotic laugh, the hand on her own mouth, the cold mug. I've waited for Randi to be undone, and she is, and it's lovely.
+The morning after is the best part. The frozen chicken and broccoli, the hands shaking, the engine on the highway and his whole body leaning toward it. Then the sob, and eating anyway. That ending hurt, and I did not expect to be moved by him this much.
 
-Brooke's "You need to choose" lands as a threat from outside. Randi's lie about Gstaad being "perfect except the bedroom" is the one true thing she's said this week, and Vee thanked her for it.
+Grudges: the narration spells out his reasons a bit hard ("He had hurt her because he was afraid of how much she could hurt him"). I could have gotten that from the engine sound. And the date stamp says December 31, same night as both flashbacks, and I'm happy to be in a pattern now: three chapters, one night, three heads. Heat is zero, but the ache is real. The thing I'm furious about is that he knows, and still hasn't moved. I need him to say it to her.
 
-Grudges: the flight opening is a little long. And "That's how she sounds at home" is the book pointing at the accent again.
-
-GATE 45 — My Friend Randi
+GATE 44 — The Usual
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 10
-HEAT: 2
+CAPTURE: 8
+NEXT: 9
+HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: "Vee had been crying on her shoulder ten minutes ago. She looked at Randi's mouth." (the book nudging me again, though it's small)
-WHY: Vee kissing Randi first, and Randi coming undone alone in the foyer, is the turn I've waited all book for. Randi sending her to Pace in a coat and stilettos, with Brooke's ultimatum right behind, has me desperate for tonight's doorstep.
+ALMOST-STOPPED: "He had hurt her because he was afraid of how much she could hurt him." (the narration stating the subtext outright)
+WHY: Pace admitting to himself that he loves her, and the engine passing on the highway, finally give the silence a cause and a cost. It's the same night from a third head and no heat, but Sheri and the frozen chicken earned it.
 
 LEDGER
-+ FEAR: Vee turns up at Pace's door in a coat and nothing else, in Randi's shoes, and his silence swallows the gesture again without a word
-+ LOVE: Vee's hands on Randi's face and the kiss that was hers alone, and Randi alone in the foyer with the back of her hand on her mouth
-+ GRUDGE: Randi coached Vee through "cornered" and knew the real reason for his silence, and said nothing
-+ SUSPICION: The black stiletto straps are Randi's own heat leaking, the same way the knee-and-thumb fitting was
-+ WAITING: Tonight at Pace's door: what he does with a bare woman in a coat who still hasn't heard the word
-+ WAITING: Randi's answer to Brooke's "you need to choose"
-~ S2.3 DEEPENED: Brooke has now said it outright, she's seen how Vee looks at Randi and the house won't stay quiet
-~ F2.1 DEEPENED: Brooke has put the ultimatum on the table, and I fear it
-~ W43.5 ANSWERED: Term hasn't started but the Vee-and-Randi reunion happened, and she told her about the fight
-~ F9.1 DEEPENED: Vee skipped Cassie's empty room and went straight to Randi's
-~ F42.3 DEEPENED: Randi kept the lie going, offering only the sandwich-eaten-fast version of Gstaad
-~ F6.3 DEEPENED: Randi's want is now loud, and Vee started the kiss
-~ F41.1 CONFIRMED: Vee did go to Randi, and Randi's turning the breakup into a reunion script
++ LOVE: Sheri's "The philosophy of your food. Lord almighty. Get over yourself," and her bluntness, "from this seat, that feels pretty shitty."
++ LOVE: The engine passing on the highway, his body leaning toward it, then the sobbing and eating anyway.
++ SUSPICION: Daphne, the brown-haired girl with glasses, left him in a way that wrecked him, and that wound is the real reason for his silence.
++ FEAR: He knows he loves her and still chooses silence, so he may keep not saying it until she's gone.
++ WAITING: Pace saying the word to Vee, and the first day of term when all three are in the same orbit again.
++ GRUDGE: The narration spells out Pace's reason for silence directly instead of trusting the scene.
+~ S33.3 DEEPENED: "I don't go back" now has a face behind it, Daphne, and he says his family and past are why he keeps words to himself.
+~ S41.4 CONFIRMED: His silence is a deliberate vow, born of Daphne, and not temperament.
+~ S43.4 ANSWERED: His Christmas week was Sheri and a lonely whiskey night, not another woman.
+~ S1.4 DEEPENED: Daphne is now the only woman he told he loved, and her leaving took over his life.
+~ W41.5 SHIFTED: Pace sat home drinking and didn't go after Vee, but he is thinking about her constantly.
+~ S42.4 ANSWERED: The date stamps confirm these are the same New Year's Eve and the flashbacks were that night; present-tense is now clear.

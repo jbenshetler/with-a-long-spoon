@@ -1,30 +1,26 @@
-*capture-dag-v3-grounded · gate ch025 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4407c395237c · dated · memory grounded: facts ck-ch020@consensus (audited, 6 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch021..ch024 · history ch001..ch024 · ledger no seed 2392792b958e · 2026-11-20*
+*capture-dag-v3-grounded · gate ch025 · gemini-4-hydrogen · romance-graduate · prompt-sha f302bdd10d12 · prose-sha ec3c41639caf · dated · memory grounded: facts ck-ch020@consensus (audited, 5 non-fact sentence(s) dropped, 2 trimmed) + raw ch021..ch027 · history ch001..ch027 · ledger no seed 90cb28c63b1a · 2026-11-19*
 
 REACTION
 
-*Jesus Christ.*
+I am grinning so hard my face hurts. *That* was the payoff I’ve been waiting for since she first saw that burgundy silk hanging in his sun porch.
 
-Okay, first of all, the sheer whiplash of this chapter is going to leave a mark. It starts out like a glossy, high-speed fantasy—Randi waiting at the airport in oxblood ultrasuede with nothing underneath, kissing him in front of a stroller, driving him home fast in the dark, and then practically tearing his clothes off in the doorway with *"I've got a fresh wax. Take me hard and quick."* And when she crawls up after him, takes him in her mouth, and starts talking about running her hand down Vee’s hip in that burgundy silk with nothing under it? That was *filthy* in the exact way this book does best, because you can feel both of them using that image for completely different reasons.
+It’s almost better that neither Pace nor Randi was in the room for it, because it meant the moment belonged entirely to Vee. Sure, there’s that quiet, honest sting about her parents not being able to afford the flight—and that sharp little truth about her being relieved, because she’s sitting three rows from a microphone with nothing on under the silk and nobody there to whisper *floozie* in her ear. And thank god for Cassie, standing at the door like a loyal bodyguard, tearing up just a tiny bit, and then snapping that exact mid-stride photo so Vee could see herself the way the room saw her. *"Come on, streetlight."* I love Cassie so much.
 
-And then Pace falls asleep, and the whole temperature of the book drops twenty degrees.
+And that walk across the stage! Watching her start with one careful, modest step—and then just *decide* to take the long one, letting the slit fall open all the way to the hip and giving that dull, navy-blue room the whole length of her bare leg—was electric. The fact that her body lit up from it, that she felt that low, certain heat right there in front of everybody and didn’t flinch or shrink back, is everything. She’s not hiding anymore.
 
-First of all: *his passcode wasn't her birthday. It was Vee’s.* That single detail hit me like a slap. She didn't even have to guess—she tried hers, watched it fail, and immediately knew whose would work. And she didn't even flinch or cry; she just sat there in the dark den, zoomed in on Vee’s breasts in the dress Pace made, and *took* what she wanted.
+Sending the uncropped photo to Pace in Berkeley—letting him see the dress do the exact thing he built it to do, while keeping the secret of what she felt on that stage all to herself—was the cherry on top.
 
-Sending herself the photo was one thing. Impersonating Pace to text Vee—*"The way that dress hugs your tits makes me wish I was a dress"*—and watching Vee light up at midnight with *"I'm keeping this forever"*? My stomach actually dropped. It’s funny and hot for half a second, and then you realize what Randi just did. She didn't just steal a moment with Vee; she planted a memory in Vee’s phone that Pace didn't send and doesn't know exists, and then scrubbed every trace of it from his thread like a crime scene.
-
-Lying there beside him at the end with her eyes open in the dark, while her own phone sits in her bag in the foyer holding that photo? She’s not playing a game anymore. She’s running a covert operation on both of them, and she’s terrifyingly good at it.
-
-GATE 25 — Nachtmusik
+GATE 28 — The Induction
 DECISION: CONTINUE
-CAPTURE: 10
-NEXT: 10
-HEAT: 3
-ROMANCE: 1
+CAPTURE: 9
+NEXT: 9
+HEAT: 2
+ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: Peak heat followed by one of the sharpest, most chilling psychological turns in the book. Watching Randi unlock Pace’s phone with Vee’s birthday, impersonate him to flirt with Vee, and then scrub the evidence clean has me completely hooked—and terrified for what happens when those threads cross.
+WHY: A triumphant, electric payoff for Vee’s arc. Watching her choose to let that slit fall open to the hip in a room full of strangers—and watching Cassie document it like a movie star—left me grinning, and now I need to see Pace’s reaction to that photo.
 
 LEDGER
-~ S11.1 SHIFTED: Randi isn't just jealous or trying to steer Pace anymore; she’s actively crossing lines behind his back—stealing Vee’s photo, impersonating him over text, and covering her tracks.
-~ W24.1 ANSWERED: Pace did see the photo in Berkeley (*Exquisite. I wish I'd been there*), and kept it private from Randi—which only pushed Randi to take it herself.
-+ FEAR: Vee is going to reference that midnight text to Pace in person, and the whole thing is going to detonate.
-+ SUSPICION: Pace’s passcode being Vee’s birthday instead of Randi’s means he’s already further gone for Vee than even he has admitted out loud.
+~ W19.1 ANSWERED: Vee wore the burgundy silk and the four-inch heels to the induction, owned the room with that long stride, and sent the uncropped photo to Pace in Berkeley.
+~ L3.1 DEEPENED: Vee stalking across that stage with her bare leg out to the hip—and not being able to tell pride from heat anymore—is the most alive she’s been.
+~ L4.1 DEEPENED: Cassie’s *"Come on, streetlight"* and catching that exact mid-stride photo made me love her even more.
++ WAITING: To see Pace’s reaction to that photo when he gets it in Berkeley, and what happens when he comes home.

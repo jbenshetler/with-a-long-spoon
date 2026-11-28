@@ -1,51 +1,48 @@
-*capture-dag-v3-grounded · gate ch022 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 83e755b38062 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) · history ch001..ch020 · ledger no seed 41567cdd9573 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch022 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 3ca1401592cf · dated · memory grounded: facts ck-ch010@consensus (audited, 1 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch011..ch019 · history ch001..ch019 · ledger no seed c873f0ea15ac · 2026-11-06*
 
 ## REACTION
 
-The title is "Gone," and I've been nervous the whole chapter because nothing in it is gone. She stays. She eats. She hands him back the wine bottle.
+The thumb on the toenail. That's the one I'd text about.
 
-Every rule that broke in chapter 18 gets repaired in one night, almost in order. The deadbolt-and-bag routine turns into Randi lying on his chest after, loose, with the blanket over her, and she stays put. She asks for food herself. She says "Will you make me something?" and he's smiling before he answers, and honestly so was I. Then "Pace, darling. Will you pour me a little more?" with her glass still half full. Oh, I saw that. She didn't need wine. She needed him to pour it, because she's undoing the night she poured her own. Then she clears the plate with her fork, down to the last bits at the edge. If you'd told me in chapter 3, back at "I can't eat that," that Randi would wipe a plate clean, I'd have laughed.
+Two chapters ago Randi sat across from Vee at brunch and told her, "You paint the toes for a man who's going to have your feet bare in his hands." Now Randi is on her knees on a dove-gray floor, in her own beautiful clothes, holding that foot in both hands and turning it to the light. She says "Mm" and runs one thumb over the frosted plum, and Vee has to grab her shoulder because the room tips while she's sitting down. Nobody explains it and nobody needs to. Those toes were painted for him, and Randi is collecting on them. It's the hottest thing in the chapter, there's no sex in it, and it's between the two women. I've been waiting since the fire-lane kiss for Randi's want to show up somewhere other than her thumbnail, and it finally did. It showed up in her thumb on Vee's nail.
 
-So why am I scared? Because it's too complete. Every gesture is a repair and every repair is pointed, and the book called it "Gone." Look at where she sits: his white undershirt, which she pulls from the second drawer without looking, feet up on his kitchen chair, wine in her hand, watching him cook. That's Vee in the sheet at the table. That's the fra diavolo night, played by Randi. Same shoe size, "practically a marriage," and now she's literally sitting in Vee's spot. Either she's finally letting herself be fed, or she's studying the girl who stays and running her lines. Probably both. And the stew bowl. Where is the bowl with one line through the sauce? He makes fresh chicken and nobody mentions the fridge. I noticed.
+Simpson's paradox got me. Each year on its own the first man is the better hitter. Put the years together and the second man is. "Same numbers. Nobody touched one of them." Nobody at that desk hears it, because Vee is talking about a dress and both of her friends are turned toward her instead of the board. It's the whole triangle in one stats lecture. Pace and Randi, Pace and Vee, Vee and Randi each add up one way, and put together they add up to something else. The book let it sit there unexplained, so I'm going to love it.
 
-Then there's what she says. "She got past me before I could help it." "I get bored of everybody." Everybody, Pace. That's the closest I've been to the inside of Randi since chapter 2, and it isn't her POV. It's her talking, half asleep on his chest. What she's describing is falling in love, and Pace hears the threesome. He pictures the two of them laughing and then pictures them naked and laughing, and it's hot. The black hair falling into the red, Randi drawing down over Vee. That's the first time the book has actually *shown* me the three of them, and it went right through me. But Randi isn't fantasizing. She's confessing, and he's lying there building a scene out of it.
+Then there's Randi in the dorm room. "He didn't make this *for* you. He made it *to* you." She's right, and it's the best line anyone has said about that dress. She would know, because she's the one who knows exactly what that man does with his hands. "Charmeuse," she says, not to Vee, "to herself, or to the dress." Then Vee says "he was up all night finishing it, I watched him sleep." Randi goes away behind her face, and Vee decides it's *jealousy of him*, of a man who sits up nights, and wishes Randi had someone like that. Oh, honey. She has him. He's the same man. It's Kentucky-as-Switzerland again, and it hurts more every time. Vee keeps getting closer to the truth and still picks the kind reading.
 
-Then she says "Tell me," and he gives her the worst possible thing: Vee walks into a room and "somebody found the lamp." Randi goes still, and the book is careful to say it's not the loose stillness of after, it's the kind "that takes holding." Then she finds him hard and smiles up "out of the still." She converts the hurt into sex in about two seconds, and he lets her, and he doesn't notice. That's five times now. He reads every inch of her body and misses her.
+Here's what made me suspicious. In chapter 19 Vee's private daydream was walking into the induction late, on purpose, while the room turns. Today Randi says the dress "wants to walk in late and stop the room cold." Did Vee ever say that out loud? I don't think she did. Either Randi just knows her that well, or Randi is building the induction entrance herself. She picked the shoes, she knelt and put them on, and now she's directing the scene. I still have my fear from last chapter about who's in that room, and Randi just bought the ticket to it.
 
-Also: "I didn't let you take your time with me. I knew you were different. I wasn't going to wait." That rewrote my old fear about "He's hard to say no to." It seems to have been *her* who wouldn't wait. That's interesting, and it's also a little sad, a woman who never let herself be courted watching the girl who did. "You've spoiled her for being hurried" sounds like a compliment and lands like a bruise. And her fingers went to the white-gold bracelet right as she said "She's stunning in it." That band is a pressure gauge now.
+The money part scared me more than anything sexual. Vee reads the sole and holds "a quiet the exact shape of what was in her account." Then Randi says "a dress your *lover* made you," and the debit card goes back in the wallet and the emergency credit card comes out, with "nothing under it." Then Randi buys loafers for a multiple of that without looking and wears them out the door. I loved that Vee has been the girl who pays her own way and tips well so she isn't the broke girl. Today Randi talked her out of it in one sentence. And Vee hugging the box under her chin, "it's not going to *spoil*," is funny and it breaks my heart. Thursday arithmetic is going to become next-month arithmetic.
 
-Small things I liked: she asks him about Chicago. In twenty chapters I don't think Randi has ever asked Pace about his life. "My grandsupervisor" is cute, and she lets him talk. The flower fight at the chapter meeting, "Me. Who do you think?" Sade is the right soundtrack, and I'm done minding the needle drops.
+Cassie. "Your bed's made. It's the same bed you made." She hasn't looked at the board once, because the only part of anything she has ever been able to see is her friend. Then she goes to her lab, Randi gets Saturday, and Cassie's eyebrow goes up about the shoes and comes back down. That's how you lose a friend, in a chapter where you get one too.
 
-Gripes. "Her hand still at the side of his face" shows up three times in about six lines, and by the third I was counting instead of feeling. "She's ashamed. Somebody taught her to be ashamed of her body" is Pace handing Randi another piece of Vee's inner life. It's a kinder piece than the soft stomach, but it's still Vee's to give. And it's the fifth chapter without Randi's own head. This one hurts less, because she talked, but I still want the Mercedes and the thumbnail when nobody's watching.
+Gripes. The yeti and rhinestone shoe comedy is cute, but it's a whole page of two girls being adorable in a store, and I could feel the book wanting me to laugh. The "explaining" habit shows up twice. "A different arithmetic had taken the wheel… They were what the dress was owed" is the book reasoning out Vee's rationalization for me after I already watched her do it. And the paragraph about why Cassie doesn't care about the dress spells out what "Was it a good night?" already told me. This is also another Randi-and-Vee outing on the usual pattern: the money math, the Randi glow, and "never once in her life had a friend like this" at the end. The foot is what keeps it from being lunch number five. And it's now four chapters without Randi's own head, and here she is, looking at the dress Pace made for Vee, blank-faced. I'm starving for one page of her.
 
-1 a.m. text: "she STAYED, asked him to cook for her, made him pour wine she didn't need, ate every bite, and sat in his undershirt with her feet up exactly like the other girl did in the sheet. also told him 'she got past me before I could help it' and he heard THREESOME. chapter's called GONE and nothing's gone yet and I'm terrified"
+1 a.m. text: "the gf took her shoe shopping, knelt down to put the heels on her, and ran her THUMB over the plum toenails the girl painted for HIM and the girl had to grab her shoulder to stay up. also the girl put $$$ on her emergency credit card because the gf said 'a dress your LOVER made you' and the stats lecture was literally simpson's paradox. same numbers, combined they flip. I see you, book"
 
 ## GATE
 
-GATE 21 — Gone
+GATE 20 — Sorority
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 9
-HEAT: 3
+NEXT: 8
+HEAT: 2
 ROMANCE: 3
-ALMOST-STOPPED: "she said, her hand still at the side of his face." The third time in a row, and the tic pulled me right out of the bed.
-WHY: Randi undoes the whole fight in one night (stays, gets fed, has her wine poured), confesses love for Vee to a man who hears a threesome, and goes still in a way only I seem to see. It's tender and hot and so tidy that the title "Gone" has me braced for something to break.
+ALMOST-STOPPED: "Do yetis shop here?" The shoe-store comedy went on long enough that I started to feel the book asking me to find them adorable.
+WHY: There's no sex, but the foot-and-thumb moment is the first time Randi's want for Vee shows up in her hands, and it turned the bond. The credit card and the "walk in late" echo have me afraid of the induction. I'm reading on, and I'd still trade the whole shoe store for one page inside Randi's head.
 
 ## LEDGER
-
-+ SUSPICION: The reconciliation is too exact. Pour, eat, stay, every broken rule fixed in one night. Randi is either really letting go or performing the girl who stays, and "Gone" says something's about to go
-+ LOVE: "She got past me before I could help it." Randi falling in love out loud, half asleep, and calling it a funny shopping story
-+ LOVE: Pace finally picturing the three of them, black hair falling into red, both of them laughing
-+ GRUDGE: "Her hand still at the side of his face," three times in six lines
-+ SUSPICION: The stew bowl is gone from the story. He cooked fresh and nobody mentioned the fridge
-+ FEAR: "I get bored of everybody." That includes Pace, and the girl she's not bored of is Vee
-~ W3.7 DEEPENED: She asked to be fed and cleared the whole plate. The feeding thread finally reaches Randi
-~ L6.1 SHIFTED: "Tell me" came back, but about who Vee is, not her body, and the answer hurt her
-~ S6.2 DEEPENED: She goes still in a way "that takes holding," turns it into sex, and he reads it as want again
-~ S11.3 DEEPENED: She isn't scared of losing Pace to Vee. She's scared she already went to Vee herself
-~ F11.2 SHIFTED: She stayed and slept on his chest. The pulling away has turned into hanging on, which might be worse
-~ F2.3 SHIFTED: "I wasn't going to wait." It was Randi who rushed him, not the other way around
-~ S16.6 DEEPENED: Randi in his undershirt, feet up at his table, wine in hand, sitting exactly where Vee sat in the sheet
-~ S15.2 DEEPENED: Her fingers went to the bracelet right on "She's stunning in it"
-~ W18.5 DEEPENED: Fifth chapter without her head, though she said more out loud than she ever has
-~ G11.5 DEEPENED: "Somebody taught her to be ashamed of her body." He's still handing Vee over, just more gently now
++ LOVE: Randi's thumb over the frosted-plum toenail, the toes Vee painted for Pace's hands, and Vee grabbing her shoulder because the room tipped
++ LOVE: Simpson's paradox: "Same numbers. Nobody touched one of them." The whole triangle in one stats lecture, and nobody at that desk hears it
++ FEAR: Vee put shoes she can't afford on an emergency credit card with nothing behind it because Randi said "lover," and the bill is going to land on her
++ SUSPICION: Randi said "walk in late and stop the room cold," which is Vee's private daydream almost word for word. Randi is staging the induction entrance
++ LOVE: "He didn't make this *for* you. He made it *to* you." Randi naming the dress better than anyone, because she knows those hands
+~ W18.5 DEEPENED: Four chapters without Randi's head, and she just went blank looking at Pace's dress on Vee
+~ L4.4 DEEPENED: Vee reads Randi's long stillness as jealousy of a man who sits up nights, and wishes Randi had one. He's the same man
+~ F19.4 DEEPENED: Randi picked the shoes, put them on her, and is scripting the late entrance
+~ F4.2 DEEPENED: Cassie watches Vee instead of the board, then goes to lab while Randi gets Saturday
+~ L4.1 DEEPENED: "It's the same bed you made," and her not caring about the dress at all, only about Vee
+~ F13.8 DEEPENED: Randi has seen the dress on Vee's body and touched the seam, and whatever she felt went behind her face
+~ S16.6 DEEPENED: Same shoe size, "practically a marriage." The two women keep turning into each other
+~ G9.7 DEEPENED: The menu-price/Thursday math and the "never had a friend like this" close, on another Randi outing
+~ G1.7 DEEPENED: "A different arithmetic had taken the wheel" and the Cassie-doesn't-care paragraph explain what I'd already watched

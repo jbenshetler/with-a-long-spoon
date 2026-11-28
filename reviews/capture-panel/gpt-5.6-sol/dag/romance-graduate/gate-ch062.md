@@ -1,49 +1,35 @@
-*capture-dag-v3-grounded · gate ch062 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8fc308144c27 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch059 · history ch001..ch059 · ledger no seed a57d03ee8695 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch062 · gpt-5.6-sol · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e14961640f4a · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch058 · history ch001..ch058 · ledger no seed 74f547f84d69 · 2026-11-06*
 
-REACTION — No, I’m sorry, the book has now confirmed the continuity break.
+REACTION — No. That conversation did not happen.
 
-Pace planned champagne, fruit, brushes, paint, and an entire “fresh canvas” scene around Vee arriving bare. He knew. He asked. The request is canonically real. Which means the Sunday kitchen chapter simply omitted a conversation that chapter 59 later insisted occurred in the exact scene I read. Not before, not after, not vaguely that weekend: Sunday, in his kitchen, in the voice he uses for facts. I spent two chapters watching Vee’s camouflage become frightening enough to manufacture memory, and apparently that was never happening. The book accidentally created its most psychologically explosive development and then erased it by making the missing conversation real.
+I was in Pace’s kitchen Sunday. I watched him make cinnamon-raisin bread, tell Vee Sheri was his only friend, explain the closed window of his adolescence, and receive her whole-weight hug. He never said, “I’d like you waxed.” He never asked “Will you?” There was no request at all.
 
-That cost me. Every time the chapter said “what she had gone and done for him” or “the part he had asked for,” I fell slightly out of it again. I needed Pace’s first response because I needed the truth of the request established. Instead he says, “Now I can see more of you,” and the elaborate preparation quietly confirms the fact without acknowledging that the reader was denied it. I am continuing because this series has me deeply, but this is the first time I have felt the floor move because the book made an error rather than because Vee’s mind did.
+And now Vee does not merely repeat the lie she told Randi. She remembers a complete exchange: his exact voice, his eyes on hers, the wording, the question, her immediate yes, even the fear afterward. Either Vee has manufactured a memory detailed enough to experience as fact, which is genuinely frightening, or the book has broken continuity at the precise point where her authorship matters most. I am continuing because I desperately need to know which one it is, but this cannot pass as an omitted moment. The chapter anchored it to the Sunday kitchen I already read.
 
-And I’m furious with Randi all over again. “Barely stings” was already a lie; now I know she understood precisely what Vee was preparing to do and still omitted every useful fact. Pace asked a question. Randi was the person Vee trusted to explain what yes would physically entail. She sold Vee an expensive fantasy and sent her into pain, exposure, and a service she did not understand. Pace then receives the finished result as a beautiful gift, while neither of them knows what Vee believed about having no lines left. The evening answers the ordeal aesthetically and erotically, but it does not repair that.
+If this is Vee’s mind, then the camouflage has become much more dangerous than I understood. She wanted Randi to direct her bareness, invented Pace’s request to make that want permissible, and has now installed him inside the desire so completely that she experiences herself as obeying him. She gives him his characteristic language—plain facts, direct looking, a question carefully asked—and uses everything she trusts about him to authorize something he never requested. She has forged his consent practice into a permission slip against herself.
 
-With that said: the painting was deliriously, specifically hot. Not “fruit as cute euphemism,” thank God—the chapter remained explicit about her breasts, slit, clitoris, wetness, and the brush gathering her own fluid. The food and color made her body playful without making it coy. Pace painting cantaloupes over the breasts the world has taught her arrive too early, then a black-red cherry above the wet open sex she has spent her life trying to contain, was so perfectly tailored to Vee that I understood the pride when she saw the photograph. He made abundance the composition. Nothing about her was excess because excess was the point.
+That made the waxing miserable to read in exactly the effective way. “Barely stings” was such a spectacular lie that I had laughed at it Tuesday; watching Vee enter the room trusting Randi’s passport to this country and discover the white animal pain made me furious. Randi did not merely soften the truth. She sold Vee luxury, wine, and expensive smoothness while omitting the exposure, the handling, the turning over, and the parts Vee did not even know were included. Vee asked the one person she trusts to tell her how this works, and Randi gave her seduction instead of information.
 
-The stillness worked on me too. At first she tries to manufacture it—tightening, bracing, performing obedience correctly—and the brush keeps disappearing. Only when she stops guarding the pose and lets the bed hold her does Pace return. That is the grown-up erotic intelligence I’m starving for: surrender is not her becoming rigid enough to satisfy him; it is her giving up the exhausting work of anticipating and letting him remain responsible for what he does. “Still meant the brush. Moving meant the brush going away” could have become mechanical, but the progression into trust made it feel bodily and earned.
+The worst moment was not the pain. It was Vee deciding that because she had already said yes to “the whole of it,” she no longer had standing to say no to a part she had never understood. “Another line seemed like a joke, a thing for a girl who had any lines left.” That scared me more than almost anything in this book. Consent is not a finite supply she spent in Pace’s kitchen. Even if the request had been real, even if she had understood the service beforehand, she could still stop. Instead she treats prior nakedness and prior yeses as evidence that boundaries now belong to an earlier, less daring version of herself.
 
-And yes, the gesso was filthy. Her shame at producing enough wetness for him to gather it, paint with it, return for more—and then her body making still more in answer—hit the exact live wire this book has been building since the soaked green satin. Pace turns the evidence she calls excessive into material. Not something to wipe away before the real art begins. The ground the art requires.
+And yet the chapter was charged. The wrong hand pressing her down opened an absence shaped exactly like Pace’s right hand, and I felt that ache. The clinical touch did nothing for her by itself; its erotic force came from the grammar her body had learned with someone who wants her and pays attention. That distinction mattered. So did Vee keeping the response private instead of letting Sondra’s indifference define it.
 
-I also loved her little rebellion with the painted breast against his face. She obeys, waits, opens, receives—and still remains Vee, capable of turning into him at the last instant and leaving her mark across his mouth. He wears it through the whole scene. That orange print delighted me because it is playful claiming without becoming ownership: she changed his picture, and he left the change visible.
+Her own hand at the end almost gave me relief. Alone, unobserved, she touched the altered body and made a sound that belonged to pleasure. For one second the smoothness was hers to discover. But almost immediately she gave the sensation back to the invented request and imagined Pace’s hand finding what she had “done for him.” She still cannot let this want originate in herself.
 
-The photograph may be the most important part. The earlier nude was composed by Pace and sent to him as proof that Vee could be brave enough to give herself away. This one is made by him and returned entirely to her. He does not ask for a copy. She sees herself open, dripping, enormous, ridiculous, magnificent—and no shame arrives. That is a real turn. The picture belongs to the woman inside it.
+And now Valentine’s night is coming. Pace is going to encounter a change he did not request, Vee believes he commanded it, and Randi believes the same lie because Vee handed it to her. If Pace says, “I never asked you to do this,” the entire manufactured memory may split open. If he simply enjoys it and never asks why, Vee may take his desire as confirmation that the false conversation happened exactly as she remembers it. I need that moment urgently, and I am afraid of both outcomes.
 
-Then the taste. Her mouth searches Pace’s mouth after he has cleaned her, finds salt and maybe sourness and hothouse warmth, and lets uncertainty remain. She still does not complete the clean experiment of putting her own fingers directly on her tongue, but she is no longer recoiling or naming the appetite wrong. She goes looking. The final inch has not vanished; it has become something she can approach without forcing herself across it.
-
-And she is not showing Randi.
-
-Good.
-
-That decision felt quiet but enormous after all the times Vee has delivered her most private experiences to Randi for interpretation. She tries to imagine Randi’s hoarse voice over the photograph, feels the charge, and then keeps the image. Not because she is ashamed of it—the pride survives half an hour, dried paint, sex, and solitude—but because it is too much to hand over. For once “too much” may mean too intimate, too entirely hers, not morally excessive. The photograph remains with the woman in it.
-
-Tomorrow being “Randi’s” still worries me. Vee has divided the weekend into bodies and claims without knowing she has done it: Friday’s bare skin and secret photograph with Pace, Saturday’s skirt and mixer with Randi. But she has finally kept something from Randi without first reducing it to a funny footnote. That boundary is tiny, conscious, and alive.
-
-GATE 60 — Still Life
+GATE 59 — Barely Stings
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: “whatever his mouth meant to make of what she had gone and done for him”
-WHY: The body painting turned Vee’s abundance into the whole glorious composition, and the photograph remaining proudly hers was a genuine emotional turn. But the chapter also confirms Pace’s waxing request was real, making its absence from the Sunday kitchen scene a serious continuity failure; I’m continuing because Vee’s decision not to show Randi the picture has created a boundary I urgently want tested.
+HEAT: 2
+ROMANCE: 1
+ALMOST-STOPPED: “He had asked her Sunday, in his kitchen, in the plain voice he used for facts about the world”
+WHY: The chapter turned Vee’s invented request into a detailed memory of a conversation I know did not happen, which is either a terrifying escalation of her camouflage or a serious continuity failure. I need Pace to see her and reveal whether Vee has rewritten her own desire so completely that she now remembers his permission.
 
 LEDGER
-+ LOVE: Pace painting Vee’s breasts, wetness, and lavish body as fruit and abundance, then taking the photograph she requests and returning it entirely to her without asking for a copy.
-+ GRUDGE: The book confirms Pace really requested the waxing and planned this evening around it, despite placing that conversation inside a Sunday kitchen scene I already read without it.
-~ S51.5 DEEPENED: Vee consciously keeps the painted photograph from Randi even though imagining Randi’s reaction charges her; the experience remains proudly hers rather than becoming material for Randi to interpret.
-~ L54.2 DEEPENED: Vee searches Pace’s mouth for her own taste without forcing certainty or recoiling when she cannot separate it from him; the unfinished reach remains, but shame no longer governs it.
-~ S58.1 DISPROVED: Pace’s preparation and knowledge confirm that he really did request the waxing; Vee did not invent the request to route her desire through Randi.
-~ F58.2 SHIFTED: Vee did not manufacture Pace’s desire or memory here, but she still uses his request to make the bodily change easier to authorize than a desire originating entirely in herself.
-~ G59.1 DEEPENED: Randi’s “barely stings” did not merely minimize pain; it withheld essential information from Vee about carrying out a real request from Pace, leaving Vee unable to understand what her yes would entail.
-~ F59.2 DEEPENED: Pace gives Vee a safe erotic practice of stillness and surrender, but nothing yet corrects her belief at the salon that prior yeses had spent her right to draw another line.
-~ W59.3 ANSWERED: Pace knows Vee is bare because he asked, receives the change with delight, and builds an elaborate evening around making her see it as beautiful.
++ GRUDGE: Randi said “barely stings” and sold Vee luxury while withholding the pain, exposure, handling, and parts of the service Vee did not know she was agreeing to.
++ FEAR: Vee now believes an earlier yes spends her right to draw later boundaries; once she has crossed enough lines, she thinks she is no longer “a girl who had any lines left.”
++ WAITING: I need Pace’s reaction when he discovers Vee is bare because of a request he never made.
+~ S58.1 DEEPENED: Vee has not only invented Pace’s request so Randi can direct her bareness; she now remembers a complete Sunday conversation—his words, gaze, question, and her answer—that did not occur in the chapter I read.
+~ F58.2 DEEPENED: Vee’s male camouflage has become a furnished memory, using Pace’s real consent language to make her own desire feel like an instruction she already agreed to obey.

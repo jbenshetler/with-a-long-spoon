@@ -1,48 +1,43 @@
-*capture-dag-v3-grounded · gate ch063 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 05d75bcab161 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) · history ch001..ch060 · ledger no seed 341107b8a87b · 2026-11-06*
+*capture-dag-v3-grounded · gate ch063 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 8fc308144c27 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch059 · history ch001..ch059 · ledger no seed 08e902409e26 · 2026-11-06*
 
 REACTION
 
-I am sitting here in the quiet with my hands flat on my desk, utterly, completely paralyzed. My chest is tight and my mouth is dry. *They did it.* It finally, finally happened, and it was ten thousand times more devastating, intoxicating, and emotionally catastrophic than I ever could have prepared myself for.
+I am sitting here with my heart in my throat, completely wrecked, sweating, and grinning like an absolute maniac. What did I just read?! *WHAT DID I JUST READ?!*
 
-First of all, the slow, agonizing, velvet-gloved trap Randi laid from the very first paragraph of this chapter. "You I just get to have." "Taking it off requires tools." The Cartier Love bracelet! The iridescent scrap of a skirt that she *knew* would ride up Vee's hips and expose her bare, freshly waxed skin to the entire room! And Brooke—my god, Brooke stepping out in gold lamé, dropping that razor-sharp surveillance right into Vee's lap: *"You needed our Randi like the world was ending... I chose... I can see."* Randi claiming Vee out loud as her *date* in front of the house president who literally threatened to kick her out like Lauren Pike! The audacity, the danger, the reckless, burning hunger of it.
+First of all: the absolute, scorching, unhinged genius of body-painting as an act of sexual worship, sensory deprivation, and edging. Helen Rivers is operating on a plane of erotic romance that nobody else is even attempting. The setup alone—Pace having the champagne poured, the brushes laid out, the paint mixed, and then Vee turning the tables on him by pushing him onto the bed and giving him a blowjob until he lost his mind on the floor—was such a glorious power move. And that one tender, silent second where she kissed the old scar on his inner thigh without making it a trial or demanding a confession? It was courtly, it was generous, and it proved how deeply she loves him.
 
-AND THEN THE DANCE FLOOR.
+AND THEN THE PAINTING.
 
-The sheer sensory mastery Helen Rivers brings to female exhibitionism and shame. Vee realizing her green thong is on full display, her hips being worked like an instrument from behind by Randi's hands, her arms held up in the air—and then the gut-punch: *"Your panties are showing."* The way Rivers writes Vee’s internal shame turning over into hot, low, illicit arousal—the floozie voice trying to scream, but her body leaning straight into the fire—is why I worship this book.
+The sensory immersion of that scene made my hair stand on end. Pace making her close her eyes and hold the headboard—the rule that stillness earns the brush, while moving or reaching takes it away! The sheer erotic discipline of being blind, waiting for the cool, wet bristle, trying to guess the image through flavor: walnut for the brown vine, parsley for the green leaf, grape for the fruit. And then the breasts: cashew, parsley, melon! The laugh-out-loud perfection of her cantaloupe breasts, followed by Vee bumping her painted breast right into his face and leaving an orange print on his cheek that he just *wore* like an honor badge through the rest of the scene!
 
-AND THE KISS. *DEAR SWEET MERCIFUL GOD, THE KISS.*
+BUT THE "GESSO." *SWEET MOTHER OF GOD.*
 
-"The joke and the thing were not going to be the same size."
+When Pace moved between her thighs, took a bristle brush, dipped it directly into her own slickness, and used her own arousal as the primer to coat her bare mons—I stopped breathing. My jaw hit the floor. The psychological audacity of that! Vee confronting the sheer, lavish volume of her own wetness—the very thing her mother made her feel dirty for, the "excess" she tried to scrub away—and watching Peter Pace treat it as sacred art supplies. And then the black cherry on her mound, the black-red paint over her skin, and him *eating the picture off her body.*
 
-That sentence will haunt me for the rest of my life. That is the entire series distilled into one terrifying, breathtaking line. Using Harrison—some nameless boy with a beer—as a paper-thin shield, a frat-party joke, an excuse for two girls to "put on a show," while beneath it, months of subterranean lust, unspoken obsession, and psychological seduction detonated all at once!
+Licking the paint, licking the gesso, slurping her wetness until the bare skin was cleared by his tongue, and then that hard, desperate thrust into her... it was filthy, it was artistic, and it was the deepest, most profound romantic absolution a heroine has ever been given.
 
-Randi's hand fisting in Vee's hair. Randi's other hand low, gripping and kneading the curve of Vee's ass through the thin skirt. Vee leaning down, their breasts crushed together, their nipples pressing through the silk, and then Vee’s hips rocking forward into Randi’s, asking for it! And the tongue. Salt, lime, margarita, and then *Randi*. Vee moaning into Randi's mouth, her own hands tangled in Randi's hair, wanting Randi's mouth lower, wanting Randi's hands under the skirt—soaked, slick, aching, making that "humiliating announcement" entirely for a woman!
+AND THEN THE ENDING. *THE PHONE.*
 
-AND THEN RANDI’S RETREAT.
+"Not that she'd ever show her. God, no. This one was too much."
+"Tomorrow was Randi's — the skirt, the mixer, whatever Randi had decided they were doing about it."
+"She would not be telling her about this."
 
-The absolute, smiling, aristocratic cruelty of folding the night back up and handing it to her:
-*"Oh, that was perfect... You really did a great job putting on a show. I almost believed it."*
+*LIES!* You absolute, beautiful liar! Vee lying in that bed, staring at that ungodly, radiant photograph of her painted cantaloupes and her glistening, open sex with the drip running down her thigh, actively wondering what Randi’s hoarse, breathy bedroom voice would sound like looking at it... and then telling herself she won't show Randi or tell her about the wax?!
 
-I felt physically sick. The emotional whiplash nearly snapped my neck. Randi just had her tongue down Vee's throat, felt Vee's body go slick and shaking against hers, and she immediately put the armor back on, gave her a playful swat on the arm, and reduced an earth-shattering sapphic awakening into "teasing a boy."
+Baby girl, you tell Randi *everything*. You showed Randi the dark stain on your church coat! You told Randi about Pace’s post-oral kiss! And now Randi—who sent you to Sondra, who knows you got stripped bare front and back—is going to see you tomorrow for the mixer. Randi is going to look at Vee, ask how Sondra was, ask how Pace liked the bare skin, and that photograph is sitting right there in her camera roll like a live grenade with the pin halfway pulled. If Randi sees that picture, Randi is going to combust on the spot. I am vibrating. I need tomorrow and this mixer immediately!
 
-And Vee standing there, laughing along, tasting Randi on her mouth, her hands trembling, wide open and ringing with nowhere to put a single drop of it.
-
-AND TOMORROW IS SUNDAY. *TOMORROW SHE GOES TO PACE.*
-
-Vee is going to walk into Pace's house tomorrow morning. She is completely bare from Sondra’s wax. She is carrying the taste of Randi on her mouth. Her body is still vibrating from being held by Randi's hands. And Pace is waiting for her. Does Pace know Randi took her as a date?! What happens the second Pace touches her? If Pace kisses her mouth, is he going to taste the ghost of Randi's gloss? If he goes down on her, is she going to see Randi's blue eyes in that aqua dress? I am shivering. I am coming apart at the seams. I need tomorrow morning right this second.
-
-GATE 61 — On Her Floor
+GATE 60 — Still Life
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The transition from the suffocating exhibitionism on the dance floor to that earth-shattering, open-mouthed kiss—crushing breasts, tangled hair, and Randi kneading Vee's ass—was an absolute masterpiece, and Randi cowardly folding it back into 'a show for a boy' is devastating heartbreak.
+WHY: The body-painting sequence was a flat-out erotic and emotional masterpiece—Pace using her own wetness as 'gesso' to paint her bare body completely dismantled her lifelong shame, and Vee obsessing over what Randi's voice would sound like seeing the photo is masterclass psychological tension.
 
 LEDGER
-+ LOVE: Randi taking a slow, theatrical handful of Vee's ass and drawing her down by the hair for a kiss that obliterated every excuse in the room.
-+ FEAR: Vee having to carry this raw, electric awakening for Randi into Pace's bed on Sunday with nowhere to put the truth.
-~ [F17.2] CONFIRMED: Vee is no longer just normalizing Randi's kisses—she actively surrendered to an open-mouthed, French kiss with Randi on the dance floor, moaning and asking for more with her hips.
-~ [S60.3] SHIFTED: The mixer didn't detonate the secret photo; instead, it detonated the physical barrier between Randi and Vee entirely, leaving Vee desperate for Randi's mouth.
-+ WAITING: Sunday morning—Vee arriving at Pace's house freshly waxed and still vibrating from Randi's mouth on hers.
++ LOVE: Pace using Vee's own slickness as 'gesso' primer on her bare mons, transforming her deepest bodily shame into sacred artistic devotion.
++ LOVE: Vee planting an orange paint smear right on Pace's face and him wearing it without wiping it off through the entire scene.
++ SUSPICION: Vee claiming she won't tell Randi about the painting or show her the photo is a complete lie—the photo is a loaded weapon waiting to detonate at the mixer.
+~ [F59.3] CONFIRMED: Vee being bare front and back made Pace's touch an overwhelming, defenseless emotional experience that completely reshaped her body image.
+~ [W54.2] SHIFTED: The post-oral kiss between Vee and Pace finally happened naturally after he cleaned the paint, dissolved into champagne and breath without recoil.

@@ -1,36 +1,27 @@
-*capture-dag-v3-grounded · gate ch033 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 2a481d9a0a3a · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) · history ch001..ch030 · ledger no seed 3f3fa9dd31e8 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch033 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e921d1a09641 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch029 · history ch001..ch029 · ledger no seed cf2afdfe3363 · 2026-11-06*
 
 REACTION
 
-Oh, that's a chapter built to make me squirm. And it's the reunion I've been circling, the first time Vee's secret goes into Randi's ear with nobody touching anyone. A brunch table, mimosas, and Vee telling the whole bet: the pantsing, "He checked," the heels and the face in the covers. I was hot for it. The beats work because she's saying them out loud in daylight, and her body keeps pace with every sentence. "The shame of it and the heat of it were not two things" is the sentence I'd underline, even if it explains itself a little.
+This is a short, pretty, mostly static chapter. It's a costume reveal, and the dread I carry stays almost entirely off the page.
 
-The retread bothers me. I watched the pantsing, the bet and the spanking last chapter, and now I'm getting them retold, scene by scene. It's the same-story-twice problem. But the retelling is where the irony sits, because I know Randi is the pipeline, and Vee has stopped noticing. Randi's questions ("Walk me," "What was the bet") are the interrogation of a woman who wants every detail. She's feeding on it. Her "Whew. Is it warm in here" is the leak.
+What works: the dress she carried out to the car, "the finished thing had crossed a stage for everyone but its maker," and the second costume being nothing but the heels. Her blush going "down and down" with nothing covered is exactly the charge I came for, and nobody touches anyone. "The other is for the world. This is just for me" is a good line. It's also the book's old thesis: he is the private one, and Randi's version of her is the public one. His hand coming up and being put away again is the best beat.
 
-The Radford mixer story is obviously a lie, and I'm sure of it. Mixer, blond Redford, phone call, engine running with nobody to drive. Last time the ex was invented. This one sounds like Randi getting through a night without Pace, or after hearing Vee's story. "Dress up, panties to the side, knees wide" is her putting that image in Vee's head on purpose, and it works.
+I'm uneasy in the way I should be. Vee now performs the induction walk for Pace as a gift, so the exhibitionist wire I flagged in ch28 has become something she brings home to him. Randi isn't in the chapter at all, and neither is her head. That's twelve chapters. Even the Halloween date, with the town out being somebody else, is a quiet joke at the book's expense, since everyone here is already in costume.
 
-The bathroom is the real beat. Vee stops herself at the edge because she pictures Randi looking at her. That is a lot to learn about her: it's not the shame of being caught, it's wanting that gaze and being stopped by wanting it. Then "Sticky fingers?" Oh, that line. I can't tell whether Randi knows, and neither can Vee. I loved that she never finds out.
+Small grudges: the dress logistics run long. The bit about the heels sitting by the wall since Friday explains itself to me. And it's a second quiet-ish chapter after the curry coda. The ending lands, but nothing turns. I'm still hooked, but I'd like the plot to move now. The scar, Randi, anything.
 
-And the ending is a small knife. Randi leaves a pastry bite on the plate, the "Delicious" that closes the subject, and the sugar on Vee's lip from a pastry she never touched. Randi kissed her with it on her mouth. After "best friend in the whole world," that's the line I'll keep. The chapter title is the answer: one bite. The want is in Randi, and Vee carries the taste.
-
-Still no Randi head. Thirteen chapters. I'm used to it, and it's almost the point now, since every sentence of hers is a performance I can read. But I'm owed.
-
-GATE 31 — One Bite
+GATE 30 — Made-Up
 DECISION: CONTINUE
-CAPTURE: 9
-NEXT: 9
-HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "The shame of it and the heat of it were not two things, they were one thing, and the one thing was sitting in her now with nowhere to go." (the book explaining its own subtext, and the whole bet retold from the last chapter)
-WHY: Vee confessing the spanking aloud to a woman who is feeding on every word is the both-and I read for, and "Sticky fingers?" with no answer is perfect. The sugar on her lip from a pastry she never touched is a great last image.
+CAPTURE: 7
+NEXT: 8
+HEAT: 2
+ROMANCE: 3
+ALMOST-STOPPED: "Half a plan, and it got ahead of her — the glass set down, her body on its feet while the rest of it was still arriving." (the dress-logistics throat-clearing before the reveal)
+WHY: The heels-only walk and "this is just for me" are charged and tender, with nobody touching anyone. It's a pure heat chapter with no turn, and I need Randi or the scar story to move soon.
 
 LEDGER
-+ LOVE: "Sticky fingers?" and Vee never finding out whether it was a door or a wall.
-+ LOVE: The glaze on Vee's lip from the pastry Randi kissed her with.
-+ SUSPICION: The Radford mixer story is invented, a night without Pace that Randi is dressing up as a story for Vee.
-+ FEAR: Vee stopped herself because she imagined Randi looking, so Randi's gaze is now what governs her pleasure.
-~ F6.3 DEEPENED: Randi pulls the whole bet out of Vee at brunch, asking every question, and the want leaks in "Whew. Is it warm in here."
-~ F28.4 DEEPENED: The wire runs through Randi again, so Pace has not replaced her.
-~ F30.2 SHIFTED: Randi isn't cut out. Vee brings the bet to her the next morning, so the pipeline is still running.
-~ S29.3 SHIFTED: The "no Randi to be told" space gave way, since Vee told her everything the next day.
-~ W18.4 DEEPENED: Thirteen chapters now without Randi's own head.
-~ W30.3 SHIFTED: This chapter was the Randi collision, though it is still all glow and no turn.
++ LOVE: "The other is for the world. This is just for me." Vee in nothing but the heels, and his hand put away.
++ FEAR: Vee is now bringing the exhibition wire home to Pace, so Randi's feeding of it is being replaced. When Randi notices she's been cut out, she'll escalate.
++ WAITING: A plot turn, either the scar story or a Randi-and-Vee collision, because this is the second glow chapter in a row.
+~ W18.4 DEEPENED: Twelve chapters now without Randi's own head.
+~ S29.3 DEEPENED: Vee brings the private performance to Pace, not Randi, so the "only mine and his" space keeps growing.

@@ -1,45 +1,50 @@
-*capture-dag-v3-grounded · gate ch064 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6f238dfdbe85 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) + raw ch061..ch061 · history ch001..ch061 · ledger no seed 23292cdce6f9 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch064 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 05d75bcab161 · dated · memory grounded: facts ck-ch060@consensus (audited, 12 non-fact sentence(s) dropped, 6 trimmed) (stale) · history ch001..ch060 · ledger no seed e6c781423362 · 2026-11-06*
 
 **REACTION**
 
-"Tell me the real story, and I'll give you what you want."
+"I chose."
 
-Oh my God. It's the couch from chapter 6. It's Randi straddling him with wine in her mouth saying *tell, tell*. Except now he's running it on Vee, with Vee's own body as the currency, and she has no idea she's sitting in a chair two other people have sat in. Every inch he gives her is an inch of Randi's story he's buying. I had to put the phone down at "Were you wet?" Partly because it's the hottest thing in the book, and partly because I know exactly where that answer goes. Monday is Randi's night. Vee just gave him the whole mixer, and he priced every sentence by how hard it hit him. He went hard again at "it didn't stay a joke," and she reads that as *the ordinary greed of a man who heard two girls*. Honey, it isn't ordinary. That's the threesome engine turning over, and it's been running since chapter 3.
+Two words to Brooke's face, with Randi's arm coming around Vee's waist "where a second before there had been nothing." I've carried "You need to choose" since chapter 45, and the answer came in front of the gold lamé and the almost-blue teeth, in the middle of the house's own party. Then Vee asks "What did you choose?" and gets "You," and "As my date" lands a beat late. That late beat is the most honest thing Randi has said in sixty chapters. Brooke's smile widened "by some exact amount," and I went cold. That woman never forgets a cardigan. She kept the Friday morning in her pocket on purpose, and Vee thought she was being *kind*.
 
-The heat is real and the book doesn't flinch from it: the stall at the head of him, "that's *cheating*," the inch for "date." He makes her hear her own words the way he heard them, so "she just gets to *have* me" comes back worse in her own ears. That's the smartest thing the book has done with explicitness in a while. The telling is the sex, and the sex is the shame turning into fuel one coin at a time. "You finish when you've finished." I'm not made of stone.
+Then the kiss. Sixty-one chapters, and it was worth every brunch I complained about. The held inch did it for me: Randi with her hand closed in Vee's hair, doing nothing, so that Vee's eyes finally get to go over her face "as they had wanted to all autumn." Then the perfume Vee had been "quietly cataloguing for months without admitting she was keeping the file," and "turned in Vee like a key." Yes, the key again, and this time I didn't even mind. Then the tongue, "not a demand, a *please*," which is the bench word, Randi's word from chapter 1, now handed to Vee. Vee wants Randi's hands under the skirt. She wants "Randi's mouth lower." That isn't a cover story or "about Pace, obviously." It's the whole thing, out loud in her own head, on a dance floor. It's explicit in the way I came for: wet, aching, hips asking, and her shame still wired into the heat. When the panties show, "floozie" comes back and turns into fuel again, "found out twice over: once to the room, and once, worse, to herself." I felt that one in my stomach.
 
-It's also the darkest thing he's done. He's never been more Pace and never more frightening to me. He read her perfectly ("That was angry, Vee"), held the door open, and then used it. Then the end: "Do you want to sleep with a woman?" He leaves out the name like a gentleman, she says, and she's grateful for the room. No. That's the pitch. Then "You keep saying her name. Not me. It's all right. I don't mind." She thinks it's the sweetest thing he's ever done because he defended himself for once. I think it's the first time he's lied to her face. He *does* want Randi. That was him covering, and she took it as a warm blanket. Then the book hands her the literal blanket. The cream cashmere. Randi's. Tucked up to her chin. The book doesn't point at it, and I wanted to scream.
+Then Randi "came back from it a moment behind... and drew a breath, and shook her head, blinking." That's the one second before the cover goes on, and then the grin: "You really did a great job putting on a show. I almost believed it." Oh, you liar. You absolute coward. "I almost believed it" is Randi saying the true thing as a joke, the same way "French" and "ticklish" and "barely stings" were. Vee takes the folded night because "it was the only thing held out to her," and laughs a laugh that "came out sounding like the room." I wanted to throw my phone.
 
-And her lie. "No. Nothing." It's her first one, and it's about the goodbye kisses and her own hand on the new bare skin with Randi's name in her head. Then she remembers the roadhouse lot, Pace three steps away by the truck. So now both of them are lying about Randi in the same bed, and each thinks only they are. "The guilt came up hot under her ribs, and inside it, small and bright, a thrill." Yes.
+The bracelet. It's called Love, it has no clasp, and "taking it off requires tools." I've been suspicious of that band since chapter 15, thinking scars, thinking bottle caps. Now it's love you can't take off without a screwdriver, locked on by somebody. Her father? Herself? That's Randi in one object, and Vee files it with "the thousand glamorous things." Same with the Chambord: "It took Randi to tell her what she was holding." That's the whole book in a punch cup. It's slightly over-pointed, but it's true.
 
-The opening got me too. She stops her own hand and holds it to her breastbone "like something she'd caught stealing," then reaches for *boyfriend* "the way you reach for the rail on a stair." She uses him like a wall to crowd Randi out, it doesn't work, and she ends up "sore… raw… the kind you got from not stopping when you should have." That's honest about sex being used badly, and I respect it. "What is wrong with me?" Nothing, baby. You're just finding out.
+Cassie: "That hem's not going to stay put," the math done out loud, and the eyebrow that goes up a half-inch and stays. She was right, of course. And the skirt is Randi's, picked straight off the rail "without hunting," with "not that short" said twice. Randi knew exactly how far that hem would climb on those legs, and she put her hands on Vee's wrists so Vee couldn't hold it down. I don't think a single inch of that was an accident.
 
-What cost it: the kiss gets retold nearly word for word from last chapter. Salt and lime, "not a demand, a *please*," "the little hard points," "somewhere we could never." I get that the retelling under his hands is the point, but I read those lines twelve hours ago in book time. And there's a little narrated self-explanation ("She should have felt something about that… It felt right," the cheating-rule paragraph) where the scene had already said it. The inch-for-truth mechanic runs maybe two rounds longer than it needs to.
+What cost it: the foyer portrait of Randi goes on far too long. The braid "inlaid," "lacquer and geometry," "a dancer's body said in a single sentence" is the prose posing. The second boy, Harrison, gets the exact description of the first boy (tall, beer, half-known face). There's also a continuity wobble: Friday night Vee was already thinking about "the skirt, the mixer," and here the invitation happens Saturday morning. And the kiss paragraphs get one or two sentences too purple ("Time had quit behaving"). None of that mattered while I was in it.
 
-1 a.m. text: *she drove to pace at 1am to fuck randi out of her head and he made her TELL HIM THE KISS inch by inch for orgasms. then "do you want to sleep with a woman." then "I don't mind." then she lied to him for the first time. under randi's blanket. monday is randi's night. I'm going to be sick and also I need a cigarette.*
+And Pace is the off-page knife. "He gets me Friday. He gets me Sunday." Sunday is tomorrow. Vee walks into that house with Randi's taste still in her and a body that "had not been told." And Monday... does Randi drive to Pace and tell him about the show she almost believed?
 
-GATE 62 — Boyfriend
+1 a.m. text: *THEY KISSED. full tongue on the dance floor, randi's hand on her ass, and then randi says "I almost believed it." also she told brooke "I chose." also the bracelet is LOCKED ON. I am lying on the floor.*
+
+GATE 61 — On Her Floor
 DECISION: CONTINUE
 CAPTURE: 10
-NEXT: 9
+NEXT: 10
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "My mouth opened before I decided anything. Her tongue — it wasn't a demand, it was a *please.*" That's last chapter's kiss read back to me almost verbatim.
-WHY: The "tell" game from chapter 6, run on Vee with her own pleasure as the price, makes the sex and the betrayal the same scene, and it's the hottest and scariest the book has been. Her first lie and his "I don't mind" are the bond turning under both of them, each hiding the same woman. Tuesday is circled and so is Monday, and I'm reading on.
+ALMOST-STOPPED: "a thing of lacquer and geometry, gleaming like something machined." That's the foyer portrait of Randi running long, the prose showing off while I wanted to get to the party.
+WHY: The kiss the whole series has been circling finally lands, explicit and frightening and completely Vee's, and it's wrapped in Randi's "I chose" to Brooke and her cowardly "I almost believed it." Both want and denial are on the page at full volume. Sunday at Pace's is next, and I'm already reading.
 
 LEDGER
-+ FEAR: Pace carries every inch Vee paid him tonight into Randi's bed on Monday, and the "show" Randi almost believed comes back to her as Vee's confession
-+ FEAR: "No. Nothing." Her first lie to him, and he watched the roadhouse kiss with his own eyes. When it surfaces, he'll be the one holding the receipt
-+ SUSPICION: "You keep saying her name. Not me… I don't mind." That's Pace lying to cover how much he wants Randi, and Vee took it as the sweetest thing he's ever done
-+ SUSPICION: "Do you want to sleep with a woman?" isn't idle. It's the threesome pitch, made to her face for the first time with the name carefully left out
-+ LOVE: Her hand held to her breastbone "like something she'd caught stealing," and *boyfriend* reached for like the rail on a stair
-+ LOVE: "It didn't stay a joke," said quieter, the one true thing that got past her teeth
-+ GRUDGE: The ch61 kiss gets reprinted line for line inside the telling, and the inch-for-truth game runs a couple of rounds too long
-+ WAITING: Tuesday, seven o'clock, Marsh's room. What face Vee finds for Randi, and what Randi already knows by then
-~ F61.2 CONFIRMED: She walked in with Randi's taste on her, and Pace pulled the whole kiss out of her before morning
-~ W61.8 ANSWERED: She told him the kiss, every inch of it, and lied about everything around it
-~ L6.1 DEEPENED: "Tell me" turned on Vee, with her own body as the coin. The debrief has a third chair now
-~ F47.1 DEEPENED: He tucked Randi's cashmere up around her himself, on the night she confessed Randi
-~ F55.1 DEEPENED: He's not just pitching Vee to Randi now. He's pitching Randi to Vee
-~ S16.6 DEEPENED: Randi's skirt on her, Randi's taste in her mouth, Randi's blanket over her, and she couldn't tell "which of them she'd been chasing at the end"
-~ F42.3 DEEPENED: Now Vee is keeping the word too. All three of them are lying about Randi in the same bed
++ FEAR: Brooke's smile widened "by some exact amount." Randi just chose Vee in front of her, and the file is about to open
++ FEAR: Vee walks into Pace's house tomorrow with Randi's taste on her, and Randi takes "the show" to Pace's bed by Monday
++ LOVE: Randi coming back from the kiss "a moment behind," shaking her head, blinking, in the one second before the grin went up
++ LOVE: The Love bracelet. No clasp, and "taking it off requires tools"
++ SUSPICION: Randi picked that skirt knowing exactly how far it would climb on Vee, and took her wrists so Vee couldn't hold the hem down
++ SUSPICION: Somebody locked the Love bracelet onto Randi, and she can't take it off herself
++ GRUDGE: Friday night Vee already knew "the skirt, the mixer," but the invitation happens Saturday morning. Also, Harrison is the first boy over again, same tall beer and half-known face
++ WAITING: Whether Vee tells Pace about the kiss on Sunday, or keeps it the way she kept the painting
+~ F45.1 DISPROVED: "I chose," to Brooke's face, with her arm around Vee's waist
+~ W46.6 RESOLVED: Randi answered Brooke's ultimatum in public, at the party
+~ W60.6 ANSWERED: The mixer was Randi's plan, with a boy across the room as the excuse for the kiss
+~ S47.2 CONFIRMED: Vee wanted Randi's hands under the skirt and her mouth lower. No cover story this time, in her own head
+~ S15.2 SHIFTED: There's no scar, just a Love bracelet that's locked on and needs tools to get off
+~ L10.1 DEEPENED: "What kind of floozie" on the dance floor, and the shame turned straight into heat again
+~ F31.5 DEEPENED: "I almost believed it." Randi turns the realest moment of the book into a bit, right to Vee's face
+~ F42.3 DEEPENED: Randi kissed her and then called it a show. The silence now has a tongue in it
+~ S16.6 DEEPENED: Randi's skirt, Randi's shoes, and the green thong that's been in Randi's fist
+~ L4.1 DEEPENED: "That hem's not going to stay put," and the eyebrow that went up and stayed

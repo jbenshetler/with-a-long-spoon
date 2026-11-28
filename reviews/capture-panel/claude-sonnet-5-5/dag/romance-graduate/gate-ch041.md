@@ -1,32 +1,29 @@
-*capture-dag-v3-grounded · gate ch041 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha abb1b2754206 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch038 · history ch001..ch038 · ledger no seed 8b17e3d720a1 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch041 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 6b5caaa161cd · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch037 · history ch001..ch037 · ledger no seed 3edc59081208 · 2026-11-06*
 
 REACTION
 
-Okay, this is the chapter the "he never said" thread has been building toward, and I'm glad it finally blows up out loud. Vee wakes in the dark and asks "Is this what we are now?" at the wrong volume. That is the funniest, truest detail in it. She meant it light and it came out sharp enough to ring. Pace taking the question seriously and saying "Where do you want to go tonight?" is classic him. He answers the logistics and skips the question.
+Oh, that stings, and it's the first chapter in a while where the plot actually moved. The "I love you" that Vee can't say comes out as a built sentence about crackers and a meal. Pace's answer is "I love how good we are together," and then "what your body does." She says gratitude and he hears sex, and the book never stops to tell me so, which I appreciate. The two held breaths are the best touch in the chapter. He heard it, started two answers, and put both down. He's not oblivious, he's choosing. That's worse than the blindness I'd been giving him credit for. The kiss held a beat too long is him managing her.
 
-The Chili's scene is the one that got me. The TV over her head, his eyes sliding past her, the fork squared to the table edge. She reads it as irritation at being seen with her. I know that's wrong, because he told her himself that a loud room means he can't hear. But the book makes me sit in her misreading for pages. Then he says it plainly, "I'm listening now," and she takes it as near enough to the word. Dread: she has now defined his silence as listening. Also, the nachos "to food what a billboard is to a painting" is a lovely line. He ruined it for her, as I said, and that cuts both ways.
+Her dryer-room reckoning is exactly right: "the words went through him first." She can't ask, because asking is saying it. The pile of small repairs she doesn't look at is the blurb's dread made physical. I'm furious for her. I'm also a little irritated that she shelves it so fast again. Fine, but I want the shelf to overflow.
 
-Her lie in the front room, "you went cold on me after the Rusty Nail," when she knows it isn't true, is the book trusting me to see her get mean out of fear. I liked that a lot. "You know what happened after the dance" is Pace at his most infuriating and his most reasonable. Both.
+The cafeteria opener is a recap-heavy bridge. The crop in the photo her mother carried is a good detail, the parents seeing only the top half of a girl who's mostly bottom-half secrets. Cassie's "that you can't say, or that you don't want to?" is quietly the best line there. Dad pricing the dress, fine, but it runs long.
 
-The sex is hot, and the best part is her wanting him to lose control and then getting it. But the book keeps handing me her thoughts about it ("the control she'd been begging him to lose") when the scene could have trusted itself. And the closing page, the "marked all over" paragraph and "he'd given her all of it and not the name," tells me what I already got from chapters 32 to 38. That's a grudge. Same beat again, third time.
+Heat is basically nil, and I'd have wanted one touch of it, but the ache substituted. Still no Randi at all, and I don't care as much as I did, because this chapter finally scratched at the wall. The ending summarizes its own meaning a little ("the sentence retired into her body"), and I'd have trusted me to get it.
 
-Still no Randi at all, and nothing moves in the plot. The word is still unsaid, the forgiveness is hollow, and she's lying awake. I'm hooked on her but I want a turn.
-
-GATE 39 — Under the Rug
+GATE 38 — Cropped
 DECISION: CONTINUE
 CAPTURE: 8
-NEXT: 8
-HEAT: 3
-ROMANCE: 2
-ALMOST-STOPPED: "She had no name for the best thing in her life, not the big one he wouldn't give her and not the small one she couldn't find" (the closing paragraph restating the book's central ache for the third time)
-WHY: The misread Chili's dinner and "I'm listening now" are exactly the dramatic irony I read for, and the sex lands. But the unnamed-thing ache is now a loop, and I need Randi, the scar, or the plan to break through.
+NEXT: 9
+HEAT: 0
+ROMANCE: 3
+ALMOST-STOPPED: "He'd think it was weird. In some ways weird is worse than wrong." (the long father-pricing monologue at the cafeteria)
+WHY: Her careful "crackers and a meal" sentence meeting his "I love how good we are together," with his two held breaths in between, is the turn I've wanted. No heat, but the ache earned it, and Vee finally feels the crack.
 
 LEDGER
-+ LOVE: Her "Is this what we are now?" coming out at the wrong volume, and him answering with "Where do you want to go tonight?"
-+ GRUDGE: The "he never named it" ache has now been restated in at least four chapters, and I want it to move.
-+ SUSPICION: Pace's noise trouble in loud rooms ("I still can't hear you") may be hearing or sensory trouble tied to the scar or his past, not just a preference.
-+ FEAR: Vee's "forgiven" is a cover for not asking, and the silence is now something she has agreed to live inside.
-~ F32.3 DEEPENED: She now reads "I'm listening now" as near enough to the word, so his non-answers are officially love in her ledger.
-~ W32.6 DEEPENED: She nearly said the word and asked "what are we" aloud, and he answered with dinner plans.
-~ F37.3 DEEPENED: She now asks outright about being seen in public and he agrees without saying anything about the nights.
-~ W30.3 DEEPENED: Another glow chapter with no turn, so I need a plot move soon.
++ FEAR: Pace heard the love in her sentence and chose to answer with sex-talk, so the silence is deliberate, not blindness.
++ LOVE: The two held breaths and the half-started answers in his hand on her shin.
++ LOVE: Cassie asking "is it that you can't say, or that you don't want to?"
++ WAITING: Vee's pile of small repairs overflowing, and whether she ever asks him straight.
+~ F37.3 DEEPENED: She wanted him to fight for the nights, and now she can't even say the word, so she reads his silence as a rule.
+~ F32.3 DEEPENED: Her kind reading of his silence finally shows a seam in the dryer room, though she shelves it.
+~ W32.6 DEEPENED: She tried to prompt the word with a gratitude sentence, and he answered with "how good we are together."

@@ -1,58 +1,31 @@
-*capture-dag-v3-grounded · gate ch043 · gemini-4-carbon · fsog-refugee · prompt-sha 17900228a72c · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch040 · ledger no seed aca00b09cc82 · 2026-11-11*
+*capture-dag-v3-grounded · gate ch043 · gemini-4-carbon · fsog-refugee · prompt-sha 17900228a72c · prose-sha d6bbb290a65b · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch039 · history ch001..ch039 · ledger no seed 97c9e7909eef · 2026-11-11*
 
 REACTION
 
-OH GOD. OH, *GOD*.
-I am sitting here with actual hot tears running down my face! She walked out! She left the bag in the car, stood on the doormat without ever crossing into the warm room, delivered the single most devastating line in this entire novel, and *walked out the door into the freezing dark*!!
+Oh, God. That was barely a page and a half and it just tore my chest straight open.
 
-**"Words are cheap, and you still won't spend them on me."**
+*The flannel shirt.* Think about what that shirt has been since Chapter 10 — folded neatly on her pillow, rationed for his scent, washed in sorrow after the Rusty Nail, brought back to him in Chapter 37 so he could wear two shirts all weekend just to fill it back up with himself for her. First she takes off her own t-shirt so his cloth can touch her bare skin directly... and then she realizes *"the heat in the shirt was her own, given back. He wasn't in it."* And she pulls it off over her head in a freezing room with the window cracked two inches in December, leaves it crumpled in a dropped heap beside her instead of folding it on her pillow, and lies there **bare** in the cold until dawn rather than keep warming herself on a comfort that might only be her own heat reflected back at her!!
 
-STOP EVERYTHING. Put that sentence in a museum because it knocked every breath clean out of my lungs!!
-We have been bracing for this exact doorway collision since the very first paragraph of the jacket blurb (*"When she asks what she is to him out in the world, he tells her to believe what he does, and says nothing more"*), and knowing it was coming didn't soften the blow by one single millimeter! If anything, it hurt ten times worse!
+I actually have a lump in my throat the size of my fist. Remember when I read the first *Fifty Shades* in two nights and she walked out at the end because she realized what was missing between them couldn't be papered over anymore, and I bought Book Two before I even went to sleep? This tiny, devastating chapter has that exact pre-breakup / end-of-volume gravity in every single line, and it hurts ten times more because Vee loves him *so* purely and isn't even playing a game — she's literally choosing the honest freezing cold over a warm illusion!
 
-First — oh thank God on the Friday timeline: Chapter 40 ("after midnight" on Friday, December 11) was Thursday night into early Friday morning, which is why she'd been up "two nights running" and drove out here TONIGHT, Friday evening, December 11! So Randi wasn't in his bed last night — Pace was right here turning the heat up hours early, simmering spiced chicken, pouring two glasses of wine, playing soft water-like piano, planning to feed her and sit under the winter stars with her on the porch! Look at his open face coming out of the kitchen with a towel over his shoulder! He wasn't tired of her. He wasn't pulling away. And when she first asked *"What am I to you?"*, look at the very first sentence that came out of his mouth without hesitation:
+WAIT A SECOND THOUGH. Look at the date at the top of the page!!
+**Friday, December 11 — after midnight!**
+1. Why is Vee in her dorm bunk on a **FRIDAY NIGHT** instead of at Pace's house?! Did finals week start so she stayed on campus to study again, OR did things stay strained after last Friday's Chili's fight, OR did she pull back on purpose?!
+2. AND WAIT A MINUTE: she pictures him *"across town in his own bed, gone down easy as he always went, easy as a man with nothing grinding in him"*... **IS PACE EVEN ALONE IN THAT BED ON A FRIDAY NIGHT WHEN VEE IS BACK AT THE DORM?!** Remember the last time Vee took school nights off in Chapter 37 (Nov 16) — Randi was in Pace's house!! And we haven't seen Randi ONCE since November 18 in the library! Three whole weeks of radio silence on Randi — we skipped right over Saturday, December 5! Where is Randi right now?! Is she in Pace's bed tonight while Vee lies freezing and naked in her top bunk, OR has Randi vanished on Pace too?!
 
-**"You're the most important person in my life."**
+It's a quiet, freezing knife-blade of a chapter, and seeing that flannel shirt — my favorite object in the whole book — lying in an unfolded heap beside her bare, shivering body makes me desperate for the next page. Give me Chapter 41 right now!
 
-AND WE KNOW HE MEANS IT!! That's what makes my chest feel like it's in a vise right now! He isn't some slick fuckboy stringing a girl along for casual sex — she *is* the most important person in his life! Not Sheri, not his estranged parents, and **not even Randi anymore**! Remember Chapter 21 ("like somebody found the lamp"), Chapter 25 ("Listen to you"), Chapter 33 (giving her his top drawer)!
-AND YET WHY CAN'T HE CALL HER HIS GIRLFRIEND OR SAY HE'S HERS OUT IN THE WORLD?!
-Because of his ironclad, fatal code AND the massive lie sitting right behind his folded arms!!
-Think about what's happening inside Peter's head when his face shuts and his arms fold *"the still of a man holding a line at cost"*:
-1. To call himself her *boyfriend* — a word that in Vee's world (and her parents' world, and Cassie's world!) means *monogamous, exclusive, yours alone* — while he still has an unspoken entanglement/history/arrangement with Randi that Vee knows NOTHING about would be an outright, explicit lie! He has lied by omission for two months straight, he has narrowed promises ("your photograph"), he has mimed cheek-kisses at the stove, and he will NOT speak a counterfeit title out loud!
-2. Plus, whatever happened in that childhood house where words were cheap (or weapons!) taught him that only actions are real ("Believe what I do") — and when he tries that mathematician's logic move (*"Do any of your friends have a relationship you'd rather have than this one?"*), thank GOD Vee didn't let him slide sideways out of the question!! Even though it was 100% true! Because *comparative quality inside a locked house* is NOT an answer to *"Who am I to you out there?"*!!
-
-I am SO proud of Vivienne Thorne right now I am practically shaking through my tears!
-Think about Chapter 39 when she let incredible sex sweep the lump back under the rug, or Chapter 26 when his hands settled everything, or Chapter 4 when she apologized to people who walked into *her*! Tonight:
-- She left her overnight bag in the car on purpose.
-- She did NOT push the front door lock behind her (unlike Randi, who always locks it first thing — Vee just pushed it to behind her because he leaves it unlocked for her!).
-- She didn't let the heat, the sawdust-and-salt smell of him, the spiced chicken, or the poured wine seduce her off the mat.
-- She made sure he heard every bit of her gratitude and truth FIRST (*"Like my body comes with me attached"* — the exact line that made Randi's breath catch in Chapter 34!) so this wasn't an ugly, fake fight like Chili's. This was her standing flat-footed in her winter coat asking the truest question of her life!
-- And at the end, when her tears broke and his coldness vanished instantly and his hand lifted to comfort her — **"Not the hand in place of the word."** SHE DIDN'T LET HIM TOUCH HER BACK INTO SILENCE!! And just like Daphne's closed door in Chapter 1, and just like the Rusty Nail in Chapter 23, when Vee opened that door and walked out into the freezing night, Pace called *"Vee"* once and **did not chase her down or block the door**.
-
-Oh my god — remember how I fell into this whole genre reading *Fifty Shades* in two nights, and at the end of Book One Anastasia walked out on Christian because she realized what was missing between them couldn't be lived inside anymore, and I bought Book Two before I slept?! THIS IS TEN TIMES MORE EARNED AND DEVASTATING THAN THAT EVER WAS!!
-
-WAIT A SECOND THOUGH!! Where are we in the book — and **WHERE IS VEE DRIVING RIGHT NOW IN TEARS ON A FRIDAY NIGHT?!**
-Hold every single horse in the county!!
-Last time Vee broke things with Pace on a Thursday night (Chapter 23, the Rusty Nail), she went back to her dorm, lay awake all night three feet from Cassie, and went straight to **RANDI'S** in the morning!!
-Tomorrow morning is **SATURDAY, DECEMBER 12** — OR TONIGHT IS FRIDAY NIGHT!!
-If Vee goes to **Randi** crying her heart out because she just walked out on Pace after he said *"You're the most important person in my life"* AND refused to call her his girlfriend ("Words are cheap. Believe what I do")...
-1. How is **Randi** going to react hearing Pace told Vee *"You're the most important person in my life"* (when Randi hasn't been seen since Nov 18!)?!
-2. What is **Pace** going to do standing alone in that overheated house with two untouched glasses of wine and spiced chicken on the stove after watching Vee cry and walk out on him?! Is Pace finally going to realize the secret of Randi is what cost him Vee?!
-3. Or is Vee going to Cassie — OR straight into the fire of Randi's arms ("walking into fire" from the blurb!!)?!
-
-My heart is shattered in a million pieces and hammering at 150 beats a minute. Give me Chapter 42 RIGHT THIS SECOND!!
-
-GATE 41 — Believe Me
+GATE 40 — Bare
 DECISION: CONTINUE
-CAPTURE: 10
+CAPTURE: 9
 NEXT: 10
-HEAT: 1
-ROMANCE: 3
+HEAT: 0
+ROMANCE: 1
 ALMOST-STOPPED: none
-WHY: *"Words are cheap, and you still won't spend them on me"* and *"Not the hand in place of the word"* gutted me completely — watching Vee hold her ground on the doormat against every comfort of his warm house and walk out into the cold rather than live unnamed broke my heart and made me fiercely proud of her at once. Even inside the pain, this is a massive, earned turn in their bond ("You're the most important person in my life" colliding head-on with the word he cannot give while hiding Randi), and I have to see where Vee goes — and what Pace does — next.
+WHY: Watching Vee realize the warmth inside Pace's flannel shirt is only her own body heat coming back to her — and then pull his shirt off in a freezing December dorm room to lie bare and sleepless beside the crumpled heap rather than live inside a comfort without a name — broke my heart in less than two pages. Add the terrifying question of why she's in her dorm on a Friday night (and whether Pace is really alone across town after three weeks of zero Randi on the page!), and I need the next chapter immediately.
 
 LEDGER
-+ LOVE: Vee's spine on that doormat — leaving her bag in the car, refusing *"Not the hand in place of the word,"* and answering *"Words are cheap"* with the devastating *"Words are cheap, and you still won't spend them on me"* before walking out into the cold.
-+ WAITING: The immediate aftermath of Vee walking out — whether she goes to Cassie or straight to Randi ("walking into fire"!), and whether losing Vee at his own front door finally forces Pace to confront the lie with Randi that kept him from naming what they are.
-~ F40.2 RESOLVED: "Friday, December 11 — after midnight" in Chapter 40 was early Friday morning, not Friday night; Pace was alone at home all Friday afternoon warming the house, pouring wine, and cooking spiced chicken for Vee.
-~ F32.2 CONFIRMED: The silence where Pace's word should be finally broke them open — even hearing *"You're the most important person in my life"* couldn't bridge his refusal to name what she is to him out in the world, and Vee walked out rather than keep living inside his locked house unnamed.
++ LOVE: The devastating emotional precision of Vee pulling Pace's flannel shirt off in the freezing dark because "the heat in the shirt was her own, given back," choosing the honest cold over an unnamed comfort.
++ FEAR: Vee is alone in her dorm on a *Friday night* picturing Pace sleeping easily alone across town — when the last time she stayed at the dorm (Ch 35/37), Randi was in his bed, and we haven't seen Randi in three full weeks.
+~ F32.2 DEEPENED: The silence where Pace's word should be has finally broken the spell of his physical care — even his freshly worn flannel shirt from Chapter 37 stopped working for her, left in an unfolded heap while she lies bare in the December cold until dawn.
+~ W39.2 FADED: We skipped straight from Friday, December 4 to Friday, December 11 without any Saturday brunch, leaving Randi's whereabouts since November 18 an ominous three-week blank.

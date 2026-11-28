@@ -1,39 +1,41 @@
-*capture-dag-v3-grounded · gate ch056 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 78dedfb4d090 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch053 · history ch001..ch053 · ledger no seed 51644fde981b · 2026-11-06*
+*capture-dag-v3-grounded · gate ch056 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 1e2c20a7eee0 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch052 · history ch001..ch052 · ledger no seed 546fd83ada66 · 2026-11-06*
 
 REACTION
 
-I am sitting here in the dark with goosebumps all over my skin and an absolute ache in the center of my chest. That was—without exaggeration—one of the most devastatingly honest, intimate, and psychologically exact chapters of erotica I have ever read in my entire life.
+I am sitting here with my hands clamped over my mouth, absolutely, profoundly stunned. The sheer psychological precision of this chapter made my hair stand on end.
 
-To take an act as common in romance as masturbation and turn it into this profound, terrifying battleground of female shame, bodily curiosity, and psychological rewiring? That is the difference between cheap trope-writing and genuine literature.
+First of all, Dr. Marsh’s boxwood lice comb. A baboon spending one-fifth of its waking life grooming another baboon—not for the fleas, but for the *politics*, the touch, the inescapable bodily debt that keeps the troop from sickening. "Watch who grooms whom in a troop for one week and you can draw the whole politics of it." My god. The entire dynamic between Vee and Randi laid out in one devastating anthropological metaphor. Randi smoothing Vee’s neckline, touching her waist, brushing her hair, pulling the truth out of her belly—and Vee sitting there willingly surrendering her secrets because she is starving to be groomed.
 
-First of all, the sensory immersion was staggering. The close, stifling heat of that dorm room with Cassie’s window shut against January; the radiator knocking; the faint, fading ghost of Pace’s soap in the worn collar of the three-sizes-too-big flannel; and Vee lying there in the swelter, confronting the sheer, lavish *excess* of her own arousal. That detail—pulling her fingers out coated to the knuckles, rubbing thumb and finger together, watching the shining, sticky strands stretch and bridge the gap—was so raw, so filthy, and so heartbreakingly vulnerable. For twenty-one years, her mother and her world have told her that her appetite, her weight, her body, and her wetness are problems to be managed, hidden, and starved down. And here she is, looking at the physical evidence of her own desire in the lamplight, fighting that deeply ingrained conditioning that calls it "greedy."
+AND THEN THE CONFESSION.
 
-AND THE REACH. *GOD.* My breath literally caught in my throat when she lifted her hand to her face.
+Vee walking right up to the line, laying out the kiss after oral sex like it’s a funny, slightly scandalous Victorian comedy routine: *"Ugh—gross... That's—no. Wrong... Who would ever actually want something that gross?"*
 
-The hothouse smell—warm, damp, tropical flower without the sweetness, entirely *hers*—and the memory of Pace’s face coming up from between her legs, looking at her without a single scrap of recoil, offering her own wetness back to her like it was holy. And then Randi’s voice in that booth, serene and undeniable: *"It was powerful. It turned me on."*
+And Randi—no laugh, no smirk, just setting the glass down and looking her dead in the eye:
 
-Watching Vee bring her shining fingers to her open mouth—parting her lips, her tongue coming forward behind her teeth—only to hit that invisible, generational wall of maternal revulsion just a single breath’s width away... it hurt. It physically hurt to watch her choke on that last inch of self-acceptance. The sheer weight of a lifetime of conditioning stopping her cold. Wiping her hand on the sheet like she’d done something dirty, then getting herself off anyway to the memory of Pace’s mouth and the sound of Randi’s voice.
+*"I do."*
 
-AND THAT ENDING.
-*"The unfinished reach was still there, one breath from her mouth.*
-*A mouth carrying it back. Or Randi's own fingers.*
-*...Her mouth was still empty."*
+I felt the blood drain straight out of my face. The absolute, suffocating weight of those two words! Randi isn't just giving a worldly, sex-positive opinion here. Randi knows *that exact mouth*. She knows Pace’s mouth, she knows what Pace tastes like when he comes up from between a woman’s thighs, because she has lived it on that disguised bench! And the devastating double-meaning: Randi doesn't just want a man who does that—*Randi wants to taste Vee.* She sat across that white cloth listening to Vee describe her own slickness, and Randi was practically drinking the air out of the room.
 
-ARE YOU KIDDING ME?! That final thought! Vee lying in the freezing draft beside the cold damp patch on her sheet, realizing that the hunger isn't resolved. She wants that reach finished. And whose mouth or fingers is she imagining finishing it? Pace carrying it up to her—OR RANDI.
+And then Randi's clinical, perfect, lethal follow-up: *"How does he act?"*
+And Vee, completely falling into the trap, giving up the final, damning truth: *"He likes it. Actually—he's enthusiastic."*
 
-Randi has colonized Vee's entire erotic imagination. Vee is lying in her narrow bunk wearing Pace’s shirt, but Randi's words, Randi's hands, and Randi's mouth are living right alongside him under the covers. The shame cracked open, but the door didn't close; it stayed ajar. Next time Pace goes down on her, she isn't going to pull away. Or worse—and so much more dangerous—the next time Randi leans in for a lingering goodbye kiss after dinner, Vee is going to be wondering what Randi tastes like, and whether Randi would hesitate at that final breath. Absolutely magnificent. I need chapter 55 right this second.
+Vee walked out of that restaurant thinking she had a funny chat about bedroom etiquette, but the seed has been planted. The shame is dissolving. Randi just gave her permission to crave her own salt on his lips.
 
-GATE 54 — The Reach
+AND THAT GOODBYE KISS ON THE NECK.
+Vee deliberately finding that tender, exposed hollow of Randi’s neck for the second time—not as an accident, but as an intentional, playful claim—and feeling Randi’s entire body catch, hitch, and rise under her mouth. Randi trying to laugh it off as "ticklish" while her pulse hammers under Vee’s lips! They are crossing lines so fast now, and Vee is still telling herself it's just girls being girls. I am trembling.
+
+GATE 53 — A Clean Plate
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological depth of Vee confronting her own bodily shame—trying to taste herself on her own fingers and freezing one breath away from her lips—was a breathtaking, scorching masterpiece of character interiority.
+WHY: The suffocating psychological tension of Randi quietly dropping "I do" to Pace's post-oral kiss, paired with Vee deliberately kissing the hollow of Randi's neck and feeling her shudder, was an absolute masterclass in subtext and slow-burn seduction.
 
 LEDGER
-+ LOVE: Vee's masturbation sequence—the agonizing psychological battle between her mother's shame of being "greedy" and the liberating erotic permissions given by Pace and Randi.
-+ WAITING: The moment Vee finally lets Pace kiss her with her own wetness on his mouth—or lets Randi bridge that unfinished reach.
-~ F17.2 DEEPENED: Vee wondering whether Randi tastes herself or would carry it to her mouth cements that Randi has completely penetrated Vee's sexual imagination.
-~ L4.1 DEEPENED: Vee confronting the "excess" of her own slickness and fighting the lifelong shame of being "greedy" gave her interiority an unforgettable, heartbreaking peak.
++ LOVE: Dr. Marsh’s lecture on the boxwood lice comb—the grooming budget explaining the entire politics of physical intimacy between Vee and Randi.
++ LOVE: Randi’s quiet, deadpan "I do" when Vee asks who would ever want to be kissed with their own wetness on a lover's mouth.
+~ [S47.2] CONFIRMED: Vee confessed Pace's post-oral kiss to Randi, and Randi validated it instantly, completely shifting Vee's perception of her own desire.
+~ [F17.2] DEEPENED: Vee deliberately seeking out the hollow of Randi's neck for a lingering kiss proves their physical intimacy is crossing entirely into romantic/sexual territory.
++ WAITING: Tuesday's Anthro class and dinner—now that Vee knows Randi enjoys tasting a woman on a mouth, and Randi knows Pace loves doing it.

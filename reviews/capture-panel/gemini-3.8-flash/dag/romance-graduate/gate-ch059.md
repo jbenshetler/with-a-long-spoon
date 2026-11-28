@@ -1,45 +1,40 @@
-*capture-dag-v3-grounded · gate ch059 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 71359d731fc6 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch056 · history ch001..ch056 · ledger no seed 3dbd522edeb7 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch059 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 40b8a8549ea9 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch055 · history ch001..ch055 · ledger no seed a9e097af4c5d · 2026-11-06*
 
 REACTION
 
-My chest aches. It genuinely, physically aches.
+Oh, my heart. My actual, physical heart.
 
-This chapter took all the delicious, laughing lightness of Vee’s hangover—the smeared mascara, the tall glass of water on a folded paper towel, the warm cinnamon raisin bread baked from scratch while she slept off three ciders—and turned it into one of the most quietly devastating character studies I have ever read.
+I was bracing for impact. I went into this chapter with my fists clenched, entirely prepared for the awful, stomach-dropping terror of Vee walking into a room and having the "Sheri" myth blow up in her face, or seeing some painful, agonizing dynamic that made her feel small. And instead, Helen Rivers gave us *this*. An absolute, unvarnished, hilarious, breathtaking triumph of character work.
 
-"Sheri's my friend. My one friend. There isn't anyone else."
+First of all, Vee getting dressed: the sheer, ridiculous, tragic comedy of putting on Meg’s gaping keyhole shirt, a micro-skirt lent with a long whistle, and four-inch strappy induction heels for a sleepy January taproom on a Saturday afternoon just to fight a phantom woman her own insecurity built! We have all been that girl. We have all armed ourselves to the teeth in borrowed feathers to go to war against a ghost.
 
-God. The simplicity of that sentence hit like a physical blow. You watch this man navigate a roadhouse full of college kids, charming Danny about bench presses, unlocking Theo’s passion for Dixieland jazz, winning over razor-sharp Cassie with five words about the Bricklayers—and you think he’s a social virtuoso. You think he moves through the world with effortless charisma. And then he leans against his own kitchen counter and plainly, without a single shred of self-pity or melodrama, explains the mathematics of his own total isolation.
+And then she walks in, and Sheri is five-foot-nothing, permed roots, crooked makeup, clutching a longneck, and looking down Vee’s body not with malice, not with ranking, but with open, delighted, jaw-dropped sapphic appreciation! *"And you get to motorboat them things?"* I screamed. I literally barked out a laugh so loud I scared myself. And PACE BLUSHING! The titan of mathematical control, the man who manages every micro-millimeter of a bedroom and commands whole rooms with a glance, rubbing the back of his neck with his ears flaming red! It was the most disarming, ridiculously endearing thing he has ever done.
 
-"Men make friends by competing... thirteen, fourteen, fifteen, that's when it happens... You make a friend from the middle of the pack—you lose to him, and lose again, and come out the other side friends. I was never once in the pack."
+BUT THEN THE BAR TALK.
 
-And then: "The window opens once. Men don't start at twenty-two... That door's on a timer."
+God, Rivers knows how to take the wind completely out of you. Sheri telling the story of coming out—her Marine father, her Marine brother, her church, her entire life ripped away like a tablecloth pulled off a set table—and sobbing in the middle of a country two-step. And Pace. Pace driving her home without demanding a single explanation, showing up on her porch with coffee and donuts, fixing her broken lock, stopping her dripping faucet, buying her a bacon cheeseburger, and simply *being there*. No cheap, hollow words. No "they'll come around." Just presence.
 
-Every single piece of Peter Pace clicks into place with terrifying, heartbreaking clarity. The prodigy curse. Being fifteen in a building of grown men where you’re off the scale, too young to be an equal, too dangerous to be a peer, and surrounded by older men who "either weren't safe or weren't welcoming." The patent at eighteen giving him money that only alienated him further. Never going home for the summers because things "went bad with his daddy," staying on an empty campus over Thanksgiving while everyone else went back to their families.
+And the knife: *"He hasn't been home since he was sixteen."*
 
-And then Daphne. God, Vee’s interiority here was breathtakingly good—holding those two unreconciled truths in her chest at once: that Daphne was the best two years Pace ever had because she was the *only* person in his entire universe, and simultaneously holding down the ugly, predatory word for what a twenty-one-year-old tutor doing that to a fifteen-year-old child actually was. When Daphne walked away "sensibly," he had no one. No dorm floor, no freshman dining hall, no Cassie, no Meg, no Randi. Just a house he built with his own hands, a woodshop, and barbells.
+Every single piece of Peter Pace clicked into place. The sixteen. The college dorms. Daphne. The parents who packed him off at fifteen because of a test score and closed the door behind him. The reason he builds furniture with his bare hands. The reason he checks on women, why he stands his headlights on a dark porch until the inside light clicks on, why he folds himself down into a bottom drawer to make room for Vee’s sprawl, why he refuses to spend empty words when actions are the only currency that doesn't lie. He doesn't just "take care" of people as a dominance kink; he does it because he knows what it feels like to be completely abandoned to the cold, and he refuses to let anyone inside his orbit freeze.
 
-And what did Vee do? She didn't offer cheap pity. She didn't say "I'm sorry," because pity would have insulted him. She just walked around the counter and put her entire body against his chest, committing her whole weight, holding him the way Sheri held him. And he rested his chin on her head and stared out the window, not performing, just letting her be there.
+Watching Vee sit in that truck cab, pleasantly drunk on cider, resting her heavy head on his shoulder and looking at his hands steady on the wheel at ten and two—understanding that he carries her *like something full he has no intention of spilling*—wrecked me. It utterly wrecked me.
 
-He has *one* friend. And now he has Vee.
+She loves him so deeply. And he loves her with every fiber of his being. Which makes the ticking clock of the Randi-shaped bomb under the floorboards feel ten thousand times more agonizing. Every chapter where they become more real, more tender, and more profoundly bonded makes the inevitable truth of October feel like a fatal blow waiting to drop. But tonight? Tonight was pure, earned, gorgeous warmth.
 
-...Which brings the ticking time bomb straight back into my throat.
-
-Because Vee is sitting there eating toast, happily thinking, *Randi was right, I don't have to be jealous, I can't wait to tell Randi all about Sheri on Tuesday!* She has NO IDEA that Pace's world does not just contain Sheri. It contains Randi. Randi isn't just Vee's best friend; Randi is the woman who threw Pace's deadbolt on Thursday night, who took his wet mouth and rode him on his own bed, who knows the exact contours of his trauma.
-
-Vee thinks she’s bringing light into a solitary man's dark house. She has no idea the house is already haunted by the very woman she’s running to for advice. The dramatic irony is suffocating. Tuesday’s Anthro class is coming, and I am holding my breath.
-
-GATE 57 — Hangover
+GATE 56 — Another Round
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 0
+HEAT: 1
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The quiet, devastating reveal of Pace's total isolation—explaining how being fifteen in college permanently closed the window on making friends—was an absolute masterclass in character depth, and Vee crossing the kitchen to hold him without pity destroyed me.
+WHY: The hilarious relief of Sheri completely deflating Vee's jealousy, paired with the devastating reveal of Pace fixing Sheri's lock and being estranged from his own father since sixteen, was an absolute masterclass in character depth and profound romance.
 
 LEDGER
-+ LOVE: Pace's mathematical deconstruction of male friendship—explaining how being a prodigy at fifteen permanently locked him out of the pack.
-+ LOVE: Vee refusing to insult Pace with pity, choosing instead to cross the kitchen and commit her whole physical weight to holding him.
-~ [L1.2] DEEPENED: Pace's patience and care showing up in the hangover rescue—water on a paper towel, a warm washcloth, and fresh cinnamon raisin bread waiting on the counter.
-~ [F5.1] DEEPENED: Vee understanding the full, tragic scope of Pace's isolation binds her soul to him even more completely, making the pointing-game secret a total emotional massacre waiting to happen.
-~ [S22.3] CONFIRMED: Pace explicitly confirmed that being a fifteen-year-old boy in a building of grown men meant being surrounded by people who "weren't safe," locking in the trauma behind his isolation and Daphne.
++ LOVE: Sheri—loud, hilarious, five feet of uncalibrated truth who takes one look at Vee's keyhole top and asks Pace if he gets to motorboat them.
++ LOVE: Pace blushing to his ears—the unshakeable powerlifter completely undone by Sheri calling out his bedroom luck in broad daylight.
+~ S13.2 CONFIRMED: Pace hasn't been home since he was sixteen after it "went bad with his daddy," confirming his complete family estrangement and why he builds his own home from scratch.
+~ S16.2 DEEPENED: The sixteen-year-old break from his family cements that his inner thigh scar and isolation are directly tied to that immediate post-home period in the dorms with Daphne.
+~ F44 DEEPENED: Learning how profoundly steady and protective Pace is with the people he loves makes the eventual revelation of the pointing game infinitely more devastating for Vee.
++ LOVE: Pace standing the truck headlights on Sheri's porch until her light clicks on—the quiet, unadvertised ballast of a man who lets no one freeze.

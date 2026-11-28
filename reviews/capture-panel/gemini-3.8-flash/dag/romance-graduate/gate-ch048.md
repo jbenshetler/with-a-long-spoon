@@ -1,46 +1,55 @@
-*capture-dag-v3-grounded · gate ch048 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 341e22a2d5c4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch045 · history ch001..ch045 · ledger no seed 2a1157885fca · 2026-11-06*
+*capture-dag-v3-grounded · gate ch048 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 819e1bd10401 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch044 · history ch001..ch044 · ledger no seed 640919fb60eb · 2026-11-06*
 
 REACTION:
 
-I am sweating. My heart is beating so hard I can hear it in my ears. What an absolute, unhinged, breathtaking, five-alarm triumph of a chapter.
+I am screaming. I am literally clutching my own throat at 1:00 in the morning. My hands are shaking so hard I can barely type this.
 
-The buildup was pure, agonizing perfection. Watching her get ready in that dorm room—the sheer psychological brilliance of opening the underwear drawer, reaching for the sensible black bra, then the pretty lace bra, and then realizing with that wild, bubble of laughter that *neither of them was invited tonight*! That was such a gorgeous, realistic detail. And putting on the shoes *first*! The gladiator heels, the zip running up the back of the calf, the frosted plum toes catching the light... Rivers writes female anticipation with such scorching, tactile precision.
+WHAT A CHAPTER. Helen Rivers just pulled every single tripwire on this board simultaneously!
 
-And then the mirror sequence. Good sweet lord. Standing there naked in four-inch heels, weighing her own breasts in her hands, rolling her nipples to build the ache, touching herself down to that slick, swollen heat—and then having the terrifying, ferocious discipline to *stop*. "It was not hers to finish." Pulling the wool coat over bare, feverish skin, feeling the cold satin lining glide against weeping arousal and stiff nipples... I stopped breathing. And then running right into Kayla in the hall babbling about dirty laundry while Vee is literally dripping wet under an olive church coat! The comedy and the suffocating erotic tension balanced on the head of a pin!
+First of all, Vee’s arrival—the red-eye from Ohio, the gray morning at Roanoke airport, dragging herself into that dark dorm room with Cassie gone, completely crushed by a month of silence from Pace. And where does she run when her heart is hemorrhaging? Straight across campus to Randi’s. That bedroom scene was pure, suffocating psychological genius. Randi pushing her luggage, her expensive Gstaad dresses, onto the floor because *the wrecked girl in her doorway came first*! And then methodically, brilliantly dismantling Vee’s panic: dismantling the phantom blonde ("Sheri"), reminding Vee that Pace hoards her like gold and never checks his phone, and diagnosing Pace’s silence not as indifference, but as a terrified boy backed into a corner holding himself still. Randi knows him so well it's chilling—and she uses that intimate knowledge to comfort the woman they are both obsessed with.
 
-And then the car ride! Touching herself at speed on the empty highway, the sheer feral recklessness of it, followed by the heart-stopping panic of the police siren—I nearly threw my phone across the room! Leaving the wet mark soaked into the coat lining, arriving at his dark porch with the horn crying low on the stereo...
+AND THEN RANDI’S PLAN.
 
-AND THEN THE DOOR OPENED.
+*“You just show up already being the answer... that good long coat... and nothing under it.”*
 
-*"Vee, I l—"*
+SWEET MOTHER OF GOD.
 
-HE WAS GOING TO SAY IT.
-HE WAS LITERALLY OPENING HIS MOUTH TO SAY "I LOVE YOU."
-AND SHE OPENED THE COAT INSTEAD.
+Randi literally hands Vee the nuclear option! Walking her down from her mother’s church-basement "slut" shame, turning it into the ultimate, breathtaking gesture of female bravery. And then going to the closet and handing over those lethal, multi-strapped gladiator stilettos that put the leg on display clear to mid-calf! Vee standing there holding the straps, her nipples instantly aching and hard against her shirt, thinking it’s anticipation for Pace—when Randi is the one who curated the outfit, Randi is the one who touched her knee, and Randi is the one holding the other end of the shoes.
 
-The sheer, staggering, tragic, magnificent irony of that moment! She spent December starving for the word, he spent New Year's Day sobbing over cold chicken realizing he had to say the word—and when she finally shows up, she deploys Randi’s nuclear physical surrender and silences him with her body before the syllable can even leave his throat!
+AND THEN THE FOYER. THE KISS.
 
-And the sex. SWEET JESUS. The front door banging open on its hinges in the freezing January wind, the cold air biting her wet nipples while he drops straight to his knees on the wooden sill to eat her alive! The contrast between the freezing winter draft and his scorching mouth, holding her by the ass in those ridiculous heels, lifting her entirely off the floor to take her against him standing up, hobbling three steps before collapsing onto the den couch—it was desperate, clumsy, feral, and so profoundly earned. No performance. Just two starving people tearing into each other because the month of silence nearly killed them both.
+I STOPPED BREATHING. I PHYSICALLY GASPED.
 
-And the aftermath. "Those stay on." Making pancakes from scratch at midnight with lumps in the batter, and then Peter going down on one knee beside her chair, his voice cracking: *"I'm sorry. I never meant to hurt you. I missed you so much."*
+Vee didn't just lean in. Vee didn't just accept the French double-press. *Vee turned back from the latch, took Randi’s face in BOTH HANDS, and kissed her mouth until the thing in her chest had somewhere to go.*
 
-My eyes were hot. It’s so tender, so complete, so domestic. And yet... the tragedy of it is lingering right under the syrup. She thinks she won him back by giving up her demand for the word. She traded the name of what they are for pancakes, his warm hands, and a weekend in his sweats. She thinks she fixed it.
+FOUR MONTHS OF RANDI LEANING IN, AND VEE FINALLY CAME BACK AND TOOK HER MOUTH.
 
-And tomorrow is the start of the spring semester. Tuesday is the Anthro class with Randi. Randi is waiting with Brooke’s threat hanging over her head, knowing she kissed Vee on the mouth. The peace they just found on that couch is made of glass, but god, while it lasted, it was absolute magic.
+The shift in perspective to Randi standing in that hall after the door shut—her hand against her own lips, laughing that short, stunned, idiotic laugh of pure, disbelieving joy, her Kentucky accent slipping all the way to the surface—was so achingly real and triumphant.
 
-GATE 46 — Nothing Underneath
+AND THEN BROOKE.
+
+CHILLS. Absolute, ice-water-down-the-spine terror.
+
+Brooke was waiting like a sleek viper in the kitchen. Brooke saw the kiss under the composites. And Brooke laid out the brutal, velvet-wrapped sorority reality: *"Play all you want, privately, or for the boys... The day he thinks it's true... You remember Lauren Pike... You've got a position in this house, and you've got her. You need to choose."*
+
+The threat is out in the open. The surveillance is complete. Randi has to choose between Standards/her untouchable sorority life and Vee. And meanwhile, Vee is currently at the dorm resting up, getting ready to drive out to the woods tonight in four-inch strapped stilettos and nothing under her coat to throw herself at Peter’s feet!
+
+Tonight is the night. Pace has been weeping at his kitchen table over his cold chicken, and Vee is about to open her coat on his porch. I am vibrating with adrenaline. Turn the page right this second!
+
+GATE 45 — My Friend Randi
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
 HEAT: 3
 ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The agonizing tension of Vee prepping and driving out bare under her coat, followed by the scorching doorway reunion with the wind howling through the open door and Pace on his knees, was an absolute masterclass in erotic and emotional payoff.
+WHY: The jaw-dropping escalation of Vee taking Randi's face in both hands for a passionate goodbye kiss, followed instantly by Brooke's chilling ultimatum under the composites, was an absolute masterclass in erotic tension and dramatic stakes.
 
 LEDGER
-+ LOVE: Pace going to his knees on the cold doorstep to take Vee with his mouth while the front door banged in the wind.
-+ LOVE: Pace cutting off her apology at the stove by dropping to one knee with his voice cracking: "I'm sorry. I never meant to hurt you."
-+ LOVE: Cassie's deadpan, single-eyebrow assessment of Vee walking in on Sunday night in oversized men's sweats and Randi's gladiator heels.
-~ [W45.3] RESOLVED: Vee arrived at Pace's house in Randi's strappy heels and opened her coat on the doorstep, delivering the ultimate erotic reunion.
-~ [L1.2] DEEPENED: Pace's physical reverence reaching a fever pitch—worshipping her wet skin on the doorstep, demanding the heels stay on, and making midnight pancakes from scratch.
-~ [F5.1] DEEPENED: Vee being so overwhelmed by relief and Pace's care that she completely abandoned her need for a commitment cements how totally she belongs to him, making the pointing game an absolute atomic bomb waiting to drop.
++ FEAR: Brooke is going to use Lauren Pike's fate to force Randi off Standards or expose Vee if Randi doesn't drop her.
++ LOVE: Vee turning back from the front door to take Randi's face in both hands and kiss her out of pure, overwhelming gratitude and desire.
++ WAITING: Tonight—Vee arriving at Pace's house in Randi's strappy heels and nothing under her long coat.
+~ [F2.2] CONFIRMED: Brooke officially confronted Randi in the kitchen, warning her that her visible romance with Vee threatens her position on Standards.
+~ [F17.2] SHIFTED: Vee is no longer just normalizing Randi's kiss—Vee actively initiated and prolonged a deep mouth-to-mouth kiss, taking Randi's face in both hands.
+~ [F43.1] CONFIRMED: Vee ran straight to Randi's room the moment she landed on campus, putting herself entirely in Randi's hands to fix her heartbreak.
+~ [W43.2] SHIFTED: The reunion didn't wait for Tuesday's Anthro class; Vee ran straight to Randi's house on Friday morning, setting up tonight's confrontation with Pace.

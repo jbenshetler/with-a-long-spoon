@@ -1,30 +1,37 @@
-*capture-dag-v3-grounded · gate ch054 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 7ac1b4a03daa · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch051 · history ch001..ch051 · ledger no seed b374d91390d8 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch054 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 939fbe005321 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) · history ch001..ch050 · ledger no seed afef1d3cbae5 · 2026-11-06*
 
 REACTION
 
-The ending is the problem, and it's a good problem. The chapter spends its first two-thirds being what I wanted: the dinner I've been dreading goes beautifully. Pace says "Vee's boyfriend" six times, flat, like a man with one credential. It's the word she begged for in December, handed over in public. Then he does the thing he does, setting up everyone's first line and standing back. Cassie *talking* is the best beat. "You can stay" is perfect. I'm warm toward him in a way I haven't been since the pancakes.
+This is the best chapter in a stretch, and the reason is the thing I've been itching for: Randi's own mother, the laundered robin's-egg-blue underwear set beside her plate. That story is the first thing Randi has said to Vee that's true and costs her. The color climbing her neck, the glass rim under the nail, "She knew my color." Vee asks "How did they tell you?" and it goes straight through the polish. It also shows me who taught her to hide everything. And Vee, watching her friend bleed, doesn't wonder why Randi told it.
 
-Under that, the stakes are all mine to see. Randi's grip on Vee's hand at "boyfriend" is the bones-grinding kind. "To my beautiful best friend," the glazed quiet, and the nail going white under the glass rim are Randi coming apart in public while Vee is proud she moved her. Pace, in the lot, watching the kiss from twelve feet away with nothing on his face, is the one I can't read. Does he know what he's looking at? Then "They share an interest. You." That is the book's most loaded line, and Vee hears it as sweet. I put the book down for a second.
+Then the frame flips, and Randi pulls the whole weekend out of her again. Vee tells the porch, the coat opening, and "with his mouth" outside in January. Randi's foot is out of her shoe against Vee's ankle, and she says "This is so good" to nobody. I knew where it was going. The bathroom stall is explicit and hot. But the heat comes from Randi's face arriving behind Vee's eyes at the top, and Vee insists "that had been about Pace. Obviously." That "obviously" is the whole book.
 
-Then the truck. Explicit, specific, hot. The stillness of his hand in her hair and the thong pulled aside by her own fingers both work. But notice what she does with the heat. She gets wet at Randi's toast, then crosses a parking lot and spends it on him. The wire still runs through Randi, and Pace is where it lands. Her refusing to ask what the sentence at the window is about is the book telling me she half knows. I felt that.
+"It's a good thing you got relief" is a great jolt. The reader and Vee both go cold at once. It's also funny and a little brutal. Randi didn't need to hear anything. She read her. Randi is the one person who sees Vee entirely, and Vee has no idea what it means that she was seen.
 
-I'm a bit tired of the eight-paragraph room tour opening, and the section of everyone getting handled by Pace ran long. The taste thread is still unmentioned, which I find deliciously ominous now, not irritating.
+The flinch at the neck kiss is a small, sharp gift. "Ticklish" is a lie I can taste. Randi is a woman who can't take being kissed gently where she's raw. And Vee keeps skipping the salt-taste story and tells herself she'll tell it Thursday. She won't. Not telling Randi is Vee's first secret from her, and she doesn't see it as one.
 
-GATE 52 — Among Friends
+Dr. Marsh's gift lecture is on the nose. The hau wants to go home, and I get it, gifts aren't free. Fine. But this book trusts me enough that it doesn't need the thesis. Mild annoyance, plus the restaurant and outfit inventory slowed the start.
+
+Wednesday is in the last paragraph, and I want it badly.
+
+GATE 51 — Covering
 DECISION: CONTINUE
 CAPTURE: 9
-NEXT: 9
+NEXT: 10
 HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "Dinner organized itself around the buffet, which meant it never organized at all" (the long stretch of Pace working each guest in turn)
-WHY: "Vee's boyfriend" six times, Cassie finally talking, and Randi's white-nailed quiet at the toast are exactly the both-and I read for. The truck is hot, and "They share an interest. You." is the line I can't stop turning over.
+ROMANCE: 2
+ALMOST-STOPPED: "Dr. Marsh was tall, of no age Vee could have sworn to, and built like a marathon" (the professor sketch and the lecture spelling out the book's theme)
+WHY: The robin's-egg-blue underwear story finally cracks Randi in front of me, and Vee in the stall coming to Randi's face while swearing it's about Pace is the book's engine, hot and exact. "It's a good thing you got relief" is a great jolt, and I'm desperate for Wednesday.
 
 LEDGER
-+ LOVE: "Vee's boyfriend," said flat to six faces, the word she wanted finally spent in public.
-+ LOVE: Cassie talking, cap pushed back, and "You can stay."
-+ SUSPICION: Pace's "They share an interest. You." is more knowing than Vee hears, and his blank face watching the lot kiss may not be blank.
-+ FEAR: Randi is coming apart in plain sight (the grip, the toast, the white thumbnail) and Vee reads it only as being moved.
-~ W50.1 ANSWERED: The dinner happened and both held their faces, Randi barely.
-~ F31.4 DEEPENED: Vee's heat at Randi's toast was spent on Pace in the truck, and she refuses to hear the thought at the window.
-~ S47.3 DEEPENED: Still unspoken, and now Pace and Randi have actually met and talked.
-~ S50.2 CONFIRMED: Pace managed the whole evening, the guest list and every guest's first line.
++ LOVE: Randi's laundered robin's-egg-blue underwear story, "They're your color," and the glass rim under her nail, the truest thing she's told Vee.
++ LOVE: "Things were really heated. It's a good thing you got relief." Randi reading Vee through a floor.
++ SUSPICION: Randi's "ticklish" flinch at the neck kiss is a cover; gentleness at that spot undoes her.
++ FEAR: Vee is now keeping her first real secret from Randi, the salt taste, and thinks she'll tell it Thursday.
++ GRUDGE: Dr. Marsh's hau lecture states the book's theme about gifts out loud.
++ SUSPICION: Randi's mother's shaming is where her face and the hiding were learned.
+~ S47.3 DEEPENED: Vee skipped the taste story again, relieved the chairs went up before she reached it.
+~ F47.4 SHIFTED: Vee now plans to tell Randi Thursday, but the relief she felt at being stopped suggests she may not.
+~ W47.5 SHIFTED: The Tuesday dinner happened and the taste question still didn't get asked.
+~ F31.4 DEEPENED: Vee again pictured Randi's face at the peak and told herself it was about Pace.
+~ G49.3 FADED: This chapter finally moved, with a real dinner and a real crack.

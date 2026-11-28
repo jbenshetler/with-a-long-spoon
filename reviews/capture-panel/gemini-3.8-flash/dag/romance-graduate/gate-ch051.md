@@ -1,30 +1,33 @@
-*capture-dag-v3-grounded · gate ch051 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 213059ecdcb4 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch048 · history ch001..ch048 · ledger no seed 302caea12f36 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch051 · gemini-3.8-flash · romance-graduate · prompt-sha f302bdd10d12 · prose-sha bb2635a8b1b0 · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch047 · history ch001..ch047 · ledger no seed 577b29eca564 · 2026-11-06*
 
 REACTION
 
-Oh, my heart. What an exquisitely gentle, hilarious, and grounded decompression after the absolute emotional and erotic tidal wave of the last three chapters. This is why I love Helen Rivers so fiercely—she gives us scorched-earth doorway sex and terrifying psychological tension, and then she brings us right back to earth with two college girls sitting on a bean bag in a stuffy dorm room, giggling until they can't breathe over an absurd, completely improvised lie.
+My chest is so tight I can barely breathe. On the surface, this chapter is the absolute sweetest, most breathtakingly romantic thing in the world. Vee sitting naked at his table while he washes up, and Pace—quiet, unbothered, steady Pace—saying, *"I want to meet your people."* And then revealing that he hasn't just tolerated her endless chatter all autumn; he literally stored every single scrap of her life in his head. The fact that he remembered Meg’s boots were a half-size too big from an offhand sentence on a hike in *October*? And quoting her own joke about Kayla talking the paint off a wall right back to her? That is pure, top-tier romance heroin. It dismantles her completely because no man has ever listened to her like that.
 
-"Pace. Shrank your sweater."
-"To a doll size."
+AND THEN THE ABSOLUTE, TERRIFYING HORROR CRASHES IN.
 
-I literally barked out a laugh. Cassie’s dry, razor-sharp silence before breaking into that rare, full, head-back laugh was pure perfection. Cassie *knows*. Cassie has eyes; she saw Vee walk through that door on Sunday evening in a pair of rolled-up men's sweatpants and four-inch bondage-strapped gladiator heels! She knows damn well no cranberry sweater was sacrificed to the laundry gods. But that’s the staggering beauty of Cassie’s friendship—she hears Vee’s wild, panicked cover story about being trapped in an oversized t-shirt, clocks the sheer radiant joy behind it, and just lets her have it without prying, judging, or tearing down the fantasy.
+Pace is engineering a massive group gathering with *all* of Vee's worlds colliding. He doesn't just want Randi and Cassie at a three-person dinner where things might get awkward or intense; he wants the whole sprawling crowd—Kayla, Meg, Danny, Theo, Cassie... and Randi.
 
-And then that quiet little beat at the end: *"My mother says thank you for the card. She wants to know when she gets to see you again."*
+Do they realize what is about to happen?!
 
-God, that hit me right in the chest. A physical ache. Cassie’s family loves Vee without an agenda, without expectations, without maternal body-shaming or high-society games. It's so steady, so pure, and so achingly real compared to the toxic Ohio chill Vee just fled from.
+First of all: *Pace and Randi in a public room in front of Vee and Cassie.* Randi has spent months pretending Pace is just some random guy she barely knows, the tutor from the coffee shop. Meanwhile, Cassie has a brain like a steel trap. If Randi and Pace are in the same room, with their history, their shared glances, their intimate shorthand—or worse, if somebody who knows Pace walks up, or if Randi's mask slips for one microsecond—Cassie is going to sniff it out in two seconds flat.
 
-And yet... the impending dread is still humming under every floorboard. Cassie sitting right there in her graphic tee and white athletic socks, completely unaware that Pace is currently organizing a massive gathering where Cassie, Randi, and all of Vee's worlds are going to collide in one room. Vee falling asleep against that cold painted cinderblock, wrapped in his faint scent on the flannel, feels safe and restored. But the bomb is already ticking. Tuesday is coming—Anthro with Randi, dinner with Randi, and Pace's big reveal. I am holding my breath.
+Second of all: *Brooke's ultimatum.* Brooke literally *just* told Randi under the composites that having an open, scandalous entanglement with a girl would get her booted from Standards like Lauren Pike. If Randi shows up at a loud, sprawling college hangout where Vee is beaming and touching her arm, while Pace is standing right there watching his two lovers interact in the open air... my god, the tension is going to be suffocating.
 
-GATE 49 — Unpacking
+And third: Vee's sweet, protective instinct about Pace's sensory overload! She remembered Chili's and how the noise paralyzed him, so she asked him to pick the venue so he won't be trapped. She loves him so much. She is completely, totally, utterly his. And she is walking straight into the epicenter of an atomic blast. "Let me handle it," he says. Pace is choosing the ground. Pace is setting the board. He's bringing the secret into the daylight, and neither Vee nor Randi has any idea what kind of ambush is coming. I am screaming.
+
+GATE 48 — Back
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 10
 NEXT: 10
 HEAT: 0
-ROMANCE: 2
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The hilarious, heartwarming dorm debrief between Vee and Cassie was pure comfort and grounded realism—the doll-sized sweater cover-up made me laugh out loud, while the quiet mention of Cassie's mom wanting to see Vee added such gorgeous emotional weight.
+WHY: Pace remembering the half-size-too-big boots from October destroyed me with tenderness, but the sheer, suffocating dread of him orchestrating a gathering where all of Vee's worlds—and Randi—collide is masterclass psychological suspense.
 
 LEDGER
-+ LOVE: Vee and Cassie’s unspoken shorthand—Cassie laughing until her head falls back at the "doll-sized sweater" lie and letting Vee keep her secret without a single poke.
-+ LOVE: Cassie’s mother asking after Vee, offering a glimpse of uncomplicated, unconditional family warmth that Vee has never had from her own parents.
-~ [L7.1] DEEPENED: Cassie’s grounded, no-bullshit loyalty reached a whole new peak of tenderness here—knowing the outfit told the real story but letting Vee tell her ridiculous mushroom-and-laundry fairy tale anyway.
++ LOVE: Pace keeping every offhand sentence Vee ever uttered on a mental shelf—remembering Meg's boots slipping from October.
++ FEAR: Pace gathering Vee's entire social circle—including Randi and Cassie—in one room is going to completely detonate the secret.
++ WAITING: The group gathering Pace is planning, where Randi has to sit across from Pace and Vee in front of Cassie.
+~ [F5.1] DEEPENED: Vee being so overwhelmed by Pace remembering her friends cements how entirely, defenselessly in love with him she is, making the impending truth fatal.
+~ [W47.3] SHIFTED: The next confrontation isn't just Tuesday's Anthro debrief; it's now building directly toward the massive group outing Pace is planning.

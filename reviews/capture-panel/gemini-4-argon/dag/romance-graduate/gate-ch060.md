@@ -1,68 +1,45 @@
-*capture-dag-v3-grounded · gate ch060 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e5741d0c0863 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch057 · history ch001..ch057 · ledger no seed da4a439744f0 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch060 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 71359d731fc6 · dated · memory grounded: facts ck-ch050@consensus (audited, 7 non-fact sentence(s) dropped, 2 trimmed) (stale) + raw ch051..ch056 · history ch001..ch056 · ledger no seed 529b47620a8a · 2026-11-06*
 
 REACTION
 
-WAIT A SECOND. Hold on, I am losing my mind over two completely gigantic things that just happened across that loft table—and the dramatic misread in the middle of this chapter was so sharp and painful I literally gasped out loud!
+Oh, my God. I have a lump in my throat the size of a fist.
 
-First, let's talk about the Sheri beat, because OH MY GOD:
-Look at what Vee told *Pace* on Sunday morning in Chapter 57 when she was eating cinnamon-raisin toast:
-*"She* liked *me... I liked it, honestly. Best thing that's happened to my legs in a Virginia January."*
-With Pace, she was able to laugh and admit out loud, *"I liked it, honestly,"* because with Pace she felt safe saying a gay woman checked her out and she enjoyed it!
-Now watch what happens when she tells that exact same story to RANDI across the loft table, while Randi's bare foot is resting along Vee's calf under the table and Randi's thumb is stroking the back of Vee's hand:
-1. Wait—did Randi already know Sheri was gay?! In Chapter 44, Sheri told Pace at the diner, *"I see the little dark-haired one around sometimes... Not with you. Just around."* We never knew if Randi knew who Sheri was! So when Vee says *"And she's gay. She's out, and not quiet about it,"* Randi's whole face opens and she laughs into her hand thinking the rival story is just hilarious—and notice what happens right after Vee tells how Sheri's family and church and childhood friends abandoned her when she came out ("She came out a couple years ago and it went badly"). Randi hears *that*, too—with Brooke's *"You remember Lauren Pike"* threat sitting in her own chest!
-2. And then Vee describes Sheri checking her out from the keyhole in Meg's shirt all the way down her bare leg to the four-inch induction heels ("She never graded me at all, Randi. She was enjoying herself").
-AND RANDI'S THUMB STOPS DEAD ON THE BACK OF VEE'S HAND.
-*"Huh," Randi said. Then, quieter, and flat, with none of the evening's music in it at all: "And you liked it."*
-WAIT. Why did Randi's thumb stop and her voice go flat on *"And you liked it"*?!
-Two things at once:
-First, a flash of territorial jealousy that another woman—an *out* lesbian who doesn't have to hide behind "best friend" brunches and "ticklish" neck kisses!—stood in the middle of a bar in front of Pace and openly feasted her eyes on Vee's breasts, bare legs, and feet! (Remember in Chapter 25 when Sheri teased Pace, *"Want me to turn the heat on her for you?"*!)
-AND SECOND: Randi is holding her breath waiting to hear Vee admit out loud that she liked being desired by a woman!
-And what does Vee do?! Because she feels Randi's thumb freeze and hears the sudden flat drop in Randi's voice, Vee panics—or her subconscious defenses slam shut because this is *Randi* asking, not Pace!—and blurts out way too fast:
-**"No. No. Not my thing."**
-NOOOOOO! My heart broke right in half! Vee literally told Pace on Sunday morning *"I liked it, honestly,"* and now she looks the woman who is secretly in love with her dead in the face and says, *"No. Not my thing"*—meaning *women looking at me that way is not my thing*!
-And when Randi goes completely motionless across the table ("Didn't reach, didn't laugh, didn't fill it") because Vee just unknowingly slammed the door in her face with *"Not my thing,"* Vee's sweet, oblivious brain does the most tragicomic misread in the entire book:
-She thinks Randi froze because Randi is *still protectively standing guard against Sheri as a threat to Vee and Pace*!
-*"Randi. She's not a threat... She was never a threat, not for one second."*
-*"I know she isn't, gorgeous," she said.*
-Read that double meaning! Vee means: *Sheri isn't a threat to take Pace away from me.* Randi means: *I know Sheri isn't a threat to take you away from me—because you just told me women aren't your thing, and because Sheri isn't the woman who has you.*
+This chapter had zero sex—because Vee literally passed out cold in the truck on the way home from the taproom after three hard ciders!—and it still hit a 3 on the romance scale so hard it left me blinking back tears at my screen.
 
-AND THEN THE SECOND BOMB OF THE CHAPTER:
-**"He asked me for something... Sunday. In the kitchen, out of nowhere, in the voice he uses for facts. He asked me to get waxed. All of it. Bare."**
-HOLD ON! WAIT A MINUTE!
-When on Sunday in the kitchen did Pace ask Vee to get waxed completely bare?! Right after the hug at the end of Chapter 57, or later that afternoon before she went back to the dorm?!
-And look at Randi's reaction when Vee says Pace asked her to get waxed bare:
-1. Randi puts her wine down and comes forward onto her forearms.
-2. She immediately gives Vee her own aesthetician: *"Don't let anybody but Sondra touch you — Draper Street, you ask for her by name, you tell them I sent you. She'll get you a glass of something first, she's civilized about it... Barely stings. So worth it, baby. You'll walk out of there feeling like the most expensive thing in the room."* (Which means Randi herself gets waxed bare by Sondra on Draper Street—and wait: *"Barely stings"* is a total lie, isn't it?! First-time Brazilian waxing hurts like hell, and Randi is smiling and telling her *"Barely stings"* with a glass of wine first!)
-3. AND LOOK AT THAT LINE WHEN VEE SAYS SHE HAS FRIDAY AFTERNOON FREE:
-**"Friday." Randi's eyes went somewhere over Vee's shoulder and came back with the whole week arranged in them. "Call in the morning, not the afternoon, and say my name in the first sentence."**
-STOP EVERYTHING.
-Why did Randi's eyes go over Vee's shoulder and "come back with the whole week arranged in them"?!
-Did Pace ask Vee to get waxed bare on Sunday because *he and Randi talked on Thursday night* (or is this something Pace and Randi planned, OR is Randi realizing that if Vee is getting waxed bare on Friday afternoon for Pace, something huge is happening this weekend—or at Sondra's on Friday afternoon)?! And what is the last line of the chapter?!
-*"In the stairwell of her own building Vee stopped under the light and wrote it on the back of her hand with a pen from her bag, because she was not going to be the girl who lost it: Sondra. Draper St.*
-*The other part she didn't write down. She had that one cold."*
-Wait—what is "the other part" she had cold?! *"Say my name in the first sentence"* (Randi's name, Miranda!) OR *All of it. Bare*?!
+First of all, the opening hangover sequence was so tender it made my teeth ache. After all the fiery, explicit intensity of the last few chapters, watching Vee piece together the "dropped deck" of Saturday night—that she fell asleep against the cold truck window, can't even remember walking from the truck to the front door (which means he *carried* her in!), remembers him crouching in front of her in the bathroom with a glass of water (*"drink this, all of it, patient as a man watering something"*), wiping most of her mascara off with a warm washcloth, putting two ibuprofen in her palm, pulling one of his own worn white undershirts over her head (just like Randi wore in Chapter 21!), and kissing her forehead once in the dark after he thought she was already asleep—and waking up to melted ice water on a folded paper towel and fresh homemade cinnamon-raisin bread cooling on the rack! That is love in Pace's native language, every single syllable of it.
 
-AND LOOK AT THE GOODBYE KISS ON THE SIDEWALK TONIGHT:
-Right after Vee told Randi *"No. Not my thing"* about a woman looking at her with desire:
-1. Vee doesn't even wait for Randi to initiate the goodbye kiss anymore—she brings her own face up and around *before Randi has started to*, and stops there with her eyes already closed, waiting for Randi's hand at the hinge of her jaw!
-2. Randi kisses her on the mouth, eases back *without ever leaving Vee's mouth*, **"opening the kiss, and then she took more of it, and this time it stayed."**
-3. And in the hug afterward, Vee's face lands at the side of Randi's neck and **"her mouth went there in passing, and neither of them said a word about it."** No "ticklish" joke, no flinch, no excuse—kissing Randi's open mouth and kissing Randi's neck is now just a silent, established fact between them!
+And then the transition from the light, funny morning debrief about Sheri—Pace deadpanning *"That way too. She can be like that"* without a flicker when Vee laughs about Sheri checking out her legs, and Vee gleefully planning how she's going to hand Randi the "I told you so" win at Tuesday night's dinner while saving Sheri's appreciative look for last—into:
+**"I'd love to meet your other friends."**
+**"Sheri's my friend. My one friend. There isn't anyone else."**
 
-What is going to happen on Thursday night, and on Friday afternoon at Sondra's on Draper Street, and on Friday night at Pace's?! I am completely hooked.
+That hit me like a physical blow. Because we've spent fifty-six chapters watching Pace from the outside as this hyper-capable, self-contained, almost mythic figure who builds his own furniture, sews silk gowns, owns a medical-imaging patent, competes in powerlifting, dances every woman around the floor, and just effortlessly charmed all six of Vee's friends at the roadhouse on Wednesday night! And suddenly, in two quiet pages across his kitchen counter, the entire architecture of his loneliness comes into focus:
+- Why he has no female friends besides Sheri ("Women misunderstand it. The friendship. It gets awkward"—because when a man gives you that level of undivided, quiet presence, any woman who isn't a lesbian like Sheri ends up wanting him).
+- Why he has no male friends ("Men make friends by competing... You make a friend from the middle of the pack — you lose to him, and lose again, and come out the other side friends. I was never once in the pack"). At fifteen he was a child among grown men—*"and the ones already there, when I was small among them, either weren't safe or weren't welcoming"*—and by eighteen, when boys his own age finally arrived as freshmen, he had already finished his degree, licensed his patent, bought a house, and taken every summer term so he wouldn't have to go home after what happened with his father at sixteen!
+- And the detail about why adult friendships never get past the doorway for him:
+*"Friendships get deep in the ordinary questions. What are you doing for Christmas? Your folks coming up? You want to bring anybody? Every one of those has a gap under it, for me."*
+Remember Chapter 33 when Vee asked if he went home for Thanksgiving and he said *"I don't go back"*?!
 
-GATE 58 — Between
+And watching Vee put all the pieces together in silence—comparing her own rich, messy web of friendships (Meg, Kayla, Cassie, Randi: *"One person couldn't be all of that. Nobody could hold that much of somebody"*) to seventeen-year-old Pace having *only* Daphne to hold his entire world, and only having Daphne because of what was wrong and predatory about a nineteen-year-old tutor taking a fifteen-year-old boy ("the ugly grown-up word that kept forming under her tongue"), and then losing Daphne at seventeen and having *not one single friend on earth* to bring his heartbreak to! Remember in Chapter 44 when Pace himself thought, *"There had been no one to tell that Daphne was gone. Daphne was the person he would have told"*?! Seeing Vee arrive at that exact truth on her own—and picturing eighteen-year-old Pace teaching himself to cook because there was no dining hall and no one his age to eat with, sitting alone on an empty campus at Thanksgiving—broke my heart in half.
+
+And look at the dramatic irony sitting right inside Vee's realization:
+1. She thinks *"No Randi to bring it to"*—when Randi is literally the other person in Pace's life right now, whom Pace *still* can't bring his real heartbreak to!
+2. She thinks Sheri is *"His one friend on this earth a five-foot woman who could never want him — the only kind, she was sure now, the world had ever quite let him keep."*
+3. And at the end, instead of saying "I'm sorry" (which she knows would ask him to be comforted for something he handed her as plain fact), she walks around the counter and gives him **Sheri's hug from the taproom doorway**—both arms all the way around, cheek flat to his chest, her whole weight committed! Look at how Vee saw Sheri hug Pace in Chapter 56, felt a flash of confusion/jealousy because *"Whatever that hug was, it wasn't the kind you gave a lab partner,"* and now, twenty-four hours later, she understands what that hug was and gives it to him herself!
+
+Wait—also notice that because Vee got tipsy on cider with Sheri and passed out in the truck on Saturday night, the entire weekend at Pace's just went by *without* the bedroom scene where she faces the wet kiss again! Which means she's heading back into a new week—Monday stats with Cassie and Randi, and Tuesday night Anthropology and dinner with Randi—with Thursday night's *"Her mouth was still empty"* still unresolved, AND carrying this huge, tender new weight of who Pace really is!
+
+GATE 57 — Hangover
 DECISION: CONTINUE
 CAPTURE: 10
-NEXT: 10
-HEAT: 2
-ROMANCE: 2
+NEXT: 9
+HEAT: 0
+ROMANCE: 3
 ALMOST-STOPPED: none
-WHY: The psychological precision of this chapter had me gasping—watching Randi's thumb freeze when Vee says Sheri checked her out, Vee panicking and lying "No. Not my thing" (after telling Pace on Sunday she *did* like it!) and misreading Randi's stunned silence as protective worry, followed by the sudden bombshell that Pace asked Vee to get waxed completely bare and Randi sending her to her own waxer on Friday afternoon with "the whole week arranged" in her eyes.
+WHY: Even with zero heat, this chapter delivered some of the most devastating, earned emotional intimacy in the entire series—from Pace quietly taking care of a passed-out, tipsy Vee and baking cinnamon-raisin bread while she sleeps, to his heartbreakingly plain explanation of why Sheri is his only friend in the world, culminating in Vee walking around the counter to hold him with her whole weight the exact way Sheri did.
 
 LEDGER
-+ LOVE: The gut-punch contrast between Vee happily telling Pace on Sunday morning that she *liked* Sheri checking out her legs ("I liked it, honestly") and Vee blurting out "No. Not my thing" way too fast when Randi's thumb stops on her hand and Randi asks in a flat voice, "And you liked it."
-+ LOVE: Vee's tragicomic misread of Randi freezing after "No. Not my thing"—assuming Randi is still standing guard against Sheri as a rival for Pace ("Randi. She's not a threat") while Randi quietly replies with a devastating double meaning: "I know she isn't, gorgeous."
-+ LOVE: The quiet escalation on the sidewalk—Vee turning her face up with her eyes already closed to wait for Randi's hand on her jaw, Randi easing back without leaving her lips to *open* the kiss and take more of it, and Vee's mouth going to Randi's neck in passing without either of them pretending it's a joke anymore.
-+ SUSPICION: When Vee reveals that Pace asked her on Sunday to get waxed "All of it. Bare" and Randi's eyes go over Vee's shoulder and come back "with the whole week arranged in them" before telling her to call Sondra on Draper Street and "say my name in the first sentence," Randi is either recognizing a move from her and Pace's playbook or arranging something for Friday.
-+ WAITING: Friday afternoon with Sondra on Draper Street ("Barely stings" is definitely a trap!) and Friday night at Pace's house once Vee is bare.
-~ W53.4 SHIFTED: We now know what happened later on Sunday in Pace's kitchen: out of nowhere, in his plain fact-voice, Pace asked Vee to get waxed completely bare for him this Friday—raising the stakes for next weekend's return to his bed even higher.
++ LOVE: Pace's quiet, unadvertised hangover care—carrying a passed-out Vee in from the truck, coaxing her to drink water in the bathroom ("patient as a man watering something"), wiping most of her mascara off with a warm washcloth, putting her in his worn white undershirt, and kissing her forehead in the dark after he thought she was asleep.
++ LOVE: Pace's heartbreakingly plain explanation of why he has no male friends ("You make a friend from the middle of the pack — you lose to him, and lose again, and come out the other side friends. I was never once in the pack") and how ordinary holiday questions ("What are you doing for Christmas? Your folks coming up?") have a gap under them he can't cross.
++ LOVE: Vee realizing that seventeen-year-old Pace had put the weight of four friends onto Daphne alone ("No Randi to bring it to. The one had been all of it, and then the one was gone, and there was nobody left in the world to take the heartbreak to")—matching Pace's own private thought from New Year's Eve.
++ LOVE: Vee choosing not to say "I'm sorry" across the counter and instead walking around it to give Pace the exact whole-weight, two-armed hug she watched Sheri give him in the taproom doorway the night before.
+~ W53.4 SHIFTED: Because Vee got tipsy on cider with Sheri and passed out in the truck on Saturday night, the whole weekend at Pace's passed in domestic tenderness without a bedroom scene—meaning Thursday night's "unfinished reach" ("Her mouth was still empty") is still waiting as she heads into the new week with Randi and Pace.

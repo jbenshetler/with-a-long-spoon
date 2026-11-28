@@ -1,33 +1,36 @@
-*capture-dag-v3-grounded · gate ch034 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 833975fab4c0 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch031 · history ch001..ch031 · ledger no seed 328d80b23fe1 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch034 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 2a481d9a0a3a · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) · history ch001..ch030 · ledger no seed 3f3fa9dd31e8 · 2026-11-06*
 
 REACTION
 
-Okay, this one is a warm, long, soft chapter. I liked it more than I expected to, and it also made my stomach drop.
+Oh, that's a chapter built to make me squirm. And it's the reunion I've been circling, the first time Vee's secret goes into Randi's ear with nobody touching anyone. A brunch table, mimosas, and Vee telling the whole bet: the pantsing, "He checked," the heels and the face in the covers. I was hot for it. The beats work because she's saying them out loud in daylight, and her body keeps pace with every sentence. "The shame of it and the heat of it were not two things" is the sentence I'd underline, even if it explains itself a little.
 
-The big thing is Vee telling Pace about Randi. In his own kitchen, in his shirt, she volunteers the whole friendship: the collision outside the dining hall, the brunches, "your name might come up," the funny stories about boys, the accent, the French kiss. And Pace, who engineered every bit of that, stands at the stove turning salmon and plays dumb. His grin "spread, and then it left, and under it was the look she knew from his bed." Oh, that is the best line in the chapter. He heard "kiss-kiss, on the mouth" and went hot. She reads it as a joke and he says nothing. I'm now watching Vee hand him Randi's mouth as foreplay, which is exactly what Randi did with Vee. The pipeline runs in both directions and she's the only one who can't see it. The "walked right into her" line, said straight to the man who pointed her out, made me wince.
+The retread bothers me. I watched the pantsing, the bet and the spanking last chapter, and now I'm getting them retold, scene by scene. It's the same-story-twice problem. But the retelling is where the irony sits, because I know Randi is the pipeline, and Vee has stopped noticing. Randi's questions ("Walk me," "What was the bet") are the interrogation of a woman who wants every detail. She's feeding on it. Her "Whew. Is it warm in here" is the leak.
 
-Then the brunch chapter's hot wire gets turned into plain domestic happiness, and that's what really hurts. "She loved him." She said "Peter" to his sleeping back. I loved that. But the logic she uses, "he said it in everything he did and in nothing," is the exact trap the blurb promised. And the counter: his eyes on her mess, no word, "He never said." That's a small, true ache. I'd bet he really didn't mind, and she'll never find out, because he doesn't say. Same disease as the "what are we" silence.
+The Radford mixer story is obviously a lie, and I'm sure of it. Mixer, blond Redford, phone call, engine running with nobody to drive. Last time the ex was invented. This one sounds like Randi getting through a night without Pace, or after hearing Vee's story. "Dress up, panties to the side, knees wide" is her putting that image in Vee's head on purpose, and it works.
 
-Cassie's "You don't come home school nights" is quietly devastating, and "Do you love him" in that flat voice, then Vee's "maybe," is the best use of Cassie yet. The pool scene earns the "maybe" without explaining it, and the four strokes where she can't tell whether Pace is real or built out of wanting him is the book's thesis in the water. Slightly long, but it's lovely.
+The bathroom is the real beat. Vee stops herself at the edge because she pictures Randi looking at her. That is a lot to learn about her: it's not the shame of being caught, it's wanting that gaze and being stopped by wanting it. Then "Sticky fingers?" Oh, that line. I can't tell whether Randi knows, and neither can Vee. I loved that she never finds out.
 
-Grudges: the opening is a bit of a recap before it gets going, and the tomato burn/bra-size passage is slow. And still no Randi head, fourteen chapters. Randi isn't in this chapter at all, which, after last chapter, feels like the book giving the two of them room to be sweet before something breaks. Heat is a simmer after last chapter's peak. The ending is calm, and I distrust calm.
+And the ending is a small knife. Randi leaves a pastry bite on the plate, the "Delicious" that closes the subject, and the sugar on Vee's lip from a pastry she never touched. Randi kissed her with it on her mouth. After "best friend in the whole world," that's the line I'll keep. The chapter title is the answer: one bite. The want is in Randi, and Vee carries the taste.
 
-GATE 32 — School Nights
+Still no Randi head. Thirteen chapters. I'm used to it, and it's almost the point now, since every sentence of hers is a performance I can read. But I'm owed.
+
+GATE 31 — One Bite
 DECISION: CONTINUE
-CAPTURE: 7
-NEXT: 8
-HEAT: 2
-ROMANCE: 3
-ALMOST-STOPPED: "The few good pairs of underwear, too. Those were the only things that fitted her; everything else had been bought a size up" (the body and wardrobe inventory in the middle of the afterglow)
-WHY: Vee handing Pace the story of Randi's mouth while he plays innocent is the dramatic irony I came for, and "Peter," said to a sleeping man, is a real turn in the bond. It's a soft chapter after a hot one, and I want the plot to move.
+CAPTURE: 9
+NEXT: 9
+HEAT: 3
+ROMANCE: 2
+ALMOST-STOPPED: "The shame of it and the heat of it were not two things, they were one thing, and the one thing was sitting in her now with nowhere to go." (the book explaining its own subtext, and the whole bet retold from the last chapter)
+WHY: Vee confessing the spanking aloud to a woman who is feeding on every word is the both-and I read for, and "Sticky fingers?" with no answer is perfect. The sugar on her lip from a pastry she never touched is a great last image.
 
 LEDGER
-+ LOVE: "Peter," whispered to the sleeping man, and Vee letting "I love him" be true without needing him to say it.
-+ LOVE: Pace's grin leaving at "on the mouth," with the old look under it, and Vee reading it as a joke.
-+ FEAR: Vee has decided "he says it in everything he does," so his silence on the counter and on the word is now her proof, and she'll keep reading it kindly until it breaks.
-+ SUSPICION: Pace heard Randi's mouth as heat, so he'll start steering Vee toward Randi himself.
-+ LOVE: Cassie's flat "Do you love him" and "You don't come home school nights."
-+ WAITING: Whether Pace ever says the word, and what he says if Vee asks.
-~ F9.1 DEEPENED: Vee is out most school nights, and Cassie is the one counting.
-~ W18.4 DEEPENED: Fourteen chapters now without Randi's own head.
-~ F30.2 FADED: Randi isn't being cut out; Vee talks about her freely to Pace.
++ LOVE: "Sticky fingers?" and Vee never finding out whether it was a door or a wall.
++ LOVE: The glaze on Vee's lip from the pastry Randi kissed her with.
++ SUSPICION: The Radford mixer story is invented, a night without Pace that Randi is dressing up as a story for Vee.
++ FEAR: Vee stopped herself because she imagined Randi looking, so Randi's gaze is now what governs her pleasure.
+~ F6.3 DEEPENED: Randi pulls the whole bet out of Vee at brunch, asking every question, and the want leaks in "Whew. Is it warm in here."
+~ F28.4 DEEPENED: The wire runs through Randi again, so Pace has not replaced her.
+~ F30.2 SHIFTED: Randi isn't cut out. Vee brings the bet to her the next morning, so the pipeline is still running.
+~ S29.3 SHIFTED: The "no Randi to be told" space gave way, since Vee told her everything the next day.
+~ W18.4 DEEPENED: Thirteen chapters now without Randi's own head.
+~ W30.3 SHIFTED: This chapter was the Randi collision, though it is still all glow and no turn.

@@ -1,31 +1,30 @@
-*capture-dag-v3-grounded · gate ch039 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha c4680406e3c7 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch036 · history ch001..ch036 · ledger no seed 22ad4b05a0dc · 2026-11-06*
+*capture-dag-v3-grounded · gate ch039 · claude-sonnet-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha a03ea01d3f8f · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch035 · history ch001..ch035 · ledger no seed 284458a67a70 · 2026-11-06*
 
 REACTION
 
-Okay, this is a pure-glow chapter, and I enjoyed it more than I expected. But it's the second one in a row without a turn, so I'm watching.
+Whoa. A hard swerve, and I'm not sure I like it. After the heat of 35, I get a statistics project meeting with a group assignment in it, and no bodies at all. That's the second kind of quiet I flagged before, and the book is leaning on it.
 
-The opening is good. Vee called the five nights off herself, and the line that hurt was that she wanted him to fight for them, and he never does. That's the "he never said" disease again. He opens the door and waits, and she reads that as grace. It may be grace. It's also the same silence the blurb warned about.
+But the end of the scene gets me. Randi's county has a point off on its own, the tag reads MIRA, and the record opens to MIRANDA. "Cheating bastards," in a voice with nothing practiced in it. That's the first crack in Randi that isn't about Pace or Vee. It's money. Her father took the loans, several businesses, and the story she's told about her family might be a lie, or at least a face. I clocked it right away, because this is the first real piece of Randi's history that doesn't come through a story she's chosen to tell. The Kentucky accent, the mother on egg whites, and now a father with shell companies. I want this badly.
 
-The undressing is the hottest part. She's towing him by his shirt, the jeans stuck at her hips, the sock hopping, him not helping and enjoying every second. It's funny and charged at once. "She'd have burned the house down for him." Her body publishing the five-night number in one embarrassing rush is good too. The green satin she's wearing made me think of the panties in his drawer, which she doesn't know about. Then the thong lands on the long table in his bedroom, "she never looked to see where it went." The bench is under that table, and that's the dramatic irony doing its job. Nobody will remember the bench but me.
+The best move is Vee. She sees it and says nothing, steers the laptop, gives Randi something to do with her hands. She's kind where she thinks she's being kind, and she's the one who now holds something Randi doesn't know she holds. Cassie, with her laid-off dad and the "that's not the exception, that's the one that's easy to see" line, is dramatic irony so loud it's almost on the nose. The outlier metaphor gets pointed at me again. Mild grudge. The title does the explaining, and the last paragraph about "invisible if you didn't know to look" says it twice.
 
-The pizza is long. I skimmed some of the cooking, again, though "cotton candy and a bowl of cut strawberries" is a nice line.
+Also Vee's reading, "dealt a rotten thing by a man she'd had the luck to be the daughter of," is a good wrong-but-warm guess. And Randi doesn't know she was seen. After eighteen chapters of me knowing more than Vee, Vee now knows something I don't.
 
-The shirt is the real beat. She washed it and it stopped smelling like him, so she asks him to wear it all weekend and give it back full of him. It's tender, a bit pathetic, and a little frightening, because her whole sense of him is now smell and shirts and a drawer, and none of it is a word. His open face in return is lovely. He still doesn't say it.
+No heat, and no Pace, so I'll hold on only because of that name on the screen.
 
-Randi isn't here, and neither is any fallout from MIRANDA or the photo. Nothing moves. I want the plot to start pushing.
-
-GATE 37 — The New Ordinary
+GATE 36 — The Outlier
 DECISION: CONTINUE
 CAPTURE: 7
-NEXT: 7
-HEAT: 3
-ROMANCE: 3
-ALMOST-STOPPED: "He turned a round of dough out of the bread machine onto the floured white laminate and worked it under the heels of his hands" (the long pizza walkthrough)
-WHY: The stuck-jeans undressing is funny and hot, and the washed shirt is a tender, aching ask. But it's another glow chapter with no turn, and the cooking passage is a skim.
+NEXT: 9
+HEAT: 0
+ROMANCE: 1
+ALMOST-STOPPED: "The groups picked themselves. No one had to propose the three of them." (the long project setup before anything happens)
+WHY: A zero-heat chapter, but MIRANDA on the screen and Randi's unpracticed "Cheating bastards" crack her open. Vee quietly seeing it and keeping it is the kind of turn I read for.
 
 LEDGER
-+ LOVE: The washed flannel, "I need you to wear it for me," and him wearing two shirts in his kitchen because she asked.
-+ LOVE: The jeans stuck at her hips and her towing him by the shirt, funny and hot with him not helping.
-+ FEAR: Vee called the five nights off herself and wanted him to fight for them, but he never asks, and she's reading that as grace until it breaks.
-+ SUSPICION: The thong landing on the long table in the bedroom is a setup, and the bench under it will matter soon.
-~ W30.3 DEEPENED: Another glow chapter with no turn, so the stall is real and I need a plot move.
++ SUSPICION: Randi's father is the big fraudulent PPP outlier, and her polished family story is a face too.
++ WAITING: What Randi does with the stat project now that her own county is the outlier, and whether she ever learns Vee saw.
++ LOVE: Vee quietly handing Randi the write-up logistics and never saying the name.
++ GRUDGE: The outlier metaphor is spelled out twice, in the lecture and in the last paragraph.
+~ F1.1 DEEPENED: The face has a family behind it, and the one thing that cracked it this chapter was her father's name.
+~ W18.4 DEEPENED: Eighteen chapters without Randi's own head, though this one cracked her from outside.

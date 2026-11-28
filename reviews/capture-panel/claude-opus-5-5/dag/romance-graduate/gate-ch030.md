@@ -1,39 +1,41 @@
-*capture-dag-v3-grounded · gate ch030 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 0f7a8e76dd34 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch026 · history ch001..ch026 · ledger no seed 1df4086e8a65 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch030 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha e540d2c96253 · dated · memory grounded: facts ck-ch020@consensus (audited, 2 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch021..ch025 · history ch001..ch025 · ledger no seed 09ec082b9235 · 2026-11-06*
 
 **REACTION**
 
-She called it slap-and-tickle and I nearly threw my Kindle. Randi took Vee's tiny, unfiled, unnamed "please," the thing Vee kept for herself face-down in Pace's neck, and turned it into a little game with a name in six syllables. Then came "So. Did you deserve it?" and Vee said yes before she knew what she was agreeing to. Randi's smile *brightened*. That's the real scene. Randi isn't comforting her or debriefing her. She's interviewing her for the bench. And it's Monday, so whatever came out of Vee in that piano closet is going to be in Pace's bed tonight, in Randi's voice, while Randi rides him.
+Oh no. Oh, *yes*. Oh no.
 
-The worst part is that it worked on me exactly the way it worked on Vee. "His hand was wet." That's such a good, mean detail. Randi knows to ask for the wet hand, because she knows his hands. Then Vee drops into the low voice and realizes halfway through that she's not just telling it, she's *doing it again*, in front of Randi, with her nipples up under the jersey and her arms crossed like she's cold. That's the both-at-once I came for. I was turned on, and Vee being turned on in front of the wrong person made me want to grab her by the collar.
+The "please" is what I'd text at 1 a.m. Vee, on top of him, his hand flat over the spot he slapped: "*Please.*" Small, wrecked, attached to nothing. That's the bench word. Randi said it facedown on that bench in the voice Pace "had not heard from her before or since," and he was harder just remembering it last night. Now he's heard it from Vee, in the same bedroom, three steps from the table against the wall that isn't a table. And he says "This?", the same word Vee used when her fingers found his scar. I put my phone down for a second after that. The scene is extremely hot, it's Vee's own discovery with her shame wired straight into it, and it's also clearly the trapdoor opening under her. That's the both-at-once I keep coming back to this series for.
 
-The mouse that roars. Okay. "Slight little thing, soft-spoken, apologized to the furniture." Over his knee, counting out loud, his hand slipping. Who is this man? Pace is a powerlifter, so either this is "Paul?" again, the real man flipped inside out so Vee can't recognize him, or it's a real ex and the story is a sales pitch. Either way the story is aimed. It hands Vee the word she didn't own yet ("Have you ever—") with a ready-made shape around it: shame, counting, and "welcome." Randi is giving Vee a script for what Pace will offer her next, and Vee hears the Kentucky in "roars" and files it under the Swiss school again. I laughed and hurt at the same time, again.
+What makes it more than a spanking scene is how she hides it. She keeps talking about the dishes, about soaking, about how "some people had to be shown," because "a quiet room was a room with a question standing in it." She gets her face into his neck so he can't look at her. She keeps her hands busy so they won't go back to the sore place. She moves faster and the moving lights the sting, and she can't tell which one she's doing anymore. That's real interiority in the middle of explicit sex, and it's what I can't get from KU. Her mother's voice didn't even show up. This time the shame is all hers, and she covers it on her own. She files the first orgasm as "only what it's like with him" and can't file the second. Afterward, "unnamed, hers." I loved her so much here, and I'm scared for her.
 
-The bathroom is the best thing in the chapter. "Not here. Not over a story. To do that would be to say yes to it." She catches her own hand and puts it flat on her knee. That's a grown woman with an inner life refusing something her body already decided. I believed every second of it, and it was hotter for her saying no than it would have been if she'd said yes. Then "All better?" and Randi has already moved on, warm as anything, and Vee can't tell whether she meant anything by it. Neither can I, and that's the problem: eleven chapters now without Randi's head. I'd give a lot for one paragraph of her walking across campus after this.
+Because it's Monday morning. Monday is Randi's night. I'd bet anything that by tonight, Vee's soundless "oh" at the sink will be Randi's foreplay, the way the thumb behind the knee was on Friday. Pace has a "please" from each of them now, and I don't think he can see that one of them cost Randi her whole self in a bathroom mirror.
 
-Vee's arms are slow coming down from the hug. She notices it "the way you notice a held note," and she pins it on Pace. She's falling for Randi and filing it under the weekend. And this time Vee did the towing. Her two fingers on Randi's wrist, "Only to Randi," and Cassie saying "see you in the room" to the side of Vee's head. That one stung. Cassie is down to talking to Vee's profile.
+The front door was good, too. The heels putting her above him read as "one more disrespect laid at his feet," and she starts folding herself down to the buckles. He takes the pie the way you take a glass from someone about to drop it, and sets the scarf back "a half-second longer over the silk than the errand needed." Did he recognize it? He looked down at Randi's shoes and said nothing. Randi told him last night, "She's going to be so beautiful when she walks in. You wait." So he knew what was coming up his drive before Vee did. And Vee's tiny vanity, "The scarf was working," is Randi working, on Vee's body. Also, she tells Pace the blonde's words straight. She doesn't say the "services ended at the door" version she gave Randi. So she really did edit for Randi. Good, that's the reading I wanted.
 
-Gripes. The outliers lecture is Simpson's paradox again, but this time the professor practically turns to the camera: "The second kind comes in through the part that carries forward. It's in everything that comes after." I GET IT. The weekend is the outlier that doesn't lift out. Simpson's worked because it was sly, and this one is a sign on the wall. The structure is also yet another Randi debrief: draw it out, trade a sex story, curb kiss. It escalates enough that I forgive it, but I noticed the shape. And did Vee ever actually give the shoes back? They come out of the bag and just stay there.
+Gripes. "Beauty like yours made for the gods and loaned out" made me wince. It's a book-boyfriend line, even if the book admits it's "the trouble with him." The real problem is the Saturday reconciliation: "the evening went on a long time after it, first lighter and then not light at all," and then she wakes up Sunday. That's a fade. The book has hardly ever done that to me, and it did it on the make-up night. Sunday paid me back with interest, so I'm grumbling, not leaving. HUMBLE PIE in a serif font is a little twee, but it's so Vee that I let it go. "You're always beautiful," with the hair gathered at her nape like something he means to keep, is a lovely, quiet way to end.
 
-GATE 27 — The Practice Room
+Ten chapters now without Randi's head, and she's more present in this one than ever, on Vee's feet and at her throat.
+
+GATE 26 — A Recognized Method
 DECISION: CONTINUE
-CAPTURE: 8
+CAPTURE: 9
 NEXT: 9
 HEAT: 3
 ROMANCE: 3
-ALMOST-STOPPED: "The second kind comes in through the part that carries forward. It's in everything that comes after." The book explained its own theme through a stats professor before anything had happened.
-WHY: It's a clothed chapter that's as charged as anything in the book. Vee wet from a story, refusing her own hand in a locked bathroom, while Randi coaxes "did you deserve it" out of her for later. It's Monday night next, and I need to hear what Randi does with this in Pace's bed.
+ALMOST-STOPPED: "the evening went on a long time after it, first lighter and then not light at all." The make-up night faded to black, and that's my trigger.
+WHY: The Sunday kitchen scene is the hottest and smartest sex in the book: a discovery she hides under talk, with "please" landing on exactly the word Randi said on the bench. It's Monday, it's Randi's night, and I have to know what Pace does with what he saw.
 
 LEDGER
-+ FEAR: Randi carries "slap-and-tickle" and "did you deserve it" to Pace tonight, and Pace offers Vee the bench already knowing she said yes to it
-+ SUSPICION: The "mouse that roars" ex is either Pace flipped inside out like "Paul?", or a made-up story built to give Vee a script for being spanked
-+ LOVE: "Not here. Not over a story." Vee catching her own hand and putting it flat on her knee
-+ LOVE: Vee's arms slow coming down from the hug, "a held note after the song has already moved on," and her blaming it on the weekend
-+ GRUDGE: The stats lecture has turned into the book's theme announcement. Outliers is Simpson's paradox again with the subtlety taken out
-~ F26.1 DEEPENED: Randi didn't need Pace to tell her. Vee handed her the kitchen herself, wet hand and all, on Randi's night
-~ S26.2 DEEPENED: "Did you deserve it?" Randi is priming Vee for the bench before Pace even offers it
-~ S9.3 DEEPENED: Another Randi sex story with a man who sounds like Pace's opposite, told to steer Vee
-~ L4.4 DEEPENED: Kentucky rises on "roars," and Vee hears "the school abroad, years back"
-~ F4.2 DEEPENED: Cassie says "see you in the room" to the side of Vee's head while Vee tows Randi out
-~ W18.5 DEEPENED: Eleven chapters without Randi's head, and I can't tell if she meant anything by any of it
-~ G9.7 SHIFTED: Same debrief shape again, but this time Vee led Randi out, and it went further than any lunch
-~ G1.7 DEEPENED: The professor's line about the second kind of outlier spells out the theme before the chapter's even started
++ FEAR: Monday is Randi's night. Vee's soundless "oh" at the sink and her "please" are going to be told in Randi's bed tonight
++ SUSPICION: Pace heard the bench "please" from Vee and will offer her the bench the way he offered it to Randi, "a month in"
++ GRUDGE: The Saturday make-up night faded to black, "first lighter and then not light at all"
++ LOVE: "Soaking is a recognized method." Vee talking through sex so the room can't hold a question, with her face hidden in his neck
++ LOVE: "You're always beautiful." Not "you're beautiful," which she'd have argued
++ SUSPICION: Pace recognized Randi's scarf. The half-second over the silk, the look at the shoes, and Randi's "You wait"
+~ W24.6 ANSWERED: She came Saturday, apologized well, told him the real why, and stayed two nights
+~ F24.3 SHIFTED: He looked at the shoes and touched the scarf and said nothing. The seams didn't show, unless he's keeping quiet about them
+~ S24.1 CONFIRMED: She gives Pace the blonde's words straight, without the "services ended at the door" line she gave Randi. She edited for Randi
+~ F9.5 DEEPENED: She found out she wants to be struck, in the bedroom where the bench sits under its top
+~ W25.6 DEEPENED: Now he has two women's "please," and he'll take Vee's the way he took Randi's, as his best work
+~ L10.1 SHIFTED: Her mother's voice didn't come at all. The shame was her own, and she covered it herself
+~ W18.5 DEEPENED: Ten chapters without Randi's head, and she was on Vee's feet and at her throat the whole time

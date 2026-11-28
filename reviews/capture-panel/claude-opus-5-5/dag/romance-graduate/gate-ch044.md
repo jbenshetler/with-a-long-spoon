@@ -1,47 +1,47 @@
-*capture-dag-v3-grounded · gate ch044 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha ff03d4270e7c · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) + raw ch041..ch041 · history ch001..ch041 · ledger no seed 04cc51bddf07 · 2026-11-06*
+*capture-dag-v3-grounded · gate ch044 · claude-opus-5-5 · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 13a82a38202a · dated · memory grounded: facts ck-ch040@consensus (audited, 13 non-fact sentence(s) dropped, 5 trimmed) (stale) · history ch001..ch040 · ledger no seed 2f12450d0245 · 2026-11-06*
 
 **REACTION**
 
-Twenty-six chapters. I've been counting since chapter 18, and the book finally lets me in her head, on New Year's Eve, in Gstaad, in bed with a stranger. That's what I'd text at 1 a.m.
+She didn't take the kiss. That's what I'd text at 1 a.m. For forty chapters the kiss at the door has been automatic. It was the first thing she ever did at this house, and it was the one gesture that never needed a decision. Tonight she keeps her hands in her pockets and makes him walk all the way up to the fact that it isn't coming. "She watched him not understand." I felt that in my chest. The man who reads every breath gets read for once, and he has nothing.
 
-It was worth the wait, mostly. The mirror at the end is chapter 1 again. She puts the face back on "even, exact, the color good," and the smile "still worked, she checked, and meant nothing." "The eyeliner had held. Of course it had. Nothing had happened to her eyes." I got chills. In chapter 1 she went back behind the wall because Pace had found her. Here she goes back behind it because nobody did, and the book makes those feel like the same wound from two sides. "Pace went straight to her. That was the whole terror of him." I've had that suspicion on my ledger since the first night, and here it is in her own words, confirmed and worse. She can't stand being found and she can't stand not being found. The safe man is the cold and the dangerous man is the warmth, and she's built her whole life around picking the cold.
+Then I realized what the date at the top meant. Friday, December 11. Last chapter was Friday, December 11 too: Vee in the dorm, naked in the cold, the shirt in a heap, Pace "across town." So the book showed me the wreckage first and is only now walking me back to the crash. That's why she was in her own bed on his night. She walked out. The two-page chapter wasn't a coda with nowhere else to go. It was the bruise before the punch, and I'm taking it off probation. It's a technique, and a good one. I spent a whole gate asking "why is she in the dorm on a Friday?" and the book was holding the answer on purpose.
 
-Then Vee. "Vee was her gorgeous." I actually put my hand over my mouth. All those "See you soon, gorgeous" curb kisses, and that word was never a bit. It was the one thing she's said in her life without "some private qualifier." Then she decides not to tell her, because she can't run the scenario of Vee's face to the end. "Let Vee arrive at it on her own." "As long as the word kept its cover." Oh. OH. Vee is dying in a dorm bed for want of a word from Pace, and now I learn Randi is keeping her own word from Vee on purpose, for the same cowardly, loving reason. Both of them are withholding the word from the same girl. The book never said that out loud, and it didn't need to. Then comes the text: "Every word of it true. None of it the thing." That's Pace's whole method in Randi's thumbs. Those two really did pick each other.
+What got me first is the chair by the door, where her bag goes on the nights she stays. "The bag was in the car; she had carried nothing in." Randi did that in chapter 11. She came with no bag, the empty chair, so she'd planned to leave before she ever knocked. Now Vee is the one standing level with that chair with nothing in her hands. He's got two women who've learned to arrive already leaving, and he doesn't see that either. Also, two glasses already poured. He pours Vee's. Randi had to start pouring her own.
 
-The small stuff fed me. "She was from Kentucky, and did not mention it." The tennis bracelet against the plain white gold she keeps "out of the light," locked on. The white gold catching on the heel of her hand in the waltz. I still want to know what's under that bracelet. "Eating her revulsion" at her father's hug means she knows about MIRANDA now, or she's always known what he is. Her mother is "all edges and points" over an egg-white omelette, and Randi orders one slice of dry rye with no butter. Then the venison comes and she "made herself slow down." The feeding thread, from inside her.
+"Words are cheap. Believe what I do." There it is, the jacket line, out of his mouth at last. And her answer is the best line she's had in two books: "Words are cheap, and you still won't spend them on me." Oh, Vee. She took his own economics and turned them on him (she's an econ major, I'm not missing that). Then his face shuts, his arms fold, and he's "holding a line at cost." What line? I know what line, even if she doesn't. He can't name her because there's a woman on Mondays whose name he'd have to say in the same breath. "Do any of your friends have a relationship you'd rather have?" is a perfect Pace answer. It's true, it's exact, and it steps around the question entirely. Like "I'd never share your photograph." Like "That part was all you." I've stopped believing his true sentences are innocent.
 
-The dance comparison is smart and it made me sad. She prefers John's lead because Pace makes you listen and do half the work. "Easier was better." That's Randi choosing not to be met, and calling it relief.
+And he did go cold. In the last chapter she accused him of going cold after the Rusty Nail, admitted to herself it wasn't true, and then forgave him for it. Tonight he actually does it, right in front of her: arms up, the still of a man holding something. Then he sees her crying, the cold goes out of him all at once, and the hand comes up, the hand that settles everything. "Not the hand in place of the word." She walks past it. I cheered and I felt sick. That's the thing I came to this series for, just pointed at heartbreak instead of heat this time.
 
-Now the gripes, and some are real. John is a billionaire-romance cliché: towering, a tan, Yale Law, a "play along" meet-cute, champagne, a white-tie ball, a sleigh with two grey horses. I rolled my eyes until I realized the book was building the fairytale so it could empty it out. That's clever, but I still had to sit through a lot of sleigh bells to get there. The opening paragraph reads like a casting sheet ("tall, with a strong jaw, his middle going soft"). The sex is "Afterward." That's a fade, my trigger, and I felt it. I'll grant it's deliberate: the sex meant nothing, so it gets no scene, and the lipstick ring paid me back a little. But it's a fade. "This man had taken a beautiful woman to bed… never found her underneath. He was safe" spells it out after the mirror had already said it.
+Gripes, and there are some. Her big speech is a list I've already read: the heat turned up before she comes, the wine, the cooking, the care, "my body comes with me attached." Some of that is earned, because she has to say it out loud to him once. But "like my body comes with me attached" is the line she gave Randi in chapter 34, nearly word for word, and the book's been running that wire for six chapters. The opening at the car (the wanting, the shoulders, the coin under the tongue) is a bit of throat-clearing before the door. And "the wanting was the whole trouble" is the book explaining again. But for once the scene stopped explaining when it mattered. He says nothing, she leaves, and the chapter doesn't sit there narrating the ache. It just shuts the door. Thank you.
 
-The bigger grudge is that we jumped three weeks. December 11 she walked out of his house, and now it's December 31. What happened at Saturday brunch? Did Pace come after her? Does Randi even know they fought? Vee's "i'm here if you want to talk. or not." sounds like Vee is the one offering comfort, which makes me think Vee hasn't told her anything, or that Randi knows and isn't thinking about it. Randi thinks of Pace and Vee here as if nothing has broken, so the skip unsettles me. It cost the chapter a little, but what I got in its place, Randi at last, was worth more.
+Randi, though. Twenty-five chapters without her head, and she's the whole reason this fight has no answer. And tomorrow is Saturday. Brunch. Vee walked past a sleeping Cassie last night, and I know exactly whose table she's going to bring her red eyes to. Worse, Monday is Randi's night, and Pace will have this too. Both of them are about to get Vee's worst night, from both ends.
 
-GATE 42 — Fairytale
+No heat. I didn't miss it.
+
+GATE 41 — Believe Me
 DECISION: CONTINUE
-CAPTURE: 9
+CAPTURE: 8
 NEXT: 9
-HEAT: 1
+HEAT: 0
 ROMANCE: 3
-ALMOST-STOPPED: "a few minutes later a sleigh came around the corner behind two grey horses". That's where the billionaire fairytale got so thick I thought the book had wandered onto the KU shelf.
-WHY: I finally got Randi's head, and it was the mirror from chapter 1 turned inside out, with "Vee was her gorgeous" breaking my heart. Her choice to keep the word under cover is the same silence Pace keeps, and now I need to know what three weeks did to Vee and what happens when they're all back on campus.
+ALMOST-STOPPED: "Like my body comes with me attached. Like it's just fine as it is." I've heard her give this speech to Randi already, and for a second the confrontation turned into a recap.
+WHY: She finally made him answer the jacket's question to his face, threw his "words are cheap" back at him, and walked past the hand that settles everything. It's a real turn with no blonde and no device. And it reframes the short chapter as the aftermath shown first, which I love. Next is Saturday, and Randi's table is waiting.
 
 LEDGER
-~ W18.5 ANSWERED: Twenty-six chapters later I'm in Randi's head, on New Year's Eve, at the mirror
-~ S1.2 CONFIRMED: "Pace went straight to her. That was the whole terror of him." She can't stand being found
-~ F2.3 DEEPENED: Being seen is the terror, and she picks the safe man precisely because he can't see her
-~ W15.6 ANSWERED: She loves Vee, she knows it, and she's decided never to say it plainly
-~ S11.3 DEEPENED: It was never about losing Pace. "Vee was her gorgeous"
-~ S15.2 DEEPENED: The bracelet is "locked on her wrist," kept out of the light, and it catches in the waltz
-~ L4.4 DEEPENED: "She was from Kentucky, and did not mention it." It's the realest thing about her, and she hides it from everyone
-~ W3.7 DEEPENED: A dry rye slice at her mother's table, then venison she makes herself slow down for
-~ W36.6 SHIFTED: "Eating her revulsion" at her father's hug. She knows what he is now
-~ W41.6 DEEPENED: Three weeks skipped. I still don't know what Pace did after the door
-~ F41.5 SHIFTED: The brunch after the fight never came on the page, and Vee's text makes me think Randi wasn't told
-~ G1.7 DEEPENED: "He was safe. She had put nothing on the table" explains the mirror I'd just felt
-+ LOVE: "Vee was her gorgeous." The word was never a bit
-+ LOVE: "The eyeliner had held. Of course it had. Nothing had happened to her eyes."
-+ FEAR: Randi and Pace are both keeping the word from Vee, for different reasons, and Vee will learn about both silences at once
-+ SUSPICION: "Every word of it true. None of it the thing." Randi writes texts the way Pace makes promises. She'd go cold the same way
-+ GRUDGE: The book jumped from Vee walking out to three weeks later in Switzerland and skipped the aftermath entirely
-+ GRUDGE: The sex with John is an "Afterward" fade, and John is a billionaire-romance cutout, even if both are deliberate
-+ WAITING: What happened between December 11 and 31, and whether Randi knows Vee left Pace
++ LOVE: "Words are cheap, and you still won't spend them on me." The econ girl turning his own line into a bill
++ LOVE: The kiss at the door that doesn't come, and Vee watching the man who reads everyone fail to read her
++ LOVE: The bag left in the car beside the empty chair. Vee arrives already leaving, the way Randi did in chapter 11
++ SUSPICION: The "line" he's holding with his arms folded is Randi. He can't name Vee without naming the Mondays
++ FEAR: Vee brings this night to Randi's brunch table on Saturday, and Pace brings it to Randi's bed on Monday. Randi gets it from both ends
++ WAITING: What Pace does now. Does he come after her, text, wait, or go to Randi?
++ GRUDGE: Her big speech recycles "my body comes with me attached" and the whole list of his care I've read six times
+~ S40.1 CONFIRMED: She was in the dorm on a Friday because she walked out of his house that night
+~ W40.3 ANSWERED: It's a technique. The two-page chapter was the aftermath shown before the cause
+~ F40.2 CONFIRMED: She pulled back before she ever learned the real reason. She refused the kiss and the hand, and walked out
+~ F32.4 DEEPENED: "Believe what I do." The silence finally says out loud that it's a policy
+~ S38.4 DEEPENED: "Do any of your friends have a relationship you'd rather have?" Another true sentence stepping around the question
+~ F39.3 SHIFTED: He actually went cold in front of her this time. The coldness she invented and forgave turned out to be real
+~ S23.3 DEEPENED: She's finally demanding the name. She's still aiming at him and not at what he's hiding
+~ W18.5 DEEPENED: Twenty-five chapters without Randi's head, on the night her secret breaks them
+~ F4.2 DEEPENED: Cassie is the name Vee says first ("How do I say what this is to Cassie?"), and she still didn't wake her
+~ G40.4 FORGIVEN: "Across town" is a small slip next to a structure this deliberate

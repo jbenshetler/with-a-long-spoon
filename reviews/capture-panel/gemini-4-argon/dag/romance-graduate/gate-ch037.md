@@ -1,63 +1,64 @@
-*capture-dag-v3-grounded · gate ch037 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha b29cb00cede3 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch034 · history ch001..ch034 · ledger no seed 3b7f7f3f59fc · 2026-11-06*
+*capture-dag-v3-grounded · gate ch037 · gemini-4-argon · romance-graduate · prompt-sha f302bdd10d12 · prose-sha 4ec3d9ade6b1 · dated · memory grounded: facts ck-ch030@consensus (audited, 10 non-fact sentence(s) dropped, 1 trimmed) (stale) + raw ch031..ch033 · history ch001..ch033 · ledger no seed 943c8584b21c · 2026-11-06*
 
 REACTION
 
-OH MY GOD. THAT LAST PARAGRAPH.
-*"On his way back up the hall the bathroom door stood open, and Vee's drawer stood out from the cabinet an inch. He looked at it a moment. The house was old and shifted each autumn as the cold came into it; doors that had shut true in August stood off their latches now. He pushed it shut with two fingers and went on up the hall."*
+Oh, my God. This chapter had so many layers happening underneath that dark green velvet booth that I kept gasping and rereading paragraphs!
 
-ARE YOU KIDDING ME, PACE?! "The house was old and shifted each autumn"?! THE DRAWER DID NOT POP OPEN AN INCH BECAUSE OF AUTUMN WEATHER!
-Let's play back the exact sequence of sounds from Tuesday morning while Pace was standing at the stove:
-1. Randi walks down the hall naked and smiles at him—her real, unarranged, sleepy morning smile, because last night on the couch she let herself feel safe enough to confess *"You see more of me than anybody ever has. It makes me feel... Real. And some nights it frightens me,"* and he promised *"Then I'll be careful with you"* and called her *"extraordinary"*!
-2. She goes into the bathroom. The door shuts. The tap runs, and stops.
-3. *"and for a while after that he heard nothing at all."*
-BECAUSE SHE JUST OPENED THE TOP BATHROOM DRAWER! The drawer that used to hold his razor blades and comb—the one her hand went to first! And inside it she found **Vee's tower of green-dotted scrunchies, Vee's bobby pins in a little dish, Vee's face cream, Vee's foundation, and clear drawer liner waiting for more of Vee**!
-4. She walks out of the bathroom *without looking toward the kitchen*—none of that sleepy smile left!—and goes straight into the bedroom to open the **second drawer down** (the undershirt drawer, the exact mirroring "second drawer" to the bathroom!). And while looking for an undershirt, she digs to the bottom of the stack and finds **Vee's green satin panties from their first night, folded in thirds with the spot centered, hidden under his shirts like a sacred relic**!
+First, THE JACKET LINE JUST DROPPED!
+*"You're not greedy. You're just finally hungry out loud."*
+And watching it land in context—when Vee confesses she has "sex brain" on a Tuesday afternoon in the library and asks if she's turning into a "sex pervert," and Randi softens and tells her *"You've been starving your whole life and calling it fine, and now you're not, and you've gone and decided that's the flaw"*—was so genuinely generous and healing! That's what makes Randi such an unforgettable character: even when she's manipulating the chessboard, her affection for Vee and her validation of Vee's appetite are 100% real. And right after that absolution, Vee cuts into the expensive eggs Benedict she finally let herself order (on that credit card!), drags her toast through the pooled gold yolk and hollandaise, and groans *"this is the best part. The middle, when it goes everywhere."* Pure sensory heaven.
 
-My chest is physically aching right now. Look at the double devastation of what Randi just found in two minutes flat, right on the morning after she finally let her guard down and told Pace he makes her feel *real*:
-First, in the bathroom, she discovers that Pace compressed all of his own immaculate order into the bottom drawer to build Vee a permanent home in the top drawer of his house.
-Second, in the bedroom, she discovers that Pace kept Vee's first-night panties folded at the bottom of his undershirt drawer!
-And when she comes out into the kitchen with her eyes bright and liquid, clutching Vee's green satin panties in her fist so tightly she won't even take the undershirt off in bed because *"to get it off she would have had to open her hand"*... and she rides him in dead silence staring at the wall above his head with Vee's panties crushed between her palm and his chest until she breaks into a high, thin, keen of a cry and sobs against his neck...
-WHAT DOES PACE THINK?!
-- First, he tells himself: *"Some women cried after. He had known it a long time; it was the body putting down what it had been carrying, and it meant nothing, or nothing bad."*
-- Second, even when he sees the green satin panties and realizes she found them in his drawer, he thinks the *only* reason she's grieving is the panties (*"he kept a thing of Vee's, and Randi had never once offered him anything to keep"*), completely missing that she found the panties *because she had just opened the top drawer in the bathroom*!
-- Third, when she comes out of the bathroom after washing her face, putting on her armor-smile, and kissing him goodbye while leaving her black coffee untouched on the counter (just like the untouched cream stew in Chapter 18!), he tells himself: *"She had pressed Vee between them this morning, and it had excited her as much as it fired him now. Whatever it had been, she had come through it."*
-- AND FOURTH, when he walks past the open bathroom door and sees Vee's top drawer standing out an inch from the cabinet where Randi didn't push it all the way shut, he literally blames **the autumn weather shifting the house** and pushes it shut with two fingers!
+And then watch what happens when Vee moves past the sex and starts describing the *domestic, emotional intimacy* she has with Pace—the exact things Randi refused or walled herself off from!
+- Watching him cook real food from nothing: *"Like my mouth had been asleep since I was born and nobody told me. Like I'd been eating with the sound off."*
+- Sitting in his kitchen in comfortable silence without having to perform.
+- Sleeping whole nights there, "just him and the trees out there, nobody else, all woods."
+- And then the line she thought in bed in Chapter 33, now spoken right into Randi's face:
+*"Like he wants me. With the body attached. Not — the other way around. God, that sounds unhinged."*
 
-For a brilliant mathematician, Pace's emotional blindness with Randi is pure Greek tragedy. Look at how he respects her closed doors so scrupulously ("Hormones" / "He let it be hormones") that he refuses to look behind a door even when she is shaking and crying on his chest!
+AND LOOK AT WHAT THAT DOES TO RANDI:
+*"Randi didn't answer. Vee looked up. Randi's eyes had gone bright and a little unfixed, held on her, and she gave her head one small shake, as if to clear it, and there was a catch in her breath she didn't quite smooth over. It stopped Vee — she had never watched a story land on Randi like this. 'It doesn't,' Randi said. Low, and not quite even."*
+While naive, big-hearted Vee thinks her romantic story just moved Randi to tears like a good movie, WE know why Randi's eyes just went bright with unshed tears and her breath caught! Because in Chapter 1, Randi locked herself in Pace's bathroom and vowed never to let him see the vulnerable person inside her body again; she reduced what she and Pace had to sex and control so she could never be hurt, and now she is sitting across a booth listening to Vee describe being loved *whole*—person first, body attached—in the exact house where Randi kept herself behind a wall!
 
-And before Tuesday morning even happened, Monday night on the couch was ALREADY a ten out of ten!
-First, finding out that in Monday morning stats class, Vee showed up at 11 a.m. with wet hair half-pinned from her new bathroom drawer, holding Pace's steel travel mug of good coffee, and Randi tucked Vee's wet red hair behind her ear and whispered right in the middle of the lecture hall: ***"you came to class still full of him"***! While Vee turned scarlet and put her hands in her lap over her black panties! How did Vee not tell us that in the last chapter?! Because Chapter 34 was Saturday, and that happened Monday morning!
-Second, that confrontation on the couch when Pace checks on Vee ("Is she all right? ... Is she happy?") and Randi's voice goes flat as a hand on a table: *"so you can stop checking the gauge... Then don't ask me in that voice."* And Pace drops his voice down and says:
-*"She consents — every time — or I'm done. It isn't you I'm checking on."*
-AND LOOK AT WHAT RANDI DOES NOT TELL HIM:
-She tells him Vee is happy and choosing Saturday brunches—and she does NOT mention the music practice room, she does NOT mention driving Vee into the restaurant bathroom stall to touch herself, she does NOT mention *"Sticky fingers?"*, and she does NOT mention coaxing Vee's full naked pinup photograph onto the brunch table on Saturday!
+And notice how Randi recovers! She asks what music Pace plays, and Vee says:
+*"When he's cooking it's piano, mostly, old and soft... And then later it's Fleetwood Mac, or some Garth Brooks song I grew up on, and it's never wrong — like the house knows what the evening is before I do. It's going when I walk in. Every time. I've never once heard it start."*
+Wait—in Chapter 6, when Randi walked into Pace's house, **Steely Dan** was playing low in the front rooms! For Vee, he plays soft piano and Fleetwood Mac and the Garth Brooks songs *she grew up on*!
 
-And then the couch sex scene ("Four"!) where Pace uses his hands on her breasts—climbing to the rough, pinching touch she taught him without words in their first month—to make her tell him about the Saturday goodbye kisses!
-Watching Randi turn around onto her knees facing the back of the couch so he can't see her face—*while forgetting that the framed mirror on the wall gives him her face the entire time*—was electric. And when she reaches down between her own thighs with two fingers to show him how slick she is (*"It feels even better"*) and then clenches involuntarily around his cock on the words *"And then I kiss her mouth"*...
-And look at the lie she tries to cling to while she's shoving back onto him:
-*"I'm doing it for you... For the threesome. For when she's ready. Somebody has to get her used to my mouth... it's not a treat, it's work—"*
-And the second Pace whispers into her neck, *"You don't have to do it for me,"* her body betrays her completely—*"Oh, but I'm doing the work"*—and she comes hard right on the lie! And after the fourth time, when she's wrecked and folded over the back of the couch, the truth slips out into the wood before she can catch it:
-***"God, I want her."***
-And then she hears herself say it, panics a second later, and tacks on: *"For us. When she's ready. That's all I meant."*
+AND THEN THE PHOTOGRAPH.
+Remember last chapter when Vee made Pace swear *"Only if you promise you'll never share me with anyone"* and Pace promised *"Never. I'd never share your photograph"*?!
+Pace didn't share the photograph with Randi—**VEE JUST SHARED IT WITH RANDI HERSELF!**
+And look at *how* Randi got her to do it! It is the exact reverse-psychology move Randi used in Chapter 15 ("You don't have to tell me")!
+First, Vee had already cropped a waist-up version of the pinup photo *the morning after* ("had had it ready since the morning after") specifically to show Randi! Stop and think about that: on Friday morning, Vee cropped her naked pinup photo for Pace so she could show her top half to Randi at Saturday brunch!
+Second, Randi slides the phone back across the tablecloth and says, *"You don't have to show me."* Which immediately makes Vee show her the waist-up cropped photo ("bare to the waist, the red mouth, the swept-back hair").
+Third, after staring at Vee's bare breasts on the screen until she has to draw a breath and come up "as if from a distance" (*"Okay, Miss November"*), Randi taps the exact nerve she knows Vee can't resist:
+*"Legs like yours, though — and you only gave him half?"*
+And because Vee refuses to let Randi think she's a girl who flinched, Vee pulls up **the full, uncropped naked pinup photo** and puts the phone right into Randi's hand: *"I gave him all of it."*
 
-This chapter just tied every single thread of the book together and lit the fuse. Randi now knows about Vee's bathroom drawer AND Vee's kept panties. She wept on Pace's chest, put her makeup mask back on in the bathroom (just like Chapter 1!), left her coffee untouched on the counter, and walked out the door on Tuesday morning. And remember: Thanksgiving is next week, and Vee and Randi have Saturday brunch in four days! What is Randi going to do now that she's seen that top drawer?!
+And what happens five minutes later under the tablecloth?!
+*"Under the table something brushed Vee's leg, deliberate as a fingertip, and came back and did it again. She looked down. Randi's shoe lay on its side on the floor, and above it her bare toes were wriggling, the nails painted sky blue. When she looked up, Randi was smiling at her, and went on with what she'd been saying."*
+Right after Randi says *"Showing him your toes, eh?"* over Vee's naked photo, Randi slips her own shoe off under the booth table and strokes Vee's leg twice with her bare, sky-blue-painted toes while smiling straight into her eyes!
 
-GATE 35 — Four
+And THEN Vee invites Randi to take a Tuesday/Thursday night Anthropology class with her next semester—7:00 to 8:20 p.m., *without Cassie*!
+*"'Just us,' Randi said — and it came out softer than the plan called for, a small roughness under it, there and gone"*
+AND THEN OUTSIDE ON THE SIDEWALK:
+*"And then Randi's mouth, easy, only what they did — except that this time, when it should have ended, Vee was the one who wouldn't let it, leaning up the last half-inch after Randi as she started to draw back, taking a second of it for herself, not ready to give the morning up. She noticed it, and decided it was what she wanted, and didn't bother about it again."*
+VEE CHASED RANDI'S MOUTH FOR THE SECOND KISS! And she noticed herself doing it, *decided it was what she wanted*, and didn't even make an excuse for it in her head! And the way Randi pulls back just far enough to break the kiss and holds Vee's eyes from an inch away—"close, steady, a beat past what a goodbye needed"—before smiling and saying *"See you soon, gorgeous"*...
+
+And now Vee is driving right back to Pace's house on Saturday afternoon after leaving him for two hours while he was at the gym! Wait—she didn't even mention the top bathroom drawer to Randi because she was too busy telling her about the sex, the sleeping, and showing her the naked pinup photo! What happens when Randi tells Pace she saw the photo—or when Randi shows up at Pace's house next?! I need the next chapter right now!
+
+GATE 34 — All the Time
 DECISION: CONTINUE
 CAPTURE: 10
 NEXT: 10
-HEAT: 3
+HEAT: 2
 ROMANCE: 2
 ALMOST-STOPPED: none
-WHY: This chapter was an absolute tour de force—from Randi whispering to Vee in stats that she came to class "still full of him," to the scorching fourth-time couch sex where Randi forgets the wall mirror can see her face and accidentally confesses "God, I want her," all the way to that gut-wrenching Tuesday morning when she finds Vee's bathroom drawer and kept panties, rides Pace holding the green satin against his chest before sobbing on him, and Pace blames the open drawer on the autumn weather!
+WHY: This chapter was packed with unforgettable payoffs—the jacket line ("You're just finally hungry out loud"), Randi's breath catching in real pain when Vee says Pace "wants *me*. With the body attached," Randi reverse-psychologizing Vee into handing over the full uncropped naked pinup photo and then stroking Vee's leg under the table with her bare sky-blue toes, and Vee actively chasing Randi's mouth to deepen their goodbye kiss!
 
 LEDGER
-+ LOVE: Randi whispering to a wet-haired Vee in Monday morning stats that she came to class "still full of him"—and confessing to Pace that she got her hand in Vee's wet copper-gold hair once in October and hasn't been the same about it since.
-+ LOVE: Pace's quiet, unyielding "She consents — every time — or I'm done. It isn't you I'm checking on."
-+ LOVE: Randi turning onto her knees facing the back of the couch to hide her face while describing kissing Vee on the mouth, completely forgetting the framed wall mirror that lets Pace watch her face the entire time—and coming hard the second he whispers, "You don't have to do it for me."
-+ LOVE: Randi's unguarded "You see more of me than anybody ever has. It makes me feel... Real. And some nights it frightens me" on the couch, and her unarranged sleepy smile in the hall the next morning—right before she walks into the bathroom and opens the top drawer.
-+ LOVE: The unbearable tragedy of Tuesday morning—Randi finding Vee's top drawer in the bathroom and Vee's green satin panties under Pace's undershirts, riding him in silence with the panties crushed between her palm and his chest until she sobs against his neck, and Pace blaming Vee's ajar bathroom drawer on the old house shifting in the cold.
-+ FEAR: Randi just repeated her exact Chapter 1 pattern—crying in front of Pace after finding Vee's drawer and kept panties, locking herself in the bathroom for a long time, and coming out fully made up and smiling while leaving her coffee untouched. Whatever truce or tenderness existed last night is dead, and her next move with Vee is going to be nuclear.
-~ F1.2 DEEPENED: Pace's misreading of Randi just reached its devastating peak: on Tuesday morning, after she finds Vee's bathroom drawer and kept green panties, rides him in silence staring at the wall with the satin crushed against his chest, sobs on his neck ("It's hormones"), and leaves her black coffee untouched behind a painted smile, he tells himself "Whatever it had been, she had come through it"—and when he sees Vee's bathroom drawer standing open an inch, he blames it on the autumn cold shifting the house.
-~ F29.6 CONFIRMED: Randi opened the top bathroom drawer during the long silence after the tap stopped on Tuesday morning, saw Vee's green-dotted scrunchies, bobby pins, and makeup laid out in Pace's old place, and went straight to the bedroom drawer where she unearthed Vee's first-night green satin panties.
-~ F33.5 CONFIRMED: Just as feared, Randi opened the top drawer in Pace's bathroom on Tuesday morning—leaving it an inch ajar—and the discovery immediately drove her to search his bedroom drawer, uncover Vee's kept panties, and break down crying on his chest before putting her mask back on.
++ LOVE: The jacket line landing in full context ("You're not greedy. You're just finally hungry out loud"), followed immediately by Vee cutting into the expensive eggs Benedict she dared to order and dragging her toast through the running gold yolk.
++ LOVE: Randi's eyes going bright and unfixed and her breath catching ("It doesn't," low and uneven) when Vee says Pace wants *her* with the body attached, not the other way around—and Vee innocently feeling proud that her love story moved Randi.
++ LOVE: The hilarious and devastating twist on "Never. I'd never share your photograph"—Pace kept his promise, only for Vee herself to pre-crop a topless version for brunch and then let Randi bait her ("and you only gave him *half*?") into handing over the full, uncropped naked pinup photo.
++ LOVE: Randi slipping her shoe off under the booth table right after saying "Showing him your toes, eh?" and brushing Vee's leg twice with her bare, sky-blue-painted toes while smiling into her eyes.
++ LOVE: Vee leaning up a half-inch to chase Randi's mouth when the goodbye kiss starts to end, taking a second kiss for herself, noticing she did it, and simply deciding "it was what she wanted."
+~ F20.6 DEEPENED: Vee's old budget caution is dissolving under Randi's influence—she now skips right past the cheap soup to order the expensive eggs Benedict and puts her card down to pay and tip well without even looking at the number.
+~ F33.4 SHIFTED: Pace didn't share Vee's naked pinup photo with Randi—Vee shared it with Randi *herself* after Randi used "You don't have to show me" and "you only gave him *half*?" to coax the full uncropped image onto the brunch table!
