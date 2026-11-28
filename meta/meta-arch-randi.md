@@ -200,6 +200,16 @@ All six channels are sources of aliveness. This is what makes the configuration 
 
 ---
 
+## Her Private Vee Fantasy — the Volume 1 Staircase (author rulings 2026-11-21, 2026-11-27)
+
+Alone, her fantasy of Vee climbs one step at a time. Each step is set by where Pace is in it, not by how explicit it is:
+
+1. **{{Tannin}}, the drive up.** She undresses Vee in Pace's bedroom, for him; the passage ends on its own line, "For him."
+2. **{{Colors}}, the sun porch, Pace asleep.** Vee in the unfinished dress. Pace is in the picture once, "on the couch to watch," out of habit, and then simply absent; she doesn't notice, and no line marks it. Sexual only. It ends in the marked offcut hidden in the bodice.
+3. **{{Nachtmusik}}, the den, Pace asleep.** Presence: "She could have been there" (`nachtmusik.md:131`). The top step of Volume 1.
+
+The content may grow more explicit without climbing a step. Never spend a later step early ("without him," "just us"); need is never named (the Need Engine above).
+
 ## Pace's Phone — {{Nachtmusik}} (author rulings 2026-11-20)
 
 While Pace sleeps she unlocks his phone, finds the induction photo Vee sent him, forwards it to herself, and sends Vee from his phone a line more explicit and playful than he has ever been; Vee's delighted replies, her own line and the forwarded copy are all deleted. Render it **a bit sinister, not fully**: deception out of hurt, desire and jealousy (he made Vee the dress; he would not show her the photo), never the plan surfacing. The Console rules hold — warm, the love for Vee allowed to show. **The passcode:** one quick try, then her own birthday, carefully, which fails; then Vee's opens it. Her care on the second try is the only sign it used to work; the narration never says so, and no digits appear. **Guards:** Pace never learns of it; Vee never mentions the message to Pace; **the induction photo never resurfaces with Randi** — her photo ladder runs the pinup (Volume Two), then a fully explicit one (Volume Three). Her pet name for him there is **"Professor."**
